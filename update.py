@@ -37,7 +37,7 @@ PROVIDER_ICONS = {
     "Disney+": "disneyplus.png",
     "Amazon Prime Video": "primevideo.png",
 
-    # Apple variants (ALL required)
+    # Apple variants
     "Apple TV Plus": "appletv.png",
     "Apple TV+": "appletv.png",
     "Apple TV": "appletv.png",
@@ -67,14 +67,12 @@ def fetch_providers(tv_id):
     results = data.get("results", {})
     us = results.get(REGION, {})
 
-    # TMDB splits providers into flatrate, buy, rent
     flatrate = us.get("flatrate", []) or []
     buy = us.get("buy", []) or []
     rent = us.get("rent", []) or []
 
     providers = []
 
-    # Prefer flatrate, but fall back to buy/rent
     for item in flatrate:
         providers.append(item.get("provider_name"))
     if not providers:
@@ -84,7 +82,6 @@ def fetch_providers(tv_id):
         for item in rent:
             providers.append(item.get("provider_name"))
 
-    # Deduplicate
     seen = set()
     unique = []
     for p in providers:
@@ -105,7 +102,6 @@ def build_show_record(item):
 
     providers = fetch_providers(tv_id) if tv_id else []
 
-    # Determine LG app ID for the first provider
     launch_app_id = None
     if providers:
         first_provider = providers[0]
@@ -140,7 +136,6 @@ def generate_html(shows):
     for idx, show in enumerate(shows, start=1):
         providers = show["providers"]
 
-        # Build provider icons HTML
         provider_icons_html = ""
         for p in providers:
             icon = PROVIDER_ICONS.get(p)
@@ -158,7 +153,6 @@ def generate_html(shows):
         )
         rating = show["rating"] if show["rating"] is not None else "—"
 
-        # Launch App button (hidden on LG TVs via JS)
         if show["launch_app_id"]:
             launch_button = f"""
             <a href="lgtv://{show['launch_app_id']}"
@@ -252,20 +246,25 @@ def generate_html(shows):
     }}
   </style>
 
-  <!-- Hide Launch App column on LG TVs -->
+  <!-- Robust LG TV detection -->
   <script>
-    document.addEventListener("DOMContentLoaded", function () {{
-      const isLGTV = navigator.userAgent.includes("Web0S");
+    document.addEventListener("DOMContentLoaded", function () {
+      const ua = navigator.userAgent.toLowerCase();
+      const isLGTV =
+        ua.includes("web0s") ||
+        ua.includes("webos") ||
+        ua.includes("lg browser") ||
+        ua.includes("lgtv");
 
-      if (isLGTV) {{
+      if (isLGTV) {
         const launchHeader = document.querySelector("th.launch-col");
         if (launchHeader) launchHeader.style.display = "none";
 
-        document.querySelectorAll("td.launch-col").forEach(td => {{
+        document.querySelectorAll("td.launch-col").forEach(td => {
           td.style.display = "none";
-        }});
-      }}
-    }});
+        });
+      }
+    });
   </script>
 
 </head>
