@@ -1,0 +1,125 @@
+{
+  "generated_at": "2025-12-25T17:20:54.387655Z",
+  "source": "TMDB",
+  "region": "US",
+  "shows": [
+    {
+      "id": 66732,
+      "title": "Stranger Things",
+      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "rating": 8.6,
+      "first_air_date": "2016-07-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/66732",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 225171,
+      "title": "Pluribus",
+      "overview": "The most miserable person on Earth must save the world from happiness.",
+      "rating": 8.0,
+      "first_air_date": "2025-11-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/225171",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 106379,
+      "title": "Fallout",
+      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
+      "rating": 8.2,
+      "first_air_date": "2024-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/106379",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 246473,
+      "title": "Made in Korea",
+      "overview": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
+      "rating": 8.0,
+      "first_air_date": "2025-12-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/q9ZRQN98L2OvYP00mIlv4oPPfOU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/246473",
+      "providers": [
+        "Hulu"
+      ]
+    },
+    {
+      "id": 259537,
+      "title": "The Swords",
+      "overview": "",
+      "rating": 8.8,
+      "first_air_date": "2024-08-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2pT4uBFKymVPLktor6dbeOZzDcJ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/259537",
+      "providers": []
+    },
+    {
+      "id": 296146,
+      "title": "The Punishment",
+      "overview": "In a rapidly developing Hanzhou, police officer Qin Feng and his sworn brother Liu Tianye face off against dangerous criminals while grappling with deep moral dilemmas and the complicated ties between family, power, and justice.",
+      "rating": null,
+      "first_air_date": "2025-12-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2YzIgz1Bi0hsXabPqnHU9ISn44F.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/296146",
+      "providers": []
+    },
+    {
+      "id": 211089,
+      "title": "Strange Tales of Tang Dynasty",
+      "overview": "General Lu Lingfeng and Detective Su Wuming uncover supernatural mysteries and hidden conspiracies threatening the empire during Emperor Xuanzong’s reign.",
+      "rating": 8.3,
+      "first_air_date": "2022-09-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nyhBueT07zQS7wWLYFDNO8LdO3N.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/211089",
+      "providers": []
+    },
+    {
+      "id": 200875,
+      "title": "IT: Welcome to Derry",
+      "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
+      "rating": 8.2,
+      "first_air_date": "2025-10-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/200875",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "Spectrum On Demand"
+      ]
+    },
+    {
+      "id": 308508,
+      "title": "Strange Chronicles of Tang",
+      "overview": "",
+      "rating": 7.2,
+      "first_air_date": "2025-12-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vLj74PM5xATIy7RTa3dERe0mzp8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/308508",
+      "providers": []
+    },
+    {
+      "id": 103540,
+      "title": "Percy Jackson and the Olympians",
+      "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
+      "rating": 7.3,
+      "first_air_date": "2023-12-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/40eFcTzZier3DWLqldsP5VHxeoD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/103540",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
+      ]
+    }
+  ]
+}
