@@ -248,7 +248,7 @@ def generate_html(shows):
 
   <!-- Robust LG TV detection -->
   <script>
-    document.addEventListener("DOMContentLoaded", function () {
+    document.addEventListener("DOMContentLoaded", function () {{
       const ua = navigator.userAgent.toLowerCase();
       const isLGTV =
         ua.includes("web0s") ||
@@ -256,15 +256,15 @@ def generate_html(shows):
         ua.includes("lg browser") ||
         ua.includes("lgtv");
 
-      if (isLGTV) {
+      if (isLGTV) {{
         const launchHeader = document.querySelector("th.launch-col");
         if (launchHeader) launchHeader.style.display = "none";
 
-        document.querySelectorAll("td.launch-col").forEach(td => {
+        document.querySelectorAll("td.launch-col").forEach(td => {{
           td.style.display = "none";
-        });
-      }
-    });
+        }});
+      }}
+    }});
   </script>
 
 </head>
