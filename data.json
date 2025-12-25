@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-25T17:20:54.387655Z",
+  "generated_at": "2025-12-25T18:02:34.492742Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -14,7 +14,8 @@
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
+      ],
+      "launch_app_id": "com.webos.app.netflix"
     },
     {
       "id": 225171,
@@ -27,7 +28,8 @@
       "providers": [
         "Apple TV",
         "Apple TV Amazon Channel"
-      ]
+      ],
+      "launch_app_id": null
     },
     {
       "id": 106379,
@@ -40,7 +42,8 @@
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
-      ]
+      ],
+      "launch_app_id": "com.webos.app.primevideo"
     },
     {
       "id": 246473,
@@ -52,7 +55,8 @@
       "tmdb_url": "https://www.themoviedb.org/tv/246473",
       "providers": [
         "Hulu"
-      ]
+      ],
+      "launch_app_id": "com.webos.app.hulu"
     },
     {
       "id": 259537,
@@ -62,7 +66,8 @@
       "first_air_date": "2024-08-15",
       "poster_url": "https://image.tmdb.org/t/p/w500/2pT4uBFKymVPLktor6dbeOZzDcJ.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/259537",
-      "providers": []
+      "providers": [],
+      "launch_app_id": null
     },
     {
       "id": 296146,
@@ -72,7 +77,8 @@
       "first_air_date": "2025-12-25",
       "poster_url": "https://image.tmdb.org/t/p/w500/2YzIgz1Bi0hsXabPqnHU9ISn44F.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/296146",
-      "providers": []
+      "providers": [],
+      "launch_app_id": null
     },
     {
       "id": 211089,
@@ -82,7 +88,8 @@
       "first_air_date": "2022-09-27",
       "poster_url": "https://image.tmdb.org/t/p/w500/nyhBueT07zQS7wWLYFDNO8LdO3N.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/211089",
-      "providers": []
+      "providers": [],
+      "launch_app_id": null
     },
     {
       "id": 200875,
@@ -96,17 +103,8 @@
         "HBO Max",
         "HBO Max Amazon Channel",
         "Spectrum On Demand"
-      ]
-    },
-    {
-      "id": 308508,
-      "title": "Strange Chronicles of Tang",
-      "overview": "",
-      "rating": 7.2,
-      "first_air_date": "2025-12-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vLj74PM5xATIy7RTa3dERe0mzp8.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/308508",
-      "providers": []
+      ],
+      "launch_app_id": null
     },
     {
       "id": 103540,
@@ -119,7 +117,19 @@
       "providers": [
         "Disney Plus",
         "Hulu"
-      ]
+      ],
+      "launch_app_id": "com.webos.app.disneyplus"
+    },
+    {
+      "id": 308508,
+      "title": "Strange Chronicles of Tang",
+      "overview": "",
+      "rating": 7.2,
+      "first_air_date": "2025-12-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vLj74PM5xATIy7RTa3dERe0mzp8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/308508",
+      "providers": [],
+      "launch_app_id": null
     }
   ]
 }
