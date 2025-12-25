@@ -15,8 +15,11 @@ LG_APP_MAP = {
     "Disney Plus": "com.webos.app.disneyplus",
     "Disney+": "com.webos.app.disneyplus",
     "Amazon Prime Video": "com.webos.app.primevideo",
-    "Apple TV Plus": "com.webos.app.appletv",
-    "Apple TV+": "com.webos.app.appletv",
+    "Apple TV Plus": "appletv.png",
+    "Apple TV+": "appletv.png",
+    "Apple TV": "appletv.png",
+    "Apple TV App": "appletv.png",
+    "Apple iTunes": "appletv.png",
     "Max": "com.webos.app.hbomax",
     "HBO Max": "com.webos.app.hbomax"
 }
