@@ -1,20 +1,13 @@
 import requests
-from bs4 import BeautifulSoup
-import json
 from datetime import datetime
 
-URL = "https://www.rottentomatoes.com/browse/tv_series_browse/sort:popular"
+API_URL = "https://www.rottentomatoes.com/api/private/v2.0/browse?type=tv_series&sortBy=popularity"
 
 def fetch_top_shows():
-    response = requests.get(URL, headers={"User-Agent": "Mozilla/5.0"})
-    soup = BeautifulSoup(response.text, "html.parser")
+    response = requests.get(API_URL, headers={"User-Agent": "Mozilla/5.0"})
+    data = response.json()
 
-    # Find the JSON data embedded in the page
-    script_tag = soup.find("script", id="__NEXT_DATA__")
-    data = json.loads(script_tag.string)
-
-    # Navigate to the TV show list
-    items = data["props"]["pageProps"]["grid"]["list"][:10]
+    items = data.get("results", [])[:10]
 
     shows = []
     for item in items:
