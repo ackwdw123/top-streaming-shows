@@ -42,10 +42,15 @@
     }
   </style>
 
-  <!-- Hide Launch App column on LG TVs -->
+  <!-- Robust LG TV detection -->
   <script>
     document.addEventListener("DOMContentLoaded", function () {
-      const isLGTV = navigator.userAgent.includes("Web0S");
+      const ua = navigator.userAgent.toLowerCase();
+      const isLGTV =
+        ua.includes("web0s") ||
+        ua.includes("webos") ||
+        ua.includes("lg browser") ||
+        ua.includes("lgtv");
 
       if (isLGTV) {
         const launchHeader = document.querySelector("th.launch-col");
@@ -62,7 +67,7 @@
 <body>
   <h1>Top Streaming Shows</h1>
   <div class="subtitle">
-    Auto‑updated from TMDB • Region: US • Last updated: 2025-12-25 19:05 UTC
+    Auto‑updated from TMDB • Region: US • Last updated: 2025-12-25 19:17 UTC
   </div>
 
   <table>
@@ -348,50 +353,6 @@
           <td style="text-align:center; color:#999;">8</td>
 
           <td style="display:flex; gap:16px; align-items:center;">
-            <img src='https://image.tmdb.org/t/p/w500/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg' alt='Poster for One Piece' style='height:140px;border-radius:6px;'/>
-            <div>
-              <div style="font-size:20px; font-weight:600;">One Piece</div>
-
-              <div style="font-size:14px; color:#aaa; margin-top:4px;">
-                First aired: 1999-10-20
-              </div>
-
-              <div style="font-size:15px; color:#bbb; margin-top:6px; max-width:600px; line-height:1.35;">
-                Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous "One Piece" behind. Whoever claims the "One Piece" will be named the new King of the Pirates.
-
-Monkey D. Luffy, a boy who consumed a "Devil Fruit," de…
-              </div>
-
-              <div style="font-size:14px; color:#8fd3ff; margin-top:6px;">
-                <img src='icons/netflix.png' class='provider-icon' alt='Netflix' /><img src='icons/hulu.png' class='provider-icon' alt='Hulu' />
-              </div>
-            </div>
-          </td>
-
-          <td style="text-align:center; font-size:18px;">8.7</td>
-
-          <td class="launch-col" style="text-align:center; vertical-align:middle;">
-            
-            <a href="lgtv://com.webos.app.netflix"
-               style="
-                 display:inline-block;
-                 padding:8px 14px;
-                 background:#4ea3ff;
-                 color:#000;
-                 border-radius:6px;
-                 text-decoration:none;
-                 font-weight:600;
-               ">
-               Launch App
-            </a>
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="text-align:center; color:#999;">9</td>
-
-          <td style="display:flex; gap:16px; align-items:center;">
             <img src='https://image.tmdb.org/t/p/w500/vLj74PM5xATIy7RTa3dERe0mzp8.jpg' alt='Poster for Strange Chronicles of Tang' style='height:140px;border-radius:6px;'/>
             <div>
               <div style="font-size:20px; font-weight:600;">Strange Chronicles of Tang</div>
@@ -418,7 +379,7 @@ Monkey D. Luffy, a boy who consumed a "Devil Fruit," de…
         </tr>
         
         <tr>
-          <td style="text-align:center; color:#999;">10</td>
+          <td style="text-align:center; color:#999;">9</td>
 
           <td style="display:flex; gap:16px; align-items:center;">
             <img src='https://image.tmdb.org/t/p/w500/vMwB4BNicfWJl0JhU7YQApcoiHE.jpg' alt='Poster for The Vendetta of An' style='height:140px;border-radius:6px;'/>
@@ -455,6 +416,35 @@ Monkey D. Luffy, a boy who consumed a "Devil Fruit," de…
                ">
                Launch App
             </a>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td style="text-align:center; color:#999;">10</td>
+
+          <td style="display:flex; gap:16px; align-items:center;">
+            <img src='https://image.tmdb.org/t/p/w500/2YzIgz1Bi0hsXabPqnHU9ISn44F.jpg' alt='Poster for The Punishment' style='height:140px;border-radius:6px;'/>
+            <div>
+              <div style="font-size:20px; font-weight:600;">The Punishment</div>
+
+              <div style="font-size:14px; color:#aaa; margin-top:4px;">
+                First aired: 2025-12-25
+              </div>
+
+              <div style="font-size:15px; color:#bbb; margin-top:6px; max-width:600px; line-height:1.35;">
+                In a rapidly developing Hanzhou, police officer Qin Feng and his sworn brother Liu Tianye face off against dangerous criminals while grappling with deep moral dilemmas and the complicated ties between family, power, and justice.
+              </div>
+
+              <div style="font-size:14px; color:#8fd3ff; margin-top:6px;">
+                
+              </div>
+            </div>
+          </td>
+
+          <td style="text-align:center; font-size:18px;">—</td>
+
+          <td class="launch-col" style="text-align:center; vertical-align:middle;">
             
           </td>
         </tr>
