@@ -18,6 +18,16 @@ LG_APP_MAP = {
     "Max": "com.webos.app.hbomax",
 }
 
+# Provider → Icon filename mapping
+PROVIDER_ICONS = {
+    "Netflix": "netflix.png",
+    "Hulu": "hulu.png",
+    "Disney Plus": "disneyplus.png",
+    "Amazon Prime Video": "primevideo.png",
+    "Apple TV Plus": "appletv.png",
+    "Max": "max.png"
+}
+
 def tmdb_get(path, params=None):
     if params is None:
         params = {}
@@ -101,7 +111,17 @@ def generate_html(shows):
 
     rows = ""
     for idx, show in enumerate(shows, start=1):
-        providers = ", ".join(show["providers"]) if show["providers"] else "—"
+        providers = show["providers"]
+
+        # Build provider icons HTML
+        provider_icons_html = ""
+        for p in providers:
+            icon = PROVIDER_ICONS.get(p)
+            if icon:
+                provider_icons_html += (
+                    f"<img src='icons/{icon}' class='provider-icon' alt='{p}' />"
+                )
+
         poster = (
             f"<img src='{show['poster_url']}' "
             f"alt='Poster for {show['title']}' "
@@ -110,9 +130,8 @@ def generate_html(shows):
             else ""
         )
         rating = show["rating"] if show["rating"] is not None else "—"
-        link = show["tmdb_url"] or "#"
 
-        # Launch App button (right column)
+        # Launch App button (hidden on LG TVs via JS)
         if show["launch_app_id"]:
             launch_button = f"""
             <a href="lgtv://{show['launch_app_id']}"
@@ -134,23 +153,29 @@ def generate_html(shows):
         rows += f"""
         <tr>
           <td style="text-align:center; color:#999;">{idx}</td>
+
           <td style="display:flex; gap:16px; align-items:center;">
             {poster}
             <div>
               <div style="font-size:20px; font-weight:600;">{show['title']}</div>
-              <div style="font-size:13px; color:#aaa; margin-top:4px;">
+
+              <div style="font-size:14px; color:#aaa; margin-top:4px;">
                 First aired: {show['first_air_date'] or 'Unknown'}
               </div>
-              <div style="font-size:13px; color:#bbb; margin-top:6px; max-width:600px;">
-                {show['overview'][:220] + ('…' if len(show['overview']) > 220 else '')}
+
+              <div style="font-size:15px; color:#bbb; margin-top:6px; max-width:600px; line-height:1.35;">
+                {show['overview'][:260] + ('…' if len(show['overview']) > 260 else '')}
               </div>
-              <div style="font-size:13px; color:#8fd3ff; margin-top:6px;">
-                Streaming: {providers}
+
+              <div style="font-size:14px; color:#8fd3ff; margin-top:6px;">
+                {provider_icons_html}
               </div>
             </div>
           </td>
+
           <td style="text-align:center; font-size:18px;">{rating}</td>
-          <td style="text-align:center; vertical-align:middle;">
+
+          <td class="launch-col" style="text-align:center; vertical-align:middle;">
             {launch_button}
           </td>
         </tr>
@@ -161,6 +186,7 @@ def generate_html(shows):
 <head>
   <meta charset="utf-8" />
   <title>Top Streaming Shows (TMDB)</title>
+
   <style>
     body {{
       margin: 0;
@@ -192,26 +218,50 @@ def generate_html(shows):
       font-size: 14px;
       color: #ccc;
     }}
+    .provider-icon {{
+      height: 22px;
+      margin-right: 6px;
+      vertical-align: middle;
+    }}
   </style>
+
+  <!-- Hide Launch App column on LG TVs -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {{
+      const isLGTV = navigator.userAgent.includes("Web0S");
+
+      if (isLGTV) {{
+        const launchHeader = document.querySelector("th.launch-col");
+        if (launchHeader) launchHeader.style.display = "none";
+
+        document.querySelectorAll("td.launch-col").forEach(td => {{
+          td.style.display = "none";
+        }});
+      }}
+    }});
+  </script>
+
 </head>
 <body>
   <h1>Top Streaming Shows</h1>
   <div class="subtitle">
     Auto‑updated from TMDB • Region: {REGION} • Last updated: {now}
   </div>
+
   <table>
     <thead>
       <tr>
         <th style="width:40px; text-align:center;">#</th>
         <th>Show</th>
         <th style="width:80px; text-align:center;">Rating</th>
-        <th style="width:120px; text-align:center;">Launch</th>
+        <th class="launch-col" style="width:120px; text-align:center;">Launch</th>
       </tr>
     </thead>
     <tbody>
       {rows}
     </tbody>
   </table>
+
 </body>
 </html>
 """
