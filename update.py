@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import json
 from datetime import datetime
 
 URL = "https://www.rottentomatoes.com/browse/tv_series_browse/sort:popular"
@@ -8,13 +9,18 @@ def fetch_top_shows():
     response = requests.get(URL, headers={"User-Agent": "Mozilla/5.0"})
     soup = BeautifulSoup(response.text, "html.parser")
 
-    shows = []
-    cards = soup.select("a.js-tile-link")[:10]  # Top 10
+    # Find the JSON data embedded in the page
+    script_tag = soup.find("script", id="__NEXT_DATA__")
+    data = json.loads(script_tag.string)
 
-    for card in cards:
-        title = card.get("title", "Unknown Title")
-        link = "https://www.rottentomatoes.com" + card.get("href", "")
-        shows.append((title, link))
+    # Navigate to the TV show list
+    items = data["props"]["pageProps"]["grid"]["list"][:10]
+
+    shows = []
+    for item in items:
+        title = item.get("title", "Unknown Title")
+        url = "https://www.rottentomatoes.com" + item.get("url", "")
+        shows.append((title, url))
 
     return shows
 
