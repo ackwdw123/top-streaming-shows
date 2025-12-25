@@ -13,9 +13,12 @@ LG_APP_MAP = {
     "Netflix": "com.webos.app.netflix",
     "Hulu": "com.webos.app.hulu",
     "Disney Plus": "com.webos.app.disneyplus",
+    "Disney+": "com.webos.app.disneyplus",
     "Amazon Prime Video": "com.webos.app.primevideo",
     "Apple TV Plus": "com.webos.app.appletv",
+    "Apple TV+": "com.webos.app.appletv",
     "Max": "com.webos.app.hbomax",
+    "HBO Max": "com.webos.app.hbomax"
 }
 
 # Provider → Icon filename mapping
@@ -23,9 +26,12 @@ PROVIDER_ICONS = {
     "Netflix": "netflix.png",
     "Hulu": "hulu.png",
     "Disney Plus": "disneyplus.png",
+    "Disney+": "disneyplus.png",
     "Amazon Prime Video": "primevideo.png",
     "Apple TV Plus": "appletv.png",
-    "Max": "max.png"
+    "Apple TV+": "appletv.png",
+    "Max": "max.png",
+    "HBO Max": "max.png"
 }
 
 def tmdb_get(path, params=None):
@@ -219,8 +225,8 @@ def generate_html(shows):
       color: #ccc;
     }}
     .provider-icon {{
-      height: 22px;
-      margin-right: 6px;
+      height: 28px;
+      margin-right: 8px;
       vertical-align: middle;
     }}
   </style>
