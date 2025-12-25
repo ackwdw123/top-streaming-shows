@@ -58,10 +58,6 @@ def tmdb_get(path, params=None):
     response.raise_for_status()
     return response.json()
 
-def fetch_trending_tv(limit=10):
-    data = tmdb_get("/trending/tv/day")
-    return data.get("results", [])[:limit]
-
 def fetch_providers(tv_id):
     data = tmdb_get(f"/tv/{tv_id}/watch/providers")
     results = data.get("results", {})
@@ -89,6 +85,24 @@ def fetch_providers(tv_id):
             seen.add(p)
             unique.append(p)
     return unique
+
+def fetch_trending_tv_us_only(limit=10):
+    data = tmdb_get("/trending/tv/day")
+    results = data.get("results", [])
+
+    us_shows = []
+    for item in results:
+        tv_id = item.get("id")
+        providers = fetch_providers(tv_id)
+
+        # Only include shows with at least one US provider
+        if providers:
+            us_shows.append(item)
+
+        if len(us_shows) == limit:
+            break
+
+    return us_shows
 
 def build_show_record(item):
     tv_id = item.get("id")
@@ -298,7 +312,7 @@ def main():
     if not TMDB_API_KEY:
         raise RuntimeError("TMDB_API_KEY environment variable is not set")
 
-    trending = fetch_trending_tv(limit=10)
+    trending = fetch_trending_tv_us_only(limit=10)
     shows = [build_show_record(item) for item in trending]
 
     generate_json(shows)
