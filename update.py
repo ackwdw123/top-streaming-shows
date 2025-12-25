@@ -19,6 +19,7 @@ LG_APP_MAP = {
     "Apple TV+": "appletv.png",
     "Apple TV": "appletv.png",
     "Apple TV App": "appletv.png",
+    "Apple TV Amazon Channel": "appletv.png",
     "Apple iTunes": "appletv.png",
     "Max": "com.webos.app.hbomax",
     "HBO Max": "com.webos.app.hbomax"
