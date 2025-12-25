@@ -8,6 +8,16 @@ TMDB_BASE_URL = "https://api.themoviedb.org/3"
 IMAGE_BASE = "https://image.tmdb.org/t/p/w500"
 REGION = "US"
 
+# Provider → LG App ID mapping
+LG_APP_MAP = {
+    "Netflix": "com.webos.app.netflix",
+    "Hulu": "com.webos.app.hulu",
+    "Disney Plus": "com.webos.app.disneyplus",
+    "Amazon Prime Video": "com.webos.app.primevideo",
+    "Apple TV Plus": "com.webos.app.appletv",
+    "Max": "com.webos.app.hbomax",
+}
+
 def tmdb_get(path, params=None):
     if params is None:
         params = {}
@@ -31,7 +41,6 @@ def fetch_providers(tv_id):
     providers = []
     for item in flatrate:
         providers.append(item.get("provider_name"))
-    # fallbacks if no flatrate
     if not providers:
         for item in buy:
             providers.append(item.get("provider_name"))
@@ -39,7 +48,6 @@ def fetch_providers(tv_id):
         for item in rent:
             providers.append(item.get("provider_name"))
 
-    # dedupe while preserving order
     seen = set()
     unique = []
     for p in providers:
@@ -60,6 +68,12 @@ def build_show_record(item):
 
     providers = fetch_providers(tv_id) if tv_id else []
 
+    # Determine LG app ID for the first provider
+    launch_app_id = None
+    if providers:
+        first_provider = providers[0]
+        launch_app_id = LG_APP_MAP.get(first_provider)
+
     return {
         "id": tv_id,
         "title": title,
@@ -69,6 +83,7 @@ def build_show_record(item):
         "poster_url": poster_url,
         "tmdb_url": tmdb_url,
         "providers": providers,
+        "launch_app_id": launch_app_id,
     }
 
 def generate_json(shows):
@@ -97,6 +112,25 @@ def generate_html(shows):
         rating = show["rating"] if show["rating"] is not None else "—"
         link = show["tmdb_url"] or "#"
 
+        # Launch App button (right column)
+        if show["launch_app_id"]:
+            launch_button = f"""
+            <a href="lgtv://{show['launch_app_id']}"
+               style="
+                 display:inline-block;
+                 padding:8px 14px;
+                 background:#4ea3ff;
+                 color:#000;
+                 border-radius:6px;
+                 text-decoration:none;
+                 font-weight:600;
+               ">
+               Launch App
+            </a>
+            """
+        else:
+            launch_button = ""
+
         rows += f"""
         <tr>
           <td style="text-align:center; color:#999;">{idx}</td>
@@ -116,8 +150,8 @@ def generate_html(shows):
             </div>
           </td>
           <td style="text-align:center; font-size:18px;">{rating}</td>
-          <td style="text-align:center;">
-            <a href="{link}" style="color:#4ea3ff; text-decoration:none;">Details</a>
+          <td style="text-align:center; vertical-align:middle;">
+            {launch_button}
           </td>
         </tr>
         """
@@ -171,7 +205,7 @@ def generate_html(shows):
         <th style="width:40px; text-align:center;">#</th>
         <th>Show</th>
         <th style="width:80px; text-align:center;">Rating</th>
-        <th style="width:90px; text-align:center;">Link</th>
+        <th style="width:120px; text-align:center;">Launch</th>
       </tr>
     </thead>
     <tbody>
