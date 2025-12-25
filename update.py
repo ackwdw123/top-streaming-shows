@@ -15,12 +15,16 @@ LG_APP_MAP = {
     "Disney Plus": "com.webos.app.disneyplus",
     "Disney+": "com.webos.app.disneyplus",
     "Amazon Prime Video": "com.webos.app.primevideo",
-    "Apple TV Plus": "appletv.png",
-    "Apple TV+": "appletv.png",
-    "Apple TV": "appletv.png",
-    "Apple TV App": "appletv.png",
-    "Apple TV Amazon Channel": "appletv.png",
-    "Apple iTunes": "appletv.png",
+
+    # Apple variants
+    "Apple TV Plus": "com.webos.app.appletv",
+    "Apple TV+": "com.webos.app.appletv",
+    "Apple TV": "com.webos.app.appletv",
+    "Apple TV App": "com.webos.app.appletv",
+    "Apple TV Amazon Channel": "com.webos.app.appletv",
+    "Apple iTunes": "com.webos.app.appletv",
+
+    # Max variants
     "Max": "com.webos.app.hbomax",
     "HBO Max": "com.webos.app.hbomax"
 }
@@ -32,8 +36,16 @@ PROVIDER_ICONS = {
     "Disney Plus": "disneyplus.png",
     "Disney+": "disneyplus.png",
     "Amazon Prime Video": "primevideo.png",
+
+    # Apple variants (ALL required)
     "Apple TV Plus": "appletv.png",
     "Apple TV+": "appletv.png",
+    "Apple TV": "appletv.png",
+    "Apple TV App": "appletv.png",
+    "Apple TV Amazon Channel": "appletv.png",
+    "Apple iTunes": "appletv.png",
+
+    # Max variants
     "Max": "max.png",
     "HBO Max": "max.png"
 }
@@ -54,11 +66,15 @@ def fetch_providers(tv_id):
     data = tmdb_get(f"/tv/{tv_id}/watch/providers")
     results = data.get("results", {})
     us = results.get(REGION, {})
+
+    # TMDB splits providers into flatrate, buy, rent
     flatrate = us.get("flatrate", []) or []
     buy = us.get("buy", []) or []
     rent = us.get("rent", []) or []
 
     providers = []
+
+    # Prefer flatrate, but fall back to buy/rent
     for item in flatrate:
         providers.append(item.get("provider_name"))
     if not providers:
@@ -68,6 +84,7 @@ def fetch_providers(tv_id):
         for item in rent:
             providers.append(item.get("provider_name"))
 
+    # Deduplicate
     seen = set()
     unique = []
     for p in providers:
