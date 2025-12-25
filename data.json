@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-25T19:43:33.452982Z",
+  "generated_at": "2025-12-25T19:56:34.909400Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -122,20 +122,6 @@
       "launch_app_id": null
     },
     {
-      "id": 281013,
-      "title": "Dynamite Kiss",
-      "overview": "A passionate fling in Jeju ends abruptly — until fate reunites an heir and a young woman when she joins his company, disguised as a married mother.",
-      "rating": 8.1,
-      "first_air_date": "2025-11-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/281013",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ],
-      "launch_app_id": "com.webos.app.netflix"
-    },
-    {
       "id": 240459,
       "title": "Spartacus: House of Ashur",
       "overview": "In a world where he survived the events of Spartacus (2010), Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
@@ -151,7 +137,21 @@
         "Spectrum On Demand",
         "Starz Amazon Channel"
       ],
-      "launch_app_id": null
+      "launch_app_id": "com.starz.starzplay"
+    },
+    {
+      "id": 281013,
+      "title": "Dynamite Kiss",
+      "overview": "A passionate fling in Jeju ends abruptly — until fate reunites an heir and a young woman when she joins his company, disguised as a married mother.",
+      "rating": 8.1,
+      "first_air_date": "2025-11-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/281013",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "launch_app_id": "com.webos.app.netflix"
     }
   ]
 }
