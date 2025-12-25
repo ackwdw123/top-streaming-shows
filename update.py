@@ -1,58 +1,199 @@
+import os
 import requests
 from datetime import datetime
+import json
 
-API_URL = "https://www.rottentomatoes.com/api/private/v2.0/browse?type=tv_series&sortBy=popularity"
+TMDB_API_KEY = os.environ.get("TMDB_API_KEY")
+TMDB_BASE_URL = "https://api.themoviedb.org/3"
+IMAGE_BASE = "https://image.tmdb.org/t/p/w500"
+REGION = "US"
 
-def fetch_top_shows():
-    response = requests.get(API_URL, headers={"User-Agent": "Mozilla/5.0"})
-    data = response.json()
+def tmdb_get(path, params=None):
+    if params is None:
+        params = {}
+    params["api_key"] = TMDB_API_KEY
+    response = requests.get(f"{TMDB_BASE_URL}{path}", params=params)
+    response.raise_for_status()
+    return response.json()
 
-    items = data.get("results", [])[:10]
+def fetch_trending_tv(limit=10):
+    data = tmdb_get("/trending/tv/day")
+    return data.get("results", [])[:limit]
 
-    shows = []
-    for item in items:
-        title = item.get("title", "Unknown Title")
-        url = "https://www.rottentomatoes.com" + item.get("url", "")
-        shows.append((title, url))
+def fetch_providers(tv_id):
+    data = tmdb_get(f"/tv/{tv_id}/watch/providers")
+    results = data.get("results", {})
+    us = results.get(REGION, {})
+    flatrate = us.get("flatrate", []) or []
+    buy = us.get("buy", []) or []
+    rent = us.get("rent", []) or []
 
-    return shows
+    providers = []
+    for item in flatrate:
+        providers.append(item.get("provider_name"))
+    # fallbacks if no flatrate
+    if not providers:
+        for item in buy:
+            providers.append(item.get("provider_name"))
+    if not providers:
+        for item in rent:
+            providers.append(item.get("provider_name"))
+
+    # dedupe while preserving order
+    seen = set()
+    unique = []
+    for p in providers:
+        if p and p not in seen:
+            seen.add(p)
+            unique.append(p)
+    return unique
+
+def build_show_record(item):
+    tv_id = item.get("id")
+    title = item.get("name") or item.get("original_name") or "Unknown Title"
+    overview = item.get("overview") or ""
+    vote = item.get("vote_average") or 0
+    first_air = item.get("first_air_date") or ""
+    poster_path = item.get("poster_path")
+    poster_url = f"{IMAGE_BASE}{poster_path}" if poster_path else None
+    tmdb_url = f"https://www.themoviedb.org/tv/{tv_id}" if tv_id else None
+
+    providers = fetch_providers(tv_id) if tv_id else []
+
+    return {
+        "id": tv_id,
+        "title": title,
+        "overview": overview,
+        "rating": round(vote, 1) if vote else None,
+        "first_air_date": first_air,
+        "poster_url": poster_url,
+        "tmdb_url": tmdb_url,
+        "providers": providers,
+    }
+
+def generate_json(shows):
+    payload = {
+        "generated_at": datetime.utcnow().isoformat() + "Z",
+        "source": "TMDB",
+        "region": REGION,
+        "shows": shows,
+    }
+    with open("data.json", "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
 
 def generate_html(shows):
-    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
     rows = ""
-    for title, link in shows:
-        rows += f"<tr><td>{title}</td><td><a href='{link}'>Details</a></td></tr>"
+    for idx, show in enumerate(shows, start=1):
+        providers = ", ".join(show["providers"]) if show["providers"] else "—"
+        poster = (
+            f"<img src='{show['poster_url']}' "
+            f"alt='Poster for {show['title']}' "
+            f"style='height:140px;border-radius:6px;'/>"
+            if show["poster_url"]
+            else ""
+        )
+        rating = show["rating"] if show["rating"] is not None else "—"
+        link = show["tmdb_url"] or "#"
 
-    html = f"""
-    <!DOCTYPE html>
-    <html>
-    <head>
-        <title>Top Streaming Shows</title>
-        <style>
-            body {{ font-family: Arial; padding: 20px; background: #111; color: #eee; }}
-            table {{ width: 100%; border-collapse: collapse; }}
-            td {{ padding: 10px; border-bottom: 1px solid #444; }}
-            a {{ color: #4ea3ff; }}
-        </style>
-    </head>
-    <body>
-        <h1>Top Streaming Shows (Auto‑Updated)</h1>
-        <p>Last updated: {now}</p>
-        <table>
-            {rows}
-        </table>
-    </body>
-    </html>
-    """
-    return html
+        rows += f"""
+        <tr>
+          <td style="text-align:center; color:#999;">{idx}</td>
+          <td style="display:flex; gap:16px; align-items:center;">
+            {poster}
+            <div>
+              <div style="font-size:20px; font-weight:600;">{show['title']}</div>
+              <div style="font-size:13px; color:#aaa; margin-top:4px;">
+                First aired: {show['first_air_date'] or 'Unknown'}
+              </div>
+              <div style="font-size:13px; color:#bbb; margin-top:6px; max-width:600px;">
+                {show['overview'][:220] + ('…' if len(show['overview']) > 220 else '')}
+              </div>
+              <div style="font-size:13px; color:#8fd3ff; margin-top:6px;">
+                Streaming: {providers}
+              </div>
+            </div>
+          </td>
+          <td style="text-align:center; font-size:18px;">{rating}</td>
+          <td style="text-align:center;">
+            <a href="{link}" style="color:#4ea3ff; text-decoration:none;">Details</a>
+          </td>
+        </tr>
+        """
 
-def save_html(content):
+    html = f"""<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Top Streaming Shows (TMDB)</title>
+  <style>
+    body {{
+      margin: 0;
+      padding: 24px;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #05070a;
+      color: #f5f5f5;
+    }}
+    h1 {{
+      font-size: 32px;
+      margin-bottom: 4px;
+    }}
+    .subtitle {{
+      color: #aaa;
+      font-size: 14px;
+      margin-bottom: 20px;
+    }}
+    table {{
+      width: 100%;
+      border-collapse: collapse;
+    }}
+    th, td {{
+      padding: 12px 10px;
+      border-bottom: 1px solid #222;
+      vertical-align: top;
+    }}
+    th {{
+      text-align: left;
+      font-size: 14px;
+      color: #ccc;
+    }}
+  </style>
+</head>
+<body>
+  <h1>Top Streaming Shows</h1>
+  <div class="subtitle">
+    Auto‑updated from TMDB • Region: {REGION} • Last updated: {now}
+  </div>
+  <table>
+    <thead>
+      <tr>
+        <th style="width:40px; text-align:center;">#</th>
+        <th>Show</th>
+        <th style="width:80px; text-align:center;">Rating</th>
+        <th style="width:90px; text-align:center;">Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      {rows}
+    </tbody>
+  </table>
+</body>
+</html>
+"""
     with open("index.html", "w", encoding="utf-8") as f:
-        f.write(content)
+        f.write(html)
+
+def main():
+    if not TMDB_API_KEY:
+        raise RuntimeError("TMDB_API_KEY environment variable is not set")
+
+    trending = fetch_trending_tv(limit=10)
+    shows = [build_show_record(item) for item in trending]
+
+    generate_json(shows)
+    generate_html(shows)
+    print("index.html and data.json updated successfully.")
 
 if __name__ == "__main__":
-    shows = fetch_top_shows()
-    html = generate_html(shows)
-    save_html(html)
-    print("Page updated successfully.")
+    main()
