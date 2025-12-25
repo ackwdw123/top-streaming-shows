@@ -225,8 +225,8 @@ def generate_html(shows):
       color: #ccc;
     }}
     .provider-icon {{
-      height: 28px;
-      margin-right: 8px;
+      height: 34px;
+      margin-right: 10px;
       vertical-align: middle;
     }}
   </style>
