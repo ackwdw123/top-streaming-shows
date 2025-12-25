@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-25T18:39:21.664788Z",
+  "generated_at": "2025-12-25T18:44:23.056080Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -17,20 +17,6 @@
       "launch_app_id": "com.webos.app.hulu"
     },
     {
-      "id": 66732,
-      "title": "Stranger Things",
-      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
-      "rating": 8.6,
-      "first_air_date": "2016-07-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/66732",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ],
-      "launch_app_id": "com.webos.app.netflix"
-    },
-    {
       "id": 225171,
       "title": "Pluribus",
       "overview": "The most miserable person on Earth must save the world from happiness.",
@@ -45,15 +31,18 @@
       "launch_app_id": null
     },
     {
-      "id": 259537,
-      "title": "The Swords",
-      "overview": "",
-      "rating": 8.8,
-      "first_air_date": "2024-08-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2pT4uBFKymVPLktor6dbeOZzDcJ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/259537",
-      "providers": [],
-      "launch_app_id": null
+      "id": 66732,
+      "title": "Stranger Things",
+      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "rating": 8.6,
+      "first_air_date": "2016-07-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/66732",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ],
+      "launch_app_id": "com.webos.app.netflix"
     },
     {
       "id": 106379,
@@ -68,6 +57,17 @@
         "Amazon Prime Video with Ads"
       ],
       "launch_app_id": "com.webos.app.primevideo"
+    },
+    {
+      "id": 259537,
+      "title": "The Swords",
+      "overview": "",
+      "rating": 8.8,
+      "first_air_date": "2024-08-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2pT4uBFKymVPLktor6dbeOZzDcJ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/259537",
+      "providers": [],
+      "launch_app_id": null
     },
     {
       "id": 211089,
@@ -125,18 +125,19 @@
       "launch_app_id": null
     },
     {
-      "id": 301507,
-      "title": "Heated Rivalry",
-      "overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
-      "rating": 8.5,
-      "first_air_date": "2025-11-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/epgr7n61vVIniyAghz2GYj22DkC.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/301507",
+      "id": 108255,
+      "title": "All Creatures Great & Small",
+      "overview": "The heartwarming and humorous adventures of a young country vet in the Yorkshire Dales in the 1930s. A remake of the 1978 series.",
+      "rating": 8.2,
+      "first_air_date": "2020-09-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hchdfgmviL9qzJ3OVd0LOkh1b5F.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/108255",
       "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel"
+        "PBS Masterpiece Amazon Channel",
+        "Thirteen",
+        "WETA+"
       ],
-      "launch_app_id": "com.webos.app.hbomax"
+      "launch_app_id": null
     }
   ]
 }
