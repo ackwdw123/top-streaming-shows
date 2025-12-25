@@ -16,7 +16,7 @@ LG_APP_MAP = {
     "Disney+": "com.webos.app.disneyplus",
     "Amazon Prime Video": "com.webos.app.primevideo",
 
-    # Apple variants
+    # Apple family
     "Apple TV Plus": "com.webos.app.appletv",
     "Apple TV+": "com.webos.app.appletv",
     "Apple TV": "com.webos.app.appletv",
@@ -24,9 +24,26 @@ LG_APP_MAP = {
     "Apple TV Amazon Channel": "com.webos.app.appletv",
     "Apple iTunes": "com.webos.app.appletv",
 
-    # Max variants
+    # Max family
     "Max": "com.webos.app.hbomax",
-    "HBO Max": "com.webos.app.hbomax"
+    "HBO Max": "com.webos.app.hbomax",
+
+    # AMC family (no dedicated LG app)
+    "AMC": None,
+    "AMC+": None,
+    "AMC Plus": None,
+    "AMC Premiere": None,
+
+    # Starz family
+    "Starz": "com.starz.starzplay",
+    "Starz Play": "com.starz.starzplay",
+    "Starz Amazon Channel": "com.starz.starzplay",
+    "Starz Apple TV Channel": "com.starz.starzplay",
+
+    # Spectrum family
+    "Spectrum": "com.lge.app.spectrum",
+    "Spectrum TV": "com.lge.app.spectrum",
+    "Spectrum On Demand": "com.lge.app.spectrum",
 }
 
 # Provider → Icon filename mapping
@@ -37,7 +54,7 @@ PROVIDER_ICONS = {
     "Disney+": "disneyplus.png",
     "Amazon Prime Video": "primevideo.png",
 
-    # Apple variants
+    # Apple family
     "Apple TV Plus": "appletv.png",
     "Apple TV+": "appletv.png",
     "Apple TV": "appletv.png",
@@ -45,9 +62,26 @@ PROVIDER_ICONS = {
     "Apple TV Amazon Channel": "appletv.png",
     "Apple iTunes": "appletv.png",
 
-    # Max variants
+    # Max family
     "Max": "max.png",
-    "HBO Max": "max.png"
+    "HBO Max": "max.png",
+
+    # AMC family
+    "AMC": "amc.png",
+    "AMC+": "amc.png",
+    "AMC Plus": "amc.png",
+    "AMC Premiere": "amc.png",
+
+    # Starz family
+    "Starz": "starz.png",
+    "Starz Play": "starz.png",
+    "Starz Amazon Channel": "starz.png",
+    "Starz Apple TV Channel": "starz.png",
+
+    # Spectrum family
+    "Spectrum": "spectrum.png",
+    "Spectrum TV": "spectrum.png",
+    "Spectrum On Demand": "spectrum.png",
 }
 
 def tmdb_get(path, params=None):
