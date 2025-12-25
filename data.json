@@ -1,21 +1,8 @@
 {
-  "generated_at": "2025-12-25T18:59:00.177924Z",
+  "generated_at": "2025-12-25T19:05:38.137997Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
-    {
-      "id": 246473,
-      "title": "Made in Korea",
-      "overview": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
-      "rating": 8.0,
-      "first_air_date": "2025-12-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/q9ZRQN98L2OvYP00mIlv4oPPfOU.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/246473",
-      "providers": [
-        "Hulu"
-      ],
-      "launch_app_id": "com.webos.app.hulu"
-    },
     {
       "id": 66732,
       "title": "Stranger Things",
@@ -42,7 +29,7 @@
         "Apple TV",
         "Apple TV Amazon Channel"
       ],
-      "launch_app_id": "appletv.png"
+      "launch_app_id": "com.webos.app.appletv"
     },
     {
       "id": 106379,
@@ -68,6 +55,19 @@
       "tmdb_url": "https://www.themoviedb.org/tv/259537",
       "providers": [],
       "launch_app_id": null
+    },
+    {
+      "id": 246473,
+      "title": "Made in Korea",
+      "overview": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
+      "rating": 8.0,
+      "first_air_date": "2025-12-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/q9ZRQN98L2OvYP00mIlv4oPPfOU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/246473",
+      "providers": [
+        "Hulu"
+      ],
+      "launch_app_id": "com.webos.app.hulu"
     },
     {
       "id": 211089,
@@ -125,19 +125,18 @@
       "launch_app_id": null
     },
     {
-      "id": 108255,
-      "title": "All Creatures Great & Small",
-      "overview": "The heartwarming and humorous adventures of a young country vet in the Yorkshire Dales in the 1930s. A remake of the 1978 series.",
-      "rating": 8.2,
-      "first_air_date": "2020-09-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hchdfgmviL9qzJ3OVd0LOkh1b5F.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/108255",
+      "id": 254482,
+      "title": "The Vendetta of An",
+      "overview": "Xie Huai'an, son of the Huben Army's creator, survives his family's massacre. After ten long years in hiding, he returns to Chang'an disguised as a lowly registrar, moving step by step through jianghu clashes and palace power plays in a tense battle of wits to avenge his family and safeguard the realm.",
+      "rating": 7.3,
+      "first_air_date": "2025-12-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vMwB4BNicfWJl0JhU7YQApcoiHE.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/254482",
       "providers": [
-        "PBS Masterpiece Amazon Channel",
-        "Thirteen",
-        "WETA+"
+        "Netflix",
+        "Netflix Standard with Ads"
       ],
-      "launch_app_id": null
+      "launch_app_id": "com.webos.app.netflix"
     }
   ]
 }
