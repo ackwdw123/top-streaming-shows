@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-25T18:44:23.056080Z",
+  "generated_at": "2025-12-25T18:54:18.272682Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -17,20 +17,6 @@
       "launch_app_id": "com.webos.app.hulu"
     },
     {
-      "id": 225171,
-      "title": "Pluribus",
-      "overview": "The most miserable person on Earth must save the world from happiness.",
-      "rating": 8.0,
-      "first_air_date": "2025-11-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/225171",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ],
-      "launch_app_id": null
-    },
-    {
       "id": 66732,
       "title": "Stranger Things",
       "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
@@ -43,6 +29,20 @@
         "Netflix Standard with Ads"
       ],
       "launch_app_id": "com.webos.app.netflix"
+    },
+    {
+      "id": 225171,
+      "title": "Pluribus",
+      "overview": "The most miserable person on Earth must save the world from happiness.",
+      "rating": 8.0,
+      "first_air_date": "2025-11-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/225171",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ],
+      "launch_app_id": "appletv.png"
     },
     {
       "id": 106379,
