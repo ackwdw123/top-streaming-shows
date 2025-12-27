@@ -8,44 +8,6 @@ TMDB_BASE_URL = "https://api.themoviedb.org/3"
 IMAGE_BASE = "https://image.tmdb.org/t/p/w500"
 REGION = "US"
 
-# Provider → LG App ID mapping
-LG_APP_MAP = {
-    "Netflix": "com.webos.app.netflix",
-    "Hulu": "com.webos.app.hulu",
-    "Disney Plus": "com.webos.app.disneyplus",
-    "Disney+": "com.webos.app.disneyplus",
-    "Amazon Prime Video": "com.webos.app.primevideo",
-
-    # Apple family
-    "Apple TV Plus": "com.webos.app.appletv",
-    "Apple TV+": "com.webos.app.appletv",
-    "Apple TV": "com.webos.app.appletv",
-    "Apple TV App": "com.webos.app.appletv",
-    "Apple TV Amazon Channel": "com.webos.app.appletv",
-    "Apple iTunes": "com.webos.app.appletv",
-
-    # Max family
-    "Max": "com.webos.app.hbomax",
-    "HBO Max": "com.webos.app.hbomax",
-
-    # AMC family (no dedicated LG app)
-    "AMC": None,
-    "AMC+": None,
-    "AMC Plus": None,
-    "AMC Premiere": None,
-
-    # Starz family
-    "Starz": "com.starz.starzplay",
-    "Starz Play": "com.starz.starzplay",
-    "Starz Amazon Channel": "com.starz.starzplay",
-    "Starz Apple TV Channel": "com.starz.starzplay",
-
-    # Spectrum family
-    "Spectrum": "com.lge.app.spectrum",
-    "Spectrum TV": "com.lge.app.spectrum",
-    "Spectrum On Demand": "com.lge.app.spectrum",
-}
-
 # Provider → Icon filename mapping
 PROVIDER_ICONS = {
     "Netflix": "netflix.png",
@@ -129,7 +91,6 @@ def fetch_trending_tv_us_only(limit=10):
         tv_id = item.get("id")
         providers = fetch_providers(tv_id)
 
-        # Only include shows with at least one US provider
         if providers:
             us_shows.append(item)
 
@@ -150,11 +111,6 @@ def build_show_record(item):
 
     providers = fetch_providers(tv_id) if tv_id else []
 
-    launch_app_id = None
-    if providers:
-        first_provider = providers[0]
-        launch_app_id = LG_APP_MAP.get(first_provider)
-
     return {
         "id": tv_id,
         "title": title,
@@ -164,7 +120,6 @@ def build_show_record(item):
         "poster_url": poster_url,
         "tmdb_url": tmdb_url,
         "providers": providers,
-        "launch_app_id": launch_app_id,
     }
 
 def generate_json(shows):
@@ -201,24 +156,6 @@ def generate_html(shows):
         )
         rating = show["rating"] if show["rating"] is not None else "—"
 
-        if show["launch_app_id"]:
-            launch_button = f"""
-            <a href="lgtv://{show['launch_app_id']}"
-               style="
-                 display:inline-block;
-                 padding:8px 14px;
-                 background:#4ea3ff;
-                 color:#000;
-                 border-radius:6px;
-                 text-decoration:none;
-                 font-weight:600;
-               ">
-               Launch App
-            </a>
-            """
-        else:
-            launch_button = ""
-
         rows += f"""
         <tr>
           <td style="text-align:center; color:#999;">{idx}</td>
@@ -243,10 +180,6 @@ def generate_html(shows):
           </td>
 
           <td style="text-align:center; font-size:18px;">{rating}</td>
-
-          <td class="launch-col" style="text-align:center; vertical-align:middle;">
-            {launch_button}
-          </td>
         </tr>
         """
 
@@ -294,27 +227,6 @@ def generate_html(shows):
     }}
   </style>
 
-  <!-- Robust LG TV detection -->
-  <script>
-    document.addEventListener("DOMContentLoaded", function () {{
-      const ua = navigator.userAgent.toLowerCase();
-      const isLGTV =
-        ua.includes("web0s") ||
-        ua.includes("webos") ||
-        ua.includes("lg browser") ||
-        ua.includes("lgtv");
-
-      if (isLGTV) {{
-        const launchHeader = document.querySelector("th.launch-col");
-        if (launchHeader) launchHeader.style.display = "none";
-
-        document.querySelectorAll("td.launch-col").forEach(td => {{
-          td.style.display = "none";
-        }});
-      }}
-    }});
-  </script>
-
 </head>
 <body>
   <h1>Top Streaming Shows</h1>
@@ -328,7 +240,6 @@ def generate_html(shows):
         <th style="width:40px; text-align:center;">#</th>
         <th>Show</th>
         <th style="width:80px; text-align:center;">Rating</th>
-        <th class="launch-col" style="width:120px; text-align:center;">Launch</th>
       </tr>
     </thead>
     <tbody>
