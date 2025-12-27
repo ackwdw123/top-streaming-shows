@@ -59,16 +59,26 @@ Everything runs without manual intervention.
 ---
 
 ## 🛠 Repository Structure
-top-streaming-shows/ 
+top-streaming-shows/
+
 │ 
+
 ├── index.html        # Auto‑generated dashboard 
+
 ├── data.json         # Auto‑generated show data 
+
 ├── update.py         # Python script that fetches & builds the page 
+
 ├── icons/            # Streaming provider icons 
+
 ├── .github/ 
+
     │   
-    └── workflows/        
-    └── update.yml  # GitHub Actions automation 
+    
+    ├── workflows/
+    
+      ├── update.yml  # GitHub Actions automation 
+      
 ├── README.md
 
 
