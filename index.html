@@ -42,32 +42,11 @@
     }
   </style>
 
-  <!-- Robust LG TV detection -->
-  <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      const ua = navigator.userAgent.toLowerCase();
-      const isLGTV =
-        ua.includes("web0s") ||
-        ua.includes("webos") ||
-        ua.includes("lg browser") ||
-        ua.includes("lgtv");
-
-      if (isLGTV) {
-        const launchHeader = document.querySelector("th.launch-col");
-        if (launchHeader) launchHeader.style.display = "none";
-
-        document.querySelectorAll("td.launch-col").forEach(td => {
-          td.style.display = "none";
-        });
-      }
-    });
-  </script>
-
 </head>
 <body>
   <h1>Top Streaming Shows</h1>
   <div class="subtitle">
-    Auto‑updated from TMDB • Region: US • Last updated: 2025-12-26 12:38 UTC
+    Auto‑updated from TMDB • Region: US • Last updated: 2025-12-27 03:24 UTC
   </div>
 
   <table>
@@ -76,7 +55,6 @@
         <th style="width:40px; text-align:center;">#</th>
         <th>Show</th>
         <th style="width:80px; text-align:center;">Rating</th>
-        <th class="launch-col" style="width:120px; text-align:center;">Launch</th>
       </tr>
     </thead>
     <tbody>
@@ -104,23 +82,6 @@
           </td>
 
           <td style="text-align:center; font-size:18px;">8.6</td>
-
-          <td class="launch-col" style="text-align:center; vertical-align:middle;">
-            
-            <a href="lgtv://com.webos.app.netflix"
-               style="
-                 display:inline-block;
-                 padding:8px 14px;
-                 background:#4ea3ff;
-                 color:#000;
-                 border-radius:6px;
-                 text-decoration:none;
-                 font-weight:600;
-               ">
-               Launch App
-            </a>
-            
-          </td>
         </tr>
         
         <tr>
@@ -146,111 +107,10 @@
           </td>
 
           <td style="text-align:center; font-size:18px;">8.0</td>
-
-          <td class="launch-col" style="text-align:center; vertical-align:middle;">
-            
-            <a href="lgtv://com.webos.app.appletv"
-               style="
-                 display:inline-block;
-                 padding:8px 14px;
-                 background:#4ea3ff;
-                 color:#000;
-                 border-radius:6px;
-                 text-decoration:none;
-                 font-weight:600;
-               ">
-               Launch App
-            </a>
-            
-          </td>
         </tr>
         
         <tr>
           <td style="text-align:center; color:#999;">3</td>
-
-          <td style="display:flex; gap:16px; align-items:center;">
-            <img src='https://image.tmdb.org/t/p/w500/epgr7n61vVIniyAghz2GYj22DkC.jpg' alt='Poster for Heated Rivalry' style='height:140px;border-radius:6px;'/>
-            <div>
-              <div style="font-size:20px; font-weight:600;">Heated Rivalry</div>
-
-              <div style="font-size:14px; color:#aaa; margin-top:4px;">
-                First aired: 2025-11-28
-              </div>
-
-              <div style="font-size:15px; color:#bbb; margin-top:6px; max-width:600px; line-height:1.35;">
-                Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-dis…
-              </div>
-
-              <div style="font-size:14px; color:#8fd3ff; margin-top:6px;">
-                <img src='icons/max.png' class='provider-icon' alt='HBO Max' />
-              </div>
-            </div>
-          </td>
-
-          <td style="text-align:center; font-size:18px;">8.5</td>
-
-          <td class="launch-col" style="text-align:center; vertical-align:middle;">
-            
-            <a href="lgtv://com.webos.app.hbomax"
-               style="
-                 display:inline-block;
-                 padding:8px 14px;
-                 background:#4ea3ff;
-                 color:#000;
-                 border-radius:6px;
-                 text-decoration:none;
-                 font-weight:600;
-               ">
-               Launch App
-            </a>
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="text-align:center; color:#999;">4</td>
-
-          <td style="display:flex; gap:16px; align-items:center;">
-            <img src='https://image.tmdb.org/t/p/w500/q9ZRQN98L2OvYP00mIlv4oPPfOU.jpg' alt='Poster for Made in Korea' style='height:140px;border-radius:6px;'/>
-            <div>
-              <div style="font-size:20px; font-weight:600;">Made in Korea</div>
-
-              <div style="font-size:14px; color:#aaa; margin-top:4px;">
-                First aired: 2025-12-24
-              </div>
-
-              <div style="font-size:15px; color:#bbb; margin-top:6px; max-width:600px; line-height:1.35;">
-                In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.
-              </div>
-
-              <div style="font-size:14px; color:#8fd3ff; margin-top:6px;">
-                <img src='icons/hulu.png' class='provider-icon' alt='Hulu' />
-              </div>
-            </div>
-          </td>
-
-          <td style="text-align:center; font-size:18px;">8.0</td>
-
-          <td class="launch-col" style="text-align:center; vertical-align:middle;">
-            
-            <a href="lgtv://com.webos.app.hulu"
-               style="
-                 display:inline-block;
-                 padding:8px 14px;
-                 background:#4ea3ff;
-                 color:#000;
-                 border-radius:6px;
-                 text-decoration:none;
-                 font-weight:600;
-               ">
-               Launch App
-            </a>
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="text-align:center; color:#999;">5</td>
 
           <td style="display:flex; gap:16px; align-items:center;">
             <img src='https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg' alt='Poster for Fallout' style='height:140px;border-radius:6px;'/>
@@ -272,111 +132,137 @@
           </td>
 
           <td style="text-align:center; font-size:18px;">8.2</td>
+        </tr>
+        
+        <tr>
+          <td style="text-align:center; color:#999;">4</td>
 
-          <td class="launch-col" style="text-align:center; vertical-align:middle;">
-            
-            <a href="lgtv://com.webos.app.primevideo"
-               style="
-                 display:inline-block;
-                 padding:8px 14px;
-                 background:#4ea3ff;
-                 color:#000;
-                 border-radius:6px;
-                 text-decoration:none;
-                 font-weight:600;
-               ">
-               Launch App
-            </a>
-            
+          <td style="display:flex; gap:16px; align-items:center;">
+            <img src='https://image.tmdb.org/t/p/w500/epgr7n61vVIniyAghz2GYj22DkC.jpg' alt='Poster for Heated Rivalry' style='height:140px;border-radius:6px;'/>
+            <div>
+              <div style="font-size:20px; font-weight:600;">Heated Rivalry</div>
+
+              <div style="font-size:14px; color:#aaa; margin-top:4px;">
+                First aired: 2025-11-28
+              </div>
+
+              <div style="font-size:15px; color:#bbb; margin-top:6px; max-width:600px; line-height:1.35;">
+                Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-dis…
+              </div>
+
+              <div style="font-size:14px; color:#8fd3ff; margin-top:6px;">
+                <img src='icons/max.png' class='provider-icon' alt='HBO Max' />
+              </div>
+            </div>
           </td>
+
+          <td style="text-align:center; font-size:18px;">8.6</td>
+        </tr>
+        
+        <tr>
+          <td style="text-align:center; color:#999;">5</td>
+
+          <td style="display:flex; gap:16px; align-items:center;">
+            <img src='https://image.tmdb.org/t/p/w500/q9ZRQN98L2OvYP00mIlv4oPPfOU.jpg' alt='Poster for Made in Korea' style='height:140px;border-radius:6px;'/>
+            <div>
+              <div style="font-size:20px; font-weight:600;">Made in Korea</div>
+
+              <div style="font-size:14px; color:#aaa; margin-top:4px;">
+                First aired: 2025-12-24
+              </div>
+
+              <div style="font-size:15px; color:#bbb; margin-top:6px; max-width:600px; line-height:1.35;">
+                In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.
+              </div>
+
+              <div style="font-size:14px; color:#8fd3ff; margin-top:6px;">
+                <img src='icons/hulu.png' class='provider-icon' alt='Hulu' />
+              </div>
+            </div>
+          </td>
+
+          <td style="text-align:center; font-size:18px;">8.0</td>
         </tr>
         
         <tr>
           <td style="text-align:center; color:#999;">6</td>
 
           <td style="display:flex; gap:16px; align-items:center;">
-            <img src='https://image.tmdb.org/t/p/w500/vMwB4BNicfWJl0JhU7YQApcoiHE.jpg' alt='Poster for The Vendetta of An' style='height:140px;border-radius:6px;'/>
+            <img src='https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg' alt='Poster for IT: Welcome to Derry' style='height:140px;border-radius:6px;'/>
             <div>
-              <div style="font-size:20px; font-weight:600;">The Vendetta of An</div>
+              <div style="font-size:20px; font-weight:600;">IT: Welcome to Derry</div>
 
               <div style="font-size:14px; color:#aaa; margin-top:4px;">
-                First aired: 2025-12-12
+                First aired: 2025-10-26
               </div>
 
               <div style="font-size:15px; color:#bbb; margin-top:6px; max-width:600px; line-height:1.35;">
-                Xie Huai'an, son of the Huben Army's creator, survives his family's massacre. After ten long years in hiding, he returns to Chang'an disguised as a lowly registrar, moving step by step through jianghu clashes and palace power plays in a tense battle of wits to…
+                In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work t…
               </div>
 
               <div style="font-size:14px; color:#8fd3ff; margin-top:6px;">
-                <img src='icons/netflix.png' class='provider-icon' alt='Netflix' />
+                <img src='icons/max.png' class='provider-icon' alt='HBO Max' /><img src='icons/spectrum.png' class='provider-icon' alt='Spectrum On Demand' />
               </div>
             </div>
           </td>
 
-          <td style="text-align:center; font-size:18px;">7.7</td>
-
-          <td class="launch-col" style="text-align:center; vertical-align:middle;">
-            
-            <a href="lgtv://com.webos.app.netflix"
-               style="
-                 display:inline-block;
-                 padding:8px 14px;
-                 background:#4ea3ff;
-                 color:#000;
-                 border-radius:6px;
-                 text-decoration:none;
-                 font-weight:600;
-               ">
-               Launch App
-            </a>
-            
-          </td>
+          <td style="text-align:center; font-size:18px;">8.3</td>
         </tr>
         
         <tr>
           <td style="text-align:center; color:#999;">7</td>
 
           <td style="display:flex; gap:16px; align-items:center;">
-            <img src='https://image.tmdb.org/t/p/w500/40eFcTzZier3DWLqldsP5VHxeoD.jpg' alt='Poster for Percy Jackson and the Olympians' style='height:140px;border-radius:6px;'/>
+            <img src='https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg' alt='Poster for Spartacus: House of Ashur' style='height:140px;border-radius:6px;'/>
             <div>
-              <div style="font-size:20px; font-weight:600;">Percy Jackson and the Olympians</div>
+              <div style="font-size:20px; font-weight:600;">Spartacus: House of Ashur</div>
 
               <div style="font-size:14px; color:#aaa; margin-top:4px;">
-                First aired: 2023-12-19
+                First aired: 2025-12-05
               </div>
 
               <div style="font-size:15px; color:#bbb; margin-top:6px; max-width:600px; line-height:1.35;">
-                Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the a…
+                In a world where he survived the events of Spartacus (2010), Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.
               </div>
 
               <div style="font-size:14px; color:#8fd3ff; margin-top:6px;">
-                <img src='icons/disneyplus.png' class='provider-icon' alt='Disney Plus' /><img src='icons/hulu.png' class='provider-icon' alt='Hulu' />
+                <img src='icons/starz.png' class='provider-icon' alt='Starz Apple TV Channel' /><img src='icons/starz.png' class='provider-icon' alt='Starz' /><img src='icons/spectrum.png' class='provider-icon' alt='Spectrum On Demand' /><img src='icons/starz.png' class='provider-icon' alt='Starz Amazon Channel' />
               </div>
             </div>
           </td>
 
-          <td style="text-align:center; font-size:18px;">7.3</td>
-
-          <td class="launch-col" style="text-align:center; vertical-align:middle;">
-            
-            <a href="lgtv://com.webos.app.disneyplus"
-               style="
-                 display:inline-block;
-                 padding:8px 14px;
-                 background:#4ea3ff;
-                 color:#000;
-                 border-radius:6px;
-                 text-decoration:none;
-                 font-weight:600;
-               ">
-               Launch App
-            </a>
-            
-          </td>
+          <td style="text-align:center; font-size:18px;">6.1</td>
         </tr>
         
         <tr>
           <td style="text-align:center; color:#999;">8</td>
+
+          <td style="display:flex; gap:16px; align-items:center;">
+            <img src='https://image.tmdb.org/t/p/w500/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg' alt='Poster for One Piece' style='height:140px;border-radius:6px;'/>
+            <div>
+              <div style="font-size:20px; font-weight:600;">One Piece</div>
+
+              <div style="font-size:14px; color:#aaa; margin-top:4px;">
+                First aired: 1999-10-20
+              </div>
+
+              <div style="font-size:15px; color:#bbb; margin-top:6px; max-width:600px; line-height:1.35;">
+                Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous "One Piece" behind. Whoever claims the "One Piece" will be named the new King of the Pirates.
+
+Monkey D. Luffy, a boy who consumed a "Devil Fruit," de…
+              </div>
+
+              <div style="font-size:14px; color:#8fd3ff; margin-top:6px;">
+                <img src='icons/netflix.png' class='provider-icon' alt='Netflix' /><img src='icons/hulu.png' class='provider-icon' alt='Hulu' />
+              </div>
+            </div>
+          </td>
+
+          <td style="text-align:center; font-size:18px;">8.7</td>
+        </tr>
+        
+        <tr>
+          <td style="text-align:center; color:#999;">9</td>
 
           <td style="display:flex; gap:16px; align-items:center;">
             <img src='https://image.tmdb.org/t/p/w500/qY3ltlWUB7u3ENocrMOkbGCGYnt.jpg' alt='Poster for Dynamite Kiss' style='height:140px;border-radius:6px;'/>
@@ -397,28 +283,11 @@
             </div>
           </td>
 
-          <td style="text-align:center; font-size:18px;">8.1</td>
-
-          <td class="launch-col" style="text-align:center; vertical-align:middle;">
-            
-            <a href="lgtv://com.webos.app.netflix"
-               style="
-                 display:inline-block;
-                 padding:8px 14px;
-                 background:#4ea3ff;
-                 color:#000;
-                 border-radius:6px;
-                 text-decoration:none;
-                 font-weight:600;
-               ">
-               Launch App
-            </a>
-            
-          </td>
+          <td style="text-align:center; font-size:18px;">8.0</td>
         </tr>
         
         <tr>
-          <td style="text-align:center; color:#999;">9</td>
+          <td style="text-align:center; color:#999;">10</td>
 
           <td style="display:flex; gap:16px; align-items:center;">
             <img src='https://image.tmdb.org/t/p/w500/y4JtoCDOUnNDu36BvD1wGjVBSB2.jpg' alt='Poster for Chasing the Undercurrent' style='height:140px;border-radius:6px;'/>
@@ -440,52 +309,6 @@
           </td>
 
           <td style="text-align:center; font-size:18px;">6.7</td>
-
-          <td class="launch-col" style="text-align:center; vertical-align:middle;">
-            
-          </td>
-        </tr>
-        
-        <tr>
-          <td style="text-align:center; color:#999;">10</td>
-
-          <td style="display:flex; gap:16px; align-items:center;">
-            <img src='https://image.tmdb.org/t/p/w500/x7UZVTEr26H5yCSVQoKTeBdvUvg.jpg' alt='Poster for Man vs Baby' style='height:140px;border-radius:6px;'/>
-            <div>
-              <div style="font-size:20px; font-weight:600;">Man vs Baby</div>
-
-              <div style="font-size:14px; color:#aaa; margin-top:4px;">
-                First aired: 2025-12-11
-              </div>
-
-              <div style="font-size:15px; color:#bbb; margin-top:6px; max-width:600px; line-height:1.35;">
-                As Christmas approaches, a blundering-all-the-way dad juggles housesitting a posh London penthouse with an unexpected pickle: caring for a lost baby.
-              </div>
-
-              <div style="font-size:14px; color:#8fd3ff; margin-top:6px;">
-                <img src='icons/netflix.png' class='provider-icon' alt='Netflix' />
-              </div>
-            </div>
-          </td>
-
-          <td style="text-align:center; font-size:18px;">6.8</td>
-
-          <td class="launch-col" style="text-align:center; vertical-align:middle;">
-            
-            <a href="lgtv://com.webos.app.netflix"
-               style="
-                 display:inline-block;
-                 padding:8px 14px;
-                 background:#4ea3ff;
-                 color:#000;
-                 border-radius:6px;
-                 text-decoration:none;
-                 font-weight:600;
-               ">
-               Launch App
-            </a>
-            
-          </td>
         </tr>
         
     </tbody>
