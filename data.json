@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-27T12:36:18.702373Z",
+  "generated_at": "2025-12-28T12:37:09.153957Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -43,62 +43,43 @@
       ]
     },
     {
+      "id": 238458,
+      "title": "Cashero",
+      "overview": "An ordinary man who inherits super strength discovers a greater evil out to steal his power. The one catch? Every use drains money from his wallet.",
+      "rating": 7.4,
+      "first_air_date": "2025-12-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/238458",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 120089,
+      "title": "SPY x FAMILY",
+      "overview": "A spy, an assassin and a telepath come together to pose as a family, each for their own reasons, while hiding their true identities from each other.",
+      "rating": 8.5,
+      "first_air_date": "2022-04-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/120089",
+      "providers": [
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
+    {
       "id": 301507,
       "title": "Heated Rivalry",
       "overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
-      "rating": 8.7,
+      "rating": 8.6,
       "first_air_date": "2025-11-28",
       "poster_url": "https://image.tmdb.org/t/p/w500/epgr7n61vVIniyAghz2GYj22DkC.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/301507",
       "providers": [
         "HBO Max",
         "HBO Max Amazon Channel"
-      ]
-    },
-    {
-      "id": 253811,
-      "title": "Tougen Anki",
-      "overview": "After a Momotaro assassin suddenly kills his adoptive father, Shiki vows to avenge him. But first, he must learn to control his newly awakened Oni blood.",
-      "rating": 7.9,
-      "first_air_date": "2025-07-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vnasRNhwT5M3OvTAMzYn4i5fQcT.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/253811",
-      "providers": [
-        "Netflix",
-        "Amazon Prime Video",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 240459,
-      "title": "Spartacus: House of Ashur",
-      "overview": "In a world where he survived the events of Spartacus (2010), Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
-      "rating": 6.1,
-      "first_air_date": "2025-12-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/240459",
-      "providers": [
-        "Starz Apple TV Channel",
-        "Starz Roku Premium Channel",
-        "Starz",
-        "Philo",
-        "Spectrum On Demand",
-        "Starz Amazon Channel"
-      ]
-    },
-    {
-      "id": 246473,
-      "title": "Made in Korea",
-      "overview": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
-      "rating": 8.0,
-      "first_air_date": "2025-12-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/q9ZRQN98L2OvYP00mIlv4oPPfOU.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/246473",
-      "providers": [
-        "Hulu"
       ]
     },
     {
@@ -119,20 +100,6 @@
       ]
     },
     {
-      "id": 120089,
-      "title": "SPY x FAMILY",
-      "overview": "A spy, an assassin and a telepath come together to pose as a family, each for their own reasons, while hiding their true identities from each other.",
-      "rating": 8.5,
-      "first_air_date": "2022-04-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/120089",
-      "providers": [
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
       "id": 200875,
       "title": "IT: Welcome to Derry",
       "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
@@ -143,6 +110,39 @@
       "providers": [
         "HBO Max",
         "HBO Max Amazon Channel",
+        "Spectrum On Demand"
+      ]
+    },
+    {
+      "id": 240459,
+      "title": "Spartacus: House of Ashur",
+      "overview": "In a world where he survived the events of Spartacus (2010), Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
+      "rating": 6.1,
+      "first_air_date": "2025-12-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/240459",
+      "providers": [
+        "Starz Apple TV Channel",
+        "Starz Roku Premium Channel",
+        "Starz",
+        "Philo",
+        "Spectrum On Demand",
+        "Starz Amazon Channel"
+      ]
+    },
+    {
+      "id": 272418,
+      "title": "Robin Hood",
+      "overview": "A modern reimagining of the classic tale. After the Norman invasion of England, Rob, a Saxon forester’s son, and Marian, a Norman lord’s daughter, fall in love and unite to fight for justice, challenge corruption, and restore peace to the land.",
+      "rating": 7.6,
+      "first_air_date": "2025-11-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3teWChNzKJdbfen46IdeKTygdZa.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/272418",
+      "providers": [
+        "MGM+ Amazon Channel",
+        "MGM Plus Roku Premium Channel",
+        "MGM Plus",
+        "Philo",
         "Spectrum On Demand"
       ]
     }
