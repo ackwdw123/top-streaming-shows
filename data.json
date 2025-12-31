@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-30T12:40:24.077618Z",
+  "generated_at": "2025-12-31T12:39:34.700298Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -17,6 +17,19 @@
       ]
     },
     {
+      "id": 106379,
+      "title": "Fallout",
+      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
+      "rating": 8.2,
+      "first_air_date": "2024-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/106379",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
       "id": 225171,
       "title": "Pluribus",
       "overview": "The most miserable person on Earth must save the world from happiness.",
@@ -30,10 +43,23 @@
       ]
     },
     {
+      "id": 238458,
+      "title": "Cashero",
+      "overview": "An ordinary man who inherits super strength discovers a greater evil out to steal his power. The one catch? Every use drains money from his wallet.",
+      "rating": 7.4,
+      "first_air_date": "2025-12-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/238458",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 246412,
       "title": "The Copenhagen Test",
       "overview": "When an analyst discovers his eyes and ears have been hacked, he's drawn into a controlled world designed by his agency to draw out their enemies.",
-      "rating": 5.4,
+      "rating": 5.6,
       "first_air_date": "2025-12-27",
       "poster_url": "https://image.tmdb.org/t/p/w500/9NjLaKL5pa2m4whf4cHAgfhyIzc.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/246412",
@@ -43,16 +69,57 @@
       ]
     },
     {
-      "id": 106379,
-      "title": "Fallout",
-      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
-      "rating": 8.2,
-      "first_air_date": "2024-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/106379",
+      "id": 301507,
+      "title": "Heated Rivalry",
+      "overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
+      "rating": 8.7,
+      "first_air_date": "2025-11-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/epgr7n61vVIniyAghz2GYj22DkC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/301507",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "HBO Max",
+        "HBO Max Amazon Channel"
+      ]
+    },
+    {
+      "id": 456,
+      "title": "The Simpsons",
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "rating": 8.0,
+      "first_air_date": "1989-12-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/456",
+      "providers": [
+        "Disney Plus",
+        "Hulu",
+        "fuboTV",
+        "YouTube TV"
+      ]
+    },
+    {
+      "id": 63926,
+      "title": "One-Punch Man",
+      "overview": "The most powerful superhero in the world can kill anyone with one blow. But nothing can challenge him, so he struggles with ennui and depression.",
+      "rating": 8.4,
+      "first_air_date": "2015-10-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dT10AxJIXVvRwFAew4tt2RhzJrD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/63926",
+      "providers": [
+        "Hulu"
+      ]
+    },
+    {
+      "id": 200875,
+      "title": "IT: Welcome to Derry",
+      "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
+      "rating": 8.2,
+      "first_air_date": "2025-10-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/200875",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "Spectrum On Demand"
       ]
     },
     {
@@ -69,79 +136,6 @@
         "Crunchyroll",
         "Crunchyroll Amazon Channel",
         "YouTube TV",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 63926,
-      "title": "One-Punch Man",
-      "overview": "The most powerful superhero in the world can kill anyone with one blow. But nothing can challenge him, so he struggles with ennui and depression.",
-      "rating": 8.4,
-      "first_air_date": "2015-10-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dT10AxJIXVvRwFAew4tt2RhzJrD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/63926",
-      "providers": [
-        "Hulu"
-      ]
-    },
-    {
-      "id": 157741,
-      "title": "Landman",
-      "overview": "Set in the proverbial boomtowns of West-Texas and a modern-day tale of fortune-seeking in the world of oil rigs, the series is an upstairs/downstairs story of roughnecks and wildcat billionaires that are fueling a boom so big it’s reshaping our climate, our economy and our geopolitics.",
-      "rating": 8.0,
-      "first_air_date": "2024-11-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/157741",
-      "providers": [
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel",
-        "Paramount+ Originals Amazon Channel",
-        "Paramount+ MTV Amazon Channel",
-        "Paramount Plus Essential",
-        "Paramount Plus Premium"
-      ]
-    },
-    {
-      "id": 272418,
-      "title": "Robin Hood",
-      "overview": "A modern reimagining of the classic tale. After the Norman invasion of England, Rob, a Saxon forester’s son, and Marian, a Norman lord’s daughter, fall in love and unite to fight for justice, challenge corruption, and restore peace to the land.",
-      "rating": 7.6,
-      "first_air_date": "2025-11-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3teWChNzKJdbfen46IdeKTygdZa.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/272418",
-      "providers": [
-        "MGM+ Amazon Channel",
-        "MGM Plus Roku Premium Channel",
-        "MGM Plus",
-        "Philo",
-        "Spectrum On Demand"
-      ]
-    },
-    {
-      "id": 120089,
-      "title": "SPY x FAMILY",
-      "overview": "A spy, an assassin and a telepath come together to pose as a family, each for their own reasons, while hiding their true identities from each other.",
-      "rating": 8.5,
-      "first_air_date": "2022-04-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7NAvPYPAu7MeHwP8E9sn81PqsRh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/120089",
-      "providers": [
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 238458,
-      "title": "Cashero",
-      "overview": "An ordinary man who inherits super strength discovers a greater evil out to steal his power. The one catch? Every use drains money from his wallet.",
-      "rating": 7.5,
-      "first_air_date": "2025-12-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/238458",
-      "providers": [
-        "Netflix",
         "Netflix Standard with Ads"
       ]
     }
