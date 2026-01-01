@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-31T12:39:34.700298Z",
+  "generated_at": "2026-01-01T12:39:11.578073Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -9,7 +9,7 @@
       "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
       "rating": 8.6,
       "first_air_date": "2016-07-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/66732",
       "providers": [
         "Netflix",
@@ -30,6 +30,19 @@
       ]
     },
     {
+      "id": 83121,
+      "title": "Kaguya-sama: Love Is War",
+      "overview": "Considered a genius due to having the highest grades in the country, Miyuki Shirogane leads the prestigious Shuchiin Academy's student council as its president, working alongside the beautiful and wealthy vice president Kaguya Shinomiya. The two are often regarded as the perfect couple by students despite them not being in any sort of romantic relationship.",
+      "rating": 8.5,
+      "first_air_date": "2019-01-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5khbC6AuNgnvnoDbjIMKCOhEtIc.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/83121",
+      "providers": [
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
+    {
       "id": 225171,
       "title": "Pluribus",
       "overview": "The most miserable person on Earth must save the world from happiness.",
@@ -43,36 +56,10 @@
       ]
     },
     {
-      "id": 238458,
-      "title": "Cashero",
-      "overview": "An ordinary man who inherits super strength discovers a greater evil out to steal his power. The one catch? Every use drains money from his wallet.",
-      "rating": 7.4,
-      "first_air_date": "2025-12-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/238458",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 246412,
-      "title": "The Copenhagen Test",
-      "overview": "When an analyst discovers his eyes and ears have been hacked, he's drawn into a controlled world designed by his agency to draw out their enemies.",
-      "rating": 5.6,
-      "first_air_date": "2025-12-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9NjLaKL5pa2m4whf4cHAgfhyIzc.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/246412",
-      "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
-      ]
-    },
-    {
       "id": 301507,
       "title": "Heated Rivalry",
       "overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
-      "rating": 8.7,
+      "rating": 8.6,
       "first_air_date": "2025-11-28",
       "poster_url": "https://image.tmdb.org/t/p/w500/epgr7n61vVIniyAghz2GYj22DkC.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/301507",
@@ -82,44 +69,29 @@
       ]
     },
     {
-      "id": 456,
-      "title": "The Simpsons",
-      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-      "rating": 8.0,
-      "first_air_date": "1989-12-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/456",
+      "id": 61859,
+      "title": "The Night Manager",
+      "overview": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal.",
+      "rating": 7.7,
+      "first_air_date": "2016-02-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hdCC5N42cXERbzIn6ED7oqTKtkq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/61859",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 103540,
+      "title": "Percy Jackson and the Olympians",
+      "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
+      "rating": 7.3,
+      "first_air_date": "2023-12-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/40eFcTzZier3DWLqldsP5VHxeoD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/103540",
       "providers": [
         "Disney Plus",
-        "Hulu",
-        "fuboTV",
-        "YouTube TV"
-      ]
-    },
-    {
-      "id": 63926,
-      "title": "One-Punch Man",
-      "overview": "The most powerful superhero in the world can kill anyone with one blow. But nothing can challenge him, so he struggles with ennui and depression.",
-      "rating": 8.4,
-      "first_air_date": "2015-10-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dT10AxJIXVvRwFAew4tt2RhzJrD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/63926",
-      "providers": [
         "Hulu"
-      ]
-    },
-    {
-      "id": 200875,
-      "title": "IT: Welcome to Derry",
-      "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
-      "rating": 8.2,
-      "first_air_date": "2025-10-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/200875",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "Spectrum On Demand"
       ]
     },
     {
@@ -137,6 +109,31 @@
         "Crunchyroll Amazon Channel",
         "YouTube TV",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 246412,
+      "title": "The Copenhagen Test",
+      "overview": "When an analyst discovers his eyes and ears have been hacked, he's drawn into a controlled world designed by his agency to draw out their enemies.",
+      "rating": 5.7,
+      "first_air_date": "2025-12-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9NjLaKL5pa2m4whf4cHAgfhyIzc.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/246412",
+      "providers": [
+        "Peacock Premium",
+        "Peacock Premium Plus"
+      ]
+    },
+    {
+      "id": 63926,
+      "title": "One-Punch Man",
+      "overview": "The most powerful superhero in the world can kill anyone with one blow. But nothing can challenge him, so he struggles with ennui and depression.",
+      "rating": 8.4,
+      "first_air_date": "2015-10-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dT10AxJIXVvRwFAew4tt2RhzJrD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/63926",
+      "providers": [
+        "Hulu"
       ]
     }
   ]
