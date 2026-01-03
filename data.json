@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T12:38:13.797390Z",
+  "generated_at": "2026-01-03T12:36:12.860659Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -17,19 +17,6 @@
       ]
     },
     {
-      "id": 61859,
-      "title": "The Night Manager",
-      "overview": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal.",
-      "rating": 7.7,
-      "first_air_date": "2016-02-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/f99GnEDXsfF3sicqZzSqjzQutAB.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/61859",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
       "id": 225171,
       "title": "Pluribus",
       "overview": "The most miserable person on Earth must save the world from happiness.",
@@ -40,6 +27,19 @@
       "providers": [
         "Apple TV",
         "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 244244,
+      "title": "Run Away",
+      "overview": "A desperate father searching for his runaway daughter gets caught up in a murder case — and stumbles upon secrets which could destroy his family for good.",
+      "rating": 7.0,
+      "first_air_date": "2026-01-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/btmvtGsVZZUvJoWGGtzPaBOGEgr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/244244",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -56,6 +56,32 @@
       ]
     },
     {
+      "id": 61859,
+      "title": "The Night Manager",
+      "overview": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal.",
+      "rating": 7.8,
+      "first_air_date": "2016-02-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f99GnEDXsfF3sicqZzSqjzQutAB.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/61859",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 67063,
+      "title": "Hitori No Shita - The Outcast",
+      "overview": "Zhang Chulan leads a very common college student's life until he finds himself caught up in a terrible incident that happened in a small village. As he was walking through a graveyard, he is assaulted by zombies. Thinking that it was over for him, a mysterious girl carrying a sword suddenly saves him and disappears.",
+      "rating": 6.9,
+      "first_air_date": "2016-07-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/i3Vg5SKaWWNjMvK3CsuK5itIrzG.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/67063",
+      "providers": [
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
+    {
       "id": 83121,
       "title": "Kaguya-sama: Love Is War",
       "overview": "Considered a genius due to having the highest grades in the country, Miyuki Shirogane leads the prestigious Shuchiin Academy's student council as its president, working alongside the beautiful and wealthy vice president Kaguya Shinomiya. The two are often regarded as the perfect couple by students despite them not being in any sort of romantic relationship.",
@@ -69,34 +95,33 @@
       ]
     },
     {
-      "id": 240459,
-      "title": "Spartacus: House of Ashur",
-      "overview": "In a world where he survived the events of Spartacus (2010), Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
-      "rating": 6.3,
-      "first_air_date": "2025-12-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/240459",
+      "id": 37854,
+      "title": "One Piece",
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "rating": 8.7,
+      "first_air_date": "1999-10-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/37854",
       "providers": [
-        "Starz Apple TV Channel",
-        "Starz Roku Premium Channel",
-        "Starz",
-        "Philo",
-        "Spectrum On Demand",
-        "Starz Amazon Channel"
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "YouTube TV",
+        "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 200875,
-      "title": "IT: Welcome to Derry",
-      "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
-      "rating": 8.2,
-      "first_air_date": "2025-10-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/200875",
+      "id": 246412,
+      "title": "The Copenhagen Test",
+      "overview": "When an analyst discovers his eyes and ears have been hacked, he's drawn into a controlled world designed by his agency to draw out their enemies.",
+      "rating": 5.8,
+      "first_air_date": "2025-12-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9NjLaKL5pa2m4whf4cHAgfhyIzc.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/246412",
       "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "Spectrum On Demand"
+        "Peacock Premium",
+        "Peacock Premium Plus"
       ]
     },
     {
@@ -110,31 +135,6 @@
       "providers": [
         "Crunchyroll",
         "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 246412,
-      "title": "The Copenhagen Test",
-      "overview": "When an analyst discovers his eyes and ears have been hacked, he's drawn into a controlled world designed by his agency to draw out their enemies.",
-      "rating": 5.7,
-      "first_air_date": "2025-12-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9NjLaKL5pa2m4whf4cHAgfhyIzc.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/246412",
-      "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
-      ]
-    },
-    {
-      "id": 63926,
-      "title": "One-Punch Man",
-      "overview": "The most powerful superhero in the world can kill anyone with one blow. But nothing can challenge him, so he struggles with ennui and depression.",
-      "rating": 8.4,
-      "first_air_date": "2015-10-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dT10AxJIXVvRwFAew4tt2RhzJrD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/63926",
-      "providers": [
-        "Hulu"
       ]
     }
   ]
