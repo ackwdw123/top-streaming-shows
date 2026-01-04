@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-03T12:36:12.860659Z",
+  "generated_at": "2026-01-04T12:37:07.324323Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -11,6 +11,83 @@
       "first_air_date": "2016-07-15",
       "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/66732",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 229858,
+      "title": "Fate/strange Fake",
+      "overview": "In a Holy Grail War, Mages (Masters) and their Heroic Spirits (Servants) fight for the control of the Holy Grail—an omnipotent wish-granting device said to fulfill any desire. Years have passed since the end of the Fifth Holy Grail War in Japan. Now, signs portend the emergence of a new Holy Grail in the western American city of Snowfield",
+      "rating": 7.9,
+      "first_air_date": "2024-12-31",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2r5MEaLYl5lZxzgfSmrDybipngl.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/229858",
+      "providers": [
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
+    {
+      "id": 106379,
+      "title": "Fallout",
+      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
+      "rating": 8.2,
+      "first_air_date": "2024-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/106379",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 83121,
+      "title": "Kaguya-sama: Love Is War",
+      "overview": "Considered a genius due to having the highest grades in the country, Miyuki Shirogane leads the prestigious Shuchiin Academy's student council as its president, working alongside the beautiful and wealthy vice president Kaguya Shinomiya. The two are often regarded as the perfect couple by students despite them not being in any sort of romantic relationship.",
+      "rating": 8.5,
+      "first_air_date": "2019-01-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5khbC6AuNgnvnoDbjIMKCOhEtIc.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/83121",
+      "providers": [
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
+    {
+      "id": 272586,
+      "title": "Land of Sin",
+      "overview": "When a teenager goes missing, a detective with personal ties to the case joins a tense investigation that reveals fierce loyalties and old family feuds.",
+      "rating": 5.1,
+      "first_air_date": "2026-01-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kAy0vnaxCPcLrmPCHWgfwWoWelL.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/272586",
+      "providers": [
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 61859,
+      "title": "The Night Manager",
+      "overview": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal.",
+      "rating": 7.8,
+      "first_air_date": "2016-02-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f99GnEDXsfF3sicqZzSqjzQutAB.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/61859",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 244244,
+      "title": "Run Away",
+      "overview": "A desperate father searching for his runaway daughter gets caught up in a murder case — and stumbles upon secrets which could destroy his family for good.",
+      "rating": 7.2,
+      "first_air_date": "2026-01-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/btmvtGsVZZUvJoWGGtzPaBOGEgr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/244244",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -30,68 +107,20 @@
       ]
     },
     {
-      "id": 244244,
-      "title": "Run Away",
-      "overview": "A desperate father searching for his runaway daughter gets caught up in a murder case — and stumbles upon secrets which could destroy his family for good.",
-      "rating": 7.0,
-      "first_air_date": "2026-01-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/btmvtGsVZZUvJoWGGtzPaBOGEgr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/244244",
+      "id": 240459,
+      "title": "Spartacus: House of Ashur",
+      "overview": "In a world where he survived the events of Spartacus (2010), Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
+      "rating": 6.2,
+      "first_air_date": "2025-12-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/240459",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 106379,
-      "title": "Fallout",
-      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
-      "rating": 8.2,
-      "first_air_date": "2024-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/106379",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 61859,
-      "title": "The Night Manager",
-      "overview": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal.",
-      "rating": 7.8,
-      "first_air_date": "2016-02-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/f99GnEDXsfF3sicqZzSqjzQutAB.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/61859",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 67063,
-      "title": "Hitori No Shita - The Outcast",
-      "overview": "Zhang Chulan leads a very common college student's life until he finds himself caught up in a terrible incident that happened in a small village. As he was walking through a graveyard, he is assaulted by zombies. Thinking that it was over for him, a mysterious girl carrying a sword suddenly saves him and disappears.",
-      "rating": 6.9,
-      "first_air_date": "2016-07-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/i3Vg5SKaWWNjMvK3CsuK5itIrzG.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/67063",
-      "providers": [
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 83121,
-      "title": "Kaguya-sama: Love Is War",
-      "overview": "Considered a genius due to having the highest grades in the country, Miyuki Shirogane leads the prestigious Shuchiin Academy's student council as its president, working alongside the beautiful and wealthy vice president Kaguya Shinomiya. The two are often regarded as the perfect couple by students despite them not being in any sort of romantic relationship.",
-      "rating": 8.5,
-      "first_air_date": "2019-01-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5khbC6AuNgnvnoDbjIMKCOhEtIc.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/83121",
-      "providers": [
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
+        "Starz Apple TV Channel",
+        "Starz Roku Premium Channel",
+        "Starz",
+        "Philo",
+        "Spectrum On Demand",
+        "Starz Amazon Channel"
       ]
     },
     {
@@ -109,32 +138,6 @@
         "Crunchyroll Amazon Channel",
         "YouTube TV",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 246412,
-      "title": "The Copenhagen Test",
-      "overview": "When an analyst discovers his eyes and ears have been hacked, he's drawn into a controlled world designed by his agency to draw out their enemies.",
-      "rating": 5.8,
-      "first_air_date": "2025-12-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9NjLaKL5pa2m4whf4cHAgfhyIzc.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/246412",
-      "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
-      ]
-    },
-    {
-      "id": 154526,
-      "title": "MF GHOST",
-      "overview": "Japan adopts self-driving electric automobiles and renders most gas engines obsolete by 202X. The fastest cars find new life in the MFG, a racing circuit held on Japanese motorways. Drivers from around the world race for a shot at the title. Kanata Rivington returns from Britain to Japan for the MFG—and to find his father. Can he win the title and find answers? Buckle up and push it to the limit!",
-      "rating": 8.2,
-      "first_air_date": "2023-10-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jqkDWnBDltFCjAdhxCqUWg9GXFB.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/154526",
-      "providers": [
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
       ]
     }
   ]
