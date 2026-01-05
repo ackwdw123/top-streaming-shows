@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-04T12:37:07.324323Z",
+  "generated_at": "2026-01-05T12:42:43.308141Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -17,15 +17,27 @@
       ]
     },
     {
-      "id": 229858,
-      "title": "Fate/strange Fake",
-      "overview": "In a Holy Grail War, Mages (Masters) and their Heroic Spirits (Servants) fight for the control of the Holy Grail—an omnipotent wish-granting device said to fulfill any desire. Years have passed since the end of the Fifth Holy Grail War in Japan. Now, signs portend the emergence of a new Holy Grail in the western American city of Snowfield",
-      "rating": 7.9,
-      "first_air_date": "2024-12-31",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2r5MEaLYl5lZxzgfSmrDybipngl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/229858",
+      "id": 244244,
+      "title": "Run Away",
+      "overview": "A desperate father searching for his runaway daughter gets caught up in a murder case — and stumbles upon secrets which could destroy his family for good.",
+      "rating": 6.6,
+      "first_air_date": "2026-01-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/frKxKytEHIA2vXg4RAz14Sc0UmS.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/244244",
       "providers": [
-        "Crunchyroll",
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 249907,
+      "title": "Sentenced to Be a Hero",
+      "overview": "In a world where heroism is a punishment, Xylo Forbartz, a condemned goddess killer, battles endless hordes of monstrous abominations as part of Penal Hero Unit 9004. Death is no escape, only a cycle of resurrection and relentless combat. But when Xylo encounters a mysterious new goddess, their unlikely alliance sparks a rebellion that could shatter the chains of eternal punishment.",
+      "rating": 9.2,
+      "first_air_date": "2026-01-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/k8bh5mvHDx3czHSF56v9lRyulLC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/249907",
+      "providers": [
         "Crunchyroll Amazon Channel"
       ]
     },
@@ -43,28 +55,64 @@
       ]
     },
     {
-      "id": 83121,
-      "title": "Kaguya-sama: Love Is War",
-      "overview": "Considered a genius due to having the highest grades in the country, Miyuki Shirogane leads the prestigious Shuchiin Academy's student council as its president, working alongside the beautiful and wealthy vice president Kaguya Shinomiya. The two are often regarded as the perfect couple by students despite them not being in any sort of romantic relationship.",
-      "rating": 8.5,
-      "first_air_date": "2019-01-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5khbC6AuNgnvnoDbjIMKCOhEtIc.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/83121",
+      "id": 225171,
+      "title": "Pluribus",
+      "overview": "The most miserable person on Earth must save the world from happiness.",
+      "rating": 8.0,
+      "first_air_date": "2025-11-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/225171",
       "providers": [
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
-      "id": 272586,
-      "title": "Land of Sin",
-      "overview": "When a teenager goes missing, a detective with personal ties to the case joins a tense investigation that reveals fierce loyalties and old family feuds.",
-      "rating": 5.1,
-      "first_air_date": "2026-01-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kAy0vnaxCPcLrmPCHWgfwWoWelL.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/272586",
+      "id": 157741,
+      "title": "Landman",
+      "overview": "Set in the proverbial boomtowns of West-Texas and a modern-day tale of fortune-seeking in the world of oil rigs, the series is an upstairs/downstairs story of roughnecks and wildcat billionaires that are fueling a boom so big it’s reshaping our climate, our economy and our geopolitics.",
+      "rating": 8.0,
+      "first_air_date": "2024-11-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/157741",
       "providers": [
-        "Netflix Standard with Ads"
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Paramount+ Originals Amazon Channel",
+        "Paramount+ MTV Amazon Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
+      ]
+    },
+    {
+      "id": 240459,
+      "title": "Spartacus: House of Ashur",
+      "overview": "In a world where he survived the events of Spartacus (2010), Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
+      "rating": 6.3,
+      "first_air_date": "2025-12-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/240459",
+      "providers": [
+        "Starz Apple TV Channel",
+        "Starz Roku Premium Channel",
+        "Starz",
+        "Philo",
+        "Spectrum On Demand",
+        "Starz Amazon Channel"
+      ]
+    },
+    {
+      "id": 229858,
+      "title": "Fate/strange Fake",
+      "overview": "In a Holy Grail War, Mages (Masters) and their Heroic Spirits (Servants) fight for the control of the Holy Grail—an omnipotent wish-granting device said to fulfill any desire. Years have passed since the end of the Fifth Holy Grail War in Japan. Now, signs portend the emergence of a new Holy Grail in the western American city of Snowfield",
+      "rating": 7.9,
+      "first_air_date": "2024-12-31",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2r5MEaLYl5lZxzgfSmrDybipngl.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/229858",
+      "providers": [
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
       ]
     },
     {
@@ -81,62 +129,14 @@
       ]
     },
     {
-      "id": 244244,
-      "title": "Run Away",
-      "overview": "A desperate father searching for his runaway daughter gets caught up in a murder case — and stumbles upon secrets which could destroy his family for good.",
-      "rating": 7.2,
-      "first_air_date": "2026-01-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/btmvtGsVZZUvJoWGGtzPaBOGEgr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/244244",
+      "id": 272586,
+      "title": "Land of Sin",
+      "overview": "When a teenager goes missing, a detective with personal ties to the case joins a tense investigation that reveals fierce loyalties and old family feuds.",
+      "rating": 5.3,
+      "first_air_date": "2026-01-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kAy0vnaxCPcLrmPCHWgfwWoWelL.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/272586",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 225171,
-      "title": "Pluribus",
-      "overview": "The most miserable person on Earth must save the world from happiness.",
-      "rating": 8.0,
-      "first_air_date": "2025-11-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/225171",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 240459,
-      "title": "Spartacus: House of Ashur",
-      "overview": "In a world where he survived the events of Spartacus (2010), Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
-      "rating": 6.2,
-      "first_air_date": "2025-12-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/240459",
-      "providers": [
-        "Starz Apple TV Channel",
-        "Starz Roku Premium Channel",
-        "Starz",
-        "Philo",
-        "Spectrum On Demand",
-        "Starz Amazon Channel"
-      ]
-    },
-    {
-      "id": 37854,
-      "title": "One Piece",
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "rating": 8.7,
-      "first_air_date": "1999-10-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/37854",
-      "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "YouTube TV",
         "Netflix Standard with Ads"
       ]
     }
