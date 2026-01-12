@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-01-11T12:37:36.378201Z",
+  "generated_at": "2026-01-12T12:43:01.309331Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 117465,
+      "title": "Hell's Paradise",
+      "overview": "For a chance at a pardon, a ninja assassin joins other condemned criminals on a journey to a mysterious island to retrieve an elixir of immortality.",
+      "rating": 8.1,
+      "first_air_date": "2023-04-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1V9I7SvZbYoMbSvdtnlkkq9SB1k.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/117465",
+      "providers": [
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 61859,
+      "title": "The Night Manager",
+      "overview": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal.",
+      "rating": 7.8,
+      "first_air_date": "2016-02-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f99GnEDXsfF3sicqZzSqjzQutAB.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/61859",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
     {
       "id": 95479,
       "title": "JUJUTSU KAISEN",
@@ -33,24 +62,24 @@
       ]
     },
     {
-      "id": 204266,
-      "title": "TRIGUN STAMPEDE",
-      "overview": "Vash the Stampede's a joyful gunslinging pacifist, so why does he have a $$6 million bounty on his head? That's what's puzzling rookie reporter Meryl Stryfe and her jaded veteran partner when looking into the vigilante only to find someone who hates blood. But their investigation turns out to uncover something heinous—his evil twin brother, Millions Knives.",
-      "rating": 7.3,
-      "first_air_date": "2023-01-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4rMkVmkk6AzrcbBX9JSwqyG7pbK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/204266",
+      "id": 250307,
+      "title": "The Pitt",
+      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+      "rating": 8.7,
+      "first_air_date": "2025-01-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/250307",
       "providers": [
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "HBO Max  Amazon Channel"
       ]
     },
     {
       "id": 259731,
       "title": "HIS & HERS",
       "overview": "Two estranged spouses — one a detective, the other a news reporter — vie to solve a murder in which each believes the other is a prime suspect.",
-      "rating": 5.7,
+      "rating": 6.2,
       "first_air_date": "2026-01-08",
       "poster_url": "https://image.tmdb.org/t/p/w500/cDSXLVQLkCSBIpBx3UW04TsfZ5c.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/259731",
@@ -60,44 +89,15 @@
       ]
     },
     {
-      "id": 229858,
-      "title": "Fate/strange Fake",
-      "overview": "In a Holy Grail War, Mages (Masters) and their Heroic Spirits (Servants) fight for the control of the Holy Grail—an omnipotent wish-granting device said to fulfill any desire. Years have passed since the end of the Fifth Holy Grail War in Japan. Now, signs portend the emergence of a new Holy Grail in the western American city of Snowfield",
-      "rating": 7.9,
-      "first_air_date": "2024-12-31",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kIqbeGr5dmQsR1tiR9D1MCqJzAw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/229858",
+      "id": 90812,
+      "title": "Industry",
+      "overview": "In the cutthroat world of international finance, a group of young graduates compete for a limited set of permanent positions at a top investment bank in London. The boundaries between colleague, friend, lover, and enemy soon blur as they immerse themselves in a company culture defined as much by sex, drugs and ego as it is by deals and dividends.",
+      "rating": 6.8,
+      "first_air_date": "2020-11-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mZ7YFEOxAKfjXJKWm0sYFXQ8n8A.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/90812",
       "providers": [
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 61859,
-      "title": "The Night Manager",
-      "overview": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal.",
-      "rating": 7.8,
-      "first_air_date": "2016-02-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/f99GnEDXsfF3sicqZzSqjzQutAB.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/61859",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 119769,
-      "title": "Taxi Driver",
-      "overview": "A former special forces soldier delivers revenge for victims of injustice while working for a secret organization that fronts as a taxi company.",
-      "rating": 8.1,
-      "first_air_date": "2021-04-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lghfb8beej1aH9ML8QyeSixniom.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/119769",
-      "providers": [
-        "Rakuten Viki",
-        "OnDemandKorea",
-        "Kocowa Amazon Channel",
-        "Kocowa"
+        "HBO Max"
       ]
     },
     {
@@ -114,34 +114,34 @@
       ]
     },
     {
-      "id": 250307,
-      "title": "The Pitt",
-      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-      "rating": 8.7,
-      "first_air_date": "2025-01-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/250307",
+      "id": 157741,
+      "title": "Landman",
+      "overview": "Set in the proverbial boomtowns of West-Texas and a modern-day tale of fortune-seeking in the world of oil rigs, the series is an upstairs/downstairs story of roughnecks and wildcat billionaires that are fueling a boom so big it’s reshaping our climate, our economy and our geopolitics.",
+      "rating": 8.0,
+      "first_air_date": "2024-11-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/157741",
       "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "HBO Max  Amazon Channel"
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Paramount+ Originals Amazon Channel",
+        "Paramount+ MTV Amazon Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
       ]
     },
     {
-      "id": 37854,
-      "title": "One Piece",
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "rating": 8.7,
-      "first_air_date": "1999-10-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/37854",
+      "id": 229858,
+      "title": "Fate/strange Fake",
+      "overview": "In a Holy Grail War, Mages (Masters) and their Heroic Spirits (Servants) fight for the control of the Holy Grail—an omnipotent wish-granting device said to fulfill any desire. Years have passed since the end of the Fifth Holy Grail War in Japan. Now, signs portend the emergence of a new Holy Grail in the western American city of Snowfield",
+      "rating": 7.9,
+      "first_air_date": "2024-12-31",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kIqbeGr5dmQsR1tiR9D1MCqJzAw.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/229858",
       "providers": [
-        "Netflix",
-        "Hulu",
         "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "YouTube TV",
-        "Netflix Standard with Ads"
+        "Crunchyroll Amazon Channel"
       ]
     }
   ]
