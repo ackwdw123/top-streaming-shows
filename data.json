@@ -1,19 +1,34 @@
 {
-  "generated_at": "2026-01-13T12:42:53.297657Z",
+  "generated_at": "2026-01-14T12:41:58.858978Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
-      "id": 61859,
-      "title": "The Night Manager",
-      "overview": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal.",
-      "rating": 7.8,
-      "first_air_date": "2016-02-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/61859",
+      "id": 198102,
+      "title": "Hijack",
+      "overview": "Expert negotiator Sam Nelson is in for the ride of his life—and so is everyone on board with him—after a group of hijackers take control. Sam will try every move in his playbook to take them down...as the stakes grow higher by the second.",
+      "rating": 7.6,
+      "first_air_date": "2023-06-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2C51clnxQdiqPDeqQlXcUx70hse.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/198102",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Apple TV",
+        "Peacock Premium",
+        "Peacock Premium Plus",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 130464,
+      "title": "Tell Me Lies",
+      "overview": "When Lucy Albright arrives on the campus of her small college, away from her mother whom she's never forgiven for an act of betrayal in her early teen years, Lucy embraces college life and all it has to offer. But everything changes when she meets Stephen DeMarco, who has a mysterious past of his own. Their addicting entanglement will have consequences they never could have imagined.",
+      "rating": 7.4,
+      "first_air_date": "2022-09-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tc5c5X1ZbJx5guaQUo1Xqt24S8z.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/130464",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
       ]
     },
     {
@@ -24,74 +39,6 @@
       "first_air_date": "2016-07-15",
       "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/66732",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 95479,
-      "title": "JUJUTSU KAISEN",
-      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
-      "rating": 8.6,
-      "first_air_date": "2020-10-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95479",
-      "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 250307,
-      "title": "The Pitt",
-      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-      "rating": 8.7,
-      "first_air_date": "2025-01-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/250307",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "HBO Max  Amazon Channel"
-      ]
-    },
-    {
-      "id": 90812,
-      "title": "Industry",
-      "overview": "In the cutthroat world of international finance, a group of young graduates compete for a limited set of permanent positions at a top investment bank in London. The boundaries between colleague, friend, lover, and enemy soon blur as they immerse themselves in a company culture defined as much by sex, drugs and ego as it is by deals and dividends.",
-      "rating": 6.8,
-      "first_air_date": "2020-11-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mZ7YFEOxAKfjXJKWm0sYFXQ8n8A.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/90812",
-      "providers": [
-        "HBO Max"
-      ]
-    },
-    {
-      "id": 229443,
-      "title": "'Tis Time for \"Torture,\" Princess",
-      "overview": "As the war between the Imperial Army and Hellhorde rages on, the Princess, despite being armed with her mythical sword Excalibur, is captured and imprisoned. What kind of torture does she face at the hands of the chief demon interrogator? Fluffy fresh-baked toast! Hot, steaming ramen! Oh, the humanity! Can the Princess withstand these tormenting treats and keep her kingdom’s secrets safe?",
-      "rating": 6.9,
-      "first_air_date": "2024-01-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/c5t7QsHxMqnv7Fi7TAaG3eB5Al3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/229443",
-      "providers": [
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 259731,
-      "title": "HIS & HERS",
-      "overview": "Two estranged spouses — one a detective, the other a news reporter — vie to solve a murder in which each believes the other is a prime suspect.",
-      "rating": 6.4,
-      "first_air_date": "2026-01-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cDSXLVQLkCSBIpBx3UW04TsfZ5c.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/259731",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -111,13 +58,13 @@
       ]
     },
     {
-      "id": 117465,
-      "title": "Hell's Paradise",
-      "overview": "For a chance at a pardon, a ninja assassin joins other condemned criminals on a journey to a mysterious island to retrieve an elixir of immortality.",
-      "rating": 8.1,
-      "first_air_date": "2023-04-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1V9I7SvZbYoMbSvdtnlkkq9SB1k.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/117465",
+      "id": 95479,
+      "title": "JUJUTSU KAISEN",
+      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+      "rating": 8.6,
+      "first_air_date": "2020-10-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95479",
       "providers": [
         "Netflix",
         "Hulu",
@@ -127,19 +74,73 @@
       ]
     },
     {
-      "id": 89456,
-      "title": "Primal",
-      "overview": "A caveman forms a bond with a dinosaur as they struggle to survive in a hostile world.",
-      "rating": 8.6,
-      "first_air_date": "2019-10-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ebupzTwgP8nBy0T5J3abqTqUMjK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/89456",
+      "id": 61859,
+      "title": "The Night Manager",
+      "overview": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal.",
+      "rating": 7.8,
+      "first_air_date": "2016-02-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/61859",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 250307,
+      "title": "The Pitt",
+      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+      "rating": 8.7,
+      "first_air_date": "2025-01-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/250307",
       "providers": [
         "HBO Max",
         "HBO Max Amazon Channel",
-        "YouTube TV",
-        "Adult Swim",
-        "Adultswim Amazon Channel"
+        "HBO Max  Amazon Channel"
+      ]
+    },
+    {
+      "id": 259731,
+      "title": "HIS & HERS",
+      "overview": "Two estranged spouses — one a detective, the other a news reporter — vie to solve a murder in which each believes the other is a prime suspect.",
+      "rating": 6.5,
+      "first_air_date": "2026-01-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cDSXLVQLkCSBIpBx3UW04TsfZ5c.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/259731",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 225171,
+      "title": "Pluribus",
+      "overview": "The most miserable person on Earth must save the world from happiness.",
+      "rating": 8.0,
+      "first_air_date": "2025-11-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/225171",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 157741,
+      "title": "Landman",
+      "overview": "Set in the proverbial boomtowns of West-Texas and a modern-day tale of fortune-seeking in the world of oil rigs, the series is an upstairs/downstairs story of roughnecks and wildcat billionaires that are fueling a boom so big it’s reshaping our climate, our economy and our geopolitics.",
+      "rating": 8.0,
+      "first_air_date": "2024-11-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/157741",
+      "providers": [
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Originals Amazon Channel",
+        "Paramount+ MTV Amazon Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
       ]
     }
   ]
