@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-01-14T12:41:58.858978Z",
+  "generated_at": "2026-01-15T12:41:47.624243Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 203737,
+      "title": "【OSHI NO KO】",
+      "overview": "A small-town doctor gets sucked into the ruthless world of show business when he crosses paths with a popular teen idol who holds a secret.",
+      "rating": 8.3,
+      "first_air_date": "2023-04-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/okbW9NdKRNKgIUTVA8YZAUGwIUx.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/203737",
+      "providers": [
+        "Hulu",
+        "HiDive",
+        "Hidive Amazon Channel"
+      ]
+    },
     {
       "id": 198102,
       "title": "Hijack",
@@ -19,16 +33,16 @@
       ]
     },
     {
-      "id": 130464,
-      "title": "Tell Me Lies",
-      "overview": "When Lucy Albright arrives on the campus of her small college, away from her mother whom she's never forgiven for an act of betrayal in her early teen years, Lucy embraces college life and all it has to offer. But everything changes when she meets Stephen DeMarco, who has a mysterious past of his own. Their addicting entanglement will have consequences they never could have imagined.",
-      "rating": 7.4,
-      "first_air_date": "2022-09-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tc5c5X1ZbJx5guaQUo1Xqt24S8z.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/130464",
+      "id": 106379,
+      "title": "Fallout",
+      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
+      "rating": 8.2,
+      "first_air_date": "2024-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/106379",
       "providers": [
-        "Disney Plus",
-        "Hulu"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -45,16 +59,16 @@
       ]
     },
     {
-      "id": 106379,
-      "title": "Fallout",
-      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
-      "rating": 8.2,
-      "first_air_date": "2024-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/106379",
+      "id": 246473,
+      "title": "Made in Korea",
+      "overview": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
+      "rating": 7.9,
+      "first_air_date": "2025-12-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cyBg9FJ2AmTWEGktA43gMo4t0Vj.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/246473",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Disney Plus",
+        "Hulu"
       ]
     },
     {
@@ -74,16 +88,16 @@
       ]
     },
     {
-      "id": 61859,
-      "title": "The Night Manager",
-      "overview": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal.",
-      "rating": 7.8,
-      "first_air_date": "2016-02-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/61859",
+      "id": 103540,
+      "title": "Percy Jackson and the Olympians",
+      "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
+      "rating": 7.3,
+      "first_air_date": "2023-12-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/40eFcTzZier3DWLqldsP5VHxeoD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/103540",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Disney Plus",
+        "Hulu"
       ]
     },
     {
@@ -101,46 +115,31 @@
       ]
     },
     {
-      "id": 259731,
-      "title": "HIS & HERS",
-      "overview": "Two estranged spouses — one a detective, the other a news reporter — vie to solve a murder in which each believes the other is a prime suspect.",
-      "rating": 6.5,
-      "first_air_date": "2026-01-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cDSXLVQLkCSBIpBx3UW04TsfZ5c.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/259731",
+      "id": 79744,
+      "title": "The Rookie",
+      "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "rating": 8.5,
+      "first_air_date": "2018-10-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/79744",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Hulu",
+        "fuboTV",
+        "YouTube TV",
+        "Philo"
       ]
     },
     {
-      "id": 225171,
-      "title": "Pluribus",
-      "overview": "The most miserable person on Earth must save the world from happiness.",
-      "rating": 8.0,
-      "first_air_date": "2025-11-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/225171",
+      "id": 61859,
+      "title": "The Night Manager",
+      "overview": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal.",
+      "rating": 7.8,
+      "first_air_date": "2016-02-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/61859",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 157741,
-      "title": "Landman",
-      "overview": "Set in the proverbial boomtowns of West-Texas and a modern-day tale of fortune-seeking in the world of oil rigs, the series is an upstairs/downstairs story of roughnecks and wildcat billionaires that are fueling a boom so big it’s reshaping our climate, our economy and our geopolitics.",
-      "rating": 8.0,
-      "first_air_date": "2024-11-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/157741",
-      "providers": [
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Originals Amazon Channel",
-        "Paramount+ MTV Amazon Channel",
-        "Paramount Plus Essential",
-        "Paramount Plus Premium"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     }
   ]
