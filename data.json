@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-01-16T12:41:02.955355Z",
+  "generated_at": "2026-01-17T12:36:14.327725Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 209867,
+      "title": "Frieren: Beyond Journey's End",
+      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
+      "rating": 8.7,
+      "first_air_date": "2023-09-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/209867",
+      "providers": [
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 223530,
+      "title": "Star Trek: Starfleet Academy",
+      "overview": "A young group of cadets come together to pursue a common dream of hope and optimism. Under the watchful and demanding eyes of their instructors, they will discover what it takes to become Starfleet officers as they navigate blossoming friendships, explosive rivalries, first loves and a new enemy that threatens both the Academy and the Federation itself.",
+      "rating": 5.1,
+      "first_air_date": "2026-01-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zrFh4BaFVjiAlYaD133LVHprhNQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/223530",
+      "providers": [
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Paramount+ Originals Amazon Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
+      ]
+    },
+    {
+      "id": 250505,
+      "title": "Agatha Christie's Seven Dials",
+      "overview": "England. 1925. At a lavish country house party, a practical joke appears to have gone horribly, murderously wrong. It will be up to the unlikeliest of sleuths - the fizzingly inquisitive Lady Eileen 'Bundle' Brent - to unravel a chilling plot that will change her life, cracking wide open the country house mystery.",
+      "rating": 6.0,
+      "first_air_date": "2026-01-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3uRQi9HDEAGSadoKee1UHoFCaU9.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/250505",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
     {
       "id": 95479,
       "title": "JUJUTSU KAISEN",
@@ -20,20 +66,6 @@
       ]
     },
     {
-      "id": 203737,
-      "title": "【OSHI NO KO】",
-      "overview": "A small-town doctor gets sucked into the ruthless world of show business when he crosses paths with a popular teen idol who holds a secret.",
-      "rating": 8.3,
-      "first_air_date": "2023-04-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/okbW9NdKRNKgIUTVA8YZAUGwIUx.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/203737",
-      "providers": [
-        "Hulu",
-        "HiDive",
-        "Hidive Amazon Channel"
-      ]
-    },
-    {
       "id": 250307,
       "title": "The Pitt",
       "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
@@ -48,41 +80,16 @@
       ]
     },
     {
-      "id": 106379,
-      "title": "Fallout",
-      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
-      "rating": 8.2,
-      "first_air_date": "2024-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/106379",
+      "id": 262793,
+      "title": "PONIES",
+      "overview": "In 1977 Moscow, two \"PONIES\" (\"persons of no interest\") become CIA operatives and uncover a Cold War conspiracy their husbands were killed for.",
+      "rating": 7.4,
+      "first_air_date": "2026-01-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rwKS6rSAqMGnXwBVteYkHxeDLWX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/262793",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 124595,
-      "title": "The Imperial Coroner",
-      "overview": "A female coroner and royal detective solve a decades-old mystery in Tang Dynasty China, risking all to expose dangerous secrets.",
-      "rating": 7.7,
-      "first_air_date": "2021-04-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8xlGLbfuGJqzornTo17CQK9PwVX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/124595",
-      "providers": [
-        "Rakuten Viki"
-      ]
-    },
-    {
-      "id": 66732,
-      "title": "Stranger Things",
-      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
-      "rating": 8.6,
-      "first_air_date": "2016-07-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/66732",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Peacock Premium",
+        "Peacock Premium Plus"
       ]
     },
     {
@@ -101,42 +108,45 @@
       ]
     },
     {
-      "id": 246473,
-      "title": "Made in Korea",
-      "overview": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
-      "rating": 7.9,
-      "first_air_date": "2025-12-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cyBg9FJ2AmTWEGktA43gMo4t0Vj.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/246473",
+      "id": 203737,
+      "title": "【OSHI NO KO】",
+      "overview": "A small-town doctor gets sucked into the ruthless world of show business when he crosses paths with a popular teen idol who holds a secret.",
+      "rating": 8.3,
+      "first_air_date": "2023-04-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/okbW9NdKRNKgIUTVA8YZAUGwIUx.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/203737",
       "providers": [
-        "Disney Plus",
-        "Hulu"
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "HiDive",
+        "Hidive Amazon Channel"
       ]
     },
     {
-      "id": 61859,
-      "title": "The Night Manager",
-      "overview": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal.",
-      "rating": 7.8,
-      "first_air_date": "2016-02-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/61859",
+      "id": 106379,
+      "title": "Fallout",
+      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
+      "rating": 8.2,
+      "first_air_date": "2024-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/106379",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
       ]
     },
     {
-      "id": 225171,
-      "title": "Pluribus",
-      "overview": "The most miserable person on Earth must save the world from happiness.",
-      "rating": 7.9,
-      "first_air_date": "2025-11-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/225171",
+      "id": 66732,
+      "title": "Stranger Things",
+      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "rating": 8.6,
+      "first_air_date": "2016-07-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/66732",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
