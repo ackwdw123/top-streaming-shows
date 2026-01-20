@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-19T12:45:22.578426Z",
+  "generated_at": "2026-01-20T12:45:25.677905Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -7,7 +7,7 @@
       "id": 224372,
       "title": "A Knight of the Seven Kingdoms",
       "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
-      "rating": 7.6,
+      "rating": 8.1,
       "first_air_date": "2026-01-18",
       "poster_url": "https://image.tmdb.org/t/p/w500/6igvNs5VJB4ryBLgjjXksDVs0Fm.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/224372",
@@ -32,6 +32,19 @@
       ]
     },
     {
+      "id": 66732,
+      "title": "Stranger Things",
+      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "rating": 8.6,
+      "first_air_date": "2016-07-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/66732",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 157741,
       "title": "Landman",
       "overview": "Set in the proverbial boomtowns of West-Texas and a modern-day tale of fortune-seeking in the world of oil rigs, the series is an upstairs/downstairs story of roughnecks and wildcat billionaires that are fueling a boom so big it’s reshaping our climate, our economy and our geopolitics.",
@@ -50,16 +63,16 @@
       ]
     },
     {
-      "id": 66732,
-      "title": "Stranger Things",
-      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
-      "rating": 8.6,
-      "first_air_date": "2016-07-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/66732",
+      "id": 61859,
+      "title": "The Night Manager",
+      "overview": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal.",
+      "rating": 7.8,
+      "first_air_date": "2016-02-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/61859",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -79,17 +92,16 @@
       ]
     },
     {
-      "id": 61859,
-      "title": "The Night Manager",
-      "overview": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal.",
-      "rating": 7.8,
-      "first_air_date": "2016-02-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/61859",
+      "id": 229891,
+      "title": "Can This Love Be Translated?",
+      "overview": "The emotions of a celebrity and her interpreter get lost in translation as they travel the world filming a TV show. Will love find its own language?",
+      "rating": 9.1,
+      "first_air_date": "2026-01-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/229891",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Video",
-        "Amazon Prime Video with Ads"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -103,19 +115,6 @@
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 229891,
-      "title": "Can This Love Be Translated?",
-      "overview": "The emotions of a celebrity and her interpreter get lost in translation as they travel the world filming a TV show. Will love find its own language?",
-      "rating": 9.0,
-      "first_air_date": "2026-01-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/229891",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     },
     {
@@ -135,16 +134,19 @@
       ]
     },
     {
-      "id": 250505,
-      "title": "Agatha Christie's Seven Dials",
-      "overview": "England. 1925. At a lavish country house party, a practical joke appears to have gone horribly, murderously wrong. It will be up to the unlikeliest of sleuths - the fizzingly inquisitive Lady Eileen 'Bundle' Brent - to unravel a chilling plot that will change her life, cracking wide open the country house mystery.",
-      "rating": 6.3,
-      "first_air_date": "2026-01-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3uRQi9HDEAGSadoKee1UHoFCaU9.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/250505",
+      "id": 89456,
+      "title": "Primal",
+      "overview": "A caveman forms a bond with a dinosaur as they struggle to survive in a hostile world.",
+      "rating": 8.6,
+      "first_air_date": "2019-10-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ebupzTwgP8nBy0T5J3abqTqUMjK.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/89456",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "YouTube TV",
+        "Adult Swim",
+        "Adultswim Amazon Channel"
       ]
     }
   ]
