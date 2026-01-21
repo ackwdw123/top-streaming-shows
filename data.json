@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-20T12:45:25.677905Z",
+  "generated_at": "2026-01-21T12:45:51.071687Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -12,7 +12,9 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/6igvNs5VJB4ryBLgjjXksDVs0Fm.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/224372",
       "providers": [
-        "HBO Max"
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "Spectrum On Demand"
       ]
     },
     {
@@ -32,79 +34,6 @@
       ]
     },
     {
-      "id": 66732,
-      "title": "Stranger Things",
-      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
-      "rating": 8.6,
-      "first_air_date": "2016-07-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/66732",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 157741,
-      "title": "Landman",
-      "overview": "Set in the proverbial boomtowns of West-Texas and a modern-day tale of fortune-seeking in the world of oil rigs, the series is an upstairs/downstairs story of roughnecks and wildcat billionaires that are fueling a boom so big it’s reshaping our climate, our economy and our geopolitics.",
-      "rating": 8.0,
-      "first_air_date": "2024-11-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/157741",
-      "providers": [
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel",
-        "Paramount+ Originals Amazon Channel",
-        "Paramount+ MTV Amazon Channel",
-        "Paramount Plus Essential",
-        "Paramount Plus Premium"
-      ]
-    },
-    {
-      "id": 61859,
-      "title": "The Night Manager",
-      "overview": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal.",
-      "rating": 7.8,
-      "first_air_date": "2016-02-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/61859",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 95479,
-      "title": "JUJUTSU KAISEN",
-      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
-      "rating": 8.6,
-      "first_air_date": "2020-10-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95479",
-      "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 229891,
-      "title": "Can This Love Be Translated?",
-      "overview": "The emotions of a celebrity and her interpreter get lost in translation as they travel the world filming a TV show. Will love find its own language?",
-      "rating": 9.1,
-      "first_air_date": "2026-01-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/229891",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 106379,
       "title": "Fallout",
       "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
@@ -118,35 +47,95 @@
       ]
     },
     {
-      "id": 117465,
-      "title": "Hell's Paradise",
-      "overview": "For a chance at a pardon, a ninja assassin joins other condemned criminals on a journey to a mysterious island to retrieve an elixir of immortality.",
-      "rating": 8.1,
-      "first_air_date": "2023-04-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1V9I7SvZbYoMbSvdtnlkkq9SB1k.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/117465",
+      "id": 198102,
+      "title": "Hijack",
+      "overview": "Expert negotiator Sam Nelson is in for the ride of his life—and so is everyone on board with him—after a group of hijackers take control. Sam will try every move in his playbook to take them down...as the stakes grow higher by the second.",
+      "rating": 7.6,
+      "first_air_date": "2023-06-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2C51clnxQdiqPDeqQlXcUx70hse.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/198102",
+      "providers": [
+        "Apple TV",
+        "Peacock Premium",
+        "Peacock Premium Plus",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 279136,
+      "title": "Love Between Lines",
+      "overview": "Xiao Zhiyu and Hu Xiu are brought together by a Republic of China-themed murder mystery game. In the scripted NPC game filled with falling snow and spies in the shadows, the two ignite a fateful spark. An unexpected reunion in the real world reveals the mystery of each other's identities. The two shuttle between the misaligned time-spaces of reality and the script, and finally achieve two-way growth in the cross-dimensional bond, completing the transformation of love and self.",
+      "rating": 9.4,
+      "first_air_date": "2026-01-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/e6KG7btTdg9wr1UfN2tFG5bQZOG.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/279136",
+      "providers": [
+        "Rakuten Viki"
+      ]
+    },
+    {
+      "id": 66732,
+      "title": "Stranger Things",
+      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "rating": 8.6,
+      "first_air_date": "2016-07-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/66732",
       "providers": [
         "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 89456,
-      "title": "Primal",
-      "overview": "A caveman forms a bond with a dinosaur as they struggle to survive in a hostile world.",
-      "rating": 8.6,
-      "first_air_date": "2019-10-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ebupzTwgP8nBy0T5J3abqTqUMjK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/89456",
+      "id": 218961,
+      "title": "Drops of God",
+      "overview": "While the world of wine mourns the death of Alexandre Léger, his estranged daughter, Camille, learns his extraordinary collection is now hers. But before she can claim her inheritance, Camille must best Alexandre's protégé, Issei, in a test of their senses.",
+      "rating": 7.5,
+      "first_air_date": "2023-04-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/x4NJ0fmeb5yMvFwC7IarcK7kwMm.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/218961",
       "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "YouTube TV",
-        "Adult Swim",
-        "Adultswim Amazon Channel"
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 130464,
+      "title": "Tell Me Lies",
+      "overview": "When Lucy Albright and Stephen DeMarco meet at college, they are at that formative age when seemingly mundane choices lead the way to irrevocable consequences. They quickly fall into an addictive entanglement that will permanently alter not only their lives, but the lives of everyone around them.",
+      "rating": 7.5,
+      "first_air_date": "2022-09-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hhWpEUZINrago2YgKDyv5Hb8yrU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/130464",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
+    {
+      "id": 139798,
+      "title": "Single's Inferno",
+      "overview": "On a deserted island, flirtatious singles look for love, because only as a couple can they leave the island for a romantic date in paradise.",
+      "rating": 7.6,
+      "first_air_date": "2021-12-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/86zkkFCrNc4VeqvCANTmpGNgFEF.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/139798",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 289485,
+      "title": "WWE: Unreal",
+      "overview": "From Monday Night RAW to WrestleMania, this series goes backstage with WWE Superstars and staff as they bring the company's biggest spectacles to life.",
+      "rating": 7.8,
+      "first_air_date": "2025-07-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4wfySL6AUTwXRCiL6tumMq9oFam.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/289485",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
