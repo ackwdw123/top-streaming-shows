@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-01-21T12:45:51.071687Z",
+  "generated_at": "2026-01-22T12:44:49.566081Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 106379,
+      "title": "Fallout",
+      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
+      "rating": 8.2,
+      "first_air_date": "2024-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/106379",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
     {
       "id": 224372,
       "title": "A Knight of the Seven Kingdoms",
@@ -15,6 +28,19 @@
         "HBO Max",
         "HBO Max Amazon Channel",
         "Spectrum On Demand"
+      ]
+    },
+    {
+      "id": 103540,
+      "title": "Percy Jackson and the Olympians",
+      "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
+      "rating": 7.3,
+      "first_air_date": "2023-12-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/40eFcTzZier3DWLqldsP5VHxeoD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/103540",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
       ]
     },
     {
@@ -34,16 +60,16 @@
       ]
     },
     {
-      "id": 106379,
-      "title": "Fallout",
-      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
-      "rating": 8.2,
-      "first_air_date": "2024-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/106379",
+      "id": 66732,
+      "title": "Stranger Things",
+      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "rating": 8.6,
+      "first_air_date": "2016-07-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/66732",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -62,37 +88,12 @@
       ]
     },
     {
-      "id": 279136,
-      "title": "Love Between Lines",
-      "overview": "Xiao Zhiyu and Hu Xiu are brought together by a Republic of China-themed murder mystery game. In the scripted NPC game filled with falling snow and spies in the shadows, the two ignite a fateful spark. An unexpected reunion in the real world reveals the mystery of each other's identities. The two shuttle between the misaligned time-spaces of reality and the script, and finally achieve two-way growth in the cross-dimensional bond, completing the transformation of love and self.",
-      "rating": 9.4,
-      "first_air_date": "2026-01-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/e6KG7btTdg9wr1UfN2tFG5bQZOG.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/279136",
-      "providers": [
-        "Rakuten Viki"
-      ]
-    },
-    {
-      "id": 66732,
-      "title": "Stranger Things",
-      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
-      "rating": 8.6,
-      "first_air_date": "2016-07-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/66732",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 218961,
       "title": "Drops of God",
       "overview": "While the world of wine mourns the death of Alexandre Léger, his estranged daughter, Camille, learns his extraordinary collection is now hers. But before she can claim her inheritance, Camille must best Alexandre's protégé, Issei, in a test of their senses.",
       "rating": 7.5,
       "first_air_date": "2023-04-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/x4NJ0fmeb5yMvFwC7IarcK7kwMm.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/t3OGrj5z0RSv7GaPxtcNneu2JCr.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/218961",
       "providers": [
         "Apple TV",
@@ -100,41 +101,51 @@
       ]
     },
     {
-      "id": 130464,
-      "title": "Tell Me Lies",
-      "overview": "When Lucy Albright and Stephen DeMarco meet at college, they are at that formative age when seemingly mundane choices lead the way to irrevocable consequences. They quickly fall into an addictive entanglement that will permanently alter not only their lives, but the lives of everyone around them.",
-      "rating": 7.5,
-      "first_air_date": "2022-09-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hhWpEUZINrago2YgKDyv5Hb8yrU.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/130464",
+      "id": 223530,
+      "title": "Star Trek: Starfleet Academy",
+      "overview": "A young group of cadets come together to pursue a common dream of hope and optimism. Under the watchful and demanding eyes of their instructors, they will discover what it takes to become Starfleet officers as they navigate blossoming friendships, explosive rivalries, first loves and a new enemy that threatens both the Academy and the Federation itself.",
+      "rating": 5.1,
+      "first_air_date": "2026-01-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/223530",
       "providers": [
-        "Disney Plus",
-        "Hulu"
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Paramount+ Originals Amazon Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
       ]
     },
     {
-      "id": 139798,
-      "title": "Single's Inferno",
-      "overview": "On a deserted island, flirtatious singles look for love, because only as a couple can they leave the island for a romantic date in paradise.",
-      "rating": 7.6,
-      "first_air_date": "2021-12-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/86zkkFCrNc4VeqvCANTmpGNgFEF.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/139798",
+      "id": 203737,
+      "title": "【OSHI NO KO】",
+      "overview": "A small-town doctor gets sucked into the ruthless world of show business when he crosses paths with a popular teen idol who holds a secret.",
+      "rating": 8.3,
+      "first_air_date": "2023-04-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rFp74PFpz14AHrtlVPrLyrSng47.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/203737",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "HiDive",
+        "Hidive Amazon Channel"
       ]
     },
     {
-      "id": 289485,
-      "title": "WWE: Unreal",
-      "overview": "From Monday Night RAW to WrestleMania, this series goes backstage with WWE Superstars and staff as they bring the company's biggest spectacles to life.",
-      "rating": 7.8,
-      "first_air_date": "2025-07-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4wfySL6AUTwXRCiL6tumMq9oFam.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/289485",
+      "id": 95479,
+      "title": "JUJUTSU KAISEN",
+      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+      "rating": 8.6,
+      "first_air_date": "2020-10-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95479",
       "providers": [
         "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
       ]
     }
