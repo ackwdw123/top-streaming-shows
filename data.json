@@ -1,13 +1,58 @@
 {
-  "generated_at": "2026-01-22T12:44:49.566081Z",
+  "generated_at": "2026-01-23T12:42:48.259338Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
+      "id": 95479,
+      "title": "JUJUTSU KAISEN",
+      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+      "rating": 8.6,
+      "first_air_date": "2020-10-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95479",
+      "providers": [
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 66732,
+      "title": "Stranger Things",
+      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "rating": 8.6,
+      "first_air_date": "2016-07-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/66732",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 209867,
+      "title": "Frieren: Beyond Journey's End",
+      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
+      "rating": 8.7,
+      "first_air_date": "2023-09-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/209867",
+      "providers": [
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 106379,
       "title": "Fallout",
       "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
-      "rating": 8.2,
+      "rating": 8.1,
       "first_air_date": "2024-04-10",
       "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/106379",
@@ -31,73 +76,34 @@
       ]
     },
     {
-      "id": 103540,
-      "title": "Percy Jackson and the Olympians",
-      "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
-      "rating": 7.3,
-      "first_air_date": "2023-12-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/40eFcTzZier3DWLqldsP5VHxeoD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/103540",
-      "providers": [
-        "Disney Plus",
-        "Hulu"
-      ]
-    },
-    {
-      "id": 209867,
-      "title": "Frieren: Beyond Journey's End",
-      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
+      "id": 250307,
+      "title": "The Pitt",
+      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
       "rating": 8.7,
-      "first_air_date": "2023-09-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/209867",
+      "first_air_date": "2025-01-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/250307",
       "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "HBO Max  Amazon Channel"
       ]
     },
     {
-      "id": 66732,
-      "title": "Stranger Things",
-      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
-      "rating": 8.6,
-      "first_air_date": "2016-07-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/66732",
+      "id": 240459,
+      "title": "Spartacus: House of Ashur",
+      "overview": "In a world where he survived the events of Spartacus (2010), Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
+      "rating": 6.4,
+      "first_air_date": "2025-12-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/240459",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 198102,
-      "title": "Hijack",
-      "overview": "Expert negotiator Sam Nelson is in for the ride of his life—and so is everyone on board with him—after a group of hijackers take control. Sam will try every move in his playbook to take them down...as the stakes grow higher by the second.",
-      "rating": 7.6,
-      "first_air_date": "2023-06-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2C51clnxQdiqPDeqQlXcUx70hse.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/198102",
-      "providers": [
-        "Apple TV",
-        "Peacock Premium",
-        "Peacock Premium Plus",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 218961,
-      "title": "Drops of God",
-      "overview": "While the world of wine mourns the death of Alexandre Léger, his estranged daughter, Camille, learns his extraordinary collection is now hers. But before she can claim her inheritance, Camille must best Alexandre's protégé, Issei, in a test of their senses.",
-      "rating": 7.5,
-      "first_air_date": "2023-04-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/t3OGrj5z0RSv7GaPxtcNneu2JCr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/218961",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Starz Apple TV Channel",
+        "Starz Roku Premium Channel",
+        "Starz",
+        "Philo",
+        "Spectrum On Demand",
+        "Starz Amazon Channel"
       ]
     },
     {
@@ -118,35 +124,34 @@
       ]
     },
     {
-      "id": 203737,
-      "title": "【OSHI NO KO】",
-      "overview": "A small-town doctor gets sucked into the ruthless world of show business when he crosses paths with a popular teen idol who holds a secret.",
-      "rating": 8.3,
-      "first_air_date": "2023-04-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rFp74PFpz14AHrtlVPrLyrSng47.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/203737",
+      "id": 103540,
+      "title": "Percy Jackson and the Olympians",
+      "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
+      "rating": 7.3,
+      "first_air_date": "2023-12-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/40eFcTzZier3DWLqldsP5VHxeoD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/103540",
       "providers": [
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "HiDive",
-        "Hidive Amazon Channel"
+        "Disney Plus",
+        "Hulu"
       ]
     },
     {
-      "id": 95479,
-      "title": "JUJUTSU KAISEN",
-      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
-      "rating": 8.6,
-      "first_air_date": "2020-10-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95479",
+      "id": 157741,
+      "title": "Landman",
+      "overview": "Set in the proverbial boomtowns of West-Texas and a modern-day tale of fortune-seeking in the world of oil rigs, the series is an upstairs/downstairs story of roughnecks and wildcat billionaires that are fueling a boom so big it’s reshaping our climate, our economy and our geopolitics.",
+      "rating": 8.0,
+      "first_air_date": "2024-11-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/157741",
       "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Paramount+ Originals Amazon Channel",
+        "Paramount+ MTV Amazon Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
       ]
     }
   ]
