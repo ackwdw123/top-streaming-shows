@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-01-23T12:42:48.259338Z",
+  "generated_at": "2026-01-24T12:37:31.014226Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 209867,
+      "title": "Frieren: Beyond Journey's End",
+      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
+      "rating": 8.7,
+      "first_air_date": "2023-09-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/209867",
+      "providers": [
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 273160,
+      "title": "The Beauty",
+      "overview": "The world of high fashion turns dark when international supermodels begin dying in gruesome and mysterious ways. FBI Agents Cooper Madsen and Jordan Bennett are sent to Paris to uncover the truth. As they delve deeper into the case, they uncover a sexually transmitted virus that transforms ordinary people into visions of physical perfection, but with terrifying consequences.",
+      "rating": 4.3,
+      "first_air_date": "2026-01-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qKOoFawE4fdzNPNdGRWtI2qsFib.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/273160",
+      "providers": [
+        "Hulu",
+        "fuboTV"
+      ]
+    },
     {
       "id": 95479,
       "title": "JUJUTSU KAISEN",
@@ -20,32 +49,16 @@
       ]
     },
     {
-      "id": 66732,
-      "title": "Stranger Things",
-      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
-      "rating": 8.6,
-      "first_air_date": "2016-07-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/66732",
+      "id": 254071,
+      "title": "Steal",
+      "overview": "A typical day at Lochmill Capital is upended when armed thieves burst in and force Zara and her best friend Luke to execute their demands. In the aftermath, conflicted detective Rhys races against time to find out who stole £4 billion pounds of people's pensions and why.",
+      "rating": 8.5,
+      "first_air_date": "2026-01-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6KmlaPhsohh3Ki9XJUq0jiUYbf3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/254071",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 209867,
-      "title": "Frieren: Beyond Journey's End",
-      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
-      "rating": 8.7,
-      "first_air_date": "2023-09-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/209867",
-      "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -90,68 +103,42 @@
       ]
     },
     {
-      "id": 240459,
-      "title": "Spartacus: House of Ashur",
-      "overview": "In a world where he survived the events of Spartacus (2010), Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
-      "rating": 6.4,
-      "first_air_date": "2025-12-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/240459",
+      "id": 281401,
+      "title": "Finding Her Edge",
+      "overview": "A former ice dancer returns to the rink with an exciting new partner while holding onto feelings for her old one — her first love.",
+      "rating": 6.7,
+      "first_air_date": "2026-01-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rundKWddXHke82ee8Sv9KJmuGhn.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/281401",
       "providers": [
-        "Starz Apple TV Channel",
-        "Starz Roku Premium Channel",
-        "Starz",
-        "Philo",
-        "Spectrum On Demand",
-        "Starz Amazon Channel"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 223530,
-      "title": "Star Trek: Starfleet Academy",
-      "overview": "A young group of cadets come together to pursue a common dream of hope and optimism. Under the watchful and demanding eyes of their instructors, they will discover what it takes to become Starfleet officers as they navigate blossoming friendships, explosive rivalries, first loves and a new enemy that threatens both the Academy and the Federation itself.",
-      "rating": 5.1,
-      "first_air_date": "2026-01-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/223530",
+      "id": 66732,
+      "title": "Stranger Things",
+      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "rating": 8.6,
+      "first_air_date": "2016-07-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/66732",
       "providers": [
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel",
-        "Paramount+ Originals Amazon Channel",
-        "Paramount Plus Essential",
-        "Paramount Plus Premium"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 103540,
-      "title": "Percy Jackson and the Olympians",
-      "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
-      "rating": 7.3,
-      "first_air_date": "2023-12-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/40eFcTzZier3DWLqldsP5VHxeoD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/103540",
+      "id": 307534,
+      "title": "Free Bert",
+      "overview": "A gloriously messy dad and his equally unfiltered family cause chaos when they try to fit in with the snobby crowd at their elite new school.",
+      "rating": 9.0,
+      "first_air_date": "2026-01-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/18jsL1sUIDL3ice67KoNkq22K6m.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/307534",
       "providers": [
-        "Disney Plus",
-        "Hulu"
-      ]
-    },
-    {
-      "id": 157741,
-      "title": "Landman",
-      "overview": "Set in the proverbial boomtowns of West-Texas and a modern-day tale of fortune-seeking in the world of oil rigs, the series is an upstairs/downstairs story of roughnecks and wildcat billionaires that are fueling a boom so big it’s reshaping our climate, our economy and our geopolitics.",
-      "rating": 8.0,
-      "first_air_date": "2024-11-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hYthRgS1nvQkGILn9YmqsF8kSk6.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/157741",
-      "providers": [
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel",
-        "Paramount+ Originals Amazon Channel",
-        "Paramount+ MTV Amazon Channel",
-        "Paramount Plus Essential",
-        "Paramount Plus Premium"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
