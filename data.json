@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-24T12:37:31.014226Z",
+  "generated_at": "2026-01-25T12:38:57.765119Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -20,16 +20,42 @@
       ]
     },
     {
+      "id": 106379,
+      "title": "Fallout",
+      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
+      "rating": 8.1,
+      "first_air_date": "2024-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/106379",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
       "id": 273160,
       "title": "The Beauty",
       "overview": "The world of high fashion turns dark when international supermodels begin dying in gruesome and mysterious ways. FBI Agents Cooper Madsen and Jordan Bennett are sent to Paris to uncover the truth. As they delve deeper into the case, they uncover a sexually transmitted virus that transforms ordinary people into visions of physical perfection, but with terrifying consequences.",
-      "rating": 4.3,
+      "rating": 4.8,
       "first_air_date": "2026-01-21",
       "poster_url": "https://image.tmdb.org/t/p/w500/qKOoFawE4fdzNPNdGRWtI2qsFib.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/273160",
       "providers": [
         "Hulu",
         "fuboTV"
+      ]
+    },
+    {
+      "id": 254071,
+      "title": "Steal",
+      "overview": "A typical day at Lochmill Capital is upended when armed thieves burst in and force Zara and her best friend Luke to execute their demands. In the aftermath, conflicted detective Rhys races against time to find out who stole £4 billion pounds of people's pensions and why.",
+      "rating": 8.2,
+      "first_air_date": "2026-01-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6KmlaPhsohh3Ki9XJUq0jiUYbf3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/254071",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -49,36 +75,22 @@
       ]
     },
     {
-      "id": 254071,
-      "title": "Steal",
-      "overview": "A typical day at Lochmill Capital is upended when armed thieves burst in and force Zara and her best friend Luke to execute their demands. In the aftermath, conflicted detective Rhys races against time to find out who stole £4 billion pounds of people's pensions and why.",
-      "rating": 8.5,
-      "first_air_date": "2026-01-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6KmlaPhsohh3Ki9XJUq0jiUYbf3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/254071",
+      "id": 237529,
+      "title": "Medalist",
+      "overview": "Tsukasa Akeuraji, a frustrated skater, meets Inori Yuitsuka, a girl who yearns to be a figure skater. Motivated by Inori's obsession on the rink, Tsukasa begins coaching Inori. Inori's talent blossoms, and Tsukasa becomes a brilliant mentor. Together they aim to make her a glorious medalist!",
+      "rating": 8.3,
+      "first_air_date": "2025-01-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hK5eKFaj99mZwpmILnvKehWe9t1.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/237529",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 106379,
-      "title": "Fallout",
-      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
-      "rating": 8.1,
-      "first_air_date": "2024-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/106379",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Hulu"
       ]
     },
     {
       "id": 224372,
       "title": "A Knight of the Seven Kingdoms",
       "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
-      "rating": 8.1,
+      "rating": 8.2,
       "first_air_date": "2026-01-18",
       "poster_url": "https://image.tmdb.org/t/p/w500/6igvNs5VJB4ryBLgjjXksDVs0Fm.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/224372",
@@ -86,6 +98,19 @@
         "HBO Max",
         "HBO Max Amazon Channel",
         "Spectrum On Demand"
+      ]
+    },
+    {
+      "id": 66732,
+      "title": "Stranger Things",
+      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "rating": 8.6,
+      "first_air_date": "2016-07-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/66732",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -103,42 +128,20 @@
       ]
     },
     {
-      "id": 281401,
-      "title": "Finding Her Edge",
-      "overview": "A former ice dancer returns to the rink with an exciting new partner while holding onto feelings for her old one — her first love.",
-      "rating": 6.7,
-      "first_air_date": "2026-01-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rundKWddXHke82ee8Sv9KJmuGhn.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/281401",
+      "id": 240459,
+      "title": "Spartacus: House of Ashur",
+      "overview": "In a world where he survived the events of Spartacus (2010), Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
+      "rating": 6.4,
+      "first_air_date": "2025-12-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/240459",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 66732,
-      "title": "Stranger Things",
-      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
-      "rating": 8.6,
-      "first_air_date": "2016-07-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/66732",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 307534,
-      "title": "Free Bert",
-      "overview": "A gloriously messy dad and his equally unfiltered family cause chaos when they try to fit in with the snobby crowd at their elite new school.",
-      "rating": 9.0,
-      "first_air_date": "2026-01-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/18jsL1sUIDL3ice67KoNkq22K6m.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/307534",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Starz Apple TV Channel",
+        "Starz Roku Premium Channel",
+        "Starz",
+        "Philo",
+        "Spectrum On Demand",
+        "Starz Amazon Channel"
       ]
     }
   ]
