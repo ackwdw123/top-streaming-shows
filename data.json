@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-01-27T12:44:56.131765Z",
+  "generated_at": "2026-01-28T12:45:38.889251Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 106379,
+      "title": "Fallout",
+      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
+      "rating": 8.1,
+      "first_air_date": "2024-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/106379",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 136311,
+      "title": "Shrinking",
+      "overview": "Jimmy is struggling to grieve the loss of his wife while being a dad, friend, and therapist. He decides to try a new approach with everyone in his path: unfiltered, brutal honesty. Will it make things better—or unleash uproarious chaos?",
+      "rating": 7.8,
+      "first_air_date": "2023-01-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cVmrNYgm5wcEexbXg4laNn3u4vq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/136311",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
     {
       "id": 224372,
       "title": "A Knight of the Seven Kingdoms",
@@ -18,28 +44,28 @@
       ]
     },
     {
-      "id": 291339,
-      "title": "Memory of a Killer",
-      "overview": "Angelo Ledda lives two totally separate lives — fearsome NYC hitman and sleepy upstate Cooperstown photocopier salesman and father. Both of them are threatened when he is diagnosed with Alzheimer's, a disease he already lost his older brother to.",
-      "rating": 8.2,
-      "first_air_date": "2026-01-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3kpXrWW6gmlngwgSa52IhBpjPuz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/291339",
+      "id": 66732,
+      "title": "Stranger Things",
+      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "rating": 8.6,
+      "first_air_date": "2016-07-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/66732",
       "providers": [
-        "fuboTV"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 106379,
-      "title": "Fallout",
-      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
-      "rating": 8.1,
-      "first_air_date": "2024-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/106379",
+      "id": 202555,
+      "title": "Daredevil: Born Again",
+      "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+      "rating": 7.9,
+      "first_air_date": "2025-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9lLuhV703HGCbnz6FxnqCwIwzAZ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/202555",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Disney Plus"
       ]
     },
     {
@@ -59,86 +85,54 @@
       ]
     },
     {
+      "id": 291339,
+      "title": "Memory of a Killer",
+      "overview": "Angelo Ledda lives two totally separate lives — fearsome NYC hitman and sleepy upstate Cooperstown photocopier salesman and father. Both of them are threatened when he is diagnosed with Alzheimer's, a disease he already lost his older brother to.",
+      "rating": 8.4,
+      "first_air_date": "2026-01-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3kpXrWW6gmlngwgSa52IhBpjPuz.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/291339",
+      "providers": [
+        "fuboTV"
+      ]
+    },
+    {
+      "id": 229891,
+      "title": "Can This Love Be Translated?",
+      "overview": "The emotions of a celebrity and her interpreter get lost in translation as they travel the world filming a TV show. Will love find its own language?",
+      "rating": 8.9,
+      "first_air_date": "2026-01-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/229891",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 273160,
+      "title": "The Beauty",
+      "overview": "The world of high fashion turns dark when international supermodels begin dying in gruesome and mysterious ways. FBI Agents Cooper Madsen and Jordan Bennett are sent to Paris to uncover the truth. As they delve deeper into the case, they uncover a sexually transmitted virus that transforms ordinary people into visions of physical perfection, but with terrifying consequences.",
+      "rating": 5.5,
+      "first_air_date": "2026-01-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tZTG2PPAukzksPkiQV9c4suIQXk.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/273160",
+      "providers": [
+        "Hulu",
+        "fuboTV"
+      ]
+    },
+    {
       "id": 254071,
       "title": "Steal",
       "overview": "A typical day at Lochmill Capital is upended when armed thieves burst in and force Zara and her best friend Luke to execute their demands. In the aftermath, conflicted detective Rhys races against time to find out who stole £4 billion pounds of people's pensions and why.",
-      "rating": 8.0,
+      "rating": 7.9,
       "first_air_date": "2026-01-21",
       "poster_url": "https://image.tmdb.org/t/p/w500/6KmlaPhsohh3Ki9XJUq0jiUYbf3.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/254071",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 66732,
-      "title": "Stranger Things",
-      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
-      "rating": 8.6,
-      "first_air_date": "2016-07-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/66732",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 209867,
-      "title": "Frieren: Beyond Journey's End",
-      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
-      "rating": 8.8,
-      "first_air_date": "2023-09-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/209867",
-      "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 79744,
-      "title": "The Rookie",
-      "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-      "rating": 8.5,
-      "first_air_date": "2018-10-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/79744",
-      "providers": [
-        "Hulu",
-        "fuboTV",
-        "YouTube TV",
-        "Philo"
-      ]
-    },
-    {
-      "id": 237529,
-      "title": "Medalist",
-      "overview": "Tsukasa Akeuraji, a frustrated skater, meets Inori Yuitsuka, a girl who yearns to be a figure skater. Motivated by Inori's obsession on the rink, Tsukasa begins coaching Inori. Inori's talent blossoms, and Tsukasa becomes a brilliant mentor. Together they aim to make her a glorious medalist!",
-      "rating": 8.3,
-      "first_air_date": "2025-01-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hK5eKFaj99mZwpmILnvKehWe9t1.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/237529",
-      "providers": [
-        "Hulu"
-      ]
-    },
-    {
-      "id": 250307,
-      "title": "The Pitt",
-      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-      "rating": 8.7,
-      "first_air_date": "2025-01-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/250307",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "HBO Max  Amazon Channel"
       ]
     }
   ]
