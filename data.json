@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T12:45:38.889251Z",
+  "generated_at": "2026-01-29T12:54:03.485441Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -17,16 +17,42 @@
       ]
     },
     {
+      "id": 91239,
+      "title": "Bridgerton",
+      "overview": "Wealth, lust, and betrayal set in the backdrop of Regency era England, seen through the eyes of the powerful Bridgerton family.",
+      "rating": 8.1,
+      "first_air_date": "2020-12-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uXTg565ahu9RwonCX1V2Hex1NU6.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/91239",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 136311,
       "title": "Shrinking",
       "overview": "Jimmy is struggling to grieve the loss of his wife while being a dad, friend, and therapist. He decides to try a new approach with everyone in his path: unfiltered, brutal honesty. Will it make things better—or unleash uproarious chaos?",
       "rating": 7.8,
       "first_air_date": "2023-01-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cVmrNYgm5wcEexbXg4laNn3u4vq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/136311",
       "providers": [
         "Apple TV",
         "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 273160,
+      "title": "The Beauty",
+      "overview": "The world of high fashion turns dark when international supermodels begin dying in gruesome and mysterious ways. FBI Agents Cooper Madsen and Jordan Bennett are sent to Paris to uncover the truth. As they delve deeper into the case, they uncover a sexually transmitted virus that transforms ordinary people into visions of physical perfection, but with terrifying consequences.",
+      "rating": 5.6,
+      "first_air_date": "2026-01-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tZTG2PPAukzksPkiQV9c4suIQXk.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/273160",
+      "providers": [
+        "Hulu",
+        "fuboTV"
       ]
     },
     {
@@ -57,15 +83,34 @@
       ]
     },
     {
-      "id": 202555,
-      "title": "Daredevil: Born Again",
-      "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
-      "rating": 7.9,
-      "first_air_date": "2025-03-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9lLuhV703HGCbnz6FxnqCwIwzAZ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/202555",
+      "id": 208397,
+      "title": "School Spirits",
+      "overview": "Maddie, a teen stuck in the afterlife investigating her own mysterious disappearance, goes on a crime-solving journey as she adjusts to high school purgatory, but the closer she gets to discovering the truth, the more secrets and lies she uncovers.",
+      "rating": 7.8,
+      "first_air_date": "2023-03-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eb7ZJYZjed1bBQ8a4aMDwp5nvjF.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/208397",
       "providers": [
-        "Disney Plus"
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Paramount+ Originals Amazon Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
+      ]
+    },
+    {
+      "id": 291339,
+      "title": "Memory of a Killer",
+      "overview": "Angelo Ledda lives two totally separate lives — fearsome NYC hitman and sleepy upstate Cooperstown photocopier salesman and father. Both of them are threatened when he is diagnosed with Alzheimer's, a disease he already lost his older brother to.",
+      "rating": 8.2,
+      "first_air_date": "2026-01-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3kpXrWW6gmlngwgSa52IhBpjPuz.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/291339",
+      "providers": [
+        "Hulu",
+        "fuboTV",
+        "FOX One Amazon Channel"
       ]
     },
     {
@@ -85,54 +130,18 @@
       ]
     },
     {
-      "id": 291339,
-      "title": "Memory of a Killer",
-      "overview": "Angelo Ledda lives two totally separate lives — fearsome NYC hitman and sleepy upstate Cooperstown photocopier salesman and father. Both of them are threatened when he is diagnosed with Alzheimer's, a disease he already lost his older brother to.",
-      "rating": 8.4,
-      "first_air_date": "2026-01-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3kpXrWW6gmlngwgSa52IhBpjPuz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/291339",
+      "id": 198102,
+      "title": "Hijack",
+      "overview": "Expert negotiator Sam Nelson is in for the ride of his life—and so is everyone on board with him—after a group of hijackers take control. Sam will try every move in his playbook to take them down...as the stakes grow higher by the second.",
+      "rating": 7.6,
+      "first_air_date": "2023-06-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2C51clnxQdiqPDeqQlXcUx70hse.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/198102",
       "providers": [
-        "fuboTV"
-      ]
-    },
-    {
-      "id": 229891,
-      "title": "Can This Love Be Translated?",
-      "overview": "The emotions of a celebrity and her interpreter get lost in translation as they travel the world filming a TV show. Will love find its own language?",
-      "rating": 8.9,
-      "first_air_date": "2026-01-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/229891",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 273160,
-      "title": "The Beauty",
-      "overview": "The world of high fashion turns dark when international supermodels begin dying in gruesome and mysterious ways. FBI Agents Cooper Madsen and Jordan Bennett are sent to Paris to uncover the truth. As they delve deeper into the case, they uncover a sexually transmitted virus that transforms ordinary people into visions of physical perfection, but with terrifying consequences.",
-      "rating": 5.5,
-      "first_air_date": "2026-01-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tZTG2PPAukzksPkiQV9c4suIQXk.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/273160",
-      "providers": [
-        "Hulu",
-        "fuboTV"
-      ]
-    },
-    {
-      "id": 254071,
-      "title": "Steal",
-      "overview": "A typical day at Lochmill Capital is upended when armed thieves burst in and force Zara and her best friend Luke to execute their demands. In the aftermath, conflicted detective Rhys races against time to find out who stole £4 billion pounds of people's pensions and why.",
-      "rating": 7.9,
-      "first_air_date": "2026-01-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6KmlaPhsohh3Ki9XJUq0jiUYbf3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/254071",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Apple TV",
+        "Peacock Premium",
+        "Peacock Premium Plus",
+        "Apple TV Amazon Channel"
       ]
     }
   ]
