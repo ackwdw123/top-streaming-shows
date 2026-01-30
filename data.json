@@ -1,21 +1,8 @@
 {
-  "generated_at": "2026-01-29T12:54:03.485441Z",
+  "generated_at": "2026-01-30T12:51:44.093592Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
-    {
-      "id": 106379,
-      "title": "Fallout",
-      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
-      "rating": 8.1,
-      "first_air_date": "2024-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/106379",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
     {
       "id": 91239,
       "title": "Bridgerton",
@@ -30,16 +17,32 @@
       ]
     },
     {
-      "id": 136311,
-      "title": "Shrinking",
-      "overview": "Jimmy is struggling to grieve the loss of his wife while being a dad, friend, and therapist. He decides to try a new approach with everyone in his path: unfiltered, brutal honesty. Will it make things better—or unleash uproarious chaos?",
-      "rating": 7.8,
-      "first_air_date": "2023-01-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/136311",
+      "id": 95479,
+      "title": "JUJUTSU KAISEN",
+      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+      "rating": 8.6,
+      "first_air_date": "2020-10-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95479",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 106379,
+      "title": "Fallout",
+      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
+      "rating": 8.1,
+      "first_air_date": "2024-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/106379",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -56,17 +59,16 @@
       ]
     },
     {
-      "id": 224372,
-      "title": "A Knight of the Seven Kingdoms",
-      "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
-      "rating": 8.1,
-      "first_air_date": "2026-01-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6igvNs5VJB4ryBLgjjXksDVs0Fm.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/224372",
+      "id": 136311,
+      "title": "Shrinking",
+      "overview": "Jimmy is struggling to grieve the loss of his wife while being a dad, friend, and therapist. He decides to try a new approach with everyone in his path: unfiltered, brutal honesty. Will it make things better—or unleash uproarious chaos?",
+      "rating": 7.8,
+      "first_air_date": "2023-01-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/136311",
       "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "Spectrum On Demand"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -80,6 +82,32 @@
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 250307,
+      "title": "The Pitt",
+      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+      "rating": 8.7,
+      "first_air_date": "2025-01-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/250307",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "HBO Max  Amazon Channel"
+      ]
+    },
+    {
+      "id": 279446,
+      "title": "Swords Into Plowshares",
+      "overview": "During the tumultuous period of the Five Dynasties and Ten Kingdoms, three determined youths—Qian Hongshu, Zhao Kuangyin, and Guo Rong—navigate the chaos of political upheaval and war as they strive to overcome the suffering caused by endless conflict.",
+      "rating": 8.5,
+      "first_air_date": "2026-01-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/76gwCVQG1MoItK25o48opYP7TmG.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/279446",
+      "providers": [
+        "Rakuten Viki"
       ]
     },
     {
@@ -100,48 +128,20 @@
       ]
     },
     {
-      "id": 291339,
-      "title": "Memory of a Killer",
-      "overview": "Angelo Ledda lives two totally separate lives — fearsome NYC hitman and sleepy upstate Cooperstown photocopier salesman and father. Both of them are threatened when he is diagnosed with Alzheimer's, a disease he already lost his older brother to.",
-      "rating": 8.2,
-      "first_air_date": "2026-01-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3kpXrWW6gmlngwgSa52IhBpjPuz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/291339",
+      "id": 223530,
+      "title": "Star Trek: Starfleet Academy",
+      "overview": "A young group of cadets come together to pursue a common dream of hope and optimism. Under the watchful and demanding eyes of their instructors, they will discover what it takes to become Starfleet officers as they navigate blossoming friendships, explosive rivalries, first loves and a new enemy that threatens both the Academy and the Federation itself.",
+      "rating": 5.0,
+      "first_air_date": "2026-01-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/223530",
       "providers": [
-        "Hulu",
-        "fuboTV",
-        "FOX One Amazon Channel"
-      ]
-    },
-    {
-      "id": 95479,
-      "title": "JUJUTSU KAISEN",
-      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
-      "rating": 8.6,
-      "first_air_date": "2020-10-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95479",
-      "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 198102,
-      "title": "Hijack",
-      "overview": "Expert negotiator Sam Nelson is in for the ride of his life—and so is everyone on board with him—after a group of hijackers take control. Sam will try every move in his playbook to take them down...as the stakes grow higher by the second.",
-      "rating": 7.6,
-      "first_air_date": "2023-06-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2C51clnxQdiqPDeqQlXcUx70hse.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/198102",
-      "providers": [
-        "Apple TV",
-        "Peacock Premium",
-        "Peacock Premium Plus",
-        "Apple TV Amazon Channel"
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Paramount+ Originals Amazon Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
       ]
     }
   ]
