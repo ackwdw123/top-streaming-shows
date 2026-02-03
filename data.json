@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-02T12:55:45.314481Z",
+  "generated_at": "2026-02-03T12:56:01.010718Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -7,7 +7,7 @@
       "id": 198178,
       "title": "Wonder Man",
       "overview": "Simon and Trevor, two actors at opposite ends of their careers, chase life-changing roles.",
-      "rating": 7.0,
+      "rating": 7.1,
       "first_air_date": "2026-01-27",
       "poster_url": "https://image.tmdb.org/t/p/w500/2XSHwBHIvIDPpbcH4ntQIItlThG.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/198178",
@@ -16,25 +16,28 @@
       ]
     },
     {
-      "id": 61859,
-      "title": "The Night Manager",
-      "overview": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal.",
-      "rating": 7.7,
-      "first_air_date": "2016-02-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/61859",
+      "id": 287231,
+      "title": "Vanished",
+      "overview": "When a romantic getaway to Paris takes a dark turn with the sudden disappearance of her boyfriend Tom aboard a train to the south of France, Alice is plunged into a web of intrigue and danger, uncovering shocking secrets about the man she thought she knew.",
+      "rating": 7.3,
+      "first_air_date": "2026-02-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/KVyfJoW4nO1CATxHrD7oR8rRJH.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/287231",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "fuboTV",
+        "MGM+ Amazon Channel",
+        "MGM Plus Roku Premium Channel",
+        "Philo",
+        "Spectrum On Demand"
       ]
     },
     {
       "id": 224372,
       "title": "A Knight of the Seven Kingdoms",
       "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
-      "rating": 8.0,
+      "rating": 8.1,
       "first_air_date": "2026-01-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6igvNs5VJB4ryBLgjjXksDVs0Fm.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3Ra3Wm6pyuyv7IDmJEBAgYJGlNF.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/224372",
       "providers": [
         "HBO Max",
@@ -56,6 +59,19 @@
       ]
     },
     {
+      "id": 61859,
+      "title": "The Night Manager",
+      "overview": "Former British soldier Jonathan Pine navigates the shadowy recesses of Whitehall and Washington where an unholy alliance operates between the intelligence community and the secret arms trade. To infiltrate the inner circle of lethal arms dealer Richard Onslow Roper, Pine must himself become a criminal.",
+      "rating": 7.8,
+      "first_air_date": "2016-02-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1MccRnw41qQjREuZkovqP2UX1i3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/61859",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
       "id": 66732,
       "title": "Stranger Things",
       "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
@@ -65,22 +81,6 @@
       "tmdb_url": "https://www.themoviedb.org/tv/66732",
       "providers": [
         "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 117465,
-      "title": "Hell's Paradise",
-      "overview": "For a chance at a pardon, a ninja assassin joins other condemned criminals on a journey to a mysterious island to retrieve an elixir of immortality.",
-      "rating": 8.1,
-      "first_air_date": "2023-04-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1V9I7SvZbYoMbSvdtnlkkq9SB1k.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/117465",
-      "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
       ]
     },
@@ -114,28 +114,29 @@
       ]
     },
     {
-      "id": 250307,
-      "title": "The Pitt",
-      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+      "id": 37854,
+      "title": "One Piece",
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
       "rating": 8.7,
-      "first_air_date": "2025-01-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/250307",
+      "first_air_date": "1999-10-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/37854",
       "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "YouTube TV",
-        "HBO Max  Amazon Channel"
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 209867,
-      "title": "Frieren: Beyond Journey's End",
-      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
-      "rating": 8.8,
-      "first_air_date": "2023-09-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/209867",
+      "id": 117465,
+      "title": "Hell's Paradise",
+      "overview": "For a chance at a pardon, a ninja assassin joins other condemned criminals on a journey to a mysterious island to retrieve an elixir of immortality.",
+      "rating": 8.1,
+      "first_air_date": "2023-04-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1V9I7SvZbYoMbSvdtnlkkq9SB1k.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/117465",
       "providers": [
         "Netflix",
         "Hulu",
