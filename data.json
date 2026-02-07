@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-02-06T12:55:31.379348Z",
+  "generated_at": "2026-02-07T12:43:51.143522Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 209867,
+      "title": "Frieren: Beyond Journey's End",
+      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
+      "rating": 8.8,
+      "first_air_date": "2023-09-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/209867",
+      "providers": [
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
+      ]
+    },
     {
       "id": 106379,
       "title": "Fallout",
@@ -17,104 +33,17 @@
       ]
     },
     {
-      "id": 116799,
-      "title": "The Lincoln Lawyer",
-      "overview": "Hotshot LA defense attorney Mickey Haller will do whatever it takes to win as he navigates the criminal justice system from his trademark Lincoln.",
-      "rating": 7.6,
-      "first_air_date": "2022-05-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4jSaIqEU8CPBBNn4iVCK6wzPjSx.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/116799",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 95479,
-      "title": "JUJUTSU KAISEN",
-      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
-      "rating": 8.6,
-      "first_air_date": "2020-10-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95479",
-      "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 223530,
-      "title": "Star Trek: Starfleet Academy",
-      "overview": "A young group of cadets come together to pursue a common dream of hope and optimism. Under the watchful and demanding eyes of their instructors, they will discover what it takes to become Starfleet officers as they navigate blossoming friendships, explosive rivalries, first loves and a new enemy that threatens both the Academy and the Federation itself.",
-      "rating": 4.8,
-      "first_air_date": "2026-01-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/223530",
-      "providers": [
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel",
-        "Paramount+ Originals Amazon Channel",
-        "Paramount Plus Essential",
-        "Paramount Plus Premium"
-      ]
-    },
-    {
       "id": 224372,
       "title": "A Knight of the Seven Kingdoms",
       "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
-      "rating": 8.1,
+      "rating": 8.2,
       "first_air_date": "2026-01-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lMDqItxQA6e34ntk02E23RtHWyL.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/abrZg2iodq4XeBngpNESOgfPvBM.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/224372",
       "providers": [
         "HBO Max",
         "HBO Max Amazon Channel",
         "Spectrum On Demand"
-      ]
-    },
-    {
-      "id": 198178,
-      "title": "Wonder Man",
-      "overview": "Simon and Trevor, two actors at opposite ends of their careers, chase life-changing roles.",
-      "rating": 7.0,
-      "first_air_date": "2026-01-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9lr5nZuEh8jdizLi4vM5qDP1gs5.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/198178",
-      "providers": [
-        "Disney Plus"
-      ]
-    },
-    {
-      "id": 250307,
-      "title": "The Pitt",
-      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-      "rating": 8.7,
-      "first_air_date": "2025-01-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/250307",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "YouTube TV",
-        "HBO Max  Amazon Channel"
-      ]
-    },
-    {
-      "id": 273160,
-      "title": "The Beauty",
-      "overview": "The world of high fashion turns dark when international supermodels begin dying in gruesome and mysterious ways. FBI Agents Cooper Madsen and Jordan Bennett are sent to Paris to uncover the truth. As they delve deeper into the case, they uncover a sexually transmitted virus that transforms ordinary people into visions of physical perfection, but with terrifying consequences.",
-      "rating": 6.2,
-      "first_air_date": "2026-01-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tZTG2PPAukzksPkiQV9c4suIQXk.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/273160",
-      "providers": [
-        "Hulu",
-        "fuboTV",
-        "YouTube TV"
       ]
     },
     {
@@ -135,19 +64,89 @@
       ]
     },
     {
-      "id": 209867,
-      "title": "Frieren: Beyond Journey's End",
-      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
-      "rating": 8.8,
-      "first_air_date": "2023-09-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/209867",
+      "id": 250307,
+      "title": "The Pitt",
+      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+      "rating": 8.7,
+      "first_air_date": "2025-01-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/250307",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "YouTube TV",
+        "HBO Max  Amazon Channel"
+      ]
+    },
+    {
+      "id": 95479,
+      "title": "JUJUTSU KAISEN",
+      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+      "rating": 8.6,
+      "first_air_date": "2020-10-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95479",
       "providers": [
         "Netflix",
         "Hulu",
         "Crunchyroll",
         "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 116799,
+      "title": "The Lincoln Lawyer",
+      "overview": "Hotshot LA defense attorney Mickey Haller will do whatever it takes to win as he navigates the criminal justice system from his trademark Lincoln.",
+      "rating": 7.6,
+      "first_air_date": "2022-05-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4jSaIqEU8CPBBNn4iVCK6wzPjSx.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/116799",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 198102,
+      "title": "Hijack",
+      "overview": "Expert negotiator Sam Nelson is in for the ride of his life—and so is everyone on board with him—after a group of hijackers take control. Sam will try every move in his playbook to take them down...as the stakes grow higher by the second.",
+      "rating": 7.6,
+      "first_air_date": "2023-06-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2C51clnxQdiqPDeqQlXcUx70hse.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/198102",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 223530,
+      "title": "Star Trek: Starfleet Academy",
+      "overview": "A young group of cadets come together to pursue a common dream of hope and optimism. Under the watchful and demanding eyes of their instructors, they will discover what it takes to become Starfleet officers as they navigate blossoming friendships, explosive rivalries, first loves and a new enemy that threatens both the Academy and the Federation itself.",
+      "rating": 4.8,
+      "first_air_date": "2026-01-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/223530",
+      "providers": [
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Paramount+ Originals Amazon Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
+      ]
+    },
+    {
+      "id": 198178,
+      "title": "Wonder Man",
+      "overview": "Simon and Trevor, two actors at opposite ends of their careers, chase life-changing roles.",
+      "rating": 7.1,
+      "first_air_date": "2026-01-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9lr5nZuEh8jdizLi4vM5qDP1gs5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/198178",
+      "providers": [
+        "Disney Plus"
       ]
     }
   ]
