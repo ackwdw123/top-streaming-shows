@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-02-10T13:09:03.681749Z",
+  "generated_at": "2026-02-11T13:05:40.923242Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 202208,
+      "title": "The Artful Dodger",
+      "overview": "It's a tale of reinvention, betrayal, redemption, and love with a twist. Jack Dawkins is The Artful Dodger, whose pickpocketing fingers have become the skilled hands of a surgeon. He is torn between an impossible love and the criminal underworld he secretly craves. This will require Artfulness.",
+      "rating": 8.1,
+      "first_air_date": "2023-11-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lcyax0pIH6vZWbho2hxsMTt9KpN.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/202208",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
+    {
+      "id": 213306,
+      "title": "Cross",
+      "overview": "Alex Cross is a brilliant but flawed homicide detective and full of contradictions. A doting father and family man, Cross is single-minded to the point of obsession when he hunts killers. He is desperate for love, but his wife’s murder has left him too damaged to receive it.",
+      "rating": 7.2,
+      "first_air_date": "2024-11-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wy8NYpq3k4izodX5YOYmExKfHMe.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/213306",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
     {
       "id": 106379,
       "title": "Fallout",
@@ -20,7 +46,7 @@
       "id": 224372,
       "title": "A Knight of the Seven Kingdoms",
       "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
-      "rating": 8.1,
+      "rating": 8.2,
       "first_air_date": "2026-01-18",
       "poster_url": "https://image.tmdb.org/t/p/w500/abrZg2iodq4XeBngpNESOgfPvBM.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/224372",
@@ -28,19 +54,6 @@
         "HBO Max",
         "HBO Max Amazon Channel",
         "Spectrum On Demand"
-      ]
-    },
-    {
-      "id": 274776,
-      "title": "Unfamiliar",
-      "overview": "When the past catches up with two former spies, their biggest challenge isn't car chases, shootouts or fistfights — it's telling each other the truth.",
-      "rating": 7.7,
-      "first_air_date": "2026-02-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/OvNMzIOJIzDlouhZVqCHRE6HlL.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/274776",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     },
     {
@@ -60,33 +73,15 @@
       ]
     },
     {
-      "id": 240459,
-      "title": "Spartacus: House of Ashur",
-      "overview": "In a world where he survived the events of Spartacus, Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
-      "rating": 6.6,
-      "first_air_date": "2025-12-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/240459",
+      "id": 279446,
+      "title": "Swords Into Plowshares",
+      "overview": "During the tumultuous period of the Five Dynasties and Ten Kingdoms, three determined youths—Qian Hongshu, Zhao Kuangyin, and Guo Rong—navigate the chaos of political upheaval and war as they strive to overcome the suffering caused by endless conflict.",
+      "rating": 8.9,
+      "first_air_date": "2026-01-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/76gwCVQG1MoItK25o48opYP7TmG.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/279446",
       "providers": [
-        "Starz Apple TV Channel",
-        "Starz Roku Premium Channel",
-        "Starz",
-        "Philo",
-        "Spectrum On Demand",
-        "Starz Amazon Channel"
-      ]
-    },
-    {
-      "id": 202208,
-      "title": "The Artful Dodger",
-      "overview": "It's a tale of reinvention, betrayal, redemption, and love with a twist. Jack Dawkins is The Artful Dodger, whose pickpocketing fingers have become the skilled hands of a surgeon. He is torn between an impossible love and the criminal underworld he secretly craves. This will require Artfulness.",
-      "rating": 8.1,
-      "first_air_date": "2023-11-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lcyax0pIH6vZWbho2hxsMTt9KpN.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/202208",
-      "providers": [
-        "Disney Plus",
-        "Hulu"
+        "Rakuten Viki"
       ]
     },
     {
@@ -106,6 +101,21 @@
       ]
     },
     {
+      "id": 250307,
+      "title": "The Pitt",
+      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+      "rating": 8.7,
+      "first_air_date": "2025-01-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/250307",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "YouTube TV",
+        "HBO Max  Amazon Channel"
+      ]
+    },
+    {
       "id": 66732,
       "title": "Stranger Things",
       "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
@@ -119,28 +129,18 @@
       ]
     },
     {
-      "id": 139798,
-      "title": "Single's Inferno",
-      "overview": "On a deserted island, flirtatious singles look for love, because only as a couple can they leave the island for a romantic date in paradise.",
-      "rating": 7.7,
-      "first_air_date": "2021-12-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/86zkkFCrNc4VeqvCANTmpGNgFEF.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/139798",
+      "id": 79744,
+      "title": "The Rookie",
+      "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "rating": 8.5,
+      "first_air_date": "2018-10-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/79744",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 279446,
-      "title": "Swords Into Plowshares",
-      "overview": "During the tumultuous period of the Five Dynasties and Ten Kingdoms, three determined youths—Qian Hongshu, Zhao Kuangyin, and Guo Rong—navigate the chaos of political upheaval and war as they strive to overcome the suffering caused by endless conflict.",
-      "rating": 8.9,
-      "first_air_date": "2026-01-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/76gwCVQG1MoItK25o48opYP7TmG.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/279446",
-      "providers": [
-        "Rakuten Viki"
+        "Hulu",
+        "fuboTV",
+        "YouTube TV",
+        "Philo"
       ]
     }
   ]
