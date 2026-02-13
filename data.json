@@ -1,47 +1,8 @@
 {
-  "generated_at": "2026-02-12T13:03:29.522324Z",
+  "generated_at": "2026-02-13T12:55:21.754917Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
-    {
-      "id": 213306,
-      "title": "Cross",
-      "overview": "Alex Cross is a brilliant but flawed homicide detective and full of contradictions. A doting father and family man, Cross is single-minded to the point of obsession when he hunts killers. He is desperate for love, but his wife’s murder has left him too damaged to receive it.",
-      "rating": 7.1,
-      "first_air_date": "2024-11-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/213306",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 106379,
-      "title": "Fallout",
-      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
-      "rating": 8.1,
-      "first_air_date": "2024-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/106379",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 202208,
-      "title": "The Artful Dodger",
-      "overview": "It's a tale of reinvention, betrayal, redemption, and love with a twist. Jack Dawkins is The Artful Dodger, whose pickpocketing fingers have become the skilled hands of a surgeon. He is torn between an impossible love and the criminal underworld he secretly craves. This will require Artfulness.",
-      "rating": 8.1,
-      "first_air_date": "2023-11-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lcyax0pIH6vZWbho2hxsMTt9KpN.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/202208",
-      "providers": [
-        "Disney Plus",
-        "Hulu"
-      ]
-    },
     {
       "id": 95479,
       "title": "JUJUTSU KAISEN",
@@ -59,63 +20,32 @@
       ]
     },
     {
-      "id": 224372,
-      "title": "A Knight of the Seven Kingdoms",
-      "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
-      "rating": 8.2,
-      "first_air_date": "2026-01-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/abrZg2iodq4XeBngpNESOgfPvBM.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/224372",
+      "id": 213306,
+      "title": "Cross",
+      "overview": "Alex Cross is a brilliant but flawed homicide detective and full of contradictions. A doting father and family man, Cross is single-minded to the point of obsession when he hunts killers. He is desperate for love, but his wife’s murder has left him too damaged to receive it.",
+      "rating": 7.0,
+      "first_air_date": "2024-11-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/213306",
       "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "Spectrum On Demand"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
-      "id": 198102,
-      "title": "Hijack",
-      "overview": "Expert negotiator Sam Nelson is in for the ride of his life—and so is everyone on board with him—after a group of hijackers take control. Sam will try every move in his playbook to take them down...as the stakes grow higher by the second.",
-      "rating": 7.6,
-      "first_air_date": "2023-06-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2C51clnxQdiqPDeqQlXcUx70hse.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/198102",
+      "id": 209867,
+      "title": "Frieren: Beyond Journey's End",
+      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
+      "rating": 8.8,
+      "first_air_date": "2023-09-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/209867",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 240459,
-      "title": "Spartacus: House of Ashur",
-      "overview": "In a world where he survived the events of Spartacus, Ashur clawed his way to power, owning the same ludus that once owned him. Allying with a fierce gladiatrix, Ashur ignites a new kind of spectacle that offends the elite.",
-      "rating": 6.7,
-      "first_air_date": "2025-12-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/240459",
-      "providers": [
-        "Starz Apple TV Channel",
-        "Starz Roku Premium Channel",
-        "Starz",
-        "Philo",
-        "Spectrum On Demand",
-        "Starz Amazon Channel"
-      ]
-    },
-    {
-      "id": 203737,
-      "title": "【OSHI NO KO】",
-      "overview": "A small-town doctor gets sucked into the ruthless world of show business when he crosses paths with a popular teen idol who holds a secret.",
-      "rating": 8.3,
-      "first_air_date": "2023-04-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rFp74PFpz14AHrtlVPrLyrSng47.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/203737",
-      "providers": [
+        "Netflix",
         "Hulu",
         "Crunchyroll",
         "Crunchyroll Amazon Channel",
-        "HiDive",
-        "Hidive Amazon Channel"
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -134,6 +64,19 @@
       ]
     },
     {
+      "id": 106379,
+      "title": "Fallout",
+      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
+      "rating": 8.1,
+      "first_air_date": "2024-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/106379",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
       "id": 279446,
       "title": "Swords Into Plowshares",
       "overview": "During the tumultuous period of the Five Dynasties and Ten Kingdoms, three determined youths—Qian Hongshu, Zhao Kuangyin, and Guo Rong—navigate the chaos of political upheaval and war as they strive to overcome the suffering caused by endless conflict.",
@@ -143,6 +86,60 @@
       "tmdb_url": "https://www.themoviedb.org/tv/279446",
       "providers": [
         "Rakuten Viki"
+      ]
+    },
+    {
+      "id": 270444,
+      "title": "Lead Children",
+      "overview": "When a young doctor discovers that children living near a smelting plant suffer from lead poisoning, she risks her career and safety to save them.",
+      "rating": 9.0,
+      "first_air_date": "2026-02-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8Er3yj5yRnHGALKPbtuiyMlIh6R.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/270444",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 224372,
+      "title": "A Knight of the Seven Kingdoms",
+      "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
+      "rating": 8.2,
+      "first_air_date": "2026-01-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/abrZg2iodq4XeBngpNESOgfPvBM.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/224372",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "Spectrum On Demand"
+      ]
+    },
+    {
+      "id": 202208,
+      "title": "The Artful Dodger",
+      "overview": "It's a tale of reinvention, betrayal, redemption, and love with a twist. Jack Dawkins is The Artful Dodger, whose pickpocketing fingers have become the skilled hands of a surgeon. He is torn between an impossible love and the criminal underworld he secretly craves. This will require Artfulness.",
+      "rating": 8.1,
+      "first_air_date": "2023-11-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lcyax0pIH6vZWbho2hxsMTt9KpN.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/202208",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
+    {
+      "id": 273160,
+      "title": "The Beauty",
+      "overview": "The world of high fashion turns dark when international supermodels begin dying in gruesome and mysterious ways. FBI Agents Cooper Madsen and Jordan Bennett are sent to Paris to uncover the truth. As they delve deeper into the case, they uncover a sexually transmitted virus that transforms ordinary people into visions of physical perfection, but with terrifying consequences.",
+      "rating": 6.2,
+      "first_air_date": "2026-01-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tZTG2PPAukzksPkiQV9c4suIQXk.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/273160",
+      "providers": [
+        "Hulu",
+        "fuboTV",
+        "YouTube TV"
       ]
     }
   ]
