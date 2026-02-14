@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-02-13T12:55:21.754917Z",
+  "generated_at": "2026-02-14T12:43:02.879823Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
-      "id": 95479,
-      "title": "JUJUTSU KAISEN",
-      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
-      "rating": 8.6,
-      "first_air_date": "2020-10-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95479",
+      "id": 209867,
+      "title": "Frieren: Beyond Journey's End",
+      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
+      "rating": 8.8,
+      "first_air_date": "2023-09-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/209867",
       "providers": [
         "Netflix",
         "Hulu",
@@ -20,26 +20,13 @@
       ]
     },
     {
-      "id": 213306,
-      "title": "Cross",
-      "overview": "Alex Cross is a brilliant but flawed homicide detective and full of contradictions. A doting father and family man, Cross is single-minded to the point of obsession when he hunts killers. He is desperate for love, but his wife’s murder has left him too damaged to receive it.",
-      "rating": 7.0,
-      "first_air_date": "2024-11-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/213306",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 209867,
-      "title": "Frieren: Beyond Journey's End",
-      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
-      "rating": 8.8,
-      "first_air_date": "2023-09-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/209867",
+      "id": 95479,
+      "title": "JUJUTSU KAISEN",
+      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+      "rating": 8.6,
+      "first_air_date": "2020-10-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95479",
       "providers": [
         "Netflix",
         "Hulu",
@@ -59,8 +46,46 @@
       "providers": [
         "HBO Max",
         "HBO Max Amazon Channel",
-        "YouTube TV",
-        "HBO Max  Amazon Channel"
+        "YouTube TV"
+      ]
+    },
+    {
+      "id": 258462,
+      "title": "In the Mud",
+      "overview": "Five female prisoners forge a unique bond after a deadly accident... until corruption and turf wars within a ruthless prison threaten to destroy them.",
+      "rating": 7.4,
+      "first_air_date": "2025-08-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9JWQYB7FkGtg47wFO7GOrUDgYrx.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/258462",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 206494,
+      "title": "Million-Follower Detective",
+      "overview": "In this crime thriller, Detective Chen Chia-jen races to unmask Baba the Witch, the viral tarot reader who accurately predicts the deaths of influencers.",
+      "rating": 8.3,
+      "first_air_date": "2026-02-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4y4GeGlsbV1643PQLAmQoCeIOBK.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/206494",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 213306,
+      "title": "Cross",
+      "overview": "Alex Cross is a brilliant but flawed homicide detective and full of contradictions. A doting father and family man, Cross is single-minded to the point of obsession when he hunts killers. He is desperate for love, but his wife’s murder has left him too damaged to receive it.",
+      "rating": 7.0,
+      "first_air_date": "2024-11-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/213306",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -77,6 +102,19 @@
       ]
     },
     {
+      "id": 233079,
+      "title": "How to Get to Heaven from Belfast",
+      "overview": "Three lifelong pals embark on a chaotic quest to solve the mystery of their old friend's suspicious death and keep their own dark secret under wraps.",
+      "rating": 8.1,
+      "first_air_date": "2026-02-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8vwM2mrOWgREjM28YblxuuVIrlF.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/233079",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 279446,
       "title": "Swords Into Plowshares",
       "overview": "During the tumultuous period of the Five Dynasties and Ten Kingdoms, three determined youths—Qian Hongshu, Zhao Kuangyin, and Guo Rong—navigate the chaos of political upheaval and war as they strive to overcome the suffering caused by endless conflict.",
@@ -86,19 +124,6 @@
       "tmdb_url": "https://www.themoviedb.org/tv/279446",
       "providers": [
         "Rakuten Viki"
-      ]
-    },
-    {
-      "id": 270444,
-      "title": "Lead Children",
-      "overview": "When a young doctor discovers that children living near a smelting plant suffer from lead poisoning, she risks her career and safety to save them.",
-      "rating": 9.0,
-      "first_air_date": "2026-02-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8Er3yj5yRnHGALKPbtuiyMlIh6R.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/270444",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     },
     {
@@ -113,33 +138,6 @@
         "HBO Max",
         "HBO Max Amazon Channel",
         "Spectrum On Demand"
-      ]
-    },
-    {
-      "id": 202208,
-      "title": "The Artful Dodger",
-      "overview": "It's a tale of reinvention, betrayal, redemption, and love with a twist. Jack Dawkins is The Artful Dodger, whose pickpocketing fingers have become the skilled hands of a surgeon. He is torn between an impossible love and the criminal underworld he secretly craves. This will require Artfulness.",
-      "rating": 8.1,
-      "first_air_date": "2023-11-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lcyax0pIH6vZWbho2hxsMTt9KpN.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/202208",
-      "providers": [
-        "Disney Plus",
-        "Hulu"
-      ]
-    },
-    {
-      "id": 273160,
-      "title": "The Beauty",
-      "overview": "The world of high fashion turns dark when international supermodels begin dying in gruesome and mysterious ways. FBI Agents Cooper Madsen and Jordan Bennett are sent to Paris to uncover the truth. As they delve deeper into the case, they uncover a sexually transmitted virus that transforms ordinary people into visions of physical perfection, but with terrifying consequences.",
-      "rating": 6.2,
-      "first_air_date": "2026-01-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tZTG2PPAukzksPkiQV9c4suIQXk.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/273160",
-      "providers": [
-        "Hulu",
-        "fuboTV",
-        "YouTube TV"
       ]
     }
   ]
