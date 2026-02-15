@@ -1,22 +1,32 @@
 {
-  "generated_at": "2026-02-14T12:43:02.879823Z",
+  "generated_at": "2026-02-15T12:46:41.374061Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
-      "id": 209867,
-      "title": "Frieren: Beyond Journey's End",
-      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
-      "rating": 8.8,
-      "first_air_date": "2023-09-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/209867",
+      "id": 273977,
+      "title": "The Art of Sarah",
+      "overview": "A body found in the middle of town. A luxe label on the rise. A detective tests every stitch of a woman's story that keeps changing. What really happened?",
+      "rating": 8.2,
+      "first_air_date": "2026-02-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nP2PRGSmLdbZtQtoXPPppcDAsNw.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/273977",
       "providers": [
         "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 106379,
+      "title": "Fallout",
+      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
+      "rating": 8.1,
+      "first_air_date": "2024-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/106379",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -36,101 +46,10 @@
       ]
     },
     {
-      "id": 250307,
-      "title": "The Pitt",
-      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-      "rating": 8.7,
-      "first_air_date": "2025-01-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/250307",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "YouTube TV"
-      ]
-    },
-    {
-      "id": 258462,
-      "title": "In the Mud",
-      "overview": "Five female prisoners forge a unique bond after a deadly accident... until corruption and turf wars within a ruthless prison threaten to destroy them.",
-      "rating": 7.4,
-      "first_air_date": "2025-08-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9JWQYB7FkGtg47wFO7GOrUDgYrx.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/258462",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 206494,
-      "title": "Million-Follower Detective",
-      "overview": "In this crime thriller, Detective Chen Chia-jen races to unmask Baba the Witch, the viral tarot reader who accurately predicts the deaths of influencers.",
-      "rating": 8.3,
-      "first_air_date": "2026-02-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4y4GeGlsbV1643PQLAmQoCeIOBK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/206494",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 213306,
-      "title": "Cross",
-      "overview": "Alex Cross is a brilliant but flawed homicide detective and full of contradictions. A doting father and family man, Cross is single-minded to the point of obsession when he hunts killers. He is desperate for love, but his wife’s murder has left him too damaged to receive it.",
-      "rating": 7.0,
-      "first_air_date": "2024-11-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/213306",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 106379,
-      "title": "Fallout",
-      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
-      "rating": 8.1,
-      "first_air_date": "2024-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/106379",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 233079,
-      "title": "How to Get to Heaven from Belfast",
-      "overview": "Three lifelong pals embark on a chaotic quest to solve the mystery of their old friend's suspicious death and keep their own dark secret under wraps.",
-      "rating": 8.1,
-      "first_air_date": "2026-02-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8vwM2mrOWgREjM28YblxuuVIrlF.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/233079",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 279446,
-      "title": "Swords Into Plowshares",
-      "overview": "During the tumultuous period of the Five Dynasties and Ten Kingdoms, three determined youths—Qian Hongshu, Zhao Kuangyin, and Guo Rong—navigate the chaos of political upheaval and war as they strive to overcome the suffering caused by endless conflict.",
-      "rating": 8.9,
-      "first_air_date": "2026-01-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/76gwCVQG1MoItK25o48opYP7TmG.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/279446",
-      "providers": [
-        "Rakuten Viki"
-      ]
-    },
-    {
       "id": 224372,
       "title": "A Knight of the Seven Kingdoms",
       "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
-      "rating": 8.2,
+      "rating": 8.3,
       "first_air_date": "2026-01-18",
       "poster_url": "https://image.tmdb.org/t/p/w500/abrZg2iodq4XeBngpNESOgfPvBM.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/224372",
@@ -138,6 +57,100 @@
         "HBO Max",
         "HBO Max Amazon Channel",
         "Spectrum On Demand"
+      ]
+    },
+    {
+      "id": 131142,
+      "title": "Love Story",
+      "overview": "An anthology of sweeping true love stories that captured the world’s attention.",
+      "rating": 8.7,
+      "first_air_date": "2026-02-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7WU3cXD0rip5ONc7owI2dBWAVjW.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/131142",
+      "providers": [
+        "Google Play Movies"
+      ]
+    },
+    {
+      "id": 209867,
+      "title": "Frieren: Beyond Journey's End",
+      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
+      "rating": 8.8,
+      "first_air_date": "2023-09-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/209867",
+      "providers": [
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 310239,
+      "title": "Museum of Innocence",
+      "overview": "In 1970s Istanbul, a man's forbidden love for a shop-girl evolves into a lifelong journey of obsession and longing.",
+      "rating": 7.0,
+      "first_air_date": "2026-02-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gdDPQ5vs7HdhoqUqV0DOgqUPcXU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/310239",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 37854,
+      "title": "One Piece",
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "rating": 8.7,
+      "first_air_date": "1999-10-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/37854",
+      "providers": [
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 116799,
+      "title": "The Lincoln Lawyer",
+      "overview": "Hotshot LA defense attorney Mickey Haller will do whatever it takes to win as he navigates the criminal justice system from his trademark Lincoln.",
+      "rating": 7.7,
+      "first_air_date": "2022-05-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4jSaIqEU8CPBBNn4iVCK6wzPjSx.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/116799",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 128904,
+      "title": "Dark Winds",
+      "overview": "This psychological thriller follows two Navajo police officers, Leaphorn and Chee, in the 1970s Southwest as their search for clues in a grisly double murder case forces them to challenge their own spiritual beliefs and come to terms with the trauma of their pasts.",
+      "rating": 7.5,
+      "first_air_date": "2022-06-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kDlrMN0P9ByrEH2GoRbBFeZHbcf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/128904",
+      "providers": [
+        "Netflix",
+        "AMC Plus Apple TV Channel ",
+        "AMC+ Amazon Channel",
+        "AMC+ Roku Premium Channel",
+        "AMC+",
+        "YouTube TV",
+        "AMC",
+        "Philo",
+        "Acorn TV",
+        "AcornTV Amazon Channel",
+        "Spectrum On Demand",
+        "Netflix Standard with Ads",
+        "Acorn TV Apple TV"
       ]
     }
   ]
