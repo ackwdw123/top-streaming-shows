@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T12:58:57.754047Z",
+  "generated_at": "2026-02-17T12:59:32.101323Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -7,7 +7,7 @@
       "id": 224372,
       "title": "A Knight of the Seven Kingdoms",
       "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
-      "rating": 8.4,
+      "rating": 8.5,
       "first_air_date": "2026-01-18",
       "poster_url": "https://image.tmdb.org/t/p/w500/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/224372",
@@ -31,19 +31,6 @@
       ]
     },
     {
-      "id": 106379,
-      "title": "Fallout",
-      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
-      "rating": 8.1,
-      "first_air_date": "2024-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/106379",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
       "id": 1434,
       "title": "Family Guy",
       "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
@@ -57,22 +44,6 @@
         "YouTube TV",
         "Adult Swim",
         "FOX One Amazon Channel"
-      ]
-    },
-    {
-      "id": 95479,
-      "title": "JUJUTSU KAISEN",
-      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
-      "rating": 8.6,
-      "first_air_date": "2020-10-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95479",
-      "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
       ]
     },
     {
@@ -105,27 +76,58 @@
       ]
     },
     {
-      "id": 128904,
-      "title": "Dark Winds",
-      "overview": "This psychological thriller follows two Navajo police officers, Leaphorn and Chee, in the 1970s Southwest as their search for clues in a grisly double murder case forces them to challenge their own spiritual beliefs and come to terms with the trauma of their pasts.",
-      "rating": 7.5,
-      "first_air_date": "2022-06-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kDlrMN0P9ByrEH2GoRbBFeZHbcf.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/128904",
+      "id": 106379,
+      "title": "Fallout",
+      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
+      "rating": 8.1,
+      "first_air_date": "2024-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/106379",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 270444,
+      "title": "Lead Children",
+      "overview": "When a young doctor discovers that children living near a smelting plant suffer from lead poisoning, she risks her career and safety to save them.",
+      "rating": 9.2,
+      "first_air_date": "2026-02-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8Er3yj5yRnHGALKPbtuiyMlIh6R.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/270444",
       "providers": [
         "Netflix",
-        "AMC Plus Apple TV Channel ",
-        "AMC+ Amazon Channel",
-        "AMC+ Roku Premium Channel",
-        "AMC+",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 456,
+      "title": "The Simpsons",
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "rating": 8.0,
+      "first_air_date": "1989-12-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/456",
+      "providers": [
+        "Disney Plus",
+        "Hulu",
+        "fuboTV",
         "YouTube TV",
-        "AMC",
-        "Philo",
-        "Acorn TV",
-        "AcornTV Amazon Channel",
-        "Spectrum On Demand",
-        "Netflix Standard with Ads",
-        "Acorn TV Apple TV"
+        "FOX One Amazon Channel"
+      ]
+    },
+    {
+      "id": 116799,
+      "title": "The Lincoln Lawyer",
+      "overview": "Hotshot LA defense attorney Mickey Haller will do whatever it takes to win as he navigates the criminal justice system from his trademark Lincoln.",
+      "rating": 7.7,
+      "first_air_date": "2022-05-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4jSaIqEU8CPBBNn4iVCK6wzPjSx.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/116799",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -140,19 +142,6 @@
         "HBO Max",
         "HBO Max Amazon Channel",
         "YouTube TV"
-      ]
-    },
-    {
-      "id": 233079,
-      "title": "How to Get to Heaven from Belfast",
-      "overview": "Three lifelong pals embark on a chaotic quest to solve the mystery of their old friend's suspicious death and keep their own dark secret under wraps.",
-      "rating": 7.5,
-      "first_air_date": "2026-02-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8vwM2mrOWgREjM28YblxuuVIrlF.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/233079",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     }
   ]
