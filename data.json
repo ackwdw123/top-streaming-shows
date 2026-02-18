@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T12:59:32.101323Z",
+  "generated_at": "2026-02-18T13:00:21.207272Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -18,87 +18,84 @@
       ]
     },
     {
-      "id": 273977,
-      "title": "The Art of Sarah",
-      "overview": "A body found in the middle of town. A luxe label on the rise. A detective tests every stitch of a woman's story that keeps changing. What really happened?",
-      "rating": 8.0,
-      "first_air_date": "2026-02-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nP2PRGSmLdbZtQtoXPPppcDAsNw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/273977",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 1434,
-      "title": "Family Guy",
-      "overview": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+      "id": 233079,
+      "title": "How to Get to Heaven from Belfast",
+      "overview": "Three lifelong pals embark on a chaotic quest to solve the mystery of their old friend's suspicious death and keep their own dark secret under wraps.",
       "rating": 7.4,
-      "first_air_date": "1999-01-31",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/1434",
-      "providers": [
-        "Hulu",
-        "fuboTV",
-        "YouTube TV",
-        "Adult Swim",
-        "FOX One Amazon Channel"
-      ]
-    },
-    {
-      "id": 209867,
-      "title": "Frieren: Beyond Journey's End",
-      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
-      "rating": 8.8,
-      "first_air_date": "2023-09-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/209867",
-      "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 66732,
-      "title": "Stranger Things",
-      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
-      "rating": 8.6,
-      "first_air_date": "2016-07-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/66732",
+      "first_air_date": "2026-02-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pKhWOq1xI7O0WRWngvAqeIgg0VI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/233079",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 106379,
-      "title": "Fallout",
-      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
-      "rating": 8.1,
-      "first_air_date": "2024-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/106379",
+      "id": 213306,
+      "title": "Cross",
+      "overview": "Alex Cross is a brilliant but flawed homicide detective and full of contradictions. A doting father and family man, Cross is single-minded to the point of obsession when he hunts killers. He is desperate for love, but his wife’s murder has left him too damaged to receive it.",
+      "rating": 7.0,
+      "first_air_date": "2024-11-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/213306",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
       ]
     },
     {
-      "id": 270444,
-      "title": "Lead Children",
-      "overview": "When a young doctor discovers that children living near a smelting plant suffer from lead poisoning, she risks her career and safety to save them.",
-      "rating": 9.2,
-      "first_air_date": "2026-02-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8Er3yj5yRnHGALKPbtuiyMlIh6R.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/270444",
+      "id": 130464,
+      "title": "Tell Me Lies",
+      "overview": "When Lucy Albright and Stephen DeMarco meet at college, they are at that formative age when seemingly mundane choices lead the way to irrevocable consequences. They quickly fall into an addictive entanglement that will permanently alter not only their lives, but the lives of everyone around them.",
+      "rating": 7.5,
+      "first_air_date": "2022-09-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hhWpEUZINrago2YgKDyv5Hb8yrU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/130464",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
+    {
+      "id": 301507,
+      "title": "Heated Rivalry",
+      "overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
+      "rating": 8.8,
+      "first_air_date": "2025-11-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/epgr7n61vVIniyAghz2GYj22DkC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/301507",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel"
+      ]
+    },
+    {
+      "id": 79744,
+      "title": "The Rookie",
+      "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "rating": 8.5,
+      "first_air_date": "2018-10-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/79744",
+      "providers": [
+        "Hulu",
+        "fuboTV",
+        "YouTube TV",
+        "Philo"
+      ]
+    },
+    {
+      "id": 250307,
+      "title": "The Pitt",
+      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+      "rating": 8.7,
+      "first_air_date": "2025-01-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/250307",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "YouTube TV"
       ]
     },
     {
@@ -118,30 +115,29 @@
       ]
     },
     {
-      "id": 116799,
-      "title": "The Lincoln Lawyer",
-      "overview": "Hotshot LA defense attorney Mickey Haller will do whatever it takes to win as he navigates the criminal justice system from his trademark Lincoln.",
-      "rating": 7.7,
-      "first_air_date": "2022-05-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4jSaIqEU8CPBBNn4iVCK6wzPjSx.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/116799",
+      "id": 273977,
+      "title": "The Art of Sarah",
+      "overview": "A body found in the middle of town. A luxe label on the rise. A detective tests every stitch of a woman's story that keeps changing. What really happened?",
+      "rating": 8.0,
+      "first_air_date": "2026-02-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nP2PRGSmLdbZtQtoXPPppcDAsNw.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/273977",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 250307,
-      "title": "The Pitt",
-      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-      "rating": 8.7,
-      "first_air_date": "2025-01-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/250307",
+      "id": 283370,
+      "title": "Motorvalley",
+      "overview": "Desperate to gain control of her family's racing empire, an heiress hires a reckless driver and a troubled coach to compete in the Italian Gran Turismo.",
+      "rating": 6.7,
+      "first_air_date": "2026-02-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/v9OAxTMdIci9Ox6cZXvMEWHyYf0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/283370",
       "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "YouTube TV"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
