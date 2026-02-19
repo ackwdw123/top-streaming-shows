@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-02-18T13:00:21.207272Z",
+  "generated_at": "2026-02-19T13:01:34.713489Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 129552,
+      "title": "The Night Agent",
+      "overview": "Brought together by a midnight phone call, an FBI agent and a cybersecurity expert must unravel an ever-growing web of political conspiracies.",
+      "rating": 7.7,
+      "first_air_date": "2023-03-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4c5yUNcaff4W4aPrkXE6zr7papX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/129552",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
     {
       "id": 224372,
       "title": "A Knight of the Seven Kingdoms",
@@ -15,19 +28,6 @@
         "HBO Max",
         "HBO Max Amazon Channel",
         "Spectrum On Demand"
-      ]
-    },
-    {
-      "id": 233079,
-      "title": "How to Get to Heaven from Belfast",
-      "overview": "Three lifelong pals embark on a chaotic quest to solve the mystery of their old friend's suspicious death and keep their own dark secret under wraps.",
-      "rating": 7.4,
-      "first_air_date": "2026-02-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pKhWOq1xI7O0WRWngvAqeIgg0VI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/233079",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     },
     {
@@ -44,74 +44,45 @@
       ]
     },
     {
-      "id": 130464,
-      "title": "Tell Me Lies",
-      "overview": "When Lucy Albright and Stephen DeMarco meet at college, they are at that formative age when seemingly mundane choices lead the way to irrevocable consequences. They quickly fall into an addictive entanglement that will permanently alter not only their lives, but the lives of everyone around them.",
-      "rating": 7.5,
-      "first_air_date": "2022-09-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hhWpEUZINrago2YgKDyv5Hb8yrU.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/130464",
+      "id": 106379,
+      "title": "Fallout",
+      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
+      "rating": 8.1,
+      "first_air_date": "2024-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/106379",
       "providers": [
-        "Disney Plus",
-        "Hulu"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
-      "id": 301507,
-      "title": "Heated Rivalry",
-      "overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
-      "rating": 8.8,
-      "first_air_date": "2025-11-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/epgr7n61vVIniyAghz2GYj22DkC.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/301507",
+      "id": 66732,
+      "title": "Stranger Things",
+      "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+      "rating": 8.6,
+      "first_air_date": "2016-07-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/66732",
       "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 79744,
-      "title": "The Rookie",
-      "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-      "rating": 8.5,
-      "first_air_date": "2018-10-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/79744",
-      "providers": [
-        "Hulu",
-        "fuboTV",
-        "YouTube TV",
-        "Philo"
-      ]
-    },
-    {
-      "id": 250307,
-      "title": "The Pitt",
-      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+      "id": 37854,
+      "title": "One Piece",
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
       "rating": 8.7,
-      "first_air_date": "2025-01-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/250307",
+      "first_air_date": "1999-10-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/37854",
       "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "YouTube TV"
-      ]
-    },
-    {
-      "id": 456,
-      "title": "The Simpsons",
-      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-      "rating": 8.0,
-      "first_air_date": "1989-12-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/456",
-      "providers": [
-        "Disney Plus",
+        "Netflix",
         "Hulu",
-        "fuboTV",
-        "YouTube TV",
-        "FOX One Amazon Channel"
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -128,16 +99,49 @@
       ]
     },
     {
-      "id": 283370,
-      "title": "Motorvalley",
-      "overview": "Desperate to gain control of her family's racing empire, an heiress hires a reckless driver and a troubled coach to compete in the Italian Gran Turismo.",
-      "rating": 6.7,
-      "first_air_date": "2026-02-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/v9OAxTMdIci9Ox6cZXvMEWHyYf0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/283370",
+      "id": 223530,
+      "title": "Star Trek: Starfleet Academy",
+      "overview": "A young group of cadets come together to pursue a common dream of hope and optimism. Under the watchful and demanding eyes of their instructors, they will discover what it takes to become Starfleet officers as they navigate blossoming friendships, explosive rivalries, first loves and a new enemy that threatens both the Academy and the Federation itself.",
+      "rating": 4.8,
+      "first_air_date": "2026-01-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/223530",
+      "providers": [
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Paramount+ Originals Amazon Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
+      ]
+    },
+    {
+      "id": 95479,
+      "title": "JUJUTSU KAISEN",
+      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+      "rating": 8.6,
+      "first_air_date": "2020-10-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95479",
       "providers": [
         "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 198102,
+      "title": "Hijack",
+      "overview": "Expert negotiator Sam Nelson is in for the ride of his life—and so is everyone on board with him—after a group of hijackers take control. Sam will try every move in his playbook to take them down...as the stakes grow higher by the second.",
+      "rating": 7.6,
+      "first_air_date": "2023-06-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2C51clnxQdiqPDeqQlXcUx70hse.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/198102",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     }
   ]
