@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-21T12:42:25.211593Z",
+  "generated_at": "2026-02-22T12:44:42.945345Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -31,32 +31,6 @@
       ]
     },
     {
-      "id": 201289,
-      "title": "The Last Thing He Told Me",
-      "overview": "A woman must forge a relationship with her teenage stepdaughter in order to find her husband, who has mysteriously disappeared.",
-      "rating": 7.0,
-      "first_air_date": "2023-04-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sxRBl0zPdevzruEoIbsL2MMDkFN.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/201289",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 241372,
-      "title": "56 Days",
-      "overview": "When an unidentified body is found in a luxury apartment linked to Oliver Kennedy and his girlfriend Ciara Wyse, Detectives Lee Reardon and Karl Connolly reconstruct the couple's deadly romance across the past 56 days. Starring Dove Cameron, Avan Jogia, Karla Souza and Dorian Missick.",
-      "rating": 4.4,
-      "first_air_date": "2026-02-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sdJLbucggwGj8NdX0UN2zt1Vwmn.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/241372",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
       "id": 209867,
       "title": "Frieren: Beyond Journey's End",
       "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
@@ -73,13 +47,13 @@
       ]
     },
     {
-      "id": 106379,
-      "title": "Fallout",
-      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
-      "rating": 8.1,
-      "first_air_date": "2024-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/106379",
+      "id": 241372,
+      "title": "56 Days",
+      "overview": "When an unidentified body is found in a luxury apartment linked to Oliver Kennedy and his girlfriend Ciara Wyse, Detectives Lee Reardon and Karl Connolly reconstruct the couple's deadly romance across the past 56 days. Starring Dove Cameron, Avan Jogia, Karla Souza and Dorian Missick.",
+      "rating": 5.0,
+      "first_air_date": "2026-02-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sdJLbucggwGj8NdX0UN2zt1Vwmn.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/241372",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
@@ -102,17 +76,33 @@
       ]
     },
     {
-      "id": 250307,
-      "title": "The Pitt",
-      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-      "rating": 8.7,
-      "first_air_date": "2025-01-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/250307",
+      "id": 223530,
+      "title": "Star Trek: Starfleet Academy",
+      "overview": "A young group of cadets come together to pursue a common dream of hope and optimism. Under the watchful and demanding eyes of their instructors, they will discover what it takes to become Starfleet officers as they navigate blossoming friendships, explosive rivalries, first loves and a new enemy that threatens both the Academy and the Federation itself.",
+      "rating": 4.7,
+      "first_air_date": "2026-01-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/223530",
       "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "YouTube TV"
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Paramount+ Originals Amazon Channel",
+        "Paramount Plus Essential",
+        "Paramount Plus Premium"
+      ]
+    },
+    {
+      "id": 201289,
+      "title": "The Last Thing He Told Me",
+      "overview": "A woman must forge a relationship with her teenage stepdaughter in order to find her husband, who has mysteriously disappeared.",
+      "rating": 7.0,
+      "first_air_date": "2023-04-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sxRBl0zPdevzruEoIbsL2MMDkFN.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/201289",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -132,16 +122,30 @@
       ]
     },
     {
-      "id": 131142,
-      "title": "Love Story",
-      "overview": "An anthology of sweeping true love stories that captured the world’s attention.",
-      "rating": 8.8,
-      "first_air_date": "2026-02-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7WU3cXD0rip5ONc7owI2dBWAVjW.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/131142",
+      "id": 106379,
+      "title": "Fallout",
+      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
+      "rating": 8.1,
+      "first_air_date": "2024-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/106379",
       "providers": [
-        "Hulu",
-        "fuboTV"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 250307,
+      "title": "The Pitt",
+      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+      "rating": 8.7,
+      "first_air_date": "2025-01-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/250307",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "YouTube TV"
       ]
     }
   ]
