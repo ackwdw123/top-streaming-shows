@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T12:41:05.304386Z",
+  "generated_at": "2026-03-01T12:43:20.092847Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -19,18 +19,6 @@
       ]
     },
     {
-      "id": 295778,
-      "title": "Scrubs",
-      "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
-      "rating": 7.6,
-      "first_air_date": "2026-02-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/295778",
-      "providers": [
-        "Hulu"
-      ]
-    },
-    {
       "id": 224372,
       "title": "A Knight of the Seven Kingdoms",
       "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
@@ -45,46 +33,15 @@
       ]
     },
     {
-      "id": 209867,
-      "title": "Frieren: Beyond Journey's End",
-      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
-      "rating": 8.8,
-      "first_air_date": "2023-09-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/209867",
+      "id": 295778,
+      "title": "Scrubs",
+      "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
+      "rating": 7.8,
+      "first_air_date": "2026-02-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/295778",
       "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 87083,
-      "title": "Formula 1: Drive to Survive",
-      "overview": "Drivers, managers and team owners live life in the fast lane - both on and off the track - during one cutthroat season of Formula 1 racing.",
-      "rating": 8.2,
-      "first_air_date": "2019-03-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xGOGjJFYYeRSoOpnhN9IHZTXIxj.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/87083",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 250307,
-      "title": "The Pitt",
-      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-      "rating": 8.7,
-      "first_air_date": "2025-01-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/250307",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "YouTube TV"
+        "Hulu"
       ]
     },
     {
@@ -95,19 +52,6 @@
       "first_air_date": "2020-12-25",
       "poster_url": "https://image.tmdb.org/t/p/w500/uXTg565ahu9RwonCX1V2Hex1NU6.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/91239",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 300054,
-      "title": "BAKI-DOU: The Invincible Samurai",
-      "overview": "Baki and the strongest Underground Arena fighters face a threat of historical proportions: the resurrected Musashi Miyamoto, Japan's greatest samurai.",
-      "rating": 8.0,
-      "first_air_date": "2026-02-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/frtzbwANetYd0M4zdrZ5gx0E89q.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/300054",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -130,6 +74,48 @@
       ]
     },
     {
+      "id": 209867,
+      "title": "Frieren: Beyond Journey's End",
+      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
+      "rating": 8.8,
+      "first_air_date": "2023-09-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/209867",
+      "providers": [
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 300054,
+      "title": "BAKI-DOU: The Invincible Samurai",
+      "overview": "Baki and the strongest Underground Arena fighters face a threat of historical proportions: the resurrected Musashi Miyamoto, Japan's greatest samurai.",
+      "rating": 9.0,
+      "first_air_date": "2026-02-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/frtzbwANetYd0M4zdrZ5gx0E89q.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/300054",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 245927,
+      "title": "Paradise",
+      "overview": "The tranquility in a serene, wealthy community inhabited by some of the world's most prominent individuals explodes when a shocking murder occurs and a high stakes investigation unfolds.",
+      "rating": 7.4,
+      "first_air_date": "2025-01-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/245927",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
+    {
       "id": 129552,
       "title": "The Night Agent",
       "overview": "Brought together by a midnight phone call, an FBI agent and a cybersecurity expert must unravel an ever-growing web of political conspiracies.",
@@ -140,6 +126,19 @@
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 106379,
+      "title": "Fallout",
+      "overview": "The story of haves and have-nots in a world in which there's almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
+      "rating": 8.1,
+      "first_air_date": "2024-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c15BtJxCXMrISLVmysdsnZUPQft.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/106379",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     }
   ]
