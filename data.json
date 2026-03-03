@@ -1,20 +1,19 @@
 {
-  "generated_at": "2026-03-02T12:54:31.875778Z",
+  "generated_at": "2026-03-03T12:53:56.155635Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
-      "id": 224372,
-      "title": "A Knight of the Seven Kingdoms",
-      "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
-      "rating": 8.5,
-      "first_air_date": "2026-01-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/224372",
+      "id": 310800,
+      "title": "Siren's Kiss",
+      "overview": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
+      "rating": 6.0,
+      "first_air_date": "2026-03-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4jymZ1loXjtQoiaW8JuZifQKFU3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/310800",
       "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "Spectrum On Demand"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -31,15 +30,30 @@
       ]
     },
     {
-      "id": 287344,
-      "title": "The Practical Guide to Love",
-      "overview": "A woman determined to finally open her heart goes on a blind date with two very different men, and through the chaos and charm of it all, she ends up figuring out what love actually means for her.",
-      "rating": 6.0,
-      "first_air_date": "2026-02-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/AhZDz5309V0zsZfUyF4cilkUM4T.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/287344",
+      "id": 224372,
+      "title": "A Knight of the Seven Kingdoms",
+      "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
+      "rating": 8.5,
+      "first_air_date": "2026-01-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/224372",
       "providers": [
-        "Rakuten Viki"
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "Spectrum On Demand"
+      ]
+    },
+    {
+      "id": 91239,
+      "title": "Bridgerton",
+      "overview": "Wealth, lust, and betrayal set in the backdrop of Regency era England, seen through the eyes of the powerful Bridgerton family.",
+      "rating": 8.1,
+      "first_air_date": "2020-12-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uXTg565ahu9RwonCX1V2Hex1NU6.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/91239",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -72,6 +86,47 @@
       ]
     },
     {
+      "id": 111110,
+      "title": "ONE PIECE",
+      "overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+      "rating": 8.1,
+      "first_air_date": "2023-08-31",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rVX05xRKS5JhEYQFObCi4lAnZT4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/111110",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 79744,
+      "title": "The Rookie",
+      "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "rating": 8.5,
+      "first_air_date": "2018-10-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/79744",
+      "providers": [
+        "Hulu",
+        "fuboTV",
+        "YouTube TV",
+        "Philo"
+      ]
+    },
+    {
+      "id": 198102,
+      "title": "Hijack",
+      "overview": "Expert negotiator Sam Nelson is in for the ride of his life—and so is everyone on board with him—after a group of hijackers take control. Sam will try every move in his playbook to take them down...as the stakes grow higher by the second.",
+      "rating": 7.6,
+      "first_air_date": "2023-06-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2C51clnxQdiqPDeqQlXcUx70hse.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/198102",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
       "id": 95479,
       "title": "JUJUTSU KAISEN",
       "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
@@ -85,62 +140,6 @@
         "Crunchyroll",
         "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 91239,
-      "title": "Bridgerton",
-      "overview": "Wealth, lust, and betrayal set in the backdrop of Regency era England, seen through the eyes of the powerful Bridgerton family.",
-      "rating": 8.1,
-      "first_air_date": "2020-12-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uXTg565ahu9RwonCX1V2Hex1NU6.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/91239",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 129552,
-      "title": "The Night Agent",
-      "overview": "Brought together by a midnight phone call, an FBI agent and a cybersecurity expert must unravel an ever-growing web of political conspiracies.",
-      "rating": 7.7,
-      "first_air_date": "2023-03-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4c5yUNcaff4W4aPrkXE6zr7papX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/129552",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 209867,
-      "title": "Frieren: Beyond Journey's End",
-      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
-      "rating": 8.8,
-      "first_air_date": "2023-09-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/209867",
-      "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 250307,
-      "title": "The Pitt",
-      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-      "rating": 8.7,
-      "first_air_date": "2025-01-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/250307",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "YouTube TV"
       ]
     }
   ]
