@@ -1,19 +1,58 @@
 {
-  "generated_at": "2026-03-04T12:53:03.212479Z",
+  "generated_at": "2026-03-05T12:56:15.134073Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
-      "id": 310800,
-      "title": "Siren's Kiss",
-      "overview": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
-      "rating": 6.0,
-      "first_air_date": "2026-03-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/310800",
+      "id": 198102,
+      "title": "Hijack",
+      "overview": "Expert negotiator Sam Nelson is in for the ride of his life—and so is everyone on board with him—after a group of hijackers take control. Sam will try every move in his playbook to take them down...as the stakes grow higher by the second.",
+      "rating": 7.6,
+      "first_air_date": "2023-06-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2C51clnxQdiqPDeqQlXcUx70hse.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/198102",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 273160,
+      "title": "The Beauty",
+      "overview": "The world of high fashion turns dark when international supermodels begin dying in gruesome and mysterious ways. FBI Agents Cooper Madsen and Jordan Bennett are sent to Paris to uncover the truth. As they delve deeper into the case, they uncover a sexually transmitted virus that transforms ordinary people into visions of physical perfection, but with terrifying consequences.",
+      "rating": 6.0,
+      "first_air_date": "2026-01-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tZTG2PPAukzksPkiQV9c4suIQXk.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/273160",
+      "providers": [
+        "Hulu",
+        "fuboTV",
+        "YouTube TV"
+      ]
+    },
+    {
+      "id": 295778,
+      "title": "Scrubs",
+      "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
+      "rating": 8.1,
+      "first_air_date": "2026-02-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/295778",
+      "providers": [
+        "Hulu"
+      ]
+    },
+    {
+      "id": 201834,
+      "title": "ted",
+      "overview": "It's 1993 and Ted the bear's moment of fame has passed, leaving him living with his best friend, 16-year-old John Bennett, who lives in a working-class Boston home with his parents and cousin. Ted may not be the best influence on John, but when it comes right down to it, he's willing to go out on a limb to help his friend and his family.",
+      "rating": 7.9,
+      "first_air_date": "2024-01-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/KDsx42xy3KPBSttV4ryJsv4RJR.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/201834",
+      "providers": [
+        "Peacock Premium",
+        "Peacock Premium Plus"
       ]
     },
     {
@@ -43,97 +82,52 @@
       ]
     },
     {
-      "id": 198102,
-      "title": "Hijack",
-      "overview": "Expert negotiator Sam Nelson is in for the ride of his life—and so is everyone on board with him—after a group of hijackers take control. Sam will try every move in his playbook to take them down...as the stakes grow higher by the second.",
-      "rating": 7.6,
-      "first_air_date": "2023-06-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2C51clnxQdiqPDeqQlXcUx70hse.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/198102",
+      "id": 310800,
+      "title": "Siren's Kiss",
+      "overview": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
+      "rating": 6.0,
+      "first_air_date": "2026-03-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oXrOxJ03sE4SyJQcKxSLpKETfkF.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/310800",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 202411,
-      "title": "Monarch: Legacy of Monsters",
-      "overview": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.",
-      "rating": 7.7,
-      "first_air_date": "2023-11-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/202411",
-      "providers": [
-        "Apple TV",
         "Amazon Prime Video",
-        "Peacock Premium",
-        "Amazon Prime Video with Ads",
-        "Peacock Premium Plus",
-        "Apple TV Amazon Channel"
+        "Amazon Prime Video with Ads"
       ]
     },
     {
-      "id": 245927,
-      "title": "Paradise",
-      "overview": "The tranquility in a serene, wealthy community inhabited by some of the world's most prominent individuals explodes when a shocking murder occurs and a high stakes investigation unfolds.",
-      "rating": 7.4,
-      "first_air_date": "2025-01-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/245927",
+      "id": 91239,
+      "title": "Bridgerton",
+      "overview": "Wealth, lust, and betrayal set in the backdrop of Regency era England, seen through the eyes of the powerful Bridgerton family.",
+      "rating": 8.1,
+      "first_air_date": "2020-12-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uXTg565ahu9RwonCX1V2Hex1NU6.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/91239",
       "providers": [
-        "Disney Plus",
-        "Hulu"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 79744,
-      "title": "The Rookie",
-      "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-      "rating": 8.5,
-      "first_air_date": "2018-10-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/79744",
+      "id": 213306,
+      "title": "Cross",
+      "overview": "Alex Cross is a brilliant but flawed homicide detective and full of contradictions. A doting father and family man, Cross is single-minded to the point of obsession when he hunts killers. He is desperate for love, but his wife’s murder has left him too damaged to receive it.",
+      "rating": 7.0,
+      "first_air_date": "2024-11-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/213306",
       "providers": [
-        "Hulu",
-        "fuboTV",
-        "YouTube TV",
-        "Philo"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
-      "id": 206828,
-      "title": "DTF St. Louis",
-      "overview": "A love triangle among three adults experiencing middle-age malaise leads to one of them ending up dead.",
-      "rating": 3.8,
-      "first_air_date": "2026-03-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/206828",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "Spectrum On Demand"
-      ]
-    },
-    {
-      "id": 295778,
-      "title": "Scrubs",
-      "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
-      "rating": 7.8,
-      "first_air_date": "2026-02-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/295778",
-      "providers": [
-        "Hulu"
-      ]
-    },
-    {
-      "id": 37854,
-      "title": "One Piece",
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "rating": 8.7,
-      "first_air_date": "1999-10-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/37854",
+      "id": 95479,
+      "title": "JUJUTSU KAISEN",
+      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+      "rating": 8.6,
+      "first_air_date": "2020-10-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95479",
       "providers": [
         "Netflix",
         "Hulu",
