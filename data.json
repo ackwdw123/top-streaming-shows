@@ -1,18 +1,19 @@
 {
-  "generated_at": "2026-03-06T12:52:12.313669Z",
+  "generated_at": "2026-03-07T12:42:27.002015Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
-      "id": 295778,
-      "title": "Scrubs",
-      "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
-      "rating": 8.0,
-      "first_air_date": "2026-02-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/295778",
+      "id": 255661,
+      "title": "Young Sherlock",
+      "overview": "Sherlock Holmes is a disgraced young man, raw and unfiltered, when he finds himself wrapped up in a murder case that threatens his liberty. His first ever case unravels a globe-trotting conspiracy that changes his life forever.",
+      "rating": 8.9,
+      "first_air_date": "2026-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/BMBWTgvL41sOYtfkmXen6nm9mG.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/255661",
       "providers": [
-        "Hulu"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -21,7 +22,7 @@
       "overview": "It's 1993 and Ted the bear's moment of fame has passed, leaving him living with his best friend, 16-year-old John Bennett, who lives in a working-class Boston home with his parents and cousin. Ted may not be the best influence on John, but when it comes right down to it, he's willing to go out on a limb to help his friend and his family.",
       "rating": 7.9,
       "first_air_date": "2024-01-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/KDsx42xy3KPBSttV4ryJsv4RJR.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cPn71YFDENH0JkWUezlsLyWmLfN.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/201834",
       "providers": [
         "Peacock Premium",
@@ -29,30 +30,46 @@
       ]
     },
     {
-      "id": 273160,
-      "title": "The Beauty",
-      "overview": "The world of high fashion turns dark when international supermodels begin dying in gruesome and mysterious ways. FBI Agents Cooper Madsen and Jordan Bennett are sent to Paris to uncover the truth. As they delve deeper into the case, they uncover a sexually transmitted virus that transforms ordinary people into visions of physical perfection, but with terrifying consequences.",
-      "rating": 6.0,
-      "first_air_date": "2026-01-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tZTG2PPAukzksPkiQV9c4suIQXk.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/273160",
+      "id": 250307,
+      "title": "The Pitt",
+      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+      "rating": 8.7,
+      "first_air_date": "2025-01-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/250307",
       "providers": [
-        "Hulu",
-        "fuboTV",
+        "HBO Max",
+        "HBO Max Amazon Channel",
         "YouTube TV"
       ]
     },
     {
-      "id": 76479,
-      "title": "The Boys",
-      "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
-      "rating": 8.4,
-      "first_air_date": "2019-07-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/76479",
+      "id": 285739,
+      "title": "Vladimir",
+      "overview": "When an English professor becomes obsessed with a handsome new colleague, her already complicated marriage and career are thrown into total chaos.",
+      "rating": 8.6,
+      "first_air_date": "2026-03-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/j02VBIGVIk2OTwTUZ1YzyzcONAy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/285739",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 209867,
+      "title": "Frieren: Beyond Journey's End",
+      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
+      "rating": 8.8,
+      "first_air_date": "2023-09-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/209867",
+      "providers": [
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -73,6 +90,19 @@
       ]
     },
     {
+      "id": 198102,
+      "title": "Hijack",
+      "overview": "Expert negotiator Sam Nelson is in for the ride of his life—and so is everyone on board with him—after a group of hijackers take control. Sam will try every move in his playbook to take them down...as the stakes grow higher by the second.",
+      "rating": 7.6,
+      "first_air_date": "2023-06-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2C51clnxQdiqPDeqQlXcUx70hse.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/198102",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
       "id": 95479,
       "title": "JUJUTSU KAISEN",
       "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
@@ -86,35 +116,6 @@
         "Crunchyroll",
         "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 250307,
-      "title": "The Pitt",
-      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-      "rating": 8.7,
-      "first_air_date": "2025-01-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/250307",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "YouTube TV"
-      ]
-    },
-    {
-      "id": 290856,
-      "title": "Marshals",
-      "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
-      "rating": 8.0,
-      "first_air_date": "2026-03-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/290856",
-      "providers": [
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel"
       ]
     },
     {
@@ -132,16 +133,19 @@
       ]
     },
     {
-      "id": 198102,
-      "title": "Hijack",
-      "overview": "Expert negotiator Sam Nelson is in for the ride of his life—and so is everyone on board with him—after a group of hijackers take control. Sam will try every move in his playbook to take them down...as the stakes grow higher by the second.",
-      "rating": 7.6,
-      "first_air_date": "2023-06-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2C51clnxQdiqPDeqQlXcUx70hse.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/198102",
+      "id": 290856,
+      "title": "Marshals",
+      "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
+      "rating": 8.0,
+      "first_air_date": "2026-03-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/290856",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "fuboTV",
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel"
       ]
     }
   ]
