@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T12:56:34.221675Z",
+  "generated_at": "2026-03-11T12:56:05.245633Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -17,39 +17,10 @@
       ]
     },
     {
-      "id": 255661,
-      "title": "Young Sherlock",
-      "overview": "Sherlock Holmes is a disgraced young man, raw and unfiltered, when he finds himself wrapped up in a murder case that threatens his liberty. His first ever case unravels a globe-trotting conspiracy that changes his life forever.",
-      "rating": 8.3,
-      "first_air_date": "2026-03-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/BMBWTgvL41sOYtfkmXen6nm9mG.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/255661",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 290856,
-      "title": "Marshals",
-      "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
-      "rating": 8.1,
-      "first_air_date": "2026-03-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/290856",
-      "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel"
-      ]
-    },
-    {
       "id": 313298,
       "title": "The Dinosaurs",
       "overview": "From the first dinosaurs to the last, this epic documentary series examines their 165 million years on Earth and the forces that shaped their evolution.",
-      "rating": 7.5,
+      "rating": 7.6,
       "first_air_date": "2026-03-06",
       "poster_url": "https://image.tmdb.org/t/p/w500/x37IK9WWhuzi7tgyMT4ff3kiT5X.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/313298",
@@ -59,16 +30,32 @@
       ]
     },
     {
-      "id": 245927,
-      "title": "Paradise",
-      "overview": "The tranquility in a serene, wealthy community inhabited by some of the world's most prominent individuals explodes when a shocking murder occurs and a high stakes investigation unfolds.",
-      "rating": 7.4,
-      "first_air_date": "2025-01-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/245927",
+      "id": 37854,
+      "title": "One Piece",
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "rating": 8.7,
+      "first_air_date": "1999-10-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/37854",
       "providers": [
-        "Disney Plus",
-        "Hulu"
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 254953,
+      "title": "Rooster",
+      "overview": "On a college campus, an author navigates a complicated relationship with his daughter.",
+      "rating": 7.1,
+      "first_air_date": "2026-03-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/254953",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel"
       ]
     },
     {
@@ -87,13 +74,27 @@
       ]
     },
     {
-      "id": 76479,
-      "title": "The Boys",
-      "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
-      "rating": 8.4,
-      "first_air_date": "2019-07-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/76479",
+      "id": 224372,
+      "title": "A Knight of the Seven Kingdoms",
+      "overview": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
+      "rating": 8.5,
+      "first_air_date": "2026-01-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/224372",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "Spectrum On Demand"
+      ]
+    },
+    {
+      "id": 255661,
+      "title": "Young Sherlock",
+      "overview": "Sherlock Holmes is a disgraced young man, raw and unfiltered, when he finds himself wrapped up in a murder case that threatens his liberty. His first ever case unravels a globe-trotting conspiracy that changes his life forever.",
+      "rating": 8.3,
+      "first_air_date": "2026-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/BMBWTgvL41sOYtfkmXen6nm9mG.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/255661",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
@@ -113,6 +114,19 @@
       ]
     },
     {
+      "id": 281016,
+      "title": "Boyfriend on Demand",
+      "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
+      "rating": 8.5,
+      "first_air_date": "2026-03-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kYRpUkcHJGIrkuMiGGtEU1YHEkR.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/281016",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 95479,
       "title": "JUJUTSU KAISEN",
       "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
@@ -125,19 +139,6 @@
         "Hulu",
         "Crunchyroll",
         "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 281016,
-      "title": "Boyfriend on Demand",
-      "overview": "Seo Mi-rae is worn out by work. Love? It's the last thing on her mind. But a virtual dating service sparks feelings — and maybe a real shot at romance.",
-      "rating": 8.7,
-      "first_air_date": "2026-03-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kYRpUkcHJGIrkuMiGGtEU1YHEkR.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/281016",
-      "providers": [
-        "Netflix",
         "Netflix Standard with Ads"
       ]
     }
