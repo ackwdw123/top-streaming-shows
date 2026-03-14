@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T12:54:32.842289Z",
+  "generated_at": "2026-03-14T12:46:58.783346Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -20,7 +20,7 @@
       "id": 240740,
       "title": "Scarpetta",
       "overview": "Renowned forensic pathologist Dr. Kay Scarpetta returns to her position as Virginia's Chief Medical Examiner, where she investigates a haunting murder with eerie reminders from her first big case decades ago. In 1998, Scarpetta works alongside Detective Pete Marino and FBI Agent Benton Wesley as they investigate a series of brutal stranglings. Based on the best-selling novels by Patricia Cornwell.",
-      "rating": 5.9,
+      "rating": 6.3,
       "first_air_date": "2026-03-11",
       "poster_url": "https://image.tmdb.org/t/p/w500/zvkcHCJUPqv7R9ukaiDNkm75jy.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/240740",
@@ -30,32 +30,19 @@
       ]
     },
     {
-      "id": 88324,
-      "title": "Virgin River",
-      "overview": "After seeing an ad for a midwife, a recently divorced big-city nurse moves to the redwood forests of California, where she meets an intriguing man.",
-      "rating": 7.9,
-      "first_air_date": "2019-12-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oHEqfmSWR4Ex4V4AJyUn8HGHHnt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/88324",
+      "id": 209867,
+      "title": "Frieren: Beyond Journey's End",
+      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
+      "rating": 8.8,
+      "first_air_date": "2023-09-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/209867",
       "providers": [
         "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 223530,
-      "title": "Star Trek: Starfleet Academy",
-      "overview": "A young group of cadets come together to pursue a common dream of hope and optimism. Under the watchful and demanding eyes of their instructors, they will discover what it takes to become Starfleet officers as they navigate blossoming friendships, explosive rivalries, first loves and a new enemy that threatens both the Academy and the Federation itself.",
-      "rating": 5.0,
-      "first_air_date": "2026-01-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/223530",
-      "providers": [
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel"
       ]
     },
     {
@@ -72,20 +59,6 @@
         "Crunchyroll",
         "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 250307,
-      "title": "The Pitt",
-      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-      "rating": 8.7,
-      "first_air_date": "2025-01-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/250307",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "YouTube TV"
       ]
     },
     {
@@ -106,6 +79,20 @@
       ]
     },
     {
+      "id": 250307,
+      "title": "The Pitt",
+      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+      "rating": 8.7,
+      "first_air_date": "2025-01-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/250307",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "YouTube TV"
+      ]
+    },
+    {
       "id": 37854,
       "title": "One Piece",
       "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
@@ -122,28 +109,45 @@
       ]
     },
     {
-      "id": 295778,
-      "title": "Scrubs",
-      "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
-      "rating": 7.9,
-      "first_air_date": "2026-02-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/295778",
+      "id": 227975,
+      "title": "Fatal Seduction",
+      "overview": "A married professor is pulled into a passionate affair with a younger man that uncovers a path of tragedy and betrayal from those closest to her.",
+      "rating": 6.5,
+      "first_air_date": "2023-07-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qV9DjDIMUu7ieCQTQkEe9R83Ooa.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/227975",
       "providers": [
-        "Hulu"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 255661,
-      "title": "Young Sherlock",
-      "overview": "Sherlock Holmes is a disgraced young man, raw and unfiltered, when he finds himself wrapped up in a murder case that threatens his liberty. His first ever case unravels a globe-trotting conspiracy that changes his life forever.",
-      "rating": 8.1,
-      "first_air_date": "2026-03-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/BMBWTgvL41sOYtfkmXen6nm9mG.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/255661",
+      "id": 131142,
+      "title": "Love Story",
+      "overview": "An anthology of sweeping true love stories that captured the world’s attention.",
+      "rating": 8.7,
+      "first_air_date": "2026-02-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7WU3cXD0rip5ONc7owI2dBWAVjW.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/131142",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Hulu",
+        "fuboTV"
+      ]
+    },
+    {
+      "id": 223530,
+      "title": "Star Trek: Starfleet Academy",
+      "overview": "A young group of cadets come together to pursue a common dream of hope and optimism. Under the watchful and demanding eyes of their instructors, they will discover what it takes to become Starfleet officers as they navigate blossoming friendships, explosive rivalries, first loves and a new enemy that threatens both the Academy and the Federation itself.",
+      "rating": 5.0,
+      "first_air_date": "2026-01-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/223530",
+      "providers": [
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel"
       ]
     }
   ]
