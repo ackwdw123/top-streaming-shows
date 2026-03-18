@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-03-17T13:07:42.640043Z",
+  "generated_at": "2026-03-18T13:07:22.509792Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 95557,
+      "title": "Invincible",
+      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father’s tutelage.",
+      "rating": 8.6,
+      "first_air_date": "2021-03-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95557",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
     {
       "id": 111110,
       "title": "ONE PIECE",
@@ -11,6 +24,19 @@
       "first_air_date": "2023-08-31",
       "poster_url": "https://image.tmdb.org/t/p/w500/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/111110",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 212588,
+      "title": "Furies",
+      "overview": "Seeking to avenge her father's death, a young woman becomes entangled in the web of the Fury, peacekeeper of the Paris criminal underworld.",
+      "rating": 7.1,
+      "first_air_date": "2024-03-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8sHKc6kNKjdhvHBP2c5zoSS16v5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/212588",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -48,78 +74,6 @@
       ]
     },
     {
-      "id": 95479,
-      "title": "JUJUTSU KAISEN",
-      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
-      "rating": 8.6,
-      "first_air_date": "2020-10-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95479",
-      "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 290856,
-      "title": "Marshals",
-      "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
-      "rating": 7.4,
-      "first_air_date": "2026-03-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/290856",
-      "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel"
-      ]
-    },
-    {
-      "id": 245927,
-      "title": "Paradise",
-      "overview": "The tranquility in a serene, wealthy community inhabited by some of the world's most prominent individuals explodes when a shocking murder occurs and a high stakes investigation unfolds.",
-      "rating": 7.4,
-      "first_air_date": "2025-01-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/245927",
-      "providers": [
-        "Disney Plus",
-        "Hulu"
-      ]
-    },
-    {
-      "id": 254953,
-      "title": "Rooster",
-      "overview": "On a college campus, an author navigates a complicated relationship with his daughter.",
-      "rating": 7.4,
-      "first_air_date": "2026-03-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/254953",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "Spectrum On Demand"
-      ]
-    },
-    {
-      "id": 240740,
-      "title": "Scarpetta",
-      "overview": "Renowned forensic pathologist Dr. Kay Scarpetta returns to her position as Virginia's Chief Medical Examiner, where she investigates a haunting murder with eerie reminders from her first big case decades ago. In 1998, Scarpetta works alongside Detective Pete Marino and FBI Agent Benton Wesley as they investigate a series of brutal stranglings. Based on the best-selling novels by Patricia Cornwell.",
-      "rating": 6.2,
-      "first_air_date": "2026-03-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zvkcHCJUPqv7R9ukaiDNkm75jy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/240740",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
       "id": 79744,
       "title": "The Rookie",
       "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
@@ -132,6 +86,31 @@
         "fuboTV",
         "YouTube TV",
         "Philo"
+      ]
+    },
+    {
+      "id": 213306,
+      "title": "Cross",
+      "overview": "Alex Cross is a brilliant but flawed homicide detective and full of contradictions. A doting father and family man, Cross is single-minded to the point of obsession when he hunts killers. He is desperate for love, but his wife’s murder has left him too damaged to receive it.",
+      "rating": 7.0,
+      "first_air_date": "2024-11-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/213306",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 259819,
+      "title": "Rooster Fighter",
+      "overview": "Keiji is more than just an ordinary rooster—he's humanity's greatest defender! His opponents may be ten stories tall, but nothing is bigger than his stout heart and his fearsome battle cry—Kokekokko!",
+      "rating": 9.3,
+      "first_air_date": "2026-03-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iCtbr0sIdaKZjhQH3Wr7hW6A1IU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/259819",
+      "providers": [
+        "Hulu"
       ]
     },
     {
@@ -148,6 +127,19 @@
         "Crunchyroll",
         "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 245927,
+      "title": "Paradise",
+      "overview": "The tranquility in a serene, wealthy community inhabited by some of the world's most prominent individuals explodes when a shocking murder occurs and a high stakes investigation unfolds.",
+      "rating": 7.4,
+      "first_air_date": "2025-01-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/245927",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
       ]
     }
   ]
