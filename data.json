@@ -1,21 +1,8 @@
 {
-  "generated_at": "2026-03-19T13:01:01.448793Z",
+  "generated_at": "2026-03-20T12:55:53.474619Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
-    {
-      "id": 95557,
-      "title": "Invincible",
-      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father’s tutelage.",
-      "rating": 8.6,
-      "first_air_date": "2021-03-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95557",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
     {
       "id": 45790,
       "title": "JoJo's Bizarre Adventure",
@@ -37,16 +24,32 @@
       ]
     },
     {
-      "id": 212588,
-      "title": "Furies",
-      "overview": "Seeking to avenge her father's death, a young woman becomes entangled in the web of the Fury, peacekeeper of the Paris criminal underworld.",
-      "rating": 7.1,
-      "first_air_date": "2024-03-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8sHKc6kNKjdhvHBP2c5zoSS16v5.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/212588",
+      "id": 95479,
+      "title": "JUJUTSU KAISEN",
+      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+      "rating": 8.6,
+      "first_air_date": "2020-10-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95479",
       "providers": [
         "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 95557,
+      "title": "Invincible",
+      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
+      "rating": 8.6,
+      "first_air_date": "2021-03-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95557",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -63,29 +66,56 @@
       ]
     },
     {
-      "id": 213306,
-      "title": "Cross",
-      "overview": "Alex Cross is a brilliant but flawed homicide detective and full of contradictions. A doting father and family man, Cross is single-minded to the point of obsession when he hunts killers. He is desperate for love, but his wife’s murder has left him too damaged to receive it.",
-      "rating": 7.0,
-      "first_air_date": "2024-11-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/213306",
+      "id": 225780,
+      "title": "Deadloch",
+      "overview": "Two vastly different female detectives are thrown together to solve the murder of a local man in the sleepy seaside hamlet of Deadloch.",
+      "rating": 6.2,
+      "first_air_date": "2023-06-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7rI7T4AfSzOx0Rqw73AusyIpeXf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/225780",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
       ]
     },
     {
+      "id": 246246,
+      "title": "Beauty in Black",
+      "overview": "A stripper's fate takes a turn when she crosses paths with the wealthy, dysfunctional family behind a cosmetics dynasty and a devious trafficking scheme.",
+      "rating": 7.6,
+      "first_air_date": "2024-10-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/i98Jl46WBpK7ymttNOakowtNuFF.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/246246",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 295778,
       "title": "Scrubs",
       "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
-      "rating": 7.9,
+      "rating": 8.0,
       "first_air_date": "2026-02-25",
       "poster_url": "https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/295778",
       "providers": [
         "Hulu",
         "fuboTV"
+      ]
+    },
+    {
+      "id": 250307,
+      "title": "The Pitt",
+      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+      "rating": 8.7,
+      "first_air_date": "2025-01-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/250307",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "YouTube TV"
       ]
     },
     {
@@ -105,42 +135,16 @@
       ]
     },
     {
-      "id": 246246,
-      "title": "Beauty in Black",
-      "overview": "A stripper's fate takes a turn when she crosses paths with the wealthy, dysfunctional family behind a cosmetics dynasty and a devious trafficking scheme.",
-      "rating": 7.5,
-      "first_air_date": "2024-10-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/i98Jl46WBpK7ymttNOakowtNuFF.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/246246",
+      "id": 212588,
+      "title": "Furies",
+      "overview": "Seeking to avenge her father's death, a young woman becomes entangled in the web of the Fury, peacekeeper of the Paris criminal underworld.",
+      "rating": 7.1,
+      "first_air_date": "2024-03-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8sHKc6kNKjdhvHBP2c5zoSS16v5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/212588",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 136311,
-      "title": "Shrinking",
-      "overview": "Jimmy is struggling to grieve the loss of his wife while being a dad, friend, and therapist. He decides to try a new approach with everyone in his path: unfiltered, brutal honesty. Will it make things better—or unleash uproarious chaos?",
-      "rating": 7.8,
-      "first_air_date": "2023-01-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/136311",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 285166,
-      "title": "Jack-of-All-Trades, Party of None",
-      "overview": "Betrayed by his childhood friend and cast out of the Hero Party, Orhun Dura—once their loyal Enchanter—is branded by his former comrades as “a jack-of-all-trades but a master of none.” Alone, he sets out to forge a new path as a solo adventurer. His journey sparks explosive battles, deadly rivals, and unexpected allies—and he’ll rise to shatter every expectation. The ultimate solo comeback begins!",
-      "rating": 8.1,
-      "first_air_date": "2026-01-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qRvICaz6LJXz96DaYcpTjQf6QN8.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/285166",
-      "providers": [
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
       ]
     }
   ]
