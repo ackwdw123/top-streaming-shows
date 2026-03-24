@@ -1,66 +1,19 @@
 {
-  "generated_at": "2026-03-23T13:03:22.091524Z",
+  "generated_at": "2026-03-24T13:07:47.258406Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
-      "id": 279388,
-      "title": "Pursuit of Jade",
-      "overview": "This drama follows Fan Changyu, a butcher’s daughter, and Xie Zheng, a fallen noble seeking revenge. Their fake marriage turns into true love, but war tears them apart. Determined, Fan Changyu wields her butcher’s knife on the battlefield, searching for justice and her husband. Meanwhile, Xie Zheng reclaims his title, fighting to protect his country and love. Reunited in battle, they stand together, defying fate, uncovering the truth, and returning home without forgetting their vows.",
-      "rating": 8.2,
-      "first_air_date": "2026-03-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/g2CSCJuWm7IcpuRjxySQvZcJYnp.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/279388",
+      "id": 245927,
+      "title": "Paradise",
+      "overview": "The tranquility in a serene, wealthy community inhabited by some of the world's most prominent individuals explodes when a shocking murder occurs and a high stakes investigation unfolds.",
+      "rating": 7.4,
+      "first_air_date": "2025-01-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/245927",
       "providers": [
-        "Netflix"
-      ]
-    },
-    {
-      "id": 45790,
-      "title": "JoJo's Bizarre Adventure",
-      "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
-      "rating": 8.5,
-      "first_air_date": "2012-10-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/45790",
-      "providers": [
-        "Netflix",
-        "Amazon Prime Video",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Peacock Premium",
-        "Netflix Standard with Ads",
-        "Amazon Prime Video with Ads",
-        "Peacock Premium Plus"
-      ]
-    },
-    {
-      "id": 225891,
-      "title": "The Madison",
-      "overview": "The Clyburns uproot their comfortable New York City lives to the wild, untamed beauty of Montana's Madison River Valley on a search for connection.",
-      "rating": 8.9,
-      "first_air_date": "2026-03-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/225891",
-      "providers": [
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel"
-      ]
-    },
-    {
-      "id": 1999,
-      "title": "The Comeback",
-      "overview": "For Valerie Cherish, no price is too high to pay for clinging to the spotlight. Desperate to revive her career, she agrees to star in a reality TV series, allowing cameras to follow her every move as she lands a part on a new network sitcom.",
-      "rating": 7.3,
-      "first_air_date": "2005-06-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mYDVwE8vDniLnxNLo2w1zKqZeBr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/1999",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel"
+        "Disney Plus",
+        "Hulu"
       ]
     },
     {
@@ -77,19 +30,48 @@
       ]
     },
     {
-      "id": 95479,
-      "title": "JUJUTSU KAISEN",
-      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+      "id": 45790,
+      "title": "JoJo's Bizarre Adventure",
+      "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
       "rating": 8.6,
-      "first_air_date": "2020-10-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95479",
+      "first_air_date": "2012-10-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/45790",
       "providers": [
         "Netflix",
+        "Amazon Prime Video",
         "Hulu",
         "Crunchyroll",
         "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
+        "Peacock Premium",
+        "Netflix Standard with Ads",
+        "Amazon Prime Video with Ads",
+        "Peacock Premium Plus"
+      ]
+    },
+    {
+      "id": 1999,
+      "title": "The Comeback",
+      "overview": "For Valerie Cherish, no price is too high to pay for clinging to the spotlight. Desperate to revive her career, she agrees to star in a reality TV series, allowing cameras to follow her every move as she lands a part on a new network sitcom.",
+      "rating": 7.3,
+      "first_air_date": "2005-06-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/1999",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel"
+      ]
+    },
+    {
+      "id": 279388,
+      "title": "Pursuit of Jade",
+      "overview": "This drama follows Fan Changyu, a butcher’s daughter, and Xie Zheng, a fallen noble seeking revenge. Their fake marriage turns into true love, but war tears them apart. Determined, Fan Changyu wields her butcher’s knife on the battlefield, searching for justice and her husband. Meanwhile, Xie Zheng reclaims his title, fighting to protect his country and love. Reunited in battle, they stand together, defying fate, uncovering the truth, and returning home without forgetting their vows.",
+      "rating": 7.9,
+      "first_air_date": "2026-03-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g2CSCJuWm7IcpuRjxySQvZcJYnp.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/279388",
+      "providers": [
+        "Netflix"
       ]
     },
     {
@@ -109,16 +91,33 @@
       ]
     },
     {
-      "id": 245927,
-      "title": "Paradise",
-      "overview": "The tranquility in a serene, wealthy community inhabited by some of the world's most prominent individuals explodes when a shocking murder occurs and a high stakes investigation unfolds.",
-      "rating": 7.4,
-      "first_air_date": "2025-01-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/245927",
+      "id": 225891,
+      "title": "The Madison",
+      "overview": "The Clyburns uproot their comfortable New York City lives to the wild, untamed beauty of Montana's Madison River Valley on a search for connection.",
+      "rating": 8.9,
+      "first_air_date": "2026-03-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/225891",
       "providers": [
-        "Disney Plus",
-        "Hulu"
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel"
+      ]
+    },
+    {
+      "id": 79744,
+      "title": "The Rookie",
+      "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "rating": 8.5,
+      "first_air_date": "2018-10-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/79744",
+      "providers": [
+        "Hulu",
+        "fuboTV",
+        "YouTube TV",
+        "Philo"
       ]
     },
     {
