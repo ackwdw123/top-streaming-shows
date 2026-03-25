@@ -1,19 +1,32 @@
 {
-  "generated_at": "2026-03-24T13:07:47.258406Z",
+  "generated_at": "2026-03-25T13:05:36.925945Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
-      "id": 245927,
-      "title": "Paradise",
-      "overview": "The tranquility in a serene, wealthy community inhabited by some of the world's most prominent individuals explodes when a shocking murder occurs and a high stakes investigation unfolds.",
-      "rating": 7.4,
-      "first_air_date": "2025-01-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/245927",
+      "id": 202555,
+      "title": "Daredevil: Born Again",
+      "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+      "rating": 8.0,
+      "first_air_date": "2025-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/202555",
       "providers": [
         "Disney Plus",
         "Hulu"
+      ]
+    },
+    {
+      "id": 95557,
+      "title": "Invincible",
+      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
+      "rating": 8.6,
+      "first_air_date": "2021-03-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95557",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -27,6 +40,34 @@
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 37854,
+      "title": "One Piece",
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "rating": 8.7,
+      "first_air_date": "1999-10-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/37854",
+      "providers": [
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 279388,
+      "title": "Pursuit of Jade",
+      "overview": "This drama follows Fan Changyu, a butcher’s daughter, and Xie Zheng, a fallen noble seeking revenge. Their fake marriage turns into true love, but war tears them apart. Determined, Fan Changyu wields her butcher’s knife on the battlefield, searching for justice and her husband. Meanwhile, Xie Zheng reclaims his title, fighting to protect his country and love. Reunited in battle, they stand together, defying fate, uncovering the truth, and returning home without forgetting their vows.",
+      "rating": 8.0,
+      "first_air_date": "2026-03-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g2CSCJuWm7IcpuRjxySQvZcJYnp.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/279388",
+      "providers": [
+        "Netflix"
       ]
     },
     {
@@ -50,43 +91,28 @@
       ]
     },
     {
-      "id": 1999,
-      "title": "The Comeback",
-      "overview": "For Valerie Cherish, no price is too high to pay for clinging to the spotlight. Desperate to revive her career, she agrees to star in a reality TV series, allowing cameras to follow her every move as she lands a part on a new network sitcom.",
-      "rating": 7.3,
-      "first_air_date": "2005-06-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/1999",
+      "id": 245927,
+      "title": "Paradise",
+      "overview": "The tranquility in a serene, wealthy community inhabited by some of the world's most prominent individuals explodes when a shocking murder occurs and a high stakes investigation unfolds.",
+      "rating": 7.4,
+      "first_air_date": "2025-01-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/245927",
       "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel"
+        "Disney Plus",
+        "Hulu"
       ]
     },
     {
-      "id": 279388,
-      "title": "Pursuit of Jade",
-      "overview": "This drama follows Fan Changyu, a butcher’s daughter, and Xie Zheng, a fallen noble seeking revenge. Their fake marriage turns into true love, but war tears them apart. Determined, Fan Changyu wields her butcher’s knife on the battlefield, searching for justice and her husband. Meanwhile, Xie Zheng reclaims his title, fighting to protect his country and love. Reunited in battle, they stand together, defying fate, uncovering the truth, and returning home without forgetting their vows.",
-      "rating": 7.9,
-      "first_air_date": "2026-03-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/g2CSCJuWm7IcpuRjxySQvZcJYnp.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/279388",
-      "providers": [
-        "Netflix"
-      ]
-    },
-    {
-      "id": 37854,
-      "title": "One Piece",
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "rating": 8.7,
-      "first_air_date": "1999-10-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/37854",
+      "id": 158154,
+      "title": "Heartbreak High",
+      "overview": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
+      "rating": 7.1,
+      "first_air_date": "2022-09-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1KTYMK7N2vRe8PowCyb799DbDRR.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/158154",
       "providers": [
         "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
       ]
     },
@@ -94,7 +120,7 @@
       "id": 225891,
       "title": "The Madison",
       "overview": "The Clyburns uproot their comfortable New York City lives to the wild, untamed beauty of Montana's Madison River Valley on a search for connection.",
-      "rating": 8.9,
+      "rating": 8.7,
       "first_air_date": "2026-03-14",
       "poster_url": "https://image.tmdb.org/t/p/w500/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/225891",
@@ -106,47 +132,16 @@
       ]
     },
     {
-      "id": 79744,
-      "title": "The Rookie",
-      "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-      "rating": 8.5,
-      "first_air_date": "2018-10-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/79744",
+      "id": 295778,
+      "title": "Scrubs",
+      "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
+      "rating": 8.0,
+      "first_air_date": "2026-02-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/295778",
       "providers": [
         "Hulu",
-        "fuboTV",
-        "YouTube TV",
-        "Philo"
-      ]
-    },
-    {
-      "id": 95557,
-      "title": "Invincible",
-      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
-      "rating": 8.6,
-      "first_air_date": "2021-03-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95557",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 209867,
-      "title": "Frieren: Beyond Journey's End",
-      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
-      "rating": 8.8,
-      "first_air_date": "2023-09-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/209867",
-      "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
+        "fuboTV"
       ]
     }
   ]
