@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-03-26T13:11:06.830533Z",
+  "generated_at": "2026-03-27T13:02:18.163762Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 95479,
+      "title": "JUJUTSU KAISEN",
+      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+      "rating": 8.6,
+      "first_air_date": "2020-10-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95479",
+      "providers": [
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 87917,
+      "title": "For All Mankind",
+      "overview": "Explore an aspirational world where NASA and the space program remained a priority and a focal point of our hopes and dreams as told through the lives of NASA astronauts, engineers, and their families.",
+      "rating": 7.7,
+      "first_air_date": "2019-11-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/87917",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
     {
       "id": 202555,
       "title": "Daredevil: Born Again",
@@ -17,19 +46,6 @@
       ]
     },
     {
-      "id": 95557,
-      "title": "Invincible",
-      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
-      "rating": 8.6,
-      "first_air_date": "2021-03-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95557",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
       "id": 295778,
       "title": "Scrubs",
       "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
@@ -40,22 +56,6 @@
       "providers": [
         "Hulu",
         "fuboTV"
-      ]
-    },
-    {
-      "id": 203737,
-      "title": "【OSHI NO KO】",
-      "overview": "A small-town doctor gets sucked into the ruthless world of show business when he crosses paths with a popular teen idol who holds a secret.",
-      "rating": 8.3,
-      "first_air_date": "2023-04-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rFp74PFpz14AHrtlVPrLyrSng47.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/203737",
-      "providers": [
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "HiDive",
-        "Hidive Amazon Channel"
       ]
     },
     {
@@ -75,28 +75,42 @@
       ]
     },
     {
-      "id": 158154,
-      "title": "Heartbreak High",
-      "overview": "A fresh look at Hartley High over 20 years on. With her new friends - outsiders Quinni and Darren - Amerie must repair her reputation, while navigating love, sex, and heartbreak.",
-      "rating": 7.1,
-      "first_air_date": "2022-09-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1KTYMK7N2vRe8PowCyb799DbDRR.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/158154",
+      "id": 250307,
+      "title": "The Pitt",
+      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+      "rating": 8.7,
+      "first_air_date": "2025-01-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/250307",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "YouTube TV"
       ]
     },
     {
       "id": 279388,
       "title": "Pursuit of Jade",
       "overview": "This drama follows Fan Changyu, a butcher’s daughter, and Xie Zheng, a fallen noble seeking revenge. Their fake marriage turns into true love, but war tears them apart. Determined, Fan Changyu wields her butcher’s knife on the battlefield, searching for justice and her husband. Meanwhile, Xie Zheng reclaims his title, fighting to protect his country and love. Reunited in battle, they stand together, defying fate, uncovering the truth, and returning home without forgetting their vows.",
-      "rating": 7.9,
+      "rating": 8.1,
       "first_air_date": "2026-03-06",
       "poster_url": "https://image.tmdb.org/t/p/w500/tKMqVzKi4dVvm9Bdpb4oEEgnZYH.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/279388",
       "providers": [
         "Netflix"
+      ]
+    },
+    {
+      "id": 95557,
+      "title": "Invincible",
+      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
+      "rating": 8.6,
+      "first_air_date": "2021-03-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95557",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -113,35 +127,16 @@
       ]
     },
     {
-      "id": 85552,
-      "title": "Euphoria",
-      "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
-      "rating": 8.3,
-      "first_air_date": "2019-06-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/85552",
+      "id": 249907,
+      "title": "Sentenced to Be a Hero",
+      "overview": "In a world where heroism is a punishment, Xylo Forbartz, a condemned goddess killer, battles endless hordes of monstrous abominations as part of Penal Hero Unit 9004. Death is no escape, only a cycle of resurrection and relentless combat. But when Xylo encounters a mysterious new goddess, their unlikely alliance sparks a rebellion that could shatter the chains of eternal punishment.",
+      "rating": 8.7,
+      "first_air_date": "2026-01-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kzyNxTZFcWjkYJU9T9aJ8vXTAFN.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/249907",
       "providers": [
-        "HBO Max"
-      ]
-    },
-    {
-      "id": 45790,
-      "title": "JoJo's Bizarre Adventure",
-      "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
-      "rating": 8.6,
-      "first_air_date": "2012-10-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/45790",
-      "providers": [
-        "Netflix",
-        "Amazon Prime Video",
-        "Hulu",
         "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Peacock Premium",
-        "Netflix Standard with Ads",
-        "Amazon Prime Video with Ads",
-        "Peacock Premium Plus"
+        "Crunchyroll Amazon Channel"
       ]
     }
   ]
