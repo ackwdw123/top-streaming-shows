@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-03-27T13:02:18.163762Z",
+  "generated_at": "2026-03-28T12:51:51.400682Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 209867,
+      "title": "Frieren: Beyond Journey's End",
+      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
+      "rating": 8.8,
+      "first_air_date": "2023-09-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/209867",
+      "providers": [
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
+      ]
+    },
     {
       "id": 95479,
       "title": "JUJUTSU KAISEN",
@@ -46,32 +62,58 @@
       ]
     },
     {
-      "id": 295778,
-      "title": "Scrubs",
-      "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
-      "rating": 8.0,
-      "first_air_date": "2026-02-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/295778",
+      "id": 111110,
+      "title": "ONE PIECE",
+      "overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+      "rating": 8.1,
+      "first_air_date": "2023-08-31",
+      "poster_url": "https://image.tmdb.org/t/p/w500/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/111110",
       "providers": [
-        "Hulu",
-        "fuboTV"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 37854,
-      "title": "One Piece",
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "rating": 8.7,
-      "first_air_date": "1999-10-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/37854",
+      "id": 243881,
+      "title": "House of David",
+      "overview": "Tells the story of the ascent of the biblical figure, David, who becomes the most celebrated king of Israel. The series follows the once-mighty King Saul as he falls victim to his own pride. At the direction of God, the prophet Samuel anoints an unlikely, outcast teenager as the new king.",
+      "rating": 8.0,
+      "first_air_date": "2025-02-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/i4eskPIEI5sK0IibHhWqBU9Ts0k.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/243881",
       "providers": [
-        "Netflix",
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads",
+        "Wonder Project Amazon Channel"
+      ]
+    },
+    {
+      "id": 202411,
+      "title": "Monarch: Legacy of Monsters",
+      "overview": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.",
+      "rating": 7.7,
+      "first_air_date": "2023-11-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/202411",
+      "providers": [
+        "Amazon Prime Video",
+        "Apple TV",
+        "Amazon Prime Video with Ads",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 131142,
+      "title": "Love Story",
+      "overview": "An anthology of sweeping true love stories that captured the world’s attention.",
+      "rating": 8.6,
+      "first_air_date": "2026-02-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7WU3cXD0rip5ONc7owI2dBWAVjW.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/131142",
+      "providers": [
         "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
+        "fuboTV"
       ]
     },
     {
@@ -89,54 +131,16 @@
       ]
     },
     {
-      "id": 279388,
-      "title": "Pursuit of Jade",
-      "overview": "This drama follows Fan Changyu, a butcher’s daughter, and Xie Zheng, a fallen noble seeking revenge. Their fake marriage turns into true love, but war tears them apart. Determined, Fan Changyu wields her butcher’s knife on the battlefield, searching for justice and her husband. Meanwhile, Xie Zheng reclaims his title, fighting to protect his country and love. Reunited in battle, they stand together, defying fate, uncovering the truth, and returning home without forgetting their vows.",
-      "rating": 8.1,
-      "first_air_date": "2026-03-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tKMqVzKi4dVvm9Bdpb4oEEgnZYH.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/279388",
+      "id": 295778,
+      "title": "Scrubs",
+      "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
+      "rating": 8.0,
+      "first_air_date": "2026-02-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/295778",
       "providers": [
-        "Netflix"
-      ]
-    },
-    {
-      "id": 95557,
-      "title": "Invincible",
-      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
-      "rating": 8.6,
-      "first_air_date": "2021-03-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95557",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 111110,
-      "title": "ONE PIECE",
-      "overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
-      "rating": 8.1,
-      "first_air_date": "2023-08-31",
-      "poster_url": "https://image.tmdb.org/t/p/w500/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/111110",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 249907,
-      "title": "Sentenced to Be a Hero",
-      "overview": "In a world where heroism is a punishment, Xylo Forbartz, a condemned goddess killer, battles endless hordes of monstrous abominations as part of Penal Hero Unit 9004. Death is no escape, only a cycle of resurrection and relentless combat. But when Xylo encounters a mysterious new goddess, their unlikely alliance sparks a rebellion that could shatter the chains of eternal punishment.",
-      "rating": 8.7,
-      "first_air_date": "2026-01-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kzyNxTZFcWjkYJU9T9aJ8vXTAFN.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/249907",
-      "providers": [
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
+        "Hulu",
+        "fuboTV"
       ]
     }
   ]
