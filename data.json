@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-03-29T12:53:36.798890Z",
+  "generated_at": "2026-03-30T13:14:48.433386Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
-      "id": 95479,
-      "title": "JUJUTSU KAISEN",
-      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
-      "rating": 8.6,
-      "first_air_date": "2020-10-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95479",
+      "id": 209867,
+      "title": "Frieren: Beyond Journey's End",
+      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
+      "rating": 8.8,
+      "first_air_date": "2023-09-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/209867",
       "providers": [
         "Netflix",
         "Hulu",
@@ -20,13 +20,13 @@
       ]
     },
     {
-      "id": 209867,
-      "title": "Frieren: Beyond Journey's End",
-      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
-      "rating": 8.8,
-      "first_air_date": "2023-09-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/209867",
+      "id": 95479,
+      "title": "JUJUTSU KAISEN",
+      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+      "rating": 8.6,
+      "first_air_date": "2020-10-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95479",
       "providers": [
         "Netflix",
         "Hulu",
@@ -52,41 +52,18 @@
       ]
     },
     {
-      "id": 249597,
-      "title": "Detective Hole",
-      "overview": "A brilliant but troubled detective, Harry Hole, hunts a serial killer while battling a corrupt adversary, Tom Waaler, as they navigate ethical gray areas, with Harry determined to bring the criminal to justice.",
-      "rating": 8.0,
-      "first_air_date": "2026-03-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aZf7NJm0KjkTHbP8R6ieVpIm3V9.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/249597",
+      "id": 117465,
+      "title": "Hell's Paradise",
+      "overview": "For a chance at a pardon, a ninja assassin joins other condemned criminals on a journey to a mysterious island to retrieve an elixir of immortality.",
+      "rating": 8.2,
+      "first_air_date": "2023-04-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1V9I7SvZbYoMbSvdtnlkkq9SB1k.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/117465",
       "providers": [
         "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 229858,
-      "title": "Fate/strange Fake",
-      "overview": "In a Holy Grail War, Mages (Masters) and their Heroic Spirits (Servants) fight for the control of the Holy Grail—an omnipotent wish-granting device said to fulfill any desire. Years have passed since the end of the Fifth Holy Grail War in Japan. Now, signs portend the emergence of a new Holy Grail in the western American city of Snowfield. Sure enough, Masters and Servants begin to gather... A missing Servant class... Impossible Servant summonings... A nation shrouded in secrecy... And a city created as a battleground. In the face of such irregularities, the Holy Grail War is twisted and driven into the depth of madness. Let the curtain rise on a masquerade of humans and heroes, made to dance upon the stage of a false Holy Grail.",
-      "rating": 8.4,
-      "first_air_date": "2024-12-31",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2r5MEaLYl5lZxzgfSmrDybipngl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/229858",
-      "providers": [
+        "Hulu",
         "Crunchyroll",
-        "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 259265,
-      "title": "Something Very Bad is Going to Happen",
-      "overview": "A bride has a feeling that something horrifying will happen at her wedding — and the closer to the altar she gets, the worse it becomes.",
-      "rating": 6.7,
-      "first_air_date": "2026-03-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6KwabACVDQaKg6ac8zYtn3HKk0G.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/259265",
-      "providers": [
-        "Netflix",
+        "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
       ]
     },
@@ -104,26 +81,39 @@
       ]
     },
     {
-      "id": 295778,
-      "title": "Scrubs",
-      "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
-      "rating": 8.1,
-      "first_air_date": "2026-02-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/295778",
+      "id": 249597,
+      "title": "Detective Hole",
+      "overview": "When a series of ritualistic murders hits Oslo, a gifted detective must navigate a puzzle of patterns, corruption and his own demons to catch the killer.",
+      "rating": 7.8,
+      "first_air_date": "2026-03-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aZf7NJm0KjkTHbP8R6ieVpIm3V9.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/249597",
       "providers": [
-        "Hulu",
-        "fuboTV"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 111110,
-      "title": "ONE PIECE",
-      "overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
-      "rating": 8.1,
-      "first_air_date": "2023-08-31",
-      "poster_url": "https://image.tmdb.org/t/p/w500/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/111110",
+      "id": 245927,
+      "title": "Paradise",
+      "overview": "The tranquility in a serene, wealthy community inhabited by some of the world's most prominent individuals explodes when a shocking murder occurs and a high stakes investigation unfolds.",
+      "rating": 7.4,
+      "first_air_date": "2025-01-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/245927",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
+    {
+      "id": 259265,
+      "title": "Something Very Bad is Going to Happen",
+      "overview": "A bride has a feeling that something horrifying will happen at her wedding — and the closer to the altar she gets, the worse it becomes.",
+      "rating": 6.8,
+      "first_air_date": "2026-03-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eK39KSennwJPzzgQ6V3q1iSSRYt.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/259265",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -140,6 +130,26 @@
       "providers": [
         "Apple TV",
         "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 45790,
+      "title": "JoJo's Bizarre Adventure",
+      "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+      "rating": 8.6,
+      "first_air_date": "2012-10-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/45790",
+      "providers": [
+        "Netflix",
+        "Amazon Prime Video",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Peacock Premium",
+        "Netflix Standard with Ads",
+        "Amazon Prime Video with Ads",
+        "Peacock Premium Plus"
       ]
     }
   ]
