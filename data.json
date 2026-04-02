@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-04-01T13:17:38.584935Z",
+  "generated_at": "2026-04-02T13:09:18.904317Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 94404,
+      "title": "Dorohedoro",
+      "overview": "Amnesiac Caiman seeks to undo his lizard head curse by killing the sorcerer responsible, with his friend Nikaido's help. In the Hole, that's a threat.",
+      "rating": 8.3,
+      "first_air_date": "2020-01-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/94404",
+      "providers": [
+        "Netflix",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Rakuten Viki",
+        "Netflix Standard with Ads"
+      ]
+    },
     {
       "id": 202555,
       "title": "Daredevil: Born Again",
@@ -30,31 +46,28 @@
       ]
     },
     {
-      "id": 245927,
-      "title": "Paradise",
-      "overview": "The tranquility in a serene, wealthy community inhabited by some of the world's most prominent individuals explodes when a shocking murder occurs and a high stakes investigation unfolds.",
-      "rating": 7.4,
-      "first_air_date": "2025-01-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/l8RqfhqEk04W5sSOjQ9zeWU1DyM.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/245927",
+      "id": 72517,
+      "title": "Classroom of the Elite",
+      "overview": "Kiyotaka Ayanokouji enrolls at the prestigious Tokyo Koudo Ikusei Academy, but is assigned to Class 1-D, where students with behavioral problems are housed. The school awards points equivalent to 100,000 yen per month and allows unusual freedom in classes, masking a more complex system.",
+      "rating": 8.4,
+      "first_air_date": "2017-07-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/72517",
       "providers": [
-        "Disney Plus",
-        "Hulu"
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
       ]
     },
     {
-      "id": 95479,
-      "title": "JUJUTSU KAISEN",
-      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
-      "rating": 8.6,
-      "first_air_date": "2020-10-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95479",
+      "id": 195670,
+      "title": "XO, Kitty",
+      "overview": "Teen matchmaker Kitty Song Covey thinks she knows everything there is to know about love. But when she moves halfway across the world to reunite with her long-distance boyfriend, she'll soon realize that relationships are a lot more complicated when it's your own heart on the line.",
+      "rating": 8.1,
+      "first_air_date": "2023-05-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hxvTdKAwv27PUfpXOQp6AwWr6V.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/195670",
       "providers": [
         "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
       ]
     },
@@ -75,6 +88,19 @@
       ]
     },
     {
+      "id": 274671,
+      "title": "The Beginning After the End",
+      "overview": "After a mysterious death, King Grey is reborn as Arthur Leywin on the magical continent of Dicathen. Although he enters his second life as a baby, his previous wisdom remains. He begins to master magic and forge his own path as the years go by, seeking to correct the mistakes of his past life.",
+      "rating": 7.0,
+      "first_air_date": "2025-04-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/u0QWnKUhxcxecQSclMBNnO5MXh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/274671",
+      "providers": [
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
+    {
       "id": 209867,
       "title": "Frieren: Beyond Journey's End",
       "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
@@ -91,62 +117,32 @@
       ]
     },
     {
-      "id": 72517,
-      "title": "Classroom of the Elite",
-      "overview": "Kiyotaka Ayanokouji enrolls at the prestigious Tokyo Koudo Ikusei Academy, but is assigned to Class 1-D, where students with behavioral problems are housed. The school awards points equivalent to 100,000 yen per month and allows unusual freedom in classes, masking a more complex system.",
-      "rating": 8.4,
-      "first_air_date": "2017-07-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/72517",
-      "providers": [
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 76479,
-      "title": "The Boys",
-      "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
-      "rating": 8.4,
-      "first_air_date": "2019-07-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/76479",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 249597,
-      "title": "Detective Hole",
-      "overview": "When a series of ritualistic murders hits Oslo, a gifted detective must navigate a puzzle of patterns, corruption and his own demons to catch the killer.",
-      "rating": 7.8,
-      "first_air_date": "2026-03-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/j61dmzEq4aRWJZk5tPyjzpHj8T2.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/249597",
+      "id": 95479,
+      "title": "JUJUTSU KAISEN",
+      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+      "rating": 8.6,
+      "first_air_date": "2020-10-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95479",
       "providers": [
         "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 45790,
-      "title": "JoJo's Bizarre Adventure",
-      "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
-      "rating": 8.6,
-      "first_air_date": "2012-10-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/45790",
+      "id": 295778,
+      "title": "Scrubs",
+      "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
+      "rating": 8.1,
+      "first_air_date": "2026-02-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/295778",
       "providers": [
-        "Netflix",
-        "Amazon Prime Video",
         "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Peacock Premium",
-        "Netflix Standard with Ads",
-        "Amazon Prime Video with Ads",
-        "Peacock Premium Plus"
+        "fuboTV"
       ]
     }
   ]
