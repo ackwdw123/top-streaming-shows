@@ -1,28 +1,15 @@
 {
-  "generated_at": "2026-04-03T12:59:36.494661Z",
+  "generated_at": "2026-04-04T12:51:41.675517Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
-    {
-      "id": 195670,
-      "title": "XO, Kitty",
-      "overview": "Teen matchmaker Kitty Song Covey thinks she knows everything there is to know about love. But when she moves halfway across the world to reunite with her long-distance boyfriend, she'll soon realize that relationships are a lot more complicated when it's your own heart on the line.",
-      "rating": 8.1,
-      "first_air_date": "2023-05-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hxvTdKAwv27PUfpXOQp6AwWr6V.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/195670",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
     {
       "id": 127529,
       "title": "Bloodhounds",
       "overview": "Two young boxers band together with a benevolent moneylender to take down a ruthless loan shark who preys on the financially desperate.",
       "rating": 8.3,
       "first_air_date": "2023-06-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kxU1hhebWZGaz8gkMVi8zkZhzVt.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yu4oHDi6kO3cYXdmEnYT6SibATj.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/127529",
       "providers": [
         "Netflix",
@@ -30,19 +17,16 @@
       ]
     },
     {
-      "id": 86031,
-      "title": "Dr. STONE",
-      "overview": "One fateful day, all of humanity was petrified by a blinding flash of light. After several millennia, high schooler Taiju awakens and finds himself lost in a world of statues. However, he’s not alone! His science-loving friend Senku’s been up and running for a few months and he's got a grand plan in mind—to kickstart civilization with the power of science!",
-      "rating": 8.5,
-      "first_air_date": "2019-07-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rocRrglJfYkglKilmFaStvo5EvS.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/86031",
+      "id": 82684,
+      "title": "That Time I Got Reincarnated as a Slime",
+      "overview": "Corporate worker Mikami Satoru is stabbed by a random killer, and is reborn to an alternate world. But he turns out to be reborn a slime! Thrown into this new world with the name Rimuru, he begins his quest to create a world that’s welcoming to all races.",
+      "rating": 8.4,
+      "first_air_date": "2018-10-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/82684",
       "providers": [
-        "Netflix",
-        "Hulu",
         "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
+        "Crunchyroll Amazon Channel"
       ]
     },
     {
@@ -51,11 +35,40 @@
       "overview": "When a financial titan suddenly finds himself divorced and jobless, he starts robbing his wealthy neighbors to stay afloat. Stealing from his own social circle strangely exhilarates him—but he gradually gets tangled in a deadly web.",
       "rating": 7.4,
       "first_air_date": "2025-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lcp63INKEsVHUly9eayx7gEEOcG.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/241609",
       "providers": [
         "Apple TV",
         "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 154743,
+      "title": "The Angel Next Door Spoils Me Rotten",
+      "overview": "Amane lives alone in an apartment, and the most beautiful girl in school, Mahiru, lives just next door. They've almost never spoken—until the day he sees her in distress on a rainy day and lends her his umbrella. To return the favour, she offers him help around the house, and a relationship slowly begins to blossom as the distance between them closes…",
+      "rating": 7.7,
+      "first_air_date": "2023-01-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/twCEEzmZZkgQIPXzw0JF350GO0P.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/154743",
+      "providers": [
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
+    {
+      "id": 209867,
+      "title": "Frieren: Beyond Journey's End",
+      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
+      "rating": 8.8,
+      "first_air_date": "2023-09-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/209867",
+      "providers": [
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -73,22 +86,6 @@
       ]
     },
     {
-      "id": 95479,
-      "title": "JUJUTSU KAISEN",
-      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
-      "rating": 8.6,
-      "first_air_date": "2020-10-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95479",
-      "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 202555,
       "title": "Daredevil: Born Again",
       "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
@@ -99,19 +96,6 @@
       "providers": [
         "Disney Plus",
         "Hulu"
-      ]
-    },
-    {
-      "id": 95557,
-      "title": "Invincible",
-      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
-      "rating": 8.6,
-      "first_air_date": "2021-03-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95557",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -131,19 +115,32 @@
       ]
     },
     {
-      "id": 94404,
-      "title": "Dorohedoro",
-      "overview": "Amnesiac Caiman seeks to undo his lizard head curse by killing the sorcerer responsible, with his friend Nikaido's help. In the Hole, that's a threat.",
-      "rating": 8.3,
-      "first_air_date": "2020-01-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/94404",
+      "id": 95479,
+      "title": "JUJUTSU KAISEN",
+      "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+      "rating": 8.6,
+      "first_air_date": "2020-10-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95479",
       "providers": [
         "Netflix",
+        "Hulu",
         "Crunchyroll",
         "Crunchyroll Amazon Channel",
-        "Rakuten Viki",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 87917,
+      "title": "For All Mankind",
+      "overview": "Explore an aspirational world where NASA and the space program remained a priority and a focal point of our hopes and dreams as told through the lives of NASA astronauts, engineers, and their families.",
+      "rating": 7.7,
+      "first_air_date": "2019-11-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/87917",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     }
   ]
