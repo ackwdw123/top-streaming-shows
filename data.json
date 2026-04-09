@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T13:16:48.759796Z",
+  "generated_at": "2026-04-09T13:23:13.636812Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -14,6 +14,20 @@
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 65942,
+      "title": "Re:ZERO -Starting Life in Another World-",
+      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+      "rating": 7.8,
+      "first_air_date": "2016-04-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/65942",
+      "providers": [
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
       ]
     },
     {
@@ -62,12 +76,25 @@
       "id": 289219,
       "title": "Star Wars: Maul - Shadow Lord",
       "overview": "After the Clone Wars, Maul plots to rebuild his criminal syndicate on a planet untouched by the Empire.",
-      "rating": 7.4,
+      "rating": 7.0,
       "first_air_date": "2026-04-06",
       "poster_url": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/289219",
       "providers": [
         "Disney Plus"
+      ]
+    },
+    {
+      "id": 96316,
+      "title": "Rent-a-Girlfriend",
+      "overview": "Kinoshita Kazuya is a 20-year-old failure of a college student. He managed to kiss his girlfriend once, but was dumped after a month. Completely spiteful, Kazuya uses a certain method to date a girl. He goes to their meeting place and a beautiful girl brushing her long, black hair behind her ear was there, smiling at him. Her name was Mizuhara Chizuru. Something real is born after just a single rental! A reckless rom-com filled with love and excitement is about to begin!",
+      "rating": 8.3,
+      "first_air_date": "2020-07-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6ZpDPUNtVw6UdJoStvVlRZ62yAi.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/96316",
+      "providers": [
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
       ]
     },
     {
@@ -84,32 +111,6 @@
       ]
     },
     {
-      "id": 196950,
-      "title": "Witch Hat Atelier",
-      "overview": "In a world where only witches can cast magic, they must avoid being seen by ordinary people while casting. While Coco does her chores, she daydreams of becoming a witch. When a young witch named Qifrey visits her village, Coco uncovers the “absolute secret,” becomes Qifrey’s apprentice, and begins her studies. This is the story of children who encounter despair, yet reach out toward hope.",
-      "rating": 9.0,
-      "first_air_date": "2026-04-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/l7EMuIU0xpqlV4NEYMgrvZDRHQq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/196950",
-      "providers": [
-        "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 250307,
-      "title": "The Pitt",
-      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-      "rating": 8.7,
-      "first_air_date": "2025-01-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/250307",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "YouTube TV"
-      ]
-    },
-    {
       "id": 136311,
       "title": "Shrinking",
       "overview": "Jimmy is struggling to grieve the loss of his wife while being a dad, friend, and therapist. He decides to try a new approach with everyone in his path: unfiltered, brutal honesty. Will it make things better—or unleash uproarious chaos?",
@@ -123,19 +124,15 @@
       ]
     },
     {
-      "id": 209867,
-      "title": "Frieren: Beyond Journey's End",
-      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
-      "rating": 8.8,
-      "first_air_date": "2023-09-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/209867",
+      "id": 85552,
+      "title": "Euphoria",
+      "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+      "rating": 8.3,
+      "first_air_date": "2019-06-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/85552",
       "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
+        "HBO Max"
       ]
     }
   ]
