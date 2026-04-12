@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T12:54:07.832273Z",
+  "generated_at": "2026-04-12T12:57:34.898233Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -14,6 +14,30 @@
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 279471,
+      "title": "Malcolm in the Middle: Life's Still Unfair",
+      "overview": "After shielding himself and his daughter from his family for over a decade, Malcolm is dragged back into their orbit when Hal and Lois demand his presence at their 40th anniversary party.",
+      "rating": 8.1,
+      "first_air_date": "2026-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oax4kzeFdt2DAQdukrE3pIvizhC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/279471",
+      "providers": [
+        "Hulu"
+      ]
+    },
+    {
+      "id": 278573,
+      "title": "Perfect Crown",
+      "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
+      "rating": 9.6,
+      "first_air_date": "2026-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/278573",
+      "providers": [
+        "Hulu"
       ]
     },
     {
@@ -33,6 +57,33 @@
       ]
     },
     {
+      "id": 85552,
+      "title": "Euphoria",
+      "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+      "rating": 8.3,
+      "first_air_date": "2019-06-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/85552",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "Spectrum On Demand"
+      ]
+    },
+    {
+      "id": 245842,
+      "title": "Wistoria: Wand and Sword",
+      "overview": "In a world where magic reigns, Will Serfort can’t cast a spell. Though hardworking, Will’s classmates think less of him for it. However, he has a secret strength: his sword. Can Will defy expectations with muscle over magic and blade over wand? Find out in this epic sword-and-sorcery adventure!",
+      "rating": 7.5,
+      "first_air_date": "2024-07-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5n0IZQA9MiXn5JBKZibtNhhFSAZ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/245842",
+      "providers": [
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
+    {
       "id": 65942,
       "title": "Re:ZERO -Starting Life in Another World-",
       "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
@@ -47,43 +98,16 @@
       ]
     },
     {
-      "id": 250307,
-      "title": "The Pitt",
-      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-      "rating": 8.7,
-      "first_air_date": "2025-01-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/250307",
+      "id": 202555,
+      "title": "Daredevil: Born Again",
+      "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+      "rating": 8.0,
+      "first_air_date": "2025-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/202555",
       "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "YouTube TV"
-      ]
-    },
-    {
-      "id": 291506,
-      "title": "Big Mistakes",
-      "overview": "Blackmailed into working for some very dangerous people, two deeply incapable siblings become the most disorganized duo in organized crime.",
-      "rating": 6.8,
-      "first_air_date": "2026-04-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mgXTCQ86lV3oudr2KXXO5zGEqIb.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/291506",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 95557,
-      "title": "Invincible",
-      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
-      "rating": 8.6,
-      "first_air_date": "2021-03-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95557",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Disney Plus",
+        "Hulu"
       ]
     },
     {
@@ -103,19 +127,6 @@
       ]
     },
     {
-      "id": 202411,
-      "title": "Monarch: Legacy of Monsters",
-      "overview": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.",
-      "rating": 7.7,
-      "first_air_date": "2023-11-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/202411",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
       "id": 95479,
       "title": "JUJUTSU KAISEN",
       "overview": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
@@ -129,19 +140,6 @@
         "Crunchyroll",
         "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 85552,
-      "title": "Euphoria",
-      "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
-      "rating": 8.3,
-      "first_air_date": "2019-06-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/85552",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel"
       ]
     }
   ]
