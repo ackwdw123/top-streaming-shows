@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-04-12T12:57:34.898233Z",
+  "generated_at": "2026-04-13T13:22:16.499679Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 85552,
+      "title": "Euphoria",
+      "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+      "rating": 8.3,
+      "first_air_date": "2019-06-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/85552",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "Spectrum On Demand"
+      ]
+    },
     {
       "id": 76479,
       "title": "The Boys",
@@ -22,20 +36,8 @@
       "overview": "After shielding himself and his daughter from his family for over a decade, Malcolm is dragged back into their orbit when Hal and Lois demand his presence at their 40th anniversary party.",
       "rating": 8.1,
       "first_air_date": "2026-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oax4kzeFdt2DAQdukrE3pIvizhC.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4uXAZRYtcMfoX2XtY1gcUxLHhjj.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/279471",
-      "providers": [
-        "Hulu"
-      ]
-    },
-    {
-      "id": 278573,
-      "title": "Perfect Crown",
-      "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
-      "rating": 9.6,
-      "first_air_date": "2026-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/278573",
       "providers": [
         "Hulu"
       ]
@@ -57,24 +59,10 @@
       ]
     },
     {
-      "id": 85552,
-      "title": "Euphoria",
-      "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
-      "rating": 8.3,
-      "first_air_date": "2019-06-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/85552",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "Spectrum On Demand"
-      ]
-    },
-    {
       "id": 245842,
       "title": "Wistoria: Wand and Sword",
       "overview": "In a world where magic reigns, Will Serfort can’t cast a spell. Though hardworking, Will’s classmates think less of him for it. However, he has a secret strength: his sword. Can Will defy expectations with muscle over magic and blade over wand? Find out in this epic sword-and-sorcery adventure!",
-      "rating": 7.5,
+      "rating": 7.6,
       "first_air_date": "2024-07-07",
       "poster_url": "https://image.tmdb.org/t/p/w500/5n0IZQA9MiXn5JBKZibtNhhFSAZ.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/245842",
@@ -84,29 +72,26 @@
       ]
     },
     {
-      "id": 65942,
-      "title": "Re:ZERO -Starting Life in Another World-",
-      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-      "rating": 7.8,
-      "first_air_date": "2016-04-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/65942",
+      "id": 289219,
+      "title": "Star Wars: Maul - Shadow Lord",
+      "overview": "After the Clone Wars, Maul plots to rebuild his criminal syndicate on a planet untouched by the Empire.",
+      "rating": 7.3,
+      "first_air_date": "2026-04-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/289219",
       "providers": [
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
+        "Disney Plus"
       ]
     },
     {
-      "id": 202555,
-      "title": "Daredevil: Born Again",
-      "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
-      "rating": 8.0,
-      "first_air_date": "2025-03-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/202555",
+      "id": 278573,
+      "title": "Perfect Crown",
+      "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
+      "rating": 9.6,
+      "first_air_date": "2026-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/278573",
       "providers": [
-        "Disney Plus",
         "Hulu"
       ]
     },
@@ -140,6 +125,20 @@
         "Crunchyroll",
         "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 65942,
+      "title": "Re:ZERO -Starting Life in Another World-",
+      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+      "rating": 7.8,
+      "first_air_date": "2016-04-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/65942",
+      "providers": [
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
       ]
     }
   ]
