@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-14T13:21:21.280040Z",
+  "generated_at": "2026-04-15T13:20:36.983100Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 76479,
+      "title": "The Boys",
+      "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+      "rating": 8.4,
+      "first_air_date": "2019-07-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/76479",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
     {
       "id": 85552,
       "title": "Euphoria",
@@ -18,13 +31,26 @@
       ]
     },
     {
-      "id": 76479,
-      "title": "The Boys",
-      "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
-      "rating": 8.4,
-      "first_air_date": "2019-07-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/76479",
+      "id": 202555,
+      "title": "Daredevil: Born Again",
+      "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+      "rating": 8.0,
+      "first_air_date": "2025-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/202555",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
+    {
+      "id": 95557,
+      "title": "Invincible",
+      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
+      "rating": 8.6,
+      "first_air_date": "2021-03-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95557",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
@@ -47,22 +73,10 @@
       ]
     },
     {
-      "id": 289219,
-      "title": "Star Wars: Maul - Shadow Lord",
-      "overview": "After the Clone Wars, Maul plots to rebuild his criminal syndicate on a planet untouched by the Empire.",
-      "rating": 7.3,
-      "first_air_date": "2026-04-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/289219",
-      "providers": [
-        "Disney Plus"
-      ]
-    },
-    {
       "id": 279471,
       "title": "Malcolm in the Middle: Life's Still Unfair",
       "overview": "After shielding himself and his daughter from his family for over a decade, Malcolm is dragged back into their orbit when Hal and Lois demand his presence at their 40th anniversary party.",
-      "rating": 8.0,
+      "rating": 8.1,
       "first_air_date": "2026-04-10",
       "poster_url": "https://image.tmdb.org/t/p/w500/4uXAZRYtcMfoX2XtY1gcUxLHhjj.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/279471",
@@ -71,42 +85,16 @@
       ]
     },
     {
-      "id": 128995,
-      "title": "Yumi's Cells",
-      "overview": "Yumi is a 30-year old, ordinary woman who struggles with expressing her feelings. Told from the perspective of the many brain cells in her head, she experiences growth in both her love life, her career, and finds happiness in the small joys of everyday life.",
-      "rating": 7.8,
-      "first_air_date": "2021-09-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sXzjgrIAKaxwMppa4LrKdwdMDC6.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/128995",
+      "id": 227371,
+      "title": "Fake Profile",
+      "overview": "Camila meets her Prince Charming through a dating app. After an idyllic romance, she plans to surprise him — only to end up trapped in a false paradise.",
+      "rating": 7.2,
+      "first_air_date": "2023-05-31",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3KyyfuG5VxUmpJFnw0pa1SkTsuL.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/227371",
       "providers": [
-        "Rakuten Viki"
-      ]
-    },
-    {
-      "id": 202555,
-      "title": "Daredevil: Born Again",
-      "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
-      "rating": 8.0,
-      "first_air_date": "2025-03-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/202555",
-      "providers": [
-        "Disney Plus",
-        "Hulu"
-      ]
-    },
-    {
-      "id": 250307,
-      "title": "The Pitt",
-      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
-      "rating": 8.7,
-      "first_air_date": "2025-01-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/250307",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "YouTube TV"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -125,17 +113,27 @@
       ]
     },
     {
-      "id": 206828,
-      "title": "DTF St. Louis",
-      "overview": "A love triangle among three adults experiencing middle-age malaise leads to one of them ending up dead.",
-      "rating": 6.0,
-      "first_air_date": "2026-03-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/206828",
+      "id": 287527,
+      "title": "The Testaments",
+      "overview": "Growing up in Gilead is all they have ever known. As a new generation of young women grapple with the bleak future that awaits them, they will be forced to search for allies, new and old, to help in their fight for freedom.",
+      "rating": 6.5,
+      "first_air_date": "2026-04-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/287527",
       "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "Spectrum On Demand"
+        "Hulu"
+      ]
+    },
+    {
+      "id": 289219,
+      "title": "Star Wars: Maul - Shadow Lord",
+      "overview": "After the Clone Wars, Maul plots to rebuild his criminal syndicate on a planet untouched by the Empire.",
+      "rating": 7.3,
+      "first_air_date": "2026-04-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/289219",
+      "providers": [
+        "Disney Plus"
       ]
     }
   ]
