@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T13:20:36.983100Z",
+  "generated_at": "2026-04-16T13:25:53.822438Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -17,6 +17,19 @@
       ]
     },
     {
+      "id": 154385,
+      "title": "BEEF",
+      "overview": "A road rage incident between two strangers — a failing contractor and an unfulfilled entrepreneur — sparks a feud that brings out their darkest impulses.",
+      "rating": 7.7,
+      "first_air_date": "2023-04-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wSPOstFgu3Ogs61H6A86txGcWCM.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/154385",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 85552,
       "title": "Euphoria",
       "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
@@ -28,6 +41,32 @@
         "HBO Max",
         "HBO Max Amazon Channel",
         "Spectrum On Demand"
+      ]
+    },
+    {
+      "id": 301507,
+      "title": "Heated Rivalry",
+      "overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
+      "rating": 8.7,
+      "first_air_date": "2025-11-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/301507",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel"
+      ]
+    },
+    {
+      "id": 95557,
+      "title": "INVINCIBLE",
+      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
+      "rating": 8.6,
+      "first_air_date": "2021-03-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95557",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -44,16 +83,30 @@
       ]
     },
     {
-      "id": 95557,
-      "title": "Invincible",
-      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
-      "rating": 8.6,
-      "first_air_date": "2021-03-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95557",
+      "id": 227371,
+      "title": "Fake Profile",
+      "overview": "Camila meets her Prince Charming through a dating app. After an idyllic romance, she plans to surprise him — only to end up trapped in a false paradise.",
+      "rating": 7.2,
+      "first_air_date": "2023-05-31",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3KyyfuG5VxUmpJFnw0pa1SkTsuL.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/227371",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 65942,
+      "title": "Re:ZERO -Starting Life in Another World-",
+      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+      "rating": 7.8,
+      "first_air_date": "2016-04-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/65942",
+      "providers": [
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
       ]
     },
     {
@@ -73,67 +126,16 @@
       ]
     },
     {
-      "id": 279471,
-      "title": "Malcolm in the Middle: Life's Still Unfair",
-      "overview": "After shielding himself and his daughter from his family for over a decade, Malcolm is dragged back into their orbit when Hal and Lois demand his presence at their 40th anniversary party.",
-      "rating": 8.1,
-      "first_air_date": "2026-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4uXAZRYtcMfoX2XtY1gcUxLHhjj.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/279471",
-      "providers": [
-        "Hulu"
-      ]
-    },
-    {
-      "id": 227371,
-      "title": "Fake Profile",
-      "overview": "Camila meets her Prince Charming through a dating app. After an idyllic romance, she plans to surprise him — only to end up trapped in a false paradise.",
-      "rating": 7.2,
-      "first_air_date": "2023-05-31",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3KyyfuG5VxUmpJFnw0pa1SkTsuL.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/227371",
+      "id": 218896,
+      "title": "The Law According to Lidia Poët",
+      "overview": "In late 19th-century Turin, the young Lidia Poët, fights against everything and everyone to get what is rightfully hers: to be enrolled in the official register of lawyers. A profession, at the time, reserved exclusively for men. Nevertheless, nothing could stop her dream of becoming the first female lawyer in Italy.",
+      "rating": 7.4,
+      "first_air_date": "2023-02-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bhTLskf3XNALpk3tZGm7lG2ChAx.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/218896",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 79744,
-      "title": "The Rookie",
-      "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-      "rating": 8.5,
-      "first_air_date": "2018-10-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/79744",
-      "providers": [
-        "Hulu",
-        "fuboTV",
-        "YouTube TV",
-        "Philo"
-      ]
-    },
-    {
-      "id": 287527,
-      "title": "The Testaments",
-      "overview": "Growing up in Gilead is all they have ever known. As a new generation of young women grapple with the bleak future that awaits them, they will be forced to search for allies, new and old, to help in their fight for freedom.",
-      "rating": 6.5,
-      "first_air_date": "2026-04-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/287527",
-      "providers": [
-        "Hulu"
-      ]
-    },
-    {
-      "id": 289219,
-      "title": "Star Wars: Maul - Shadow Lord",
-      "overview": "After the Clone Wars, Maul plots to rebuild his criminal syndicate on a planet untouched by the Empire.",
-      "rating": 7.3,
-      "first_air_date": "2026-04-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/289219",
-      "providers": [
-        "Disney Plus"
       ]
     }
   ]
