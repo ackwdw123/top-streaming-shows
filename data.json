@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-16T13:25:53.822438Z",
+  "generated_at": "2026-04-17T13:15:04.413144Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 154385,
+      "title": "BEEF",
+      "overview": "A road rage incident between two strangers — a failing contractor and an unfulfilled entrepreneur — sparks a feud that brings out their darkest impulses.",
+      "rating": 7.7,
+      "first_air_date": "2023-04-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/25ih0Xq2zWbxhhKxwhvswKYQyEr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/154385",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
     {
       "id": 76479,
       "title": "The Boys",
@@ -17,16 +30,17 @@
       ]
     },
     {
-      "id": 154385,
-      "title": "BEEF",
-      "overview": "A road rage incident between two strangers — a failing contractor and an unfulfilled entrepreneur — sparks a feud that brings out their darkest impulses.",
-      "rating": 7.7,
-      "first_air_date": "2023-04-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wSPOstFgu3Ogs61H6A86txGcWCM.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/154385",
+      "id": 250307,
+      "title": "The Pitt",
+      "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+      "rating": 8.7,
+      "first_air_date": "2025-01-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/250307",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "YouTube TV"
       ]
     },
     {
@@ -44,16 +58,16 @@
       ]
     },
     {
-      "id": 301507,
-      "title": "Heated Rivalry",
-      "overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
-      "rating": 8.7,
-      "first_air_date": "2025-11-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/301507",
+      "id": 202411,
+      "title": "Monarch: Legacy of Monsters",
+      "overview": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.",
+      "rating": 7.7,
+      "first_air_date": "2023-11-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/202411",
       "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -70,43 +84,29 @@
       ]
     },
     {
-      "id": 202555,
-      "title": "Daredevil: Born Again",
-      "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
-      "rating": 8.0,
-      "first_air_date": "2025-03-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/202555",
+      "id": 301507,
+      "title": "Heated Rivalry",
+      "overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
+      "rating": 8.7,
+      "first_air_date": "2025-11-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/301507",
       "providers": [
-        "Disney Plus",
-        "Hulu"
+        "HBO Max",
+        "HBO Max Amazon Channel"
       ]
     },
     {
-      "id": 227371,
-      "title": "Fake Profile",
-      "overview": "Camila meets her Prince Charming through a dating app. After an idyllic romance, she plans to surprise him — only to end up trapped in a false paradise.",
-      "rating": 7.2,
-      "first_air_date": "2023-05-31",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3KyyfuG5VxUmpJFnw0pa1SkTsuL.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/227371",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 65942,
-      "title": "Re:ZERO -Starting Life in Another World-",
-      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-      "rating": 7.8,
-      "first_air_date": "2016-04-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/65942",
+      "id": 295778,
+      "title": "Scrubs",
+      "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
+      "rating": 8.2,
+      "first_air_date": "2026-02-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/295778",
       "providers": [
         "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
+        "fuboTV"
       ]
     },
     {
@@ -126,16 +126,16 @@
       ]
     },
     {
-      "id": 218896,
-      "title": "The Law According to Lidia Poët",
-      "overview": "In late 19th-century Turin, the young Lidia Poët, fights against everything and everyone to get what is rightfully hers: to be enrolled in the official register of lawyers. A profession, at the time, reserved exclusively for men. Nevertheless, nothing could stop her dream of becoming the first female lawyer in Italy.",
-      "rating": 7.4,
-      "first_air_date": "2023-02-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bhTLskf3XNALpk3tZGm7lG2ChAx.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/218896",
+      "id": 202555,
+      "title": "Daredevil: Born Again",
+      "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+      "rating": 8.0,
+      "first_air_date": "2025-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/202555",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Disney Plus",
+        "Hulu"
       ]
     }
   ]
