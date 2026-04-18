@@ -1,21 +1,8 @@
 {
-  "generated_at": "2026-04-17T13:15:04.413144Z",
+  "generated_at": "2026-04-18T12:58:33.511310Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
-    {
-      "id": 154385,
-      "title": "BEEF",
-      "overview": "A road rage incident between two strangers — a failing contractor and an unfulfilled entrepreneur — sparks a feud that brings out their darkest impulses.",
-      "rating": 7.7,
-      "first_air_date": "2023-04-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/25ih0Xq2zWbxhhKxwhvswKYQyEr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/154385",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
     {
       "id": 76479,
       "title": "The Boys",
@@ -44,6 +31,19 @@
       ]
     },
     {
+      "id": 154385,
+      "title": "BEEF",
+      "overview": "A road rage incident between two strangers — a failing contractor and an unfulfilled entrepreneur — sparks a feud that brings out their darkest impulses.",
+      "rating": 7.8,
+      "first_air_date": "2023-04-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/25ih0Xq2zWbxhhKxwhvswKYQyEr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/154385",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 85552,
       "title": "Euphoria",
       "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
@@ -55,19 +55,6 @@
         "HBO Max",
         "HBO Max Amazon Channel",
         "Spectrum On Demand"
-      ]
-    },
-    {
-      "id": 202411,
-      "title": "Monarch: Legacy of Monsters",
-      "overview": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.",
-      "rating": 7.7,
-      "first_air_date": "2023-11-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/202411",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -84,29 +71,29 @@
       ]
     },
     {
-      "id": 301507,
-      "title": "Heated Rivalry",
-      "overview": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
-      "rating": 8.7,
-      "first_air_date": "2025-11-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3YCKbtAkYWCMDLHvkUjGhG7eWoS.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/301507",
+      "id": 202411,
+      "title": "Monarch: Legacy of Monsters",
+      "overview": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.",
+      "rating": 7.7,
+      "first_air_date": "2023-11-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/202411",
       "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
-      "id": 295778,
-      "title": "Scrubs",
-      "overview": "J.D. & Turk scrub in together for the first time in a long time–medicine has changed, interns have changed, but their bromance has stood the test of time. Characters new and old navigate the waters of Sacred Heart with laughter, heart and some surprises along the way.",
-      "rating": 8.2,
-      "first_air_date": "2026-02-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/295778",
+      "id": 215092,
+      "title": "Alpha Males",
+      "overview": "Pedro, Luis, Raúl and Santi are four friends who feel a bit lost in the new world of empowered women, each trying to adjust in their own haphazard way.",
+      "rating": 7.5,
+      "first_air_date": "2022-12-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/NqID21yImku6B7kq0oCQTxX2rm.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/215092",
       "providers": [
-        "Hulu",
-        "fuboTV"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -126,16 +113,32 @@
       ]
     },
     {
-      "id": 202555,
-      "title": "Daredevil: Born Again",
-      "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
-      "rating": 8.0,
-      "first_air_date": "2025-03-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/202555",
+      "id": 82684,
+      "title": "That Time I Got Reincarnated as a Slime",
+      "overview": "Corporate worker Mikami Satoru is stabbed by a random killer, and is reborn to an alternate world. But he turns out to be reborn a slime! Thrown into this new world with the name Rimuru, he begins his quest to create a world that’s welcoming to all races.",
+      "rating": 8.4,
+      "first_air_date": "2018-10-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/82684",
       "providers": [
-        "Disney Plus",
-        "Hulu"
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
+    {
+      "id": 209867,
+      "title": "Frieren: Beyond Journey's End",
+      "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
+      "rating": 8.8,
+      "first_air_date": "2023-09-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/209867",
+      "providers": [
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
       ]
     }
   ]
