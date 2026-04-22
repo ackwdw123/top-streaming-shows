@@ -1,8 +1,61 @@
 {
-  "generated_at": "2026-04-21T13:22:08.720779Z",
+  "generated_at": "2026-04-22T13:22:55.708579Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 76479,
+      "title": "The Boys",
+      "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+      "rating": 8.4,
+      "first_air_date": "2019-07-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/76479",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 95557,
+      "title": "INVINCIBLE",
+      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
+      "rating": 8.6,
+      "first_air_date": "2021-03-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95557",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 85552,
+      "title": "Euphoria",
+      "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+      "rating": 8.3,
+      "first_air_date": "2019-06-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/85552",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "Spectrum On Demand"
+      ]
+    },
+    {
+      "id": 202555,
+      "title": "Daredevil: Born Again",
+      "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+      "rating": 8.0,
+      "first_air_date": "2025-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/202555",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
     {
       "id": 124364,
       "title": "FROM",
@@ -23,55 +76,16 @@
       ]
     },
     {
-      "id": 85552,
-      "title": "Euphoria",
-      "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
-      "rating": 8.3,
-      "first_air_date": "2019-06-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/85552",
+      "id": 204490,
+      "title": "Criminal Record",
+      "overview": "In the heart of London, an anonymous phone call draws two brilliant detectives—a young woman in the early stages of her career and a well-connected man determined to protect his legacy—into a fight to correct an old miscarriage of justice.",
+      "rating": 6.6,
+      "first_air_date": "2024-01-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kpnfeVRExCutHXFVXzaSdT8tAJl.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/204490",
       "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "Spectrum On Demand"
-      ]
-    },
-    {
-      "id": 295357,
-      "title": "Fist of the North Star: HOKUTO NO KEN",
-      "overview": "In the year 199X, the world was engulfed in nuclear fire!! Yet...humanity somehow survived!! A lone man with seven scars on his chest emerges. His name is Kenshiro, heir to Hokuto Shinken. In a world where only the strong survive, Kenshiro forges a path with his iron fists!",
-      "rating": 9.0,
-      "first_air_date": "2026-04-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fVJfKk7MkRlw90FWeLdduOeTxcp.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/295357",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 76479,
-      "title": "The Boys",
-      "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
-      "rating": 8.4,
-      "first_air_date": "2019-07-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/76479",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 289219,
-      "title": "Star Wars: Maul - Shadow Lord",
-      "overview": "After the Clone Wars, Maul plots to rebuild his criminal syndicate on a planet untouched by the Empire.",
-      "rating": 7.7,
-      "first_air_date": "2026-04-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/289219",
-      "providers": [
-        "Disney Plus"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -91,16 +105,18 @@
       ]
     },
     {
-      "id": 154385,
-      "title": "BEEF",
-      "overview": "A road rage incident between two strangers — a failing contractor and an unfulfilled entrepreneur — sparks a feud that brings out their darkest impulses.",
-      "rating": 7.8,
-      "first_air_date": "2023-04-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/25ih0Xq2zWbxhhKxwhvswKYQyEr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/154385",
+      "id": 79744,
+      "title": "The Rookie",
+      "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "rating": 8.5,
+      "first_air_date": "2018-10-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/79744",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Hulu",
+        "fuboTV",
+        "YouTube TV",
+        "Philo"
       ]
     },
     {
@@ -118,32 +134,16 @@
       ]
     },
     {
-      "id": 95557,
-      "title": "INVINCIBLE",
-      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
-      "rating": 8.6,
-      "first_air_date": "2021-03-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95557",
+      "id": 154385,
+      "title": "BEEF",
+      "overview": "A road rage incident between two strangers — a failing contractor and an unfulfilled entrepreneur — sparks a feud that brings out their darkest impulses.",
+      "rating": 7.8,
+      "first_air_date": "2023-04-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/25ih0Xq2zWbxhhKxwhvswKYQyEr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/154385",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 290856,
-      "title": "Marshals",
-      "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
-      "rating": 7.1,
-      "first_air_date": "2026-03-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/290856",
-      "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
