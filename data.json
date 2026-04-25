@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T13:19:38.023546Z",
+  "generated_at": "2026-04-25T13:00:11.196933Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -17,13 +17,32 @@
       ]
     },
     {
-      "id": 244623,
-      "title": "Running Point",
-      "overview": "A reformed party girl must prove herself as a businesswoman when she's unexpectedly put in charge of her family's pro basketball team.",
-      "rating": 7.3,
-      "first_air_date": "2025-02-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/q8KnHFt3igvQXKYDLtfERSYAY7F.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/244623",
+      "id": 124364,
+      "title": "FROM",
+      "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
+      "rating": 8.2,
+      "first_air_date": "2022-02-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/124364",
+      "providers": [
+        "Amazon Prime Video",
+        "fuboTV",
+        "MGM+ Amazon Channel",
+        "MGM Plus Roku Premium Channel",
+        "MGM Plus",
+        "Philo",
+        "Spectrum On Demand",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 224263,
+      "title": "Stranger Things: Tales from '85",
+      "overview": "Winter. Hawkins. 1985. Welcome back to a town crawling with secrets, where beloved heroes are facing fresh mysteries... and an all-new breed of strange.",
+      "rating": 6.0,
+      "first_air_date": "2026-04-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8i1513fGVq3DESsMR6pFBZSkbqv.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/224263",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -57,25 +76,6 @@
       ]
     },
     {
-      "id": 124364,
-      "title": "FROM",
-      "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
-      "rating": 8.2,
-      "first_air_date": "2022-02-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/124364",
-      "providers": [
-        "Amazon Prime Video",
-        "fuboTV",
-        "MGM+ Amazon Channel",
-        "MGM Plus Roku Premium Channel",
-        "MGM Plus",
-        "Philo",
-        "Spectrum On Demand",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
       "id": 202411,
       "title": "Monarch: Legacy of Monsters",
       "overview": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.",
@@ -105,16 +105,17 @@
       ]
     },
     {
-      "id": 287011,
-      "title": "Sold Out on You",
-      "overview": "A work-obsessed cosmetics CEO and a top home-shopping host struggling with insomnia cross paths, and through an unexpected romance, begin to heal the emptiness in their lives.",
-      "rating": 6.0,
-      "first_air_date": "2026-04-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/287011",
+      "id": 65942,
+      "title": "Re:ZERO -Starting Life in Another World-",
+      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+      "rating": 7.8,
+      "first_air_date": "2016-04-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/65942",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
       ]
     },
     {
@@ -131,16 +132,16 @@
       ]
     },
     {
-      "id": 262848,
-      "title": "Unchosen",
-      "overview": "When a young mother from a sheltered cult crosses paths with a mysterious stranger, she embarks on a risky affair that awakens desires and dark secrets.",
+      "id": 82684,
+      "title": "That Time I Got Reincarnated as a Slime",
+      "overview": "Corporate worker Mikami Satoru is stabbed by a random killer, and is reborn to an alternate world. But he turns out to be reborn a slime! Thrown into this new world with the name Rimuru, he begins his quest to create a world that’s welcoming to all races.",
       "rating": 8.4,
-      "first_air_date": "2026-04-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/262848",
+      "first_air_date": "2018-10-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/82684",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
       ]
     }
   ]
