@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-30T13:49:45.714179Z",
+  "generated_at": "2026-05-01T13:15:16.358102Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 202411,
+      "title": "Monarch: Legacy of Monsters",
+      "overview": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.",
+      "rating": 7.7,
+      "first_air_date": "2023-11-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/202411",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
     {
       "id": 76479,
       "title": "The Boys",
@@ -31,16 +44,16 @@
       ]
     },
     {
-      "id": 202555,
-      "title": "Daredevil: Born Again",
-      "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
-      "rating": 8.0,
-      "first_air_date": "2025-03-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/202555",
+      "id": 270476,
+      "title": "Widow's Bay",
+      "overview": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
+      "rating": 6.9,
+      "first_air_date": "2026-04-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/270476",
       "providers": [
-        "Disney Plus",
-        "Hulu"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -63,41 +76,29 @@
       ]
     },
     {
-      "id": 206484,
-      "title": "Jade Dynasty",
-      "overview": "Zhang Xiaofan, who turned into an orphan overnight, becomes a disciple of the Qingyun Sect. After five years of training, he performs well in the Seven Peak Martial Arts Competition. He's sent to the Kongsang Mountain to defeat the evil. During the journey, he and his senior, Lu Xueqi, met with an accident, and got to know and save the lady of the cult, Bi Yao. At the same time, new danger is ahead of him.",
-      "rating": 8.3,
-      "first_air_date": "2022-08-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oOy0PskfCQyWwsQVdHyM2PoN9H4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/206484",
+      "id": 202555,
+      "title": "Daredevil: Born Again",
+      "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+      "rating": 8.0,
+      "first_air_date": "2025-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/202555",
       "providers": [
-        "Rakuten Viki"
+        "Disney Plus",
+        "Hulu"
       ]
     },
     {
       "id": 285838,
       "title": "If Wishes Could Kill",
       "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
-      "rating": 7.7,
+      "rating": 7.9,
       "first_air_date": "2026-04-24",
       "poster_url": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/285838",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 95557,
-      "title": "INVINCIBLE",
-      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
-      "rating": 8.6,
-      "first_air_date": "2021-03-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95557",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -117,32 +118,28 @@
       ]
     },
     {
-      "id": 65942,
-      "title": "Re:ZERO -Starting Life in Another World-",
-      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-      "rating": 7.8,
-      "first_air_date": "2016-04-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5MrRCj7z92YLWMXHeWKp19eJPYv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/65942",
+      "id": 278113,
+      "title": "Gold Land",
+      "overview": "A young woman working as an airport security agent accidentally comes into possession of a smuggling ring’s gold bars. Caught in a chaotic whirlwind of greed and betrayal among various parties vying for the gold, she becomes consumed by the desire to claim it all for herself.",
+      "rating": 9.5,
+      "first_air_date": "2026-04-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ixBHQ96ryMa8Q0uIOFdUCjqRyy8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/278113",
       "providers": [
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
+        "Disney Plus"
       ]
     },
     {
-      "id": 79744,
-      "title": "The Rookie",
-      "overview": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
-      "rating": 8.5,
-      "first_air_date": "2018-10-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/79744",
+      "id": 95557,
+      "title": "INVINCIBLE",
+      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
+      "rating": 8.6,
+      "first_air_date": "2021-03-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95557",
       "providers": [
-        "Hulu",
-        "fuboTV",
-        "YouTube TV",
-        "Philo"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     }
   ]
