@@ -1,47 +1,8 @@
 {
-  "generated_at": "2026-05-02T13:06:04.444979Z",
+  "generated_at": "2026-05-03T13:05:20.543613Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
-    {
-      "id": 223386,
-      "title": "Man on Fire",
-      "overview": "Haunted by his past and hunted by his enemies, a Special Forces veteran fights to keep a teenage girl alive on the deadly streets of Rio de Janeiro.",
-      "rating": 5.5,
-      "first_air_date": "2026-04-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9cZzmT8rhBXbZ1QFBPs3ggABYB3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/223386",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 76479,
-      "title": "The Boys",
-      "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
-      "rating": 8.4,
-      "first_air_date": "2019-07-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/76479",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 202411,
-      "title": "Monarch: Legacy of Monsters",
-      "overview": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.",
-      "rating": 7.7,
-      "first_air_date": "2023-11-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/202411",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
     {
       "id": 124364,
       "title": "FROM",
@@ -59,6 +20,62 @@
         "Philo",
         "Spectrum On Demand",
         "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 76479,
+      "title": "The Boys",
+      "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+      "rating": 8.4,
+      "first_air_date": "2019-07-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/76479",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 223386,
+      "title": "Man on Fire",
+      "overview": "Haunted by his past and hunted by his enemies, a Special Forces veteran fights to keep a teenage girl alive on the deadly streets of Rio de Janeiro.",
+      "rating": 6.0,
+      "first_air_date": "2026-04-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9cZzmT8rhBXbZ1QFBPs3ggABYB3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/223386",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 65930,
+      "title": "My Hero Academia",
+      "overview": "After he saves a bully from a Villain, a normal student is granted a superpower that allows him to attend a high school training academy for Heroes.",
+      "rating": 8.6,
+      "first_air_date": "2016-04-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/65930",
+      "providers": [
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Rakuten Viki",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 202411,
+      "title": "Monarch: Legacy of Monsters",
+      "overview": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threats, she embarks on a globetrotting adventure to learn the truth about her family—and the mysterious organization known as Monarch.",
+      "rating": 7.7,
+      "first_air_date": "2023-11-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/202411",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -92,54 +109,42 @@
       ]
     },
     {
-      "id": 270476,
-      "title": "Widow's Bay",
-      "overview": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
-      "rating": 7.1,
-      "first_air_date": "2026-04-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4n3KW1KaiEoCsmwFatR94Y5GT5Q.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/270476",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 83295,
-      "title": "Impure",
-      "overview": "Rio de Janeiro, during the 90's. Evandro dreams about becoming a great businessman, but ends up entering the world of crime and making an empire out of his criminal organization. His business skills and leadership abilities draw the attention of Morello, a federal police officer with a self-destructive behavior who sees in Evandro a worthy enemy. Two strategists that share the love for danger. The hunt down begins.",
-      "rating": 7.2,
-      "first_air_date": "2018-10-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/usmfk2VeZokEj3OfdAPu6GBP6pS.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/83295",
-      "providers": [
-        "Hulu"
-      ]
-    },
-    {
-      "id": 202555,
-      "title": "Daredevil: Born Again",
-      "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
-      "rating": 8.0,
-      "first_air_date": "2025-03-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/202555",
-      "providers": [
-        "Disney Plus",
-        "Hulu"
-      ]
-    },
-    {
       "id": 285838,
       "title": "If Wishes Could Kill",
       "overview": "A mysterious app promises wishes — then starts a countdown to death. As a group of teens becomes entangled, they must break the deadly chain to survive.",
-      "rating": 8.1,
+      "rating": 8.0,
       "first_air_date": "2026-04-24",
       "poster_url": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/285838",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 278573,
+      "title": "Perfect Crown",
+      "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
+      "rating": 8.1,
+      "first_air_date": "2026-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/278573",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
+    {
+      "id": 95557,
+      "title": "INVINCIBLE",
+      "overview": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father's tutelage.",
+      "rating": 8.6,
+      "first_air_date": "2021-03-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95557",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     }
   ]
