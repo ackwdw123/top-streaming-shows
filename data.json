@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-05-07T14:02:50.752651Z",
+  "generated_at": "2026-05-08T13:28:42.774985Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 127865,
+      "title": "The Chestnut Man",
+      "overview": "At a grisly murder scene sits a figurine made of chestnuts. From this creepy clue, two detectives hunt a killer linked to a politician's missing child.",
+      "rating": 7.5,
+      "first_air_date": "2021-09-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tdLJTZJ184PsO9QkK9aPeeAXLlo.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/127865",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
     {
       "id": 114922,
       "title": "Citadel",
@@ -30,19 +43,6 @@
       ]
     },
     {
-      "id": 136315,
-      "title": "The Bear",
-      "overview": "Carmy, a young fine-dining chef, comes home to Chicago to run his family sandwich shop. As he fights to transform the shop and himself, he works alongside a rough-around-the-edges crew that ultimately reveal themselves as his chosen family.",
-      "rating": 8.2,
-      "first_air_date": "2022-06-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/136315",
-      "providers": [
-        "Disney Plus",
-        "Hulu"
-      ]
-    },
-    {
       "id": 202555,
       "title": "Daredevil: Born Again",
       "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
@@ -53,33 +53,6 @@
       "providers": [
         "Disney Plus",
         "Hulu"
-      ]
-    },
-    {
-      "id": 127865,
-      "title": "The Chestnut Man",
-      "overview": "At a grisly murder scene sits a figurine made of chestnuts. From this creepy clue, two detectives hunt a killer linked to a politician's missing child.",
-      "rating": 7.5,
-      "first_air_date": "2021-09-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tdLJTZJ184PsO9QkK9aPeeAXLlo.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/127865",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 85552,
-      "title": "Euphoria",
-      "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
-      "rating": 8.3,
-      "first_air_date": "2019-06-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/85552",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "Spectrum On Demand"
       ]
     },
     {
@@ -100,16 +73,49 @@
       ]
     },
     {
-      "id": 270476,
-      "title": "Widow's Bay",
-      "overview": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
-      "rating": 7.1,
-      "first_air_date": "2026-04-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/270476",
+      "id": 75191,
+      "title": "The Terror",
+      "overview": "A chilling anthology series featuring stories of people in terrifying situations inspired by true historical events.",
+      "rating": 7.3,
+      "first_air_date": "2018-03-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2nMZzKlMj158RVb6tjmIunoaNdo.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/75191",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "AMC Plus Apple TV Channel ",
+        "AMC+ Amazon Channel",
+        "AMC+",
+        "Philo",
+        "Shudder",
+        "Shudder Amazon Channel",
+        "Spectrum On Demand",
+        "Shudder Apple TV Channel"
+      ]
+    },
+    {
+      "id": 136315,
+      "title": "The Bear",
+      "overview": "Carmy, a young fine-dining chef, comes home to Chicago to run his family sandwich shop. As he fights to transform the shop and himself, he works alongside a rough-around-the-edges crew that ultimately reveal themselves as his chosen family.",
+      "rating": 8.2,
+      "first_air_date": "2022-06-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/136315",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
+    {
+      "id": 85552,
+      "title": "Euphoria",
+      "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+      "rating": 8.3,
+      "first_air_date": "2019-06-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/85552",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "Spectrum On Demand"
       ]
     },
     {
@@ -125,17 +131,16 @@
       ]
     },
     {
-      "id": 65942,
-      "title": "Re:ZERO -Starting Life in Another World-",
-      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-      "rating": 7.8,
-      "first_air_date": "2016-04-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5MrRCj7z92YLWMXHeWKp19eJPYv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/65942",
+      "id": 223386,
+      "title": "Man on Fire",
+      "overview": "Haunted by his past and hunted by his enemies, a Special Forces veteran fights to keep a teenage girl alive on the deadly streets of Rio de Janeiro.",
+      "rating": 6.3,
+      "first_air_date": "2026-04-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9cZzmT8rhBXbZ1QFBPs3ggABYB3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/223386",
       "providers": [
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
