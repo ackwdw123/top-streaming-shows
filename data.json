@@ -1,26 +1,27 @@
 {
-  "generated_at": "2026-05-10T13:13:57.084196Z",
+  "generated_at": "2026-05-11T14:45:33.745005Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
-      "id": 76479,
-      "title": "The Boys",
-      "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
-      "rating": 8.4,
-      "first_air_date": "2019-07-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/76479",
+      "id": 85552,
+      "title": "Euphoria",
+      "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+      "rating": 8.3,
+      "first_air_date": "2019-06-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/85552",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "Spectrum On Demand"
       ]
     },
     {
       "id": 124364,
       "title": "FROM",
       "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
-      "rating": 8.2,
+      "rating": 8.3,
       "first_air_date": "2022-02-20",
       "poster_url": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/124364",
@@ -34,42 +35,16 @@
       ]
     },
     {
-      "id": 202555,
-      "title": "Daredevil: Born Again",
-      "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
-      "rating": 8.1,
-      "first_air_date": "2025-03-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/202555",
-      "providers": [
-        "Disney Plus",
-        "Hulu"
-      ]
-    },
-    {
-      "id": 114922,
-      "title": "Citadel",
-      "overview": "What if you lost your memory? What if a spy didn't know they were a spy? Years ago, the top agents of Citadel, Mason Kane and Nadia Sinh, had their minds wiped. But, they're called back to action as sinister forces emerge from the past. With the help of spymaster Bernard Orlick, these former lovers must remember the past to save the future.",
-      "rating": 6.8,
-      "first_air_date": "2023-04-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5MHtxPEfmN4b0rHzfEZRcm6v9WI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/114922",
+      "id": 76479,
+      "title": "The Boys",
+      "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+      "rating": 8.4,
+      "first_air_date": "2019-07-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/76479",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 278573,
-      "title": "Perfect Crown",
-      "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
-      "rating": 8.3,
-      "first_air_date": "2026-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/278573",
-      "providers": [
-        "Disney Plus",
-        "Hulu"
       ]
     },
     {
@@ -89,13 +64,25 @@
       ]
     },
     {
-      "id": 85552,
-      "title": "Euphoria",
-      "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
-      "rating": 8.3,
-      "first_air_date": "2019-06-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/85552",
+      "id": 202555,
+      "title": "Daredevil: Born Again",
+      "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+      "rating": 8.1,
+      "first_air_date": "2025-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/202555",
+      "providers": [
+        "Hulu"
+      ]
+    },
+    {
+      "id": 254953,
+      "title": "Rooster",
+      "overview": "On a college campus, an author navigates a complicated relationship with his daughter.",
+      "rating": 7.5,
+      "first_air_date": "2026-03-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/254953",
       "providers": [
         "HBO Max",
         "HBO Max Amazon Channel",
@@ -103,41 +90,57 @@
       ]
     },
     {
-      "id": 262280,
-      "title": "Legends",
-      "overview": "As drugs flood the streets of '90s Britain, a team of civil servants is thrust undercover to topple the gangs behind it.",
-      "rating": 6.9,
-      "first_air_date": "2026-05-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dGienbU1xNZJcbY8i8ubJusjDwD.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/262280",
+      "id": 114922,
+      "title": "Citadel",
+      "overview": "What if you lost your memory? What if a spy didn't know they were a spy? Years ago, the top agents of Citadel, Mason Kane and Nadia Sinh, had their minds wiped. But, they're called back to action as sinister forces emerge from the past. With the help of spymaster Bernard Orlick, these former lovers must remember the past to save the future.",
+      "rating": 6.8,
+      "first_air_date": "2023-04-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5MHtxPEfmN4b0rHzfEZRcm6v9WI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/114922",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 290856,
+      "title": "Marshals",
+      "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
+      "rating": 7.4,
+      "first_air_date": "2026-03-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/290856",
+      "providers": [
+        "fuboTV",
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel"
+      ]
+    },
+    {
+      "id": 127865,
+      "title": "The Chestnut Man",
+      "overview": "At a grisly murder scene sits a figurine made of chestnuts. From this creepy clue, two detectives hunt a killer linked to a politician's missing child.",
+      "rating": 7.5,
+      "first_air_date": "2021-09-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tdLJTZJ184PsO9QkK9aPeeAXLlo.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/127865",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 289219,
-      "title": "Star Wars: Maul - Shadow Lord",
-      "overview": "After the Clone Wars, Maul plots to rebuild his criminal syndicate on a planet untouched by the Empire.",
+      "id": 278573,
+      "title": "Perfect Crown",
+      "overview": "In a 21st-century constitutional monarchy, a woman who has everything but remains a commoner crosses paths with a prince who, despite his royal lineage, feels powerless—leading to a love that defies social status.",
       "rating": 8.3,
-      "first_air_date": "2026-04-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cCUQAclLHCDQH6nduHwuqMdezmm.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/289219",
+      "first_air_date": "2026-04-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/278573",
       "providers": [
-        "Disney Plus"
-      ]
-    },
-    {
-      "id": 262388,
-      "title": "M.I.A.",
-      "overview": "Restless in the Florida Keys, Etta Tiger Jonze dreams of a life in Miami's glittering, sub-tropical kingdom. When her family's drug-running business shatters in tragedy, however, Etta embarks on a dangerous journey through Miami's neon-lit underbelly that will define who she is and what she's ultimately capable of.",
-      "rating": 7.9,
-      "first_air_date": "2026-05-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uvocuo6mgQTtNa7O6a3MQoTfuh4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/262388",
-      "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
+        "Hulu"
       ]
     }
   ]
