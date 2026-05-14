@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T14:28:27.167468Z",
+  "generated_at": "2026-05-14T14:05:38.318180Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -17,25 +17,12 @@
       ]
     },
     {
-      "id": 235930,
-      "title": "Devil May Cry",
-      "overview": "In this epic battle of good vs. evil, the lines are blurry as hell. But a devilishly handsome demon hunter could be the world's best hope for salvation.",
-      "rating": 8.0,
-      "first_air_date": "2025-04-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mX9tqfpjqwreONJHhap7SnSSowe.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/235930",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 71915,
       "title": "Good Omens",
       "overview": "Aziraphale and Crowley, of Heaven and Hell respectively, have grown rather fond of the Earth. So it's terrible news that it's about to end. The armies of Good and Evil are amassing. The Four Horsemen are ready to ride. Everything is going according to the Divine Plan...except that someone seems to have misplaced the Antichrist. Can our heroes find him and stop Armageddon before it's too late?",
       "rating": 8.0,
       "first_air_date": "2019-05-31",
-      "poster_url": "https://image.tmdb.org/t/p/w500/omgCpyBV5sUT8AkeIcEwdPPgKZC.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nO68XVx5of8hlBwEOGOkPC8Mveu.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/71915",
       "providers": [
         "Amazon Prime Video",
@@ -57,6 +44,19 @@
       ]
     },
     {
+      "id": 235930,
+      "title": "Devil May Cry",
+      "overview": "In this epic battle of good vs. evil, the lines are blurry as hell. But a devilishly handsome demon hunter could be the world's best hope for salvation.",
+      "rating": 8.1,
+      "first_air_date": "2025-04-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mX9tqfpjqwreONJHhap7SnSSowe.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/235930",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 124364,
       "title": "FROM",
       "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
@@ -71,18 +71,6 @@
         "MGM Plus",
         "Philo",
         "Spectrum On Demand"
-      ]
-    },
-    {
-      "id": 202555,
-      "title": "Daredevil: Born Again",
-      "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
-      "rating": 8.1,
-      "first_air_date": "2025-03-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/202555",
-      "providers": [
-        "Hulu"
       ]
     },
     {
@@ -102,10 +90,36 @@
       ]
     },
     {
+      "id": 65942,
+      "title": "Re:ZERO -Starting Life in Another World-",
+      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+      "rating": 7.8,
+      "first_air_date": "2016-04-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5MrRCj7z92YLWMXHeWKp19eJPYv.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/65942",
+      "providers": [
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
+    {
+      "id": 202555,
+      "title": "Daredevil: Born Again",
+      "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+      "rating": 8.1,
+      "first_air_date": "2025-03-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/202555",
+      "providers": [
+        "Hulu"
+      ]
+    },
+    {
       "id": 270476,
       "title": "Widow's Bay",
       "overview": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
-      "rating": 7.7,
+      "rating": 7.8,
       "first_air_date": "2026-04-28",
       "poster_url": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/270476",
@@ -118,27 +132,13 @@
       "id": 259702,
       "title": "The House of the Spirits",
       "overview": "The epic tale of a proud and passionate family, secret loves, and bloody revolution. The Trueba family's passions, struggles, and secrets span a century of violent social change, culminating in a crisis that hurls the proud, tyrannical patriarch and his beloved granddaughter towards opposite sides of the fence.",
-      "rating": 8.4,
+      "rating": 8.7,
       "first_air_date": "2026-04-29",
       "poster_url": "https://image.tmdb.org/t/p/w500/yb682O0KCZlS5qRydxOytO5A6co.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/259702",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 65942,
-      "title": "Re:ZERO -Starting Life in Another World-",
-      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-      "rating": 7.8,
-      "first_air_date": "2016-04-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5MrRCj7z92YLWMXHeWKp19eJPYv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/65942",
-      "providers": [
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
       ]
     }
   ]
