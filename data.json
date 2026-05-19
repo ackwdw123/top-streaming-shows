@@ -1,35 +1,8 @@
 {
-  "generated_at": "2026-05-18T15:27:49.761291Z",
+  "generated_at": "2026-05-19T14:56:42.353816Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
-    {
-      "id": 308014,
-      "title": "Berlin and the Lady with an Ermine",
-      "overview": "Hungry for a new heist, Berlin summons the gang to Seville and turns an ambitious duke into the victim of his own plan: to steal a da Vinci masterpiece.",
-      "rating": 7.7,
-      "first_air_date": "2026-05-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kru9Y5uRXdZFcUyeRlcv4bP4hOr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/308014",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 85552,
-      "title": "Euphoria",
-      "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
-      "rating": 8.3,
-      "first_air_date": "2019-06-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/85552",
-      "providers": [
-        "HBO Max",
-        "HBO Max Amazon Channel",
-        "Spectrum On Demand"
-      ]
-    },
     {
       "id": 76479,
       "title": "The Boys",
@@ -61,16 +34,43 @@
       ]
     },
     {
+      "id": 308014,
+      "title": "Berlin and the Lady with an Ermine",
+      "overview": "Hungry for a new heist, Berlin summons the gang to Seville and turns an ambitious duke into the victim of his own plan: to steal a da Vinci masterpiece.",
+      "rating": 8.0,
+      "first_air_date": "2026-05-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kru9Y5uRXdZFcUyeRlcv4bP4hOr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/308014",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 273240,
       "title": "Off Campus",
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
       "rating": 8.9,
       "first_air_date": "2026-05-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gtoV2udbEnUgkMuCNX8zJrEwm7N.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/273240",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 85552,
+      "title": "Euphoria",
+      "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+      "rating": 8.3,
+      "first_air_date": "2019-06-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/85552",
+      "providers": [
+        "HBO Max",
+        "HBO Max Amazon Channel",
+        "Spectrum On Demand"
       ]
     },
     {
@@ -84,6 +84,22 @@
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 299167,
+      "title": "Dutton Ranch",
+      "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
+      "rating": 9.4,
+      "first_air_date": "2026-05-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/299167",
+      "providers": [
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Philo"
       ]
     },
     {
@@ -103,26 +119,10 @@
       ]
     },
     {
-      "id": 299167,
-      "title": "Dutton Ranch",
-      "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
-      "rating": 9.2,
-      "first_air_date": "2026-05-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/299167",
-      "providers": [
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel",
-        "Philo"
-      ]
-    },
-    {
       "id": 285807,
       "title": "Nemesis",
       "overview": "A relentless LAPD cop becomes obsessed with taking down the master thief behind a string of daring heists — and only one can come out on top.",
-      "rating": 6.1,
+      "rating": 6.4,
       "first_air_date": "2026-05-14",
       "poster_url": "https://image.tmdb.org/t/p/w500/NY7ZwSMw5PjoJdK2CObqiTj7Bm.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/285807",
@@ -132,16 +132,19 @@
       ]
     },
     {
-      "id": 278573,
-      "title": "Perfect Crown",
-      "overview": "In 21st-century Korea under a constitutional monarchy, a chaebol heiress with everything but status tries to take control of her future after crossing paths with a lonely prince with nothing but his title. Together, bound by a contract marriage, they begin a class-defying romance to rewrite destiny.",
-      "rating": 7.7,
-      "first_air_date": "2026-04-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hpKIZO05WwgAWQlv2VcpqZtg6ap.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/278573",
+      "id": 290856,
+      "title": "Marshals",
+      "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
+      "rating": 7.9,
+      "first_air_date": "2026-03-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/290856",
       "providers": [
-        "Disney Plus",
-        "Hulu"
+        "fuboTV",
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel"
       ]
     }
   ]
