@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T14:57:59.215302Z",
+  "generated_at": "2026-05-21T15:19:21.717955Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -34,31 +34,55 @@
       ]
     },
     {
-      "id": 292121,
-      "title": "The Scarecrow",
-      "overview": "A fiercely competitive police officer and an idealistic prosecutor, former high school classmates, reunite while investigating a nationwide serial murder case, pulling them into both a dangerous pursuit and an unresolved personal past.",
-      "rating": 9.3,
-      "first_air_date": "2026-04-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4buHiyaXkkzIdFDu66GOhvXEqbK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/292121",
+      "id": 273240,
+      "title": "Off Campus",
+      "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
+      "rating": 9.0,
+      "first_air_date": "2026-05-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/273240",
       "providers": [
-        "Rakuten Viki"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
-      "id": 299167,
-      "title": "Dutton Ranch",
-      "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
-      "rating": 9.4,
+      "id": 259837,
+      "title": "The WONDERfools",
+      "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
+      "rating": 9.3,
       "first_air_date": "2026-05-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/299167",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/259837",
       "providers": [
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel",
-        "Philo"
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 245318,
+      "title": "Margo's Got Money Troubles",
+      "overview": "The daughter of a former Hooter's waitress and an ex-pro wrestler, Margo is a recent college dropout and aspiring writer. Faced with a new baby, mounting pile of bills, and dwindling number of ways to pay them, Margo must find a way forward.",
+      "rating": 8.1,
+      "first_air_date": "2026-04-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/245318",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 308014,
+      "title": "Berlin and the Lady with an Ermine",
+      "overview": "Hungry for a new heist, Berlin summons the gang to Seville and turns an ambitious duke into the victim of his own plan: to steal a da Vinci masterpiece.",
+      "rating": 8.2,
+      "first_air_date": "2026-05-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kru9Y5uRXdZFcUyeRlcv4bP4hOr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/308014",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -76,67 +100,40 @@
       ]
     },
     {
-      "id": 259837,
-      "title": "The WONDERfools",
-      "overview": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
-      "rating": 9.4,
-      "first_air_date": "2026-05-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/259837",
+      "id": 270476,
+      "title": "Widow's Bay",
+      "overview": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
+      "rating": 8.3,
+      "first_air_date": "2026-04-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/270476",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
-      "id": 308014,
-      "title": "Berlin and the Lady with an Ermine",
-      "overview": "Hungry for a new heist, Berlin summons the gang to Seville and turns an ambitious duke into the victim of his own plan: to steal a da Vinci masterpiece.",
-      "rating": 8.2,
-      "first_air_date": "2026-05-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kru9Y5uRXdZFcUyeRlcv4bP4hOr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/308014",
+      "id": 287527,
+      "title": "The Testaments",
+      "overview": "Growing up in Gilead is all they have ever known. As a new generation of young women grapple with the bleak future that awaits them, they will be forced to search for allies, new and old, to help in their fight for freedom.",
+      "rating": 7.9,
+      "first_air_date": "2026-04-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/287527",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Hulu"
       ]
     },
     {
       "id": 278113,
       "title": "Gold Land",
       "overview": "A young woman working as an airport security agent accidentally comes into possession of a smuggling ring’s gold bars. Caught in a chaotic whirlwind of greed and betrayal among various parties vying for the gold, she becomes consumed by the desire to claim it all for herself.",
-      "rating": 8.0,
+      "rating": 8.3,
       "first_air_date": "2026-04-29",
       "poster_url": "https://image.tmdb.org/t/p/w500/ixBHQ96ryMa8Q0uIOFdUCjqRyy8.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/278113",
       "providers": [
         "Disney Plus"
-      ]
-    },
-    {
-      "id": 273240,
-      "title": "Off Campus",
-      "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
-      "rating": 8.9,
-      "first_air_date": "2026-05-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/273240",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 245318,
-      "title": "Margo's Got Money Troubles",
-      "overview": "The daughter of a former Hooter's waitress and an ex-pro wrestler, Margo is a recent college dropout and aspiring writer. Faced with a new baby, mounting pile of bills, and dwindling number of ways to pay them, Margo must find a way forward.",
-      "rating": 8.0,
-      "first_air_date": "2026-04-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/245318",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
       ]
     }
   ]
