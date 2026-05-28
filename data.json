@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T15:36:01.191183Z",
+  "generated_at": "2026-05-28T15:47:35.439812Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -7,7 +7,7 @@
       "id": 220102,
       "title": "Spider-Noir",
       "overview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
-      "rating": 7.7,
+      "rating": 9.0,
       "first_air_date": "2026-05-25",
       "poster_url": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/220102",
@@ -55,46 +55,29 @@
       ]
     },
     {
-      "id": 85552,
-      "title": "Euphoria",
-      "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
-      "rating": 8.3,
-      "first_air_date": "2019-06-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/85552",
+      "id": 252372,
+      "title": "Murder Mindfully",
+      "overview": "When mafia lawyer Björn attends a mindfulness class to find a better work-life balance, he discovers surprising new coping strategies — including murder.",
+      "rating": 7.6,
+      "first_air_date": "2024-10-31",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rt6SspSLBl5PqWXGstR7HlUM3Nj.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/252372",
       "providers": [
-        "HBO Max Amazon Channel",
-        "Spectrum On Demand",
-        "HBO Max"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 270476,
-      "title": "Widow's Bay",
-      "overview": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
-      "rating": 8.2,
-      "first_air_date": "2026-04-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/270476",
+      "id": 243316,
+      "title": "The Four Seasons",
+      "overview": "The decades-long friendship between three married couples is tested when one divorces, complicating their tradition of quarterly weekend getaways.",
+      "rating": 6.6,
+      "first_air_date": "2025-05-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/w09XeYl096pwES8riRMZwEA9rnh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/243316",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 60625,
-      "title": "Rick and Morty",
-      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "rating": 8.7,
-      "first_air_date": "2013-12-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/60625",
-      "providers": [
-        "Hulu",
-        "HBO Max Amazon Channel",
-        "YouTube TV",
-        "Adult Swim",
-        "HBO Max"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -107,6 +90,20 @@
       "tmdb_url": "https://www.themoviedb.org/tv/287527",
       "providers": [
         "Hulu"
+      ]
+    },
+    {
+      "id": 85552,
+      "title": "Euphoria",
+      "overview": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+      "rating": 8.3,
+      "first_air_date": "2019-06-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/85552",
+      "providers": [
+        "HBO Max Amazon Channel",
+        "Spectrum On Demand",
+        "HBO Max"
       ]
     },
     {
