@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T16:19:28.001059Z",
+  "generated_at": "2026-06-03T16:44:12.689830Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -7,7 +7,7 @@
       "id": 220102,
       "title": "Spider-Noir",
       "overview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
-      "rating": 8.8,
+      "rating": 8.7,
       "first_air_date": "2026-05-25",
       "poster_url": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/220102",
@@ -31,6 +31,58 @@
       ]
     },
     {
+      "id": 117648,
+      "title": "Clarkson's Farm",
+      "overview": "Follow Jeremy Clarkson as he embarks on his latest adventure, farming. The man who on several occasions claims to be allergic to manual labour takes on the most manually labour intensive job there is. What could possibly go wrong?",
+      "rating": 8.5,
+      "first_air_date": "2021-06-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/117648",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 135934,
+      "title": "The Legend of Vox Machina",
+      "overview": "They're rowdy, they're ragtag, they're misfits turned mercenaries for hire. Vox Machina is more interested in easy money and cheap ale than actually protecting the realm. But when the kingdom is threatened by evil, this boisterous crew realizes that they are the only ones capable of restoring justice.",
+      "rating": 8.2,
+      "first_air_date": "2022-01-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/135934",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 270476,
+      "title": "Widow's Bay",
+      "overview": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
+      "rating": 8.3,
+      "first_air_date": "2026-04-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/270476",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 76479,
+      "title": "The Boys",
+      "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+      "rating": 8.5,
+      "first_air_date": "2019-07-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/76479",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
       "id": 124364,
       "title": "FROM",
       "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
@@ -48,39 +100,29 @@
       ]
     },
     {
-      "id": 60625,
-      "title": "Rick and Morty",
-      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "rating": 8.7,
-      "first_air_date": "2013-12-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/60625",
+      "id": 90521,
+      "title": "Love Island USA",
+      "overview": "The matchmaking begins as a group of single \"Islanders\" come together in a stunning villa on a beautiful tropical island, ready to embark on a summer of dating, romance, and ultimately, relationships. Every few days the Islanders pair up and those who are not coupled are at risk of being dumped from the island. Islanders are on the lookout for romance, but the road to love doesn't always run smoothly.",
+      "rating": 7.0,
+      "first_air_date": "2019-07-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kU2y21cls8WargMaX7KI47URMjD.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/90521",
       "providers": [
         "Hulu",
-        "HBO Max Amazon Channel",
-        "YouTube TV",
-        "Adult Swim",
-        "HBO Max"
-      ]
-    },
-    {
-      "id": 76479,
-      "title": "The Boys",
-      "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
-      "rating": 8.5,
-      "first_air_date": "2019-07-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/76479",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Peacock Premium",
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Peacock Premium Plus"
       ]
     },
     {
       "id": 273240,
       "title": "Off Campus",
       "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
-      "rating": 9.1,
+      "rating": 9.0,
       "first_air_date": "2026-05-13",
       "poster_url": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/273240",
@@ -101,48 +143,6 @@
         "Netflix",
         "Crunchyroll",
         "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 252107,
-      "title": "Star City",
-      "overview": "The lives of the cosmonauts, the engineers and the intelligence officers embedded among them in the Soviet space program, and the risks they all took to propel humanity forward when the Soviet Union became the first nation to put a man on the moon.",
-      "rating": 6.3,
-      "first_air_date": "2026-05-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bNMUxvtkqWHKPGynh2IEQlHvHWo.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/252107",
-      "providers": [
-        "Apple TV"
-      ]
-    },
-    {
-      "id": 299167,
-      "title": "Dutton Ranch",
-      "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
-      "rating": 9.3,
-      "first_air_date": "2026-05-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/299167",
-      "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel",
-        "Philo"
-      ]
-    },
-    {
-      "id": 224941,
-      "title": "The Boroughs",
-      "overview": "In a seemingly perfect retirement community, a crew of unlikely heroes must stop an otherworldly threat from stealing the one thing they don't have: time.",
-      "rating": 7.2,
-      "first_air_date": "2026-05-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/224941",
-      "providers": [
-        "Netflix",
         "Netflix Standard with Ads"
       ]
     }
