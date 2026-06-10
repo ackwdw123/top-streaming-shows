@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T14:45:43.987980Z",
+  "generated_at": "2026-06-10T15:28:56.628745Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -7,13 +7,26 @@
       "id": 276161,
       "title": "Teach You a Lesson",
       "overview": "When respect collapses in schools, unconventional inspectors arrive to set things right — with sharp, no-nonsense lessons you won't find in textbooks.",
-      "rating": 9.4,
+      "rating": 9.3,
       "first_air_date": "2026-06-05",
       "poster_url": "https://image.tmdb.org/t/p/w500/wd14C18cey46iCj9pedMSM4kXE6.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/276161",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 220102,
+      "title": "Spider-Noir",
+      "overview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
+      "rating": 8.6,
+      "first_air_date": "2026-05-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/220102",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -34,13 +47,26 @@
       ]
     },
     {
-      "id": 220102,
-      "title": "Spider-Noir",
-      "overview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
-      "rating": 8.7,
-      "first_air_date": "2026-05-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/220102",
+      "id": 270476,
+      "title": "Widow's Bay",
+      "overview": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
+      "rating": 8.3,
+      "first_air_date": "2026-04-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/270476",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 76479,
+      "title": "The Boys",
+      "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+      "rating": 8.5,
+      "first_air_date": "2019-07-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/76479",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
@@ -60,72 +86,16 @@
       ]
     },
     {
-      "id": 277439,
-      "title": "Cape Fear",
-      "overview": "A storm is coming for happily married attorneys Anna and Tom Bowden when Max Cady, the notorious killer they are responsible for putting behind bars, is let out of prison and wants revenge.",
-      "rating": 5.3,
-      "first_air_date": "2026-06-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2zOhbDmelY5WidqqdhEaVfOcEMp.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/277439",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 229544,
-      "title": "Among Us",
-      "overview": "Eccentric, monochromatic crewmates of a ship transporting junk across the galaxy must root out an Impostor in their midst before they fall victim to its villainous designs.",
-      "rating": 8.6,
-      "first_air_date": "2026-06-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zQPnH87FXB6MEwRIy2xfhT41lq9.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/229544",
-      "providers": [
-        "Paramount+ Amazon Channel"
-      ]
-    },
-    {
-      "id": 60625,
-      "title": "Rick and Morty",
-      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "rating": 8.7,
-      "first_air_date": "2013-12-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/60625",
-      "providers": [
-        "Hulu",
-        "HBO Max Amazon Channel",
-        "YouTube TV",
-        "Adult Swim",
-        "HBO Max"
-      ]
-    },
-    {
-      "id": 76479,
-      "title": "The Boys",
-      "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
-      "rating": 8.5,
-      "first_air_date": "2019-07-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/76479",
+      "id": 273240,
+      "title": "Off Campus",
+      "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
+      "rating": 9.0,
+      "first_air_date": "2026-05-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/273240",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 323411,
-      "title": "The Vampire Lestat",
-      "overview": "The Vampire Lestat goes on tour while being haunted by \"muses\" from his past. As the band's popularity grows, so does Lestat's influence over vampires & humans alike, leaving others to contend with Lestat's power in the face of the Great Conversion.",
-      "rating": 5.9,
-      "first_air_date": "2026-06-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hcouWCN92SAw7O1XxYT6nkWPkz3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/323411",
-      "providers": [
-        "AMC Plus Apple TV Channel ",
-        "AMC+ Amazon Channel",
-        "AMC+",
-        "Philo"
       ]
     },
     {
@@ -138,8 +108,32 @@
       "tmdb_url": "https://www.themoviedb.org/tv/85552",
       "providers": [
         "HBO Max Amazon Channel",
-        "Spectrum On Demand",
         "HBO Max"
+      ]
+    },
+    {
+      "id": 277439,
+      "title": "Cape Fear",
+      "overview": "A storm is coming for happily married attorneys Anna and Tom Bowden when Max Cady, the notorious killer they are responsible for putting behind bars, is let out of prison and wants revenge.",
+      "rating": 5.5,
+      "first_air_date": "2026-06-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2zOhbDmelY5WidqqdhEaVfOcEMp.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/277439",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 204135,
+      "title": "Dragon Striker",
+      "overview": "In a world where sports and magic combine, farm boy Key discovers his ultrapowerful natural talent and learns he could be the legendary Dragon Striker.",
+      "rating": 5.5,
+      "first_air_date": "2026-06-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/204135",
+      "providers": [
+        "Disney Plus"
       ]
     }
   ]
