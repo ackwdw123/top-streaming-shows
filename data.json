@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T13:58:05.872586Z",
+  "generated_at": "2026-06-15T17:11:22.272005Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -22,19 +22,6 @@
       ]
     },
     {
-      "id": 322430,
-      "title": "The Polygamist",
-      "overview": "Social media darling, Joyce, is the picture of marital perfection — until her cheating husband's conquests ignite a scandalous emotional meltdown.",
-      "rating": 7.6,
-      "first_air_date": "2026-06-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3VEHSG9ZCWcTGbU2ciiU6iDzemP.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/322430",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 276161,
       "title": "Teach You a Lesson",
       "overview": "When respect collapses in schools, unconventional inspectors arrive to set things right — with sharp, no-nonsense lessons you won't find in textbooks.",
@@ -48,27 +35,43 @@
       ]
     },
     {
-      "id": 220102,
-      "title": "Spider-Noir",
-      "overview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
-      "rating": 8.6,
-      "first_air_date": "2026-05-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/220102",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
       "id": 125928,
       "title": "My Adventures with Superman",
       "overview": "Twenty-somethings Clark Kent, the bright and driven Lois Lane, and their best friend Jimmy Olsen begin to discover who they are and everything they can accomplish together as an investigative reporting team at the Daily Planet.",
       "rating": 8.1,
       "first_air_date": "2023-07-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tMslOS7noUUjc8BLvePk2QsV75v.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/125928",
       "providers": [
+        "HBO Max Amazon Channel",
+        "YouTube TV",
+        "Adult Swim",
+        "HBO Max"
+      ]
+    },
+    {
+      "id": 322430,
+      "title": "The Polygamist",
+      "overview": "Social media darling, Joyce, is the picture of marital perfection — until her cheating husband's conquests ignite a scandalous emotional meltdown.",
+      "rating": 5.4,
+      "first_air_date": "2026-06-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3VEHSG9ZCWcTGbU2ciiU6iDzemP.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/322430",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 60625,
+      "title": "Rick and Morty",
+      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+      "rating": 8.7,
+      "first_air_date": "2013-12-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/60625",
+      "providers": [
+        "Hulu",
         "HBO Max Amazon Channel",
         "YouTube TV",
         "Adult Swim",
@@ -92,61 +95,55 @@
       ]
     },
     {
-      "id": 299167,
-      "title": "Dutton Ranch",
-      "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
-      "rating": 9.3,
-      "first_air_date": "2026-05-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/299167",
+      "id": 220102,
+      "title": "Spider-Noir",
+      "overview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
+      "rating": 8.6,
+      "first_air_date": "2026-05-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/220102",
       "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel",
-        "YouTube TV",
-        "Philo"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 260592,
+      "title": "Every Year After",
+      "overview": "Six summers to fall in love. One moment to fall apart. A week to get it right. A fun, sweeping, romantic story that asks the question, what if your first love actually was your soulmate?",
+      "rating": 8.2,
+      "first_air_date": "2026-06-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/260592",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 273240,
+      "title": "Off Campus",
+      "overview": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
+      "rating": 9.0,
+      "first_air_date": "2026-05-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/273240",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
       "id": 277439,
       "title": "Cape Fear",
       "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
-      "rating": 6.4,
+      "rating": 6.5,
       "first_air_date": "2026-06-04",
       "poster_url": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/277439",
       "providers": [
         "Apple TV",
         "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 65942,
-      "title": "Re:ZERO -Starting Life in Another World-",
-      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-      "rating": 7.9,
-      "first_air_date": "2016-04-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5MrRCj7z92YLWMXHeWKp19eJPYv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/65942",
-      "providers": [
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 312493,
-      "title": "Viral Hit",
-      "overview": "A bullied high schooler becomes an overnight sensation after a viral video. But when his newfound fame turns sour, he must learn to fight for himself.",
-      "rating": 6.9,
-      "first_air_date": "2026-06-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/312493",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     }
   ]
