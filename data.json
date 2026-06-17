@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-06-16T16:46:48.892745Z",
+  "generated_at": "2026-06-17T15:22:02.408141Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 270476,
+      "title": "Widow's Bay",
+      "overview": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
+      "rating": 8.3,
+      "first_air_date": "2026-04-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/270476",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
     {
       "id": 124364,
       "title": "FROM",
@@ -25,7 +38,7 @@
       "id": 276161,
       "title": "Teach You a Lesson",
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
-      "rating": 9.4,
+      "rating": 9.5,
       "first_air_date": "2026-06-05",
       "poster_url": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/276161",
@@ -48,6 +61,59 @@
       ]
     },
     {
+      "id": 94997,
+      "title": "House of the Dragon",
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "rating": 8.3,
+      "first_air_date": "2022-08-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/94997",
+      "providers": [
+        "HBO Max Amazon Channel",
+        "YouTube TV",
+        "HBO Max"
+      ]
+    },
+    {
+      "id": 117648,
+      "title": "Clarkson's Farm",
+      "overview": "Follow Jeremy Clarkson as he embarks on his latest adventure, farming. The man who on several occasions claims to be allergic to manual labour takes on the most manually labour intensive job there is. What could possibly go wrong?",
+      "rating": 8.5,
+      "first_air_date": "2021-06-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/toVhyqMT3ICfahE7Ad8obJvZHpX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/117648",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 220102,
+      "title": "Spider-Noir",
+      "overview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
+      "rating": 8.6,
+      "first_air_date": "2026-05-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/220102",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 76479,
+      "title": "The Boys",
+      "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+      "rating": 8.5,
+      "first_air_date": "2019-07-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/76479",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
       "id": 60625,
       "title": "Rick and Morty",
       "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
@@ -60,20 +126,6 @@
         "HBO Max Amazon Channel",
         "YouTube TV",
         "Adult Swim",
-        "HBO Max"
-      ]
-    },
-    {
-      "id": 94997,
-      "title": "House of the Dragon",
-      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "rating": 8.3,
-      "first_air_date": "2022-08-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/94997",
-      "providers": [
-        "HBO Max Amazon Channel",
-        "YouTube TV",
         "HBO Max"
       ]
     },
@@ -91,60 +143,6 @@
         "Crunchyroll",
         "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 196950,
-      "title": "Witch Hat Atelier",
-      "overview": "In a world where only witches can cast magic, they must avoid being seen by ordinary people while casting. While Coco does her chores, she daydreams of becoming a witch. When a young witch named Qifrey visits her village, Coco uncovers the “absolute secret,” becomes Qifrey’s apprentice, and begins her studies. This is the story of children who encounter despair, yet reach out toward hope.",
-      "rating": 9.2,
-      "first_air_date": "2026-04-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/78m1Tv3suHmUryTI9VNPwKLKjHZ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/196950",
-      "providers": [
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 220102,
-      "title": "Spider-Noir",
-      "overview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
-      "rating": 8.6,
-      "first_air_date": "2026-05-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/220102",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 125928,
-      "title": "My Adventures with Superman",
-      "overview": "Twenty-somethings Clark Kent, the bright and driven Lois Lane, and their best friend Jimmy Olsen begin to discover who they are and everything they can accomplish together as an investigative reporting team at the Daily Planet.",
-      "rating": 8.1,
-      "first_air_date": "2023-07-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tMslOS7noUUjc8BLvePk2QsV75v.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/125928",
-      "providers": [
-        "HBO Max Amazon Channel",
-        "YouTube TV",
-        "Adult Swim",
-        "HBO Max"
-      ]
-    },
-    {
-      "id": 270476,
-      "title": "Widow's Bay",
-      "overview": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
-      "rating": 8.3,
-      "first_air_date": "2026-04-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/270476",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
       ]
     }
   ]
