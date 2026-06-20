@@ -1,13 +1,26 @@
 {
-  "generated_at": "2026-06-19T15:09:51.757927Z",
+  "generated_at": "2026-06-20T13:57:34.162920Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
+      "id": 278178,
+      "title": "I Will Find You",
+      "overview": "Wrongfully imprisoned for murdering his own son, a father sets out on a desperate rescue mission after learning the boy may still be alive.",
+      "rating": 8.4,
+      "first_air_date": "2026-06-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/278178",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 203744,
       "title": "Sugar",
       "overview": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
-      "rating": 7.3,
+      "rating": 7.2,
       "first_air_date": "2024-04-04",
       "poster_url": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/203744",
@@ -30,19 +43,6 @@
       ]
     },
     {
-      "id": 300054,
-      "title": "BAKI-DOU: The Invincible Samurai",
-      "overview": "Baki and the strongest Underground Arena fighters face a threat of historical proportions: the resurrected Musashi Miyamoto, Japan's greatest samurai.",
-      "rating": 8.9,
-      "first_air_date": "2026-02-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/frtzbwANetYd0M4zdrZ5gx0E89q.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/300054",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 276161,
       "title": "Teach You a Lesson",
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
@@ -53,20 +53,6 @@
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 65942,
-      "title": "Re:ZERO -Starting Life in Another World-",
-      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-      "rating": 7.9,
-      "first_air_date": "2016-04-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5MrRCj7z92YLWMXHeWKp19eJPYv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/65942",
-      "providers": [
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
       ]
     },
     {
@@ -91,7 +77,7 @@
       "id": 299167,
       "title": "Dutton Ranch",
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
-      "rating": 9.4,
+      "rating": 9.3,
       "first_air_date": "2026-05-15",
       "poster_url": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/299167",
@@ -102,7 +88,8 @@
         "Paramount Plus Apple TV Channel ",
         "Paramount+ Amazon Channel",
         "YouTube TV",
-        "Philo"
+        "Philo",
+        "Paramount+ Roku Premium Channel"
       ]
     },
     {
@@ -120,6 +107,33 @@
       ]
     },
     {
+      "id": 65942,
+      "title": "Re:ZERO -Starting Life in Another World-",
+      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+      "rating": 7.9,
+      "first_air_date": "2016-04-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5MrRCj7z92YLWMXHeWKp19eJPYv.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/65942",
+      "providers": [
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
+    {
+      "id": 232230,
+      "title": "Lord of Mysteries",
+      "overview": "In a Victorian world of steam, dreadnoughts, and occult horrors, Zhou Mingrui awakens as Klein Moretti. He walks a razor’s edge between light and darkness, entangled with warring Churches. This is the legend of unlimited potential…and unspeakable danger.",
+      "rating": 8.7,
+      "first_air_date": "2025-06-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c8fHePq3yTn3WvZd4hupkHwsjm5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/232230",
+      "providers": [
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
+    {
       "id": 277439,
       "title": "Cape Fear",
       "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
@@ -130,19 +144,6 @@
       "providers": [
         "Apple TV",
         "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 322430,
-      "title": "The Polygamist",
-      "overview": "Social media darling, Joyce, is the picture of marital perfection — until her cheating husband's conquests ignite a scandalous emotional meltdown.",
-      "rating": 7.4,
-      "first_air_date": "2026-06-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3VEHSG9ZCWcTGbU2ciiU6iDzemP.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/322430",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     }
   ]
