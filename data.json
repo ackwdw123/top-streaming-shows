@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T16:51:27.618319Z",
+  "generated_at": "2026-06-23T14:43:10.528631Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -19,6 +19,24 @@
       ]
     },
     {
+      "id": 124364,
+      "title": "FROM",
+      "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
+      "rating": 8.5,
+      "first_air_date": "2022-02-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/124364",
+      "providers": [
+        "fuboTV",
+        "MGM+ Amazon Channel",
+        "MGM Plus Roku Premium Channel",
+        "YouTube TV",
+        "MGM Plus",
+        "Philo",
+        "Spectrum On Demand"
+      ]
+    },
+    {
       "id": 219971,
       "title": "The Agency",
       "overview": "Covert CIA agent Martian is ordered to abandon his undercover life and return to London Station. When the love he left behind unexpectedly reappears, their romance reignites, pitting his career, his real identity and his mission against his heart while hurling them both into a deadly game of international intrigue and espionage.",
@@ -34,24 +52,6 @@
         "Paramount+ Amazon Channel",
         "YouTube TV",
         "Paramount+ Roku Premium Channel",
-        "Spectrum On Demand"
-      ]
-    },
-    {
-      "id": 124364,
-      "title": "FROM",
-      "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
-      "rating": 8.5,
-      "first_air_date": "2022-02-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/124364",
-      "providers": [
-        "fuboTV",
-        "MGM+ Amazon Channel",
-        "MGM Plus Roku Premium Channel",
-        "YouTube TV",
-        "MGM Plus",
-        "Philo",
         "Spectrum On Demand"
       ]
     },
@@ -85,16 +85,16 @@
       ]
     },
     {
-      "id": 270476,
-      "title": "Widow's Bay",
-      "overview": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
-      "rating": 8.2,
-      "first_air_date": "2026-04-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/270476",
+      "id": 196950,
+      "title": "Witch Hat Atelier",
+      "overview": "In a world where only witches can cast magic, they must avoid being seen by ordinary people while casting. While Coco does her chores, she daydreams of becoming a witch. When a young witch named Qifrey visits her village, Coco uncovers the “absolute secret,” becomes Qifrey’s apprentice, and begins her studies. This is the story of children who encounter despair, yet reach out toward hope.",
+      "rating": 9.1,
+      "first_air_date": "2026-04-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/78m1Tv3suHmUryTI9VNPwKLKjHZ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/196950",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
       ]
     },
     {
@@ -114,6 +114,19 @@
       ]
     },
     {
+      "id": 270476,
+      "title": "Widow's Bay",
+      "overview": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
+      "rating": 8.2,
+      "first_air_date": "2026-04-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/270476",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
       "id": 276161,
       "title": "Teach You a Lesson",
       "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
@@ -121,19 +134,6 @@
       "first_air_date": "2026-06-05",
       "poster_url": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/276161",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 296285,
-      "title": "Oasis",
-      "overview": "Oasis is the most luxurious holiday resort in the country — a paradise reserved for the wealthiest families, featuring private beaches, VIP facilities, and impenetrable security. The perfect place to spend the best summer of your life. But everything falls apart when the police storm the resort to investigate a mysterious disappearance. In such an exclusive place, everyone is a suspect — and no one can leave until the culprit is found.",
-      "rating": 7.7,
-      "first_air_date": "2026-06-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/296285",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
