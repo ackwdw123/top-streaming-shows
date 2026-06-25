@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T14:24:51.229233Z",
+  "generated_at": "2026-06-25T14:27:35.944380Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -19,19 +19,6 @@
       ]
     },
     {
-      "id": 278178,
-      "title": "I Will Find You",
-      "overview": "Wrongfully imprisoned for murdering his own son, a father sets out on a desperate rescue mission after learning the boy may still be alive.",
-      "rating": 8.5,
-      "first_air_date": "2026-06-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/278178",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 124364,
       "title": "FROM",
       "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
@@ -47,6 +34,45 @@
         "MGM Plus",
         "Philo",
         "Spectrum On Demand"
+      ]
+    },
+    {
+      "id": 278178,
+      "title": "I Will Find You",
+      "overview": "Wrongfully imprisoned for murdering his own son, a father sets out on a desperate rescue mission after learning the boy may still be alive.",
+      "rating": 8.4,
+      "first_air_date": "2026-06-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/278178",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 82452,
+      "title": "Avatar the Last Airbender",
+      "overview": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
+      "rating": 7.8,
+      "first_air_date": "2024-02-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/82452",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 135934,
+      "title": "The Legend of Vox Machina",
+      "overview": "They're rowdy, they're ragtag, they're misfits turned mercenaries for hire. Vox Machina is more interested in easy money and cheap ale than actually protecting the realm. But when the kingdom is threatened by evil, this boisterous crew realizes that they are the only ones capable of restoring justice.",
+      "rating": 8.2,
+      "first_air_date": "2022-01-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zjQTSYZEmy0GVnK1aFLvNiAwluo.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/135934",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -69,42 +95,30 @@
       ]
     },
     {
-      "id": 289763,
-      "title": "See You at Work Tomorrow!",
-      "overview": "Cha Ji-yoon is a 7th-year corporate worker who's tired of both work and dating. She crosses paths with Kang Si-woo, the cynical boss with a terrifying reputation. Unexpectedly, she regains spark in her life as she gets to know the kindness behind his stern words. Amid repeated commutes, accidents at work, and failed relationships, the two become each other's irreplaceable anchor.",
-      "rating": 9.4,
-      "first_air_date": "2026-06-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/30P3ySNo0m0xNhHQMXzpmquLwxa.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/289763",
+      "id": 65942,
+      "title": "Re:ZERO -Starting Life in Another World-",
+      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+      "rating": 7.9,
+      "first_air_date": "2016-04-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/65942",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
       ]
     },
     {
-      "id": 135934,
-      "title": "The Legend of Vox Machina",
-      "overview": "They're rowdy, they're ragtag, they're misfits turned mercenaries for hire. Vox Machina is more interested in easy money and cheap ale than actually protecting the realm. But when the kingdom is threatened by evil, this boisterous crew realizes that they are the only ones capable of restoring justice.",
+      "id": 136315,
+      "title": "The Bear",
+      "overview": "Carmy, a young fine-dining chef, comes home to Chicago to run his family sandwich shop. As he fights to transform the shop and himself, he works alongside a rough-around-the-edges crew that ultimately reveal themselves as his chosen family.",
       "rating": 8.2,
-      "first_air_date": "2022-01-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zjQTSYZEmy0GVnK1aFLvNiAwluo.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/135934",
+      "first_air_date": "2022-06-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4fVddnbhcmzRZE14NJY03GKS6Fn.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/136315",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 270476,
-      "title": "Widow's Bay",
-      "overview": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
-      "rating": 8.2,
-      "first_air_date": "2026-04-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/270476",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Disney Plus",
+        "Hulu"
       ]
     },
     {
@@ -124,30 +138,16 @@
       ]
     },
     {
-      "id": 196950,
-      "title": "Witch Hat Atelier",
-      "overview": "In a world where only witches can cast magic, they must avoid being seen by ordinary people while casting. While Coco does her chores, she daydreams of becoming a witch. When a young witch named Qifrey visits her village, Coco uncovers the “absolute secret,” becomes Qifrey’s apprentice, and begins her studies. This is the story of children who encounter despair, yet reach out toward hope.",
-      "rating": 9.1,
-      "first_air_date": "2026-04-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/78m1Tv3suHmUryTI9VNPwKLKjHZ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/196950",
+      "id": 270476,
+      "title": "Widow's Bay",
+      "overview": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
+      "rating": 8.2,
+      "first_air_date": "2026-04-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/270476",
       "providers": [
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 65942,
-      "title": "Re:ZERO -Starting Life in Another World-",
-      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-      "rating": 7.9,
-      "first_air_date": "2016-04-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5MrRCj7z92YLWMXHeWKp19eJPYv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/65942",
-      "providers": [
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     }
   ]
