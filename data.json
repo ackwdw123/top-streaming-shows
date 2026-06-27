@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-06-26T14:20:02.099085Z",
+  "generated_at": "2026-06-27T13:27:48.601400Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 296206,
+      "title": "Agent Kim Reactivated",
+      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+      "rating": 8.5,
+      "first_air_date": "2026-06-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/296206",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
     {
       "id": 136315,
       "title": "The Bear",
@@ -45,22 +58,6 @@
       ]
     },
     {
-      "id": 86031,
-      "title": "Dr. STONE",
-      "overview": "One fateful day, all of humanity was petrified by a blinding flash of light. After several millennia, high schooler Taiju awakens and finds himself lost in a world of statues. However, he’s not alone! His science-loving friend Senku’s been up and running for a few months and he's got a grand plan in mind—to kickstart civilization with the power of science!",
-      "rating": 8.5,
-      "first_air_date": "2019-07-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xbZQ3fDl0y5mt0ARwfeyrgQ4JTw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/86031",
-      "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 299167,
       "title": "Dutton Ranch",
       "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
@@ -77,19 +74,6 @@
         "YouTube TV",
         "Philo",
         "Paramount+ Roku Premium Channel"
-      ]
-    },
-    {
-      "id": 278178,
-      "title": "I Will Find You",
-      "overview": "Wrongfully imprisoned for murdering his own son, a father sets out on a desperate rescue mission after learning the boy may still be alive.",
-      "rating": 8.4,
-      "first_air_date": "2026-06-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/278178",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     },
     {
@@ -111,10 +95,23 @@
       ]
     },
     {
+      "id": 278178,
+      "title": "I Will Find You",
+      "overview": "Wrongfully imprisoned for murdering his own son, a father sets out on a desperate rescue mission after learning the boy may still be alive.",
+      "rating": 8.3,
+      "first_air_date": "2026-06-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/278178",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 277439,
       "title": "Cape Fear",
       "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
-      "rating": 6.8,
+      "rating": 6.9,
       "first_air_date": "2026-06-04",
       "poster_url": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/277439",
@@ -124,35 +121,32 @@
       ]
     },
     {
-      "id": 219971,
-      "title": "The Agency",
-      "overview": "Covert CIA agent Martian is ordered to abandon his undercover life and return to London Station. When the love he left behind unexpectedly reappears, their romance reignites, pitting his career, his real identity and his mission against his heart while hurling them both into a deadly game of international intrigue and espionage.",
-      "rating": 7.1,
-      "first_air_date": "2024-12-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fDZgOeTiplrl0skvK6IIyejHLQF.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/219971",
+      "id": 203744,
+      "title": "Sugar",
+      "overview": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
+      "rating": 7.2,
+      "first_air_date": "2024-04-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/203744",
       "providers": [
-        "fuboTV",
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 225891,
+      "title": "The Madison",
+      "overview": "The Clyburns uproot their comfortable New York City lives to the wild, untamed beauty of Montana's Madison River Valley on a search for connection.",
+      "rating": 8.0,
+      "first_air_date": "2026-03-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/225891",
+      "providers": [
         "Paramount Plus Premium",
         "Paramount Plus Essential",
         "Paramount Plus Apple TV Channel ",
         "Paramount+ Amazon Channel",
-        "YouTube TV",
-        "Paramount+ Roku Premium Channel",
-        "Spectrum On Demand"
-      ]
-    },
-    {
-      "id": 270476,
-      "title": "Widow's Bay",
-      "overview": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
-      "rating": 8.2,
-      "first_air_date": "2026-04-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/270476",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Paramount+ Roku Premium Channel"
       ]
     }
   ]
