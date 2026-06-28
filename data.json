@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T13:27:48.601400Z",
+  "generated_at": "2026-06-28T13:41:32.769597Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -7,73 +7,13 @@
       "id": 296206,
       "title": "Agent Kim Reactivated",
       "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-      "rating": 8.5,
+      "rating": 8.0,
       "first_air_date": "2026-06-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/296206",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 136315,
-      "title": "The Bear",
-      "overview": "Carmy, a young fine-dining chef, comes home to Chicago to run his family sandwich shop. As he fights to transform the shop and himself, he works alongside a rough-around-the-edges crew that ultimately reveal themselves as his chosen family.",
-      "rating": 8.1,
-      "first_air_date": "2022-06-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/136315",
-      "providers": [
-        "Disney Plus",
-        "Hulu"
-      ]
-    },
-    {
-      "id": 82452,
-      "title": "Avatar: The Last Airbender",
-      "overview": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
-      "rating": 7.8,
-      "first_air_date": "2024-02-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/82452",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 94997,
-      "title": "House of the Dragon",
-      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "rating": 8.3,
-      "first_air_date": "2022-08-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/94997",
-      "providers": [
-        "HBO Max Amazon Channel",
-        "YouTube TV",
-        "Spectrum On Demand",
-        "HBO Max"
-      ]
-    },
-    {
-      "id": 299167,
-      "title": "Dutton Ranch",
-      "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
-      "rating": 9.3,
-      "first_air_date": "2026-05-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/299167",
-      "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel",
-        "YouTube TV",
-        "Philo",
-        "Paramount+ Roku Premium Channel"
       ]
     },
     {
@@ -95,29 +35,70 @@
       ]
     },
     {
-      "id": 278178,
-      "title": "I Will Find You",
-      "overview": "Wrongfully imprisoned for murdering his own son, a father sets out on a desperate rescue mission after learning the boy may still be alive.",
+      "id": 246461,
+      "title": "Sherlock & Daughter",
+      "overview": "Sherlock Holmes faces a sinister case risking friends' lives. American Amelia joins, seeking her father after her mother's murder. Despite differences, they solve a conspiracy and her mother's case.",
+      "rating": 6.6,
+      "first_air_date": "2025-04-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ifh5NNMzUEqErsHmeKjjGblbOav.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/246461",
+      "providers": [
+        "HBO Max Amazon Channel"
+      ]
+    },
+    {
+      "id": 94997,
+      "title": "House of the Dragon",
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "rating": 8.3,
-      "first_air_date": "2026-06-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/278178",
+      "first_air_date": "2022-08-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/94997",
+      "providers": [
+        "HBO Max Amazon Channel",
+        "YouTube TV",
+        "Spectrum On Demand",
+        "HBO Max"
+      ]
+    },
+    {
+      "id": 136315,
+      "title": "The Bear",
+      "overview": "Carmy, a young fine-dining chef, comes home to Chicago to run his family sandwich shop. As he fights to transform the shop and himself, he works alongside a rough-around-the-edges crew that ultimately reveal themselves as his chosen family.",
+      "rating": 8.1,
+      "first_air_date": "2022-06-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/136315",
+      "providers": [
+        "Disney Plus",
+        "Hulu",
+        "fuboTV"
+      ]
+    },
+    {
+      "id": 82452,
+      "title": "Avatar: The Last Airbender",
+      "overview": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
+      "rating": 7.8,
+      "first_air_date": "2024-02-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/82452",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 277439,
-      "title": "Cape Fear",
-      "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
-      "rating": 6.9,
-      "first_air_date": "2026-06-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/277439",
+      "id": 286360,
+      "title": "Notes from the Last Row",
+      "overview": "A literature professor discovers a student's talent and offers him writing lessons — but as he sinks into the story, their sessions spiral into chaos.",
+      "rating": 9.2,
+      "first_air_date": "2026-06-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/paRFCxAJRZOypfgnzYLo6KH5jjO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/286360",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -134,19 +115,29 @@
       ]
     },
     {
-      "id": 225891,
-      "title": "The Madison",
-      "overview": "The Clyburns uproot their comfortable New York City lives to the wild, untamed beauty of Montana's Madison River Valley on a search for connection.",
-      "rating": 8.0,
-      "first_air_date": "2026-03-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/225891",
+      "id": 278178,
+      "title": "I Will Find You",
+      "overview": "Wrongfully imprisoned for murdering his own son, a father sets out on a desperate rescue mission after learning the boy may still be alive.",
+      "rating": 8.2,
+      "first_air_date": "2026-06-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/278178",
       "providers": [
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel"
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 276161,
+      "title": "Teach You a Lesson",
+      "overview": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
+      "rating": 9.5,
+      "first_air_date": "2026-06-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/276161",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
