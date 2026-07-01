@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-06-30T14:14:16.712255Z",
+  "generated_at": "2026-07-01T14:30:01.806179Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 138502,
+      "title": "X-Men '97",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "rating": 8.5,
+      "first_air_date": "2024-03-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/138502",
+      "providers": [
+        "Disney Plus"
+      ]
+    },
     {
       "id": 94997,
       "title": "House of the Dragon",
@@ -30,23 +42,9 @@
         "fuboTV",
         "MGM+ Amazon Channel",
         "MGM Plus Roku Premium Channel",
-        "YouTube TV",
         "MGM Plus",
         "Philo",
         "Spectrum On Demand"
-      ]
-    },
-    {
-      "id": 296206,
-      "title": "Agent Kim Reactivated",
-      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-      "rating": 8.1,
-      "first_air_date": "2026-06-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/296206",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     },
     {
@@ -64,19 +62,29 @@
       ]
     },
     {
-      "id": 60625,
-      "title": "Rick and Morty",
-      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "rating": 8.7,
-      "first_air_date": "2013-12-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/60625",
+      "id": 296206,
+      "title": "Agent Kim Reactivated",
+      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+      "rating": 8.1,
+      "first_air_date": "2026-06-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/296206",
       "providers": [
-        "Hulu",
-        "HBO Max Amazon Channel",
-        "YouTube TV",
-        "Adult Swim",
-        "HBO Max"
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 82452,
+      "title": "Avatar: The Last Airbender",
+      "overview": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
+      "rating": 7.8,
+      "first_air_date": "2024-02-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/82452",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -96,62 +104,45 @@
       ]
     },
     {
-      "id": 82452,
-      "title": "Avatar: The Last Airbender",
-      "overview": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
-      "rating": 7.8,
-      "first_air_date": "2024-02-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/82452",
+      "id": 125988,
+      "title": "Silo",
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "rating": 8.2,
+      "first_air_date": "2023-05-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fDMTqUcEh6qJwWZP1SHTfoaqsCy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/125988",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
-      "id": 65942,
-      "title": "Re:ZERO -Starting Life in Another World-",
-      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-      "rating": 7.9,
-      "first_air_date": "2016-04-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/65942",
+      "id": 296436,
+      "title": "The Oblivious Saint Can't Contain Her Power",
+      "overview": "Overshadowed by her saintly sister Flora, plain Carolina seizes a chance to be useful by agreeing to political marriage with a prince rumored to be cruel. But the prince is nothing as expected—he’s a gentleman, and Carolina feels valued for once in her life. As Carolina blossoms, she discovers a sense of self-worth and a mysterious power, while Flora’s perfect life back home starts to crumble.",
+      "rating": null,
+      "first_air_date": "2026-06-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xrgC96oAFYSSjCysOg8oCAVzVSg.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/296436",
       "providers": [
-        "Hulu",
         "Crunchyroll",
         "Crunchyroll Amazon Channel"
       ]
     },
     {
-      "id": 286360,
-      "title": "Notes from the Last Row",
-      "overview": "A literature professor discovers a student's talent and offers him writing lessons — but as he sinks into the story, their sessions spiral into chaos.",
-      "rating": 8.8,
-      "first_air_date": "2026-06-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/paRFCxAJRZOypfgnzYLo6KH5jjO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/286360",
+      "id": 60625,
+      "title": "Rick and Morty",
+      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+      "rating": 8.7,
+      "first_air_date": "2013-12-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/60625",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 299167,
-      "title": "Dutton Ranch",
-      "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
-      "rating": 9.3,
-      "first_air_date": "2026-05-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/299167",
-      "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel",
+        "Hulu",
+        "HBO Max Amazon Channel",
         "YouTube TV",
-        "Philo",
-        "Paramount+ Roku Premium Channel"
+        "Adult Swim",
+        "HBO Max"
       ]
     }
   ]
