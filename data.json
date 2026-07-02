@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T14:30:01.806179Z",
+  "generated_at": "2026-07-02T13:53:59.520983Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -9,7 +9,7 @@
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
       "rating": 8.5,
       "first_air_date": "2024-03-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yI3skmBTiworOlwAzuD4haCTF60.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/138502",
       "providers": [
         "Disney Plus"
@@ -62,10 +62,23 @@
       ]
     },
     {
+      "id": 125988,
+      "title": "Silo",
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "rating": 8.2,
+      "first_air_date": "2023-05-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fDMTqUcEh6qJwWZP1SHTfoaqsCy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/125988",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
       "id": 296206,
       "title": "Agent Kim Reactivated",
       "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-      "rating": 8.1,
+      "rating": 8.2,
       "first_air_date": "2026-06-26",
       "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/296206",
@@ -104,45 +117,30 @@
       ]
     },
     {
-      "id": 125988,
-      "title": "Silo",
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "rating": 8.2,
-      "first_air_date": "2023-05-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fDMTqUcEh6qJwWZP1SHTfoaqsCy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/125988",
+      "id": 65942,
+      "title": "Re:ZERO -Starting Life in Another World-",
+      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+      "rating": 7.9,
+      "first_air_date": "2016-04-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/65942",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 296436,
-      "title": "The Oblivious Saint Can't Contain Her Power",
-      "overview": "Overshadowed by her saintly sister Flora, plain Carolina seizes a chance to be useful by agreeing to political marriage with a prince rumored to be cruel. But the prince is nothing as expected—he’s a gentleman, and Carolina feels valued for once in her life. As Carolina blossoms, she discovers a sense of self-worth and a mysterious power, while Flora’s perfect life back home starts to crumble.",
-      "rating": null,
-      "first_air_date": "2026-06-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xrgC96oAFYSSjCysOg8oCAVzVSg.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/296436",
-      "providers": [
+        "Hulu",
         "Crunchyroll",
         "Crunchyroll Amazon Channel"
       ]
     },
     {
-      "id": 60625,
-      "title": "Rick and Morty",
-      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "rating": 8.7,
-      "first_air_date": "2013-12-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/60625",
+      "id": 278178,
+      "title": "I Will Find You",
+      "overview": "Wrongfully imprisoned for murdering his own son, a father sets out on a desperate rescue mission after learning the boy may still be alive.",
+      "rating": 8.3,
+      "first_air_date": "2026-06-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/278178",
       "providers": [
-        "Hulu",
-        "HBO Max Amazon Channel",
-        "YouTube TV",
-        "Adult Swim",
-        "HBO Max"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
