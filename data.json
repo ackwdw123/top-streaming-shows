@@ -1,18 +1,51 @@
 {
-  "generated_at": "2026-07-02T13:53:59.520983Z",
+  "generated_at": "2026-07-03T13:58:01.347856Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
-      "id": 138502,
-      "title": "X-Men '97",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "rating": 8.5,
-      "first_air_date": "2024-03-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yI3skmBTiworOlwAzuD4haCTF60.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/138502",
+      "id": 125988,
+      "title": "Silo",
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "rating": 8.2,
+      "first_air_date": "2023-05-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fDMTqUcEh6qJwWZP1SHTfoaqsCy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/125988",
       "providers": [
-        "Disney Plus"
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 254420,
+      "title": "Elle",
+      "overview": "Before Elle Woods was a fish-out-of-water at Harvard, we meet her in 1995 in the tumultuous waters of high school where she encounters tricky friendships, forbidden romance, and questionable fashion choices. In this unexpected chapter of her adolescence, we learn about the experiences that shaped Elle into the iconic young woman we've come to know and love.",
+      "rating": 7.5,
+      "first_air_date": "2026-07-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/u0Vj7zhVK0HYxsS3VMzkU37Pebp.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/254420",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 299167,
+      "title": "Dutton Ranch",
+      "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
+      "rating": 9.3,
+      "first_air_date": "2026-05-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/299167",
+      "providers": [
+        "fuboTV",
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "YouTube TV",
+        "Philo",
+        "Paramount+ Roku Premium Channel"
       ]
     },
     {
@@ -48,37 +81,22 @@
       ]
     },
     {
-      "id": 136315,
-      "title": "The Bear",
-      "overview": "Carmy, a young fine-dining chef, comes home to Chicago to run his family sandwich shop. As he fights to transform the shop and himself, he works alongside a rough-around-the-edges crew that ultimately reveal themselves as his chosen family.",
-      "rating": 8.1,
-      "first_air_date": "2022-06-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/136315",
+      "id": 138502,
+      "title": "X-Men '97",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "rating": 8.5,
+      "first_air_date": "2024-03-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yI3skmBTiworOlwAzuD4haCTF60.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/138502",
       "providers": [
-        "Disney Plus",
-        "Hulu",
-        "fuboTV"
-      ]
-    },
-    {
-      "id": 125988,
-      "title": "Silo",
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "rating": 8.2,
-      "first_air_date": "2023-05-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fDMTqUcEh6qJwWZP1SHTfoaqsCy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/125988",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Disney Plus"
       ]
     },
     {
       "id": 296206,
       "title": "Agent Kim Reactivated",
       "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-      "rating": 8.2,
+      "rating": 7.6,
       "first_air_date": "2026-06-26",
       "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/296206",
@@ -88,16 +106,16 @@
       ]
     },
     {
-      "id": 82452,
-      "title": "Avatar: The Last Airbender",
-      "overview": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
-      "rating": 7.8,
-      "first_air_date": "2024-02-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/82452",
+      "id": 298994,
+      "title": "The Villager of Level 999",
+      "overview": "In Earthclear, everyone is born into a fixed role, and villagers are the weakest of all. Most never rise above Level 5—except Koji Kagami, who is Level...999?! On a monster hunt, he meets Alice, the Demon King's daughter, and discovers they share an impossible dream: coexistence between humans and demons. In a world destined for conflict, they charge into battle to defy fate and shatter the rules.",
+      "rating": 9.0,
+      "first_air_date": "2026-07-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pXnQuQyt7LUb62ZF9J6vDAcymIW.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/298994",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
       ]
     },
     {
@@ -117,30 +135,17 @@
       ]
     },
     {
-      "id": 65942,
-      "title": "Re:ZERO -Starting Life in Another World-",
-      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-      "rating": 7.9,
-      "first_air_date": "2016-04-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/65942",
+      "id": 136315,
+      "title": "The Bear",
+      "overview": "Carmy, a young fine-dining chef, comes home to Chicago to run his family sandwich shop. As he fights to transform the shop and himself, he works alongside a rough-around-the-edges crew that ultimately reveal themselves as his chosen family.",
+      "rating": 8.1,
+      "first_air_date": "2022-06-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/136315",
       "providers": [
+        "Disney Plus",
         "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 278178,
-      "title": "I Will Find You",
-      "overview": "Wrongfully imprisoned for murdering his own son, a father sets out on a desperate rescue mission after learning the boy may still be alive.",
-      "rating": 8.3,
-      "first_air_date": "2026-06-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/278178",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "fuboTV"
       ]
     }
   ]
