@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T13:58:01.347856Z",
+  "generated_at": "2026-07-04T13:19:23.314494Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -9,7 +9,7 @@
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "rating": 8.2,
       "first_air_date": "2023-05-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fDMTqUcEh6qJwWZP1SHTfoaqsCy.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/125988",
       "providers": [
         "Apple TV",
@@ -17,16 +17,30 @@
       ]
     },
     {
-      "id": 254420,
-      "title": "Elle",
-      "overview": "Before Elle Woods was a fish-out-of-water at Harvard, we meet her in 1995 in the tumultuous waters of high school where she encounters tricky friendships, forbidden romance, and questionable fashion choices. In this unexpected chapter of her adolescence, we learn about the experiences that shaped Elle into the iconic young woman we've come to know and love.",
-      "rating": 7.5,
-      "first_air_date": "2026-07-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/u0Vj7zhVK0HYxsS3VMzkU37Pebp.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/254420",
+      "id": 253960,
+      "title": "Human Vapor",
+      "overview": "A death on live TV. A culprit who turns to gas. Behind it, a secret project that used and discarded the vulnerable. One detective pursues the dark truth.",
+      "rating": 8.2,
+      "first_air_date": "2026-07-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/253960",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 94664,
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+      "rating": 8.6,
+      "first_air_date": "2021-01-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/94664",
+      "providers": [
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
       ]
     },
     {
@@ -46,6 +60,19 @@
         "YouTube TV",
         "Philo",
         "Paramount+ Roku Premium Channel"
+      ]
+    },
+    {
+      "id": 296206,
+      "title": "Agent Kim Reactivated",
+      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+      "rating": 7.3,
+      "first_air_date": "2026-06-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/296206",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -84,7 +111,7 @@
       "id": 138502,
       "title": "X-Men '97",
       "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "rating": 8.5,
+      "rating": 8.6,
       "first_air_date": "2024-03-20",
       "poster_url": "https://image.tmdb.org/t/p/w500/yI3skmBTiworOlwAzuD4haCTF60.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/138502",
@@ -93,59 +120,28 @@
       ]
     },
     {
-      "id": 296206,
-      "title": "Agent Kim Reactivated",
-      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-      "rating": 7.6,
-      "first_air_date": "2026-06-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/296206",
+      "id": 277439,
+      "title": "Cape Fear",
+      "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
+      "rating": 6.9,
+      "first_air_date": "2026-06-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/277439",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
-      "id": 298994,
-      "title": "The Villager of Level 999",
-      "overview": "In Earthclear, everyone is born into a fixed role, and villagers are the weakest of all. Most never rise above Level 5—except Koji Kagami, who is Level...999?! On a monster hunt, he meets Alice, the Demon King's daughter, and discovers they share an impossible dream: coexistence between humans and demons. In a world destined for conflict, they charge into battle to defy fate and shatter the rules.",
-      "rating": 9.0,
-      "first_air_date": "2026-07-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pXnQuQyt7LUb62ZF9J6vDAcymIW.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/298994",
+      "id": 280049,
+      "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
+      "overview": "Kenichi Yamada, a single, 35-year-old businessman, has spent the majority of his adult life playing every MMORPG to hit the market. Tired of the constant cycle of repetitive, newbie-centric gameplay, he is immediately drawn in by the promise of a new game that, on top of being never-ending, offers up a \"Hell Mode\"—a difficulty level that makes it nigh impossible to level up but also promises uncapped growth potential. Upon selecting the newly released Summoner class, Kenichi finds himself reborn as Allen, an infant in a serf family, with nothing but his wits and old memories to guide him.",
+      "rating": 7.4,
+      "first_air_date": "2026-01-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kjeeFHqhEtv1HsRLlV4bQRpDzsU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/280049",
       "providers": [
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 37854,
-      "title": "One Piece",
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "rating": 8.7,
-      "first_air_date": "1999-10-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/37854",
-      "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 136315,
-      "title": "The Bear",
-      "overview": "Carmy, a young fine-dining chef, comes home to Chicago to run his family sandwich shop. As he fights to transform the shop and himself, he works alongside a rough-around-the-edges crew that ultimately reveal themselves as his chosen family.",
-      "rating": 8.1,
-      "first_air_date": "2022-06-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/136315",
-      "providers": [
-        "Disney Plus",
-        "Hulu",
-        "fuboTV"
+        "Hidive Amazon Channel"
       ]
     }
   ]
