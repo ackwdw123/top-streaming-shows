@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-07-04T13:19:23.314494Z",
+  "generated_at": "2026-07-05T13:25:48.167270Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 94664,
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+      "rating": 8.5,
+      "first_air_date": "2021-01-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/94664",
+      "providers": [
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
     {
       "id": 125988,
       "title": "Silo",
@@ -17,56 +31,23 @@
       ]
     },
     {
-      "id": 253960,
-      "title": "Human Vapor",
-      "overview": "A death on live TV. A culprit who turns to gas. Behind it, a secret project that used and discarded the vulnerable. One detective pursues the dark truth.",
-      "rating": 8.2,
-      "first_air_date": "2026-07-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/253960",
+      "id": 123528,
+      "title": "Skeleton Knight in Another World",
+      "overview": "One day, a gamer played video games until he fell asleep...and when he woke up, he found himself in the game world—as a skeleton! Equipped with the powerful weapons and armor of his avatar but stuck with its frightening skeletal appearance, Arc has to find a place for himself in this new, fantastical land. All his hopes for a quiet life are dashed when he crosses paths with a beautiful elven warrior, setting him on a journey full of conflict and adventure.",
+      "rating": 7.3,
+      "first_air_date": "2022-04-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jMhzjbRI1iL2ENtMnS3Zm3DBAJw.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/123528",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 94664,
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-      "rating": 8.6,
-      "first_air_date": "2021-01-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/94664",
-      "providers": [
-        "Hulu",
         "Crunchyroll",
         "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 299167,
-      "title": "Dutton Ranch",
-      "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
-      "rating": 9.3,
-      "first_air_date": "2026-05-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/299167",
-      "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel",
-        "YouTube TV",
-        "Philo",
-        "Paramount+ Roku Premium Channel"
       ]
     },
     {
       "id": 296206,
       "title": "Agent Kim Reactivated",
       "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-      "rating": 7.3,
+      "rating": 7.8,
       "first_air_date": "2026-06-26",
       "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/296206",
@@ -91,6 +72,19 @@
       ]
     },
     {
+      "id": 253960,
+      "title": "Human Vapor",
+      "overview": "A death on live TV. A culprit who turns to gas. Behind it, a secret project that used and discarded the vulnerable. One detective pursues the dark truth.",
+      "rating": 8.0,
+      "first_air_date": "2026-07-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/253960",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 124364,
       "title": "FROM",
       "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
@@ -108,40 +102,47 @@
       ]
     },
     {
-      "id": 138502,
-      "title": "X-Men '97",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "rating": 8.6,
-      "first_air_date": "2024-03-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yI3skmBTiworOlwAzuD4haCTF60.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/138502",
+      "id": 299167,
+      "title": "Dutton Ranch",
+      "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
+      "rating": 9.3,
+      "first_air_date": "2026-05-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/299167",
       "providers": [
-        "Disney Plus"
+        "fuboTV",
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "YouTube TV",
+        "Philo",
+        "Paramount+ Roku Premium Channel"
       ]
     },
     {
-      "id": 277439,
-      "title": "Cape Fear",
-      "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
-      "rating": 6.9,
-      "first_air_date": "2026-06-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/277439",
+      "id": 206484,
+      "title": "Jade Dynasty",
+      "overview": "Zhang Xiaofan, who turned into an orphan overnight, becomes a disciple of the Qingyun Sect. After five years of training, he performs well in the Seven Peak Martial Arts Competition. He's sent to the Kongsang Mountain to defeat the evil. During the journey, he and his senior, Lu Xueqi, met with an accident, and got to know and save the lady of the cult, Bi Yao. At the same time, new danger is ahead of him.",
+      "rating": 8.1,
+      "first_air_date": "2022-08-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oOy0PskfCQyWwsQVdHyM2PoN9H4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/206484",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Rakuten Viki"
       ]
     },
     {
-      "id": 280049,
-      "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
-      "overview": "Kenichi Yamada, a single, 35-year-old businessman, has spent the majority of his adult life playing every MMORPG to hit the market. Tired of the constant cycle of repetitive, newbie-centric gameplay, he is immediately drawn in by the promise of a new game that, on top of being never-ending, offers up a \"Hell Mode\"—a difficulty level that makes it nigh impossible to level up but also promises uncapped growth potential. Upon selecting the newly released Summoner class, Kenichi finds himself reborn as Allen, an infant in a serf family, with nothing but his wits and old memories to guide him.",
-      "rating": 7.4,
-      "first_air_date": "2026-01-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kjeeFHqhEtv1HsRLlV4bQRpDzsU.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/280049",
+      "id": 278178,
+      "title": "I Will Find You",
+      "overview": "Wrongfully imprisoned for murdering his own son, a father sets out on a desperate rescue mission after learning the boy may still be alive.",
+      "rating": 8.2,
+      "first_air_date": "2026-06-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/278178",
       "providers": [
-        "Hidive Amazon Channel"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
