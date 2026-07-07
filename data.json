@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T15:26:44.854438Z",
+  "generated_at": "2026-07-07T14:27:30.465418Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -28,6 +28,35 @@
       "tmdb_url": "https://www.themoviedb.org/tv/94664",
       "providers": [
         "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
+    {
+      "id": 60625,
+      "title": "Rick and Morty",
+      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+      "rating": 8.7,
+      "first_air_date": "2013-12-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/60625",
+      "providers": [
+        "Hulu",
+        "HBO Max Amazon Channel",
+        "YouTube TV",
+        "Adult Swim",
+        "HBO Max"
+      ]
+    },
+    {
+      "id": 79166,
+      "title": "Grand Blue Dreaming",
+      "overview": "A college student joins the local diving club after meeting some rowdy upperclassmen. New adventures in booze and the ocean await.",
+      "rating": 7.7,
+      "first_air_date": "2018-07-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ii1yrluzWisy1rygSKz8lJkAkil.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/79166",
+      "providers": [
         "Crunchyroll",
         "Crunchyroll Amazon Channel"
       ]
@@ -62,51 +91,16 @@
       ]
     },
     {
-      "id": 60625,
-      "title": "Rick and Morty",
-      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "rating": 8.7,
-      "first_air_date": "2013-12-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/60625",
+      "id": 153217,
+      "title": "Sparks of Tomorrow",
+      "overview": "In an alternate past, an unlikely duo team up to look for a missing catalog that could bring electricity to the smoke-filled streets of Kyoto.",
+      "rating": 8.0,
+      "first_air_date": "2026-07-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yDTcX4l5D3OFeYGsQVI5Jqxx1D7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/153217",
       "providers": [
-        "Hulu",
-        "HBO Max Amazon Channel",
-        "YouTube TV",
-        "Adult Swim",
-        "HBO Max"
-      ]
-    },
-    {
-      "id": 299167,
-      "title": "Dutton Ranch",
-      "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
-      "rating": 9.3,
-      "first_air_date": "2026-05-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/299167",
-      "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel",
-        "YouTube TV",
-        "Philo",
-        "Paramount+ Roku Premium Channel"
-      ]
-    },
-    {
-      "id": 278043,
-      "title": "You and I Are Polar Opposites",
-      "overview": "Suzuki's a high school girl in love, but the guy she's fallen for is nothing like her! While she's cheerful, outgoing, and always trying to fit in, her classmate Yusuke Tani is stoic, quiet, and doesn't seem to care what people think of him. Will Suzuki be able to overcome her anxieties and ask him out, or will she discover that opposites really don't attract?",
-      "rating": 8.4,
-      "first_air_date": "2026-01-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9hRuMU33DBz4z1vaYBRqLLuFFbQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/278043",
-      "providers": [
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -123,29 +117,33 @@
       ]
     },
     {
-      "id": 253960,
-      "title": "Human Vapor",
-      "overview": "A death on live TV. A culprit who turns to gas. Behind it, a secret project that used and discarded the vulnerable. One detective pursues the dark truth.",
-      "rating": 8.0,
-      "first_air_date": "2026-07-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/253960",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 296206,
       "title": "Agent Kim Reactivated",
       "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-      "rating": 7.7,
+      "rating": 7.4,
       "first_air_date": "2026-06-26",
       "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/296206",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 124364,
+      "title": "FROM",
+      "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
+      "rating": 8.5,
+      "first_air_date": "2022-02-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/124364",
+      "providers": [
+        "fuboTV",
+        "MGM+ Amazon Channel",
+        "MGM Plus Roku Premium Channel",
+        "MGM Plus",
+        "Philo",
+        "Spectrum On Demand"
       ]
     }
   ]
