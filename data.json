@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-07-08T13:59:01.372867Z",
+  "generated_at": "2026-07-09T14:53:05.829377Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 69346,
+      "title": "Saga of Tanya the Evil",
+      "overview": "On the front lines of the war, Tanya Degurechaff, blond hair, blue eyes, and porcelain white skin, commands her squad with lisping voice. Actually, she is one of Japan's most elite salary men, reborn as a little girl into a world of magical warfare after angering a mysterious being who calls himself God.",
+      "rating": 8.2,
+      "first_air_date": "2017-01-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5nwiHomKZBBF9DLrolfZapi3fDm.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/69346",
+      "providers": [
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
+    {
+      "id": 258348,
+      "title": "Clevatess",
+      "overview": "One of the Lords of Dark Beasts, Clevatess’s reign shatters when he revives a hero he personally slayed and adopts an orphaned humanoid baby—the last hope to save a dying world. Now bound together, what fate awaits this unlikely trio?",
+      "rating": 8.0,
+      "first_air_date": "2025-07-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1Pcp1QJS83KY25nTnL2UvJHWUVQ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/258348",
+      "providers": [
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "YouTube TV"
+      ]
+    },
+    {
+      "id": 138502,
+      "title": "X-Men '97",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "rating": 8.6,
+      "first_air_date": "2024-03-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/138502",
+      "providers": [
+        "Disney Plus"
+      ]
+    },
     {
       "id": 94997,
       "title": "House of the Dragon",
@@ -32,29 +71,16 @@
       ]
     },
     {
-      "id": 94664,
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-      "rating": 8.5,
-      "first_air_date": "2021-01-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/94664",
+      "id": 260823,
+      "title": "From Old Country Bumpkin to Master Swordsman",
+      "overview": "Beryl Gardenant, a middle-aged swordsman running a dojo in the backwaters, lives a quiet life, until Allucia, former student and Commander of the Royal Order of Knights, appears! Beryl’s life is about to change dramatically! City life. Old students. New friends and formidable foes. It’s all too much. But after years of training, he has mad skills, and he’s been dubbed “the backwater swordmaster.”",
+      "rating": 7.2,
+      "first_air_date": "2025-04-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ujQp5egkJOkDHx4TehlgHePFcRv.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/260823",
       "providers": [
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 138502,
-      "title": "X-Men '97",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "rating": 8.6,
-      "first_air_date": "2024-03-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/138502",
-      "providers": [
-        "Disney Plus"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -74,76 +100,43 @@
       ]
     },
     {
-      "id": 98177,
-      "title": "Trying",
-      "overview": "All Nikki and Jason want is a baby—the one thing they can't have. So they decide to adopt. With their dysfunctional friends, screwball families, and chaotic lives, will the adoption panel agree that they're ready to be parents?",
-      "rating": 7.6,
-      "first_air_date": "2020-05-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eHTDuZp8UtbSK1XehE59UJrgOXg.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/98177",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 124364,
-      "title": "FROM",
-      "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
+      "id": 94664,
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
       "rating": 8.5,
-      "first_air_date": "2022-02-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/124364",
-      "providers": [
-        "fuboTV",
-        "MGM+ Amazon Channel",
-        "MGM Plus Roku Premium Channel",
-        "MGM Plus",
-        "Philo",
-        "Spectrum On Demand"
-      ]
-    },
-    {
-      "id": 60625,
-      "title": "Rick and Morty",
-      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "rating": 8.7,
-      "first_air_date": "2013-12-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/60625",
+      "first_air_date": "2021-01-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/94664",
       "providers": [
         "Hulu",
-        "HBO Max Amazon Channel",
-        "YouTube TV",
-        "Adult Swim",
-        "HBO Max"
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
       ]
     },
     {
-      "id": 258348,
-      "title": "Clevatess",
-      "overview": "One of the Lords of Dark Beasts, Clevatess’s reign shatters when he revives a hero he personally slayed and adopts an orphaned humanoid baby—the last hope to save a dying world. Now bound together, what fate awaits this unlikely trio?",
-      "rating": 8.0,
-      "first_air_date": "2025-07-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1Pcp1QJS83KY25nTnL2UvJHWUVQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/258348",
+      "id": 139512,
+      "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+      "overview": "An ordinary office worker is reincarnated as Leon into a particularly punishing dating sim video game, where women reign supreme and only beautiful men have a seat at the table. But Leon has a secret weapon: he remembers everything from his past life, which includes a complete playthrough of the very game in which he is now trapped. Watch Leon spark a revolution to change this new world in order to fulfill his ultimate desire...of living a quiet, easy life in the countryside!",
+      "rating": 7.4,
+      "first_air_date": "2022-04-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zQInUzmgvT4MgysqSiW95YBkz1w.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/139512",
       "providers": [
         "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "YouTube TV"
+        "Crunchyroll Amazon Channel"
       ]
     },
     {
-      "id": 253960,
-      "title": "Human Vapor",
-      "overview": "A death on live TV. A culprit who turns to gas. Behind it, a secret project that used and discarded the vulnerable. One detective pursues the dark truth.",
-      "rating": 7.8,
-      "first_air_date": "2026-07-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/253960",
+      "id": 255358,
+      "title": "THE GHOST IN THE SHELL",
+      "overview": "2029, a near-future Japan. The full cyborg Motoko Kusanagi envisions a task force that preemptively strikes emerging threats. She and her team are scouted by Daisuke Aramaki as Public Security Section 9, AKA the \"Shell Squad.\" An international conspiracy hints at a hacker known as The \"Puppet Master.\" What fate awaits Kusanagi? What is the hacker's endgame? A new era of cyberpunk action begins!",
+      "rating": 7.7,
+      "first_air_date": "2026-07-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nUXjSyXAQZhOf32e6lkLX6C6Rf3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/255358",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     }
   ]
