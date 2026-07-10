@@ -1,45 +1,32 @@
 {
-  "generated_at": "2026-07-09T14:53:05.829377Z",
+  "generated_at": "2026-07-10T14:20:23.676983Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
-      "id": 69346,
-      "title": "Saga of Tanya the Evil",
-      "overview": "On the front lines of the war, Tanya Degurechaff, blond hair, blue eyes, and porcelain white skin, commands her squad with lisping voice. Actually, she is one of Japan's most elite salary men, reborn as a little girl into a world of magical warfare after angering a mysterious being who calls himself God.",
+      "id": 125988,
+      "title": "Silo",
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "rating": 8.2,
-      "first_air_date": "2017-01-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5nwiHomKZBBF9DLrolfZapi3fDm.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/69346",
+      "first_air_date": "2023-05-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/125988",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 296286,
+      "title": "Smoking Behind the Supermarket with You",
+      "overview": "Sasaki is an overworked salaryman drifting through the corporate grind, sustained by cigarettes and the cheerful service and smile of Yamada, the clerk at his favorite supermarket. But one night after a grueling shift, he arrives late to find Yamada nowhere to be seen. With nowhere left to smoke, his spirits sink—until a pierced young woman calls out to him: “You can smoke here.”",
+      "rating": 9.2,
+      "first_air_date": "2026-07-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gHVfuuOXPVs0ltFbOZQjxpXtSSH.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/296286",
       "providers": [
         "Crunchyroll",
         "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 258348,
-      "title": "Clevatess",
-      "overview": "One of the Lords of Dark Beasts, Clevatess’s reign shatters when he revives a hero he personally slayed and adopts an orphaned humanoid baby—the last hope to save a dying world. Now bound together, what fate awaits this unlikely trio?",
-      "rating": 8.0,
-      "first_air_date": "2025-07-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1Pcp1QJS83KY25nTnL2UvJHWUVQ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/258348",
-      "providers": [
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "YouTube TV"
-      ]
-    },
-    {
-      "id": 138502,
-      "title": "X-Men '97",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "rating": 8.6,
-      "first_air_date": "2024-03-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/138502",
-      "providers": [
-        "Disney Plus"
       ]
     },
     {
@@ -58,29 +45,16 @@
       ]
     },
     {
-      "id": 125988,
-      "title": "Silo",
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "rating": 8.2,
-      "first_air_date": "2023-05-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/125988",
+      "id": 252107,
+      "title": "Star City",
+      "overview": "Step into a thrilling chapter inspired by For All Mankind. Same alt-history universe. Different perspective: the Soviet Union's. Go behind the Iron Curtain with the cosmonauts, engineers, and intelligence officers who risked it all in the race for the Moon.",
+      "rating": 7.3,
+      "first_air_date": "2026-05-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/252107",
       "providers": [
         "Apple TV",
         "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 260823,
-      "title": "From Old Country Bumpkin to Master Swordsman",
-      "overview": "Beryl Gardenant, a middle-aged swordsman running a dojo in the backwaters, lives a quiet life, until Allucia, former student and Commander of the Royal Order of Knights, appears! Beryl’s life is about to change dramatically! City life. Old students. New friends and formidable foes. It’s all too much. But after years of training, he has mad skills, and he’s been dubbed “the backwater swordmaster.”",
-      "rating": 7.2,
-      "first_air_date": "2025-04-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ujQp5egkJOkDHx4TehlgHePFcRv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/260823",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -100,43 +74,74 @@
       ]
     },
     {
-      "id": 94664,
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-      "rating": 8.5,
-      "first_air_date": "2021-01-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/94664",
+      "id": 299167,
+      "title": "Dutton Ranch",
+      "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
+      "rating": 9.2,
+      "first_air_date": "2026-05-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/299167",
       "providers": [
-        "Hulu",
+        "fuboTV",
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Philo",
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "YouTube TV",
+        "Paramount+ Roku Premium Channel"
+      ]
+    },
+    {
+      "id": 312949,
+      "title": "Chainsmoker Cat",
+      "overview": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow, she must rethink her future.",
+      "rating": 8.7,
+      "first_air_date": "2026-07-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/312949",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 277439,
+      "title": "Cape Fear",
+      "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
+      "rating": 7.0,
+      "first_air_date": "2026-06-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/277439",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 69346,
+      "title": "Saga of Tanya the Evil",
+      "overview": "On the front lines of the war, Tanya Degurechaff, blond hair, blue eyes, and porcelain white skin, commands her squad with lisping voice. Actually, she is one of Japan's most elite salary men, reborn as a little girl into a world of magical warfare after angering a mysterious being who calls himself God.",
+      "rating": 8.2,
+      "first_air_date": "2017-01-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5nwiHomKZBBF9DLrolfZapi3fDm.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/69346",
+      "providers": [
         "Crunchyroll",
         "Crunchyroll Amazon Channel"
       ]
     },
     {
-      "id": 139512,
-      "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
-      "overview": "An ordinary office worker is reincarnated as Leon into a particularly punishing dating sim video game, where women reign supreme and only beautiful men have a seat at the table. But Leon has a secret weapon: he remembers everything from his past life, which includes a complete playthrough of the very game in which he is now trapped. Watch Leon spark a revolution to change this new world in order to fulfill his ultimate desire...of living a quiet, easy life in the countryside!",
-      "rating": 7.4,
-      "first_air_date": "2022-04-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zQInUzmgvT4MgysqSiW95YBkz1w.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/139512",
+      "id": 296206,
+      "title": "Agent Kim Reactivated",
+      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+      "rating": 7.0,
+      "first_air_date": "2026-06-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/296206",
       "providers": [
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 255358,
-      "title": "THE GHOST IN THE SHELL",
-      "overview": "2029, a near-future Japan. The full cyborg Motoko Kusanagi envisions a task force that preemptively strikes emerging threats. She and her team are scouted by Daisuke Aramaki as Public Security Section 9, AKA the \"Shell Squad.\" An international conspiracy hints at a hacker known as The \"Puppet Master.\" What fate awaits Kusanagi? What is the hacker's endgame? A new era of cyberpunk action begins!",
-      "rating": 7.7,
-      "first_air_date": "2026-07-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nUXjSyXAQZhOf32e6lkLX6C6Rf3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/255358",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
