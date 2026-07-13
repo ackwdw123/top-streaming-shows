@@ -1,59 +1,8 @@
 {
-  "generated_at": "2026-07-12T13:14:20.326701Z",
+  "generated_at": "2026-07-13T14:29:27.436758Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
-    {
-      "id": 286709,
-      "title": "The Westies",
-      "overview": "As the Javits Center construction project ignites a battle for profit in early 1980s Hell's Kitchen, a generational rift threatens the uneasy peace between violent Irish gang the Westies and the Mafia, and draws FBI heat.",
-      "rating": 7.0,
-      "first_air_date": "2026-07-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6nNxw6SsbEtSpktVEGdoYDqPH7C.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/286709",
-      "providers": [
-        "MGM Plus"
-      ]
-    },
-    {
-      "id": 125988,
-      "title": "Silo",
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "rating": 8.2,
-      "first_air_date": "2023-05-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/125988",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 296206,
-      "title": "Agent Kim Reactivated",
-      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-      "rating": 7.5,
-      "first_air_date": "2026-06-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/296206",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 283304,
-      "title": "Little House on the Prairie",
-      "overview": "The close-knit Ingalls family builds a new life on the Western frontier, where the joys of nature and the struggle for survival are deeply intertwined.",
-      "rating": 5.6,
-      "first_air_date": "2026-07-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oWUGSadxC9vQPOCeHDDVfDezmQC.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/283304",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
     {
       "id": 94997,
       "title": "House of the Dragon",
@@ -67,6 +16,19 @@
         "YouTube TV",
         "Spectrum On Demand",
         "HBO Max"
+      ]
+    },
+    {
+      "id": 286709,
+      "title": "The Westies",
+      "overview": "As the Javits Center construction project ignites a battle for profit in early 1980s Hell's Kitchen, a generational rift threatens the uneasy peace between violent Irish gang the Westies and the Mafia, and draws FBI heat.",
+      "rating": 5.9,
+      "first_air_date": "2026-07-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6nNxw6SsbEtSpktVEGdoYDqPH7C.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/286709",
+      "providers": [
+        "MGM Plus Roku Premium Channel",
+        "MGM Plus"
       ]
     },
     {
@@ -86,6 +48,35 @@
       ]
     },
     {
+      "id": 125988,
+      "title": "Silo",
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "rating": 8.2,
+      "first_air_date": "2023-05-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/125988",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 60625,
+      "title": "Rick and Morty",
+      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+      "rating": 8.7,
+      "first_air_date": "2013-12-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/60625",
+      "providers": [
+        "Hulu",
+        "HBO Max Amazon Channel",
+        "YouTube TV",
+        "Adult Swim",
+        "HBO Max"
+      ]
+    },
+    {
       "id": 94664,
       "title": "Mushoku Tensei: Jobless Reincarnation",
       "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
@@ -100,16 +91,29 @@
       ]
     },
     {
-      "id": 252107,
-      "title": "Star City",
-      "overview": "Step into a thrilling chapter inspired by For All Mankind. Same alt-history universe. Different perspective: the Soviet Union's. Go behind the Iron Curtain with the cosmonauts, engineers, and intelligence officers who risked it all in the race for the Moon.",
+      "id": 296206,
+      "title": "Agent Kim Reactivated",
+      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
       "rating": 7.5,
-      "first_air_date": "2026-05-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/252107",
+      "first_air_date": "2026-06-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/296206",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 283304,
+      "title": "Little House on the Prairie",
+      "overview": "The close-knit Ingalls family builds a new life on the Western frontier, where the joys of nature and the struggle for survival are deeply intertwined.",
+      "rating": 5.7,
+      "first_air_date": "2026-07-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oWUGSadxC9vQPOCeHDDVfDezmQC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/283304",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -130,22 +134,16 @@
       ]
     },
     {
-      "id": 299167,
-      "title": "Dutton Ranch",
-      "overview": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
-      "rating": 9.2,
-      "first_air_date": "2026-05-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/299167",
+      "id": 252107,
+      "title": "Star City",
+      "overview": "Step into a thrilling chapter inspired by For All Mankind. Same alt-history universe. Different perspective: the Soviet Union's. Go behind the Iron Curtain with the cosmonauts, engineers, and intelligence officers who risked it all in the race for the Moon.",
+      "rating": 7.5,
+      "first_air_date": "2026-05-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/252107",
       "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Philo",
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel",
-        "YouTube TV",
-        "Paramount+ Roku Premium Channel"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     }
   ]
