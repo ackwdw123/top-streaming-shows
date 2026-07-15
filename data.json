@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-07-14T13:28:22.678194Z",
+  "generated_at": "2026-07-15T13:38:34.293184Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 255358,
+      "title": "THE GHOST IN THE SHELL",
+      "overview": "2029, a near-future Japan. The full cyborg Motoko Kusanagi envisions a task force that preemptively strikes emerging threats. She and her team are scouted by Daisuke Aramaki as Public Security Section 9, AKA the \"Shell Squad.\" An international conspiracy hints at a hacker known as The \"Puppet Master.\" What fate awaits Kusanagi? What is the hacker's endgame? A new era of cyberpunk action begins!",
+      "rating": 9.0,
+      "first_air_date": "2026-07-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nUXjSyXAQZhOf32e6lkLX6C6Rf3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/255358",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
     {
       "id": 94997,
       "title": "House of the Dragon",
@@ -16,6 +29,50 @@
         "YouTube TV",
         "Spectrum On Demand",
         "HBO Max"
+      ]
+    },
+    {
+      "id": 125988,
+      "title": "Silo",
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "rating": 8.2,
+      "first_air_date": "2023-05-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/125988",
+      "providers": [
+        "Amazon Prime Video",
+        "Apple TV",
+        "Amazon Prime Video with Ads",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 296206,
+      "title": "Agent Kim Reactivated",
+      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+      "rating": 7.5,
+      "first_air_date": "2026-06-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/296206",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 37854,
+      "title": "One Piece",
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "rating": 8.7,
+      "first_air_date": "1999-10-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/37854",
+      "providers": [
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -35,16 +92,17 @@
       ]
     },
     {
-      "id": 125988,
-      "title": "Silo",
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "rating": 8.2,
-      "first_air_date": "2023-05-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/125988",
+      "id": 94664,
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+      "rating": 8.5,
+      "first_air_date": "2021-01-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/94664",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
       ]
     },
     {
@@ -65,84 +123,28 @@
       ]
     },
     {
-      "id": 37854,
-      "title": "One Piece",
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "rating": 8.7,
-      "first_air_date": "1999-10-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/37854",
+      "id": 285404,
+      "title": "Maximum Pleasure Guaranteed",
+      "overview": "A newly divorced mom falls down a dangerous rabbit hole of blackmail, murder, and youth soccer.",
+      "rating": 5.8,
+      "first_air_date": "2026-05-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/285404",
       "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
-      "id": 296206,
-      "title": "Agent Kim Reactivated",
-      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-      "rating": 7.5,
-      "first_air_date": "2026-06-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/296206",
+      "id": 138502,
+      "title": "X-Men '97",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "rating": 8.6,
+      "first_air_date": "2024-03-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/138502",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 286345,
-      "title": "Though I Am an Inept Villainess",
-      "overview": "Just as His Highness’s favored butterfly Reirin is beloved by the prince, jealous “court sewer rat” Keigetsu uses magic to swap their bodies—and their destinies. With a looming execution, Reirin embraces her new, healthy body, while Keigetsu learns Reirin’s life isn’t what it seems as she’s pulled into an inner-court conspiracy.",
-      "rating": 7.5,
-      "first_air_date": "2026-07-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dsRVinqN7kIyIOaiU3Tcv5rwijO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/286345",
-      "providers": [
-        "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 94664,
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
-      "rating": 8.5,
-      "first_air_date": "2021-01-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/94664",
-      "providers": [
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 255358,
-      "title": "THE GHOST IN THE SHELL",
-      "overview": "2029, a near-future Japan. The full cyborg Motoko Kusanagi envisions a task force that preemptively strikes emerging threats. She and her team are scouted by Daisuke Aramaki as Public Security Section 9, AKA the \"Shell Squad.\" An international conspiracy hints at a hacker known as The \"Puppet Master.\" What fate awaits Kusanagi? What is the hacker's endgame? A new era of cyberpunk action begins!",
-      "rating": 9.1,
-      "first_air_date": "2026-07-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nUXjSyXAQZhOf32e6lkLX6C6Rf3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/255358",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 283304,
-      "title": "Little House on the Prairie",
-      "overview": "The close-knit Ingalls family builds a new life on the Western frontier, where the joys of nature and the struggle for survival are deeply intertwined.",
-      "rating": 5.6,
-      "first_air_date": "2026-07-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oWUGSadxC9vQPOCeHDDVfDezmQC.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/283304",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Disney Plus"
       ]
     }
   ]
