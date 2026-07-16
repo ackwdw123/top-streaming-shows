@@ -1,34 +1,18 @@
 {
-  "generated_at": "2026-07-15T13:38:34.293184Z",
+  "generated_at": "2026-07-16T13:44:38.525345Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
-      "id": 255358,
-      "title": "THE GHOST IN THE SHELL",
-      "overview": "2029, a near-future Japan. The full cyborg Motoko Kusanagi envisions a task force that preemptively strikes emerging threats. She and her team are scouted by Daisuke Aramaki as Public Security Section 9, AKA the \"Shell Squad.\" An international conspiracy hints at a hacker known as The \"Puppet Master.\" What fate awaits Kusanagi? What is the hacker's endgame? A new era of cyberpunk action begins!",
-      "rating": 9.0,
-      "first_air_date": "2026-07-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nUXjSyXAQZhOf32e6lkLX6C6Rf3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/255358",
+      "id": 138502,
+      "title": "X-Men '97",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "rating": 8.6,
+      "first_air_date": "2024-03-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/138502",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 94997,
-      "title": "House of the Dragon",
-      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "rating": 8.4,
-      "first_air_date": "2022-08-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/94997",
-      "providers": [
-        "HBO Max Amazon Channel",
-        "YouTube TV",
-        "Spectrum On Demand",
-        "HBO Max"
+        "Disney Plus"
       ]
     },
     {
@@ -47,16 +31,30 @@
       ]
     },
     {
-      "id": 296206,
-      "title": "Agent Kim Reactivated",
-      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-      "rating": 7.5,
-      "first_air_date": "2026-06-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/296206",
+      "id": 94997,
+      "title": "House of the Dragon",
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "rating": 8.4,
+      "first_air_date": "2022-08-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/94997",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "YouTube TV",
+        "Spectrum On Demand",
+        "HBO Max"
+      ]
+    },
+    {
+      "id": 255358,
+      "title": "THE GHOST IN THE SHELL",
+      "overview": "2029, a near-future Japan. The full cyborg Motoko Kusanagi envisions a task force that preemptively strikes emerging threats. She and her team are scouted by Daisuke Aramaki as Public Security Section 9, AKA the \"Shell Squad.\" An international conspiracy hints at a hacker known as The \"Puppet Master.\" What fate awaits Kusanagi? What is the hacker's endgame? A new era of cyberpunk action begins!",
+      "rating": 9.0,
+      "first_air_date": "2026-07-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nUXjSyXAQZhOf32e6lkLX6C6Rf3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/255358",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -76,6 +74,19 @@
       ]
     },
     {
+      "id": 285404,
+      "title": "Maximum Pleasure Guaranteed",
+      "overview": "A newly divorced mom falls down a dangerous rabbit hole of blackmail, murder, and youth soccer.",
+      "rating": 5.8,
+      "first_air_date": "2026-05-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/285404",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
       "id": 60625,
       "title": "Rick and Morty",
       "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
@@ -92,6 +103,36 @@
       ]
     },
     {
+      "id": 124364,
+      "title": "FROM",
+      "overview": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
+      "rating": 8.5,
+      "first_air_date": "2022-02-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/124364",
+      "providers": [
+        "fuboTV",
+        "MGM+ Amazon Channel",
+        "Philo",
+        "MGM Plus Roku Premium Channel",
+        "MGM Plus",
+        "Spectrum On Demand"
+      ]
+    },
+    {
+      "id": 69346,
+      "title": "Saga of Tanya the Evil",
+      "overview": "On the front lines of the war, Tanya Degurechaff, blond hair, blue eyes, and porcelain white skin, commands her squad with lisping voice. Actually, she is one of Japan's most elite salary men, reborn as a little girl into a world of magical warfare after angering a mysterious being who calls himself God.",
+      "rating": 8.2,
+      "first_air_date": "2017-01-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5nwiHomKZBBF9DLrolfZapi3fDm.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/69346",
+      "providers": [
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
+    {
       "id": 94664,
       "title": "Mushoku Tensei: Jobless Reincarnation",
       "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
@@ -103,48 +144,6 @@
         "Hulu",
         "Crunchyroll",
         "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 286709,
-      "title": "The Westies",
-      "overview": "As the Javits Center construction project ignites a battle for profit in early 1980s Hell's Kitchen, a generational rift threatens the uneasy peace between violent Irish gang the Westies and the Mafia, and draws FBI heat.",
-      "rating": 6.0,
-      "first_air_date": "2026-07-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6nNxw6SsbEtSpktVEGdoYDqPH7C.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/286709",
-      "providers": [
-        "fuboTV",
-        "MGM+ Amazon Channel",
-        "Philo",
-        "MGM Plus Roku Premium Channel",
-        "MGM Plus",
-        "Spectrum On Demand"
-      ]
-    },
-    {
-      "id": 285404,
-      "title": "Maximum Pleasure Guaranteed",
-      "overview": "A newly divorced mom falls down a dangerous rabbit hole of blackmail, murder, and youth soccer.",
-      "rating": 5.8,
-      "first_air_date": "2026-05-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/285404",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 138502,
-      "title": "X-Men '97",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "rating": 8.6,
-      "first_air_date": "2024-03-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/138502",
-      "providers": [
-        "Disney Plus"
       ]
     }
   ]
