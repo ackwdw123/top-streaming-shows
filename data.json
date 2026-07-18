@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T13:22:28.663573Z",
+  "generated_at": "2026-07-18T13:08:18.344346Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -7,9 +7,9 @@
       "id": 278624,
       "title": "Lucky",
       "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-      "rating": 5.6,
+      "rating": 6.2,
       "first_air_date": "2026-07-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qdobPy3No4Fi3dCzcIDP9n8AjcO.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/278624",
       "providers": [
         "Apple TV",
@@ -32,16 +32,16 @@
       ]
     },
     {
-      "id": 241882,
-      "title": "Ride or Die",
-      "overview": "Best friends, Judith and Debbie, know everything about each other … well, almost everything. Judith has been living a double life that Debbie knows nothing about: she is a highly trained assassin. When a hit goes horribly wrong, Judith and Debbie must go on the run together and work to repair their broken friendship—all while being targeted by a mysterious enemy who wants them dead. And only together, can they solve this layered mystery.",
-      "rating": 3.8,
-      "first_air_date": "2026-07-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uWqEnvpwa2U28QheMdUdEcr4U0M.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/241882",
+      "id": 296206,
+      "title": "Agent Kim Reactivated",
+      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+      "rating": 7.3,
+      "first_air_date": "2026-06-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/296206",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -56,19 +56,6 @@
         "YouTube TV",
         "Spectrum On Demand",
         "HBO Max"
-      ]
-    },
-    {
-      "id": 296206,
-      "title": "Agent Kim Reactivated",
-      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-      "rating": 7.5,
-      "first_air_date": "2026-06-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/296206",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     },
     {
@@ -101,6 +88,20 @@
       ]
     },
     {
+      "id": 222623,
+      "title": "The Elusive Samurai",
+      "overview": "Set between the Kamakura and Muromachi periods, during the Kenmu Restoration, the story follows the tale of Hojo Tokiyuki, a boy on the run after his family is overthrown by Ashikaga Takauji. With his only allies being a shady priest and his followers, the young lord must seek revenge and regain his glory, with his only weapon: a superhuman ability to flee and hide.",
+      "rating": 7.8,
+      "first_air_date": "2024-07-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wVJjyUbns2USXo1bolF2vGanvf6.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/222623",
+      "providers": [
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "YouTube TV"
+      ]
+    },
+    {
       "id": 60625,
       "title": "Rick and Morty",
       "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
@@ -117,6 +118,19 @@
       ]
     },
     {
+      "id": 241882,
+      "title": "Ride or Die",
+      "overview": "Best friends, Judith and Debbie, know everything about each other … well, almost everything. Judith has been living a double life that Debbie knows nothing about: she is a highly trained assassin. When a hit goes horribly wrong, Judith and Debbie must go on the run together and work to repair their broken friendship—all while being targeted by a mysterious enemy who wants them dead. And only together, can they solve this layered mystery.",
+      "rating": 4.2,
+      "first_air_date": "2026-07-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uWqEnvpwa2U28QheMdUdEcr4U0M.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/241882",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
       "id": 312949,
       "title": "Chainsmoker Cat",
       "overview": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow, she must rethink her future.",
@@ -127,18 +141,6 @@
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 138502,
-      "title": "X-Men '97",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "rating": 8.6,
-      "first_air_date": "2024-03-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/138502",
-      "providers": [
-        "Disney Plus"
       ]
     }
   ]
