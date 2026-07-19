@@ -1,15 +1,41 @@
 {
-  "generated_at": "2026-07-18T13:08:18.344346Z",
+  "generated_at": "2026-07-19T13:12:35.919802Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
+      "id": 279323,
+      "title": "The East Palace",
+      "overview": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders — can they unravel its dark secrets?",
+      "rating": 7.7,
+      "first_air_date": "2026-07-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/279323",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 296206,
+      "title": "Agent Kim Reactivated",
+      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+      "rating": 7.6,
+      "first_air_date": "2026-06-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/296206",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 278624,
       "title": "Lucky",
       "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-      "rating": 6.2,
+      "rating": 6.4,
       "first_air_date": "2026-07-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qdobPy3No4Fi3dCzcIDP9n8AjcO.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/278624",
       "providers": [
         "Apple TV",
@@ -32,19 +58,6 @@
       ]
     },
     {
-      "id": 296206,
-      "title": "Agent Kim Reactivated",
-      "overview": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-      "rating": 7.3,
-      "first_air_date": "2026-06-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/296206",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 94997,
       "title": "House of the Dragon",
       "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
@@ -59,16 +72,16 @@
       ]
     },
     {
-      "id": 277439,
-      "title": "Cape Fear",
-      "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
-      "rating": 7.0,
-      "first_air_date": "2026-06-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/277439",
+      "id": 241882,
+      "title": "Ride or Die",
+      "overview": "Best friends, Judith and Debbie, know everything about each other … well, almost everything. Judith has been living a double life that Debbie knows nothing about: she is a highly trained assassin. When a hit goes horribly wrong, Judith and Debbie must go on the run together and work to repair their broken friendship—all while being targeted by a mysterious enemy who wants them dead. And only together, can they solve this layered mystery.",
+      "rating": 4.7,
+      "first_air_date": "2026-07-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uWqEnvpwa2U28QheMdUdEcr4U0M.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/241882",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -88,17 +101,16 @@
       ]
     },
     {
-      "id": 222623,
-      "title": "The Elusive Samurai",
-      "overview": "Set between the Kamakura and Muromachi periods, during the Kenmu Restoration, the story follows the tale of Hojo Tokiyuki, a boy on the run after his family is overthrown by Ashikaga Takauji. With his only allies being a shady priest and his followers, the young lord must seek revenge and regain his glory, with his only weapon: a superhuman ability to flee and hide.",
-      "rating": 7.8,
-      "first_air_date": "2024-07-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wVJjyUbns2USXo1bolF2vGanvf6.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/222623",
+      "id": 254528,
+      "title": "The Hawk",
+      "overview": "On the back nine of his career, golf legend Lonnie \"The Hawk\" Hawkins chases one final major — and drags everyone he loves into the chaos.",
+      "rating": 4.5,
+      "first_air_date": "2026-07-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6XCbqv7t0rYE2U1jzjh52fBxczj.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/254528",
       "providers": [
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "YouTube TV"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -118,26 +130,13 @@
       ]
     },
     {
-      "id": 241882,
-      "title": "Ride or Die",
-      "overview": "Best friends, Judith and Debbie, know everything about each other … well, almost everything. Judith has been living a double life that Debbie knows nothing about: she is a highly trained assassin. When a hit goes horribly wrong, Judith and Debbie must go on the run together and work to repair their broken friendship—all while being targeted by a mysterious enemy who wants them dead. And only together, can they solve this layered mystery.",
-      "rating": 4.2,
-      "first_air_date": "2026-07-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uWqEnvpwa2U28QheMdUdEcr4U0M.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/241882",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 312949,
-      "title": "Chainsmoker Cat",
-      "overview": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow, she must rethink her future.",
-      "rating": 8.7,
-      "first_air_date": "2026-07-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/312949",
+      "id": 288671,
+      "title": "The Map of Longing",
+      "overview": "Before her death, Lucy creates a game for her sister, Greta, pushing her into a journey of self-discovery — and toward the charming Will Tucker.",
+      "rating": 7.0,
+      "first_air_date": "2026-07-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wcgjZ7koqOYDcKUn6DmnNolqmUS.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/288671",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
