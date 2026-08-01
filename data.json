@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-07-31T13:59:10.955736Z",
+  "generated_at": "2026-08-01T13:14:04.395605Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 125909,
+      "title": "Batman: Caped Crusader",
+      "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
+      "rating": 7.3,
+      "first_air_date": "2024-08-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/125909",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 277439,
+      "title": "Cape Fear",
+      "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
+      "rating": 7.2,
+      "first_air_date": "2026-06-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/277439",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
     {
       "id": 125988,
       "title": "Silo",
@@ -19,19 +45,6 @@
       ]
     },
     {
-      "id": 125909,
-      "title": "Batman: Caped Crusader",
-      "overview": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
-      "rating": 7.2,
-      "first_air_date": "2024-08-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zCHmmoqtLsIsou866osiWtIWmoA.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/125909",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
       "id": 287620,
       "title": "Stuart Fails to Save the Universe",
       "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
@@ -45,47 +58,16 @@
       ]
     },
     {
-      "id": 103516,
-      "title": "Star Trek: Strange New Worlds",
-      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
-      "rating": 7.9,
-      "first_air_date": "2022-05-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/103516",
+      "id": 215072,
+      "title": "A Shop for Killers",
+      "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+      "rating": 8.3,
+      "first_air_date": "2024-01-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/215072",
       "providers": [
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel"
-      ]
-    },
-    {
-      "id": 277439,
-      "title": "Cape Fear",
-      "overview": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
-      "rating": 7.1,
-      "first_air_date": "2026-06-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/277439",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 94997,
-      "title": "House of the Dragon",
-      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "rating": 8.4,
-      "first_air_date": "2022-08-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/94997",
-      "providers": [
-        "HBO Max Amazon Channel",
-        "YouTube TV",
-        "Spectrum On Demand",
-        "HBO Max"
+        "Disney Plus",
+        "Hulu"
       ]
     },
     {
@@ -101,16 +83,32 @@
       ]
     },
     {
-      "id": 278624,
-      "title": "Lucky",
-      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-      "rating": 7.2,
-      "first_air_date": "2026-07-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/278624",
+      "id": 203744,
+      "title": "Sugar",
+      "overview": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
+      "rating": 7.1,
+      "first_air_date": "2024-04-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/203744",
       "providers": [
         "Apple TV",
         "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 60625,
+      "title": "Rick and Morty",
+      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+      "rating": 8.7,
+      "first_air_date": "2013-12-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/60625",
+      "providers": [
+        "Hulu",
+        "HBO Max Amazon Channel",
+        "YouTube TV",
+        "Adult Swim",
+        "HBO Max"
       ]
     },
     {
@@ -130,16 +128,18 @@
       ]
     },
     {
-      "id": 215072,
-      "title": "A Shop for Killers",
-      "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
-      "rating": 8.3,
-      "first_air_date": "2024-01-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/215072",
+      "id": 94997,
+      "title": "House of the Dragon",
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "rating": 8.4,
+      "first_air_date": "2022-08-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/94997",
       "providers": [
-        "Disney Plus",
-        "Hulu"
+        "HBO Max Amazon Channel",
+        "YouTube TV",
+        "Spectrum On Demand",
+        "HBO Max"
       ]
     }
   ]
