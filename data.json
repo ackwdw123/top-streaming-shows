@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-08-04T14:04:17.876152Z",
+  "generated_at": "2026-08-05T14:02:26.511783Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 97546,
+      "title": "Ted Lasso",
+      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "rating": 8.3,
+      "first_air_date": "2020-08-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/97546",
+      "providers": [
+        "Apple TV",
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads",
+        "Apple TV Amazon Channel"
+      ]
+    },
     {
       "id": 615,
       "title": "Futurama",
@@ -16,6 +31,19 @@
         "fuboTV",
         "YouTube TV",
         "FXNow"
+      ]
+    },
+    {
+      "id": 278624,
+      "title": "Lucky",
+      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+      "rating": 7.4,
+      "first_air_date": "2026-07-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/278624",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -54,6 +82,19 @@
       ]
     },
     {
+      "id": 207333,
+      "title": "One Hundred Years of Solitude",
+      "overview": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
+      "rating": 7.9,
+      "first_air_date": "2024-12-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fvEhTiNg2ICs0wXTGKuKoIGhLGe.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/207333",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 37854,
       "title": "One Piece",
       "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
@@ -70,6 +111,18 @@
       ]
     },
     {
+      "id": 138502,
+      "title": "X-Men '97",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "rating": 8.7,
+      "first_air_date": "2024-03-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/138502",
+      "providers": [
+        "Disney Plus"
+      ]
+    },
+    {
       "id": 125988,
       "title": "Silo",
       "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
@@ -78,78 +131,23 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/125988",
       "providers": [
-        "Amazon Prime Video",
         "Apple TV",
+        "Amazon Prime Video",
         "Amazon Prime Video with Ads",
         "Apple TV Amazon Channel"
       ]
     },
     {
-      "id": 30984,
-      "title": "Bleach",
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "id": 215072,
+      "title": "A Shop for Killers",
+      "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
       "rating": 8.4,
-      "first_air_date": "2004-10-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/30984",
+      "first_air_date": "2024-01-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/215072",
       "providers": [
+        "Disney Plus",
         "Hulu"
-      ]
-    },
-    {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "rating": 8.3,
-      "first_air_date": "2020-08-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/97546",
-      "providers": [
-        "Apple TV",
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 296756,
-      "title": "President Curtis",
-      "overview": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
-      "rating": 5.2,
-      "first_air_date": "2026-07-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/296756",
-      "providers": [
-        "HBO Max Amazon Channel",
-        "HBO Max"
-      ]
-    },
-    {
-      "id": 287238,
-      "title": "Furious",
-      "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
-      "rating": 6.7,
-      "first_air_date": "2026-07-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/287238",
-      "providers": [
-        "Hulu"
-      ]
-    },
-    {
-      "id": 60625,
-      "title": "Rick and Morty",
-      "overview": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-      "rating": 8.7,
-      "first_air_date": "2013-12-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/60625",
-      "providers": [
-        "Hulu",
-        "HBO Max Amazon Channel",
-        "YouTube TV",
-        "Adult Swim",
-        "HBO Max"
       ]
     }
   ]
