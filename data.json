@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T13:00:58.617544Z",
+  "generated_at": "2026-08-11T12:57:14.532033Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -39,21 +39,6 @@
       ]
     },
     {
-      "id": 125988,
-      "title": "Silo",
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "rating": 8.2,
-      "first_air_date": "2023-05-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/125988",
-      "providers": [
-        "Apple TV",
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
       "id": 615,
       "title": "Futurama",
       "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
@@ -69,10 +54,25 @@
       ]
     },
     {
+      "id": 97546,
+      "title": "Ted Lasso",
+      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "rating": 8.3,
+      "first_air_date": "2020-08-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/97546",
+      "providers": [
+        "Apple TV",
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
       "id": 291496,
       "title": "Our Sticky Love",
       "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
-      "rating": 7.7,
+      "rating": 7.8,
       "first_air_date": "2026-08-07",
       "poster_url": "https://image.tmdb.org/t/p/w500/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/291496",
@@ -98,56 +98,55 @@
       ]
     },
     {
-      "id": 30984,
-      "title": "Bleach",
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "rating": 8.4,
-      "first_air_date": "2004-10-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/30984",
+      "id": 283297,
+      "title": "Sterling Point",
+      "overview": "After discovering she's inherited a remote island in Canada from the estranged grandfather she was never allowed to meet, 17-year-old Annie Jacobson decides to investigate, pulling her into a world of buried secrets, unexpected sisterhood, and the complicated family history she was never meant to find.",
+      "rating": 7.7,
+      "first_air_date": "2026-08-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/283297",
       "providers": [
-        "Hulu"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
-      "id": 203744,
-      "title": "Sugar",
-      "overview": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
-      "rating": 7.2,
-      "first_air_date": "2024-04-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/203744",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 300954,
-      "title": "The Husband",
-      "overview": "Taeju and Seyun are on the verge of divorce. But when a drunken comment from Taeju gets Seyun kidnapped, everything changes. Even worse, he's now the prime suspect. Forced to go on the run, Taeju must rescue his wife on his own. To save her, he pushes himself to the absolute limit.",
-      "rating": 7.4,
-      "first_air_date": "2026-07-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/z74qJEf1MRsEEIKFgbeyBAHmJXg.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/300954",
-      "providers": [
-        "Disney Plus",
-        "Hulu"
-      ]
-    },
-    {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "rating": 8.3,
-      "first_air_date": "2020-08-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/97546",
+      "id": 125988,
+      "title": "Silo",
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "rating": 8.2,
+      "first_air_date": "2023-05-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/125988",
       "providers": [
         "Apple TV",
         "Amazon Prime Video",
         "Amazon Prime Video with Ads",
         "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 271016,
+      "title": "Mystic Nine",
+      "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+      "rating": 6.2,
+      "first_air_date": "2026-07-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/271016",
+      "providers": [
+        "Rakuten Viki"
+      ]
+    },
+    {
+      "id": 287238,
+      "title": "Furious",
+      "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+      "rating": 6.5,
+      "first_air_date": "2026-07-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/287238",
+      "providers": [
+        "Hulu"
       ]
     }
   ]
