@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T13:02:31.791615Z",
+  "generated_at": "2026-08-13T13:03:35.239685Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -17,21 +17,6 @@
       ]
     },
     {
-      "id": 94997,
-      "title": "House of the Dragon",
-      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "rating": 8.4,
-      "first_air_date": "2022-08-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/94997",
-      "providers": [
-        "HBO Max Amazon Channel",
-        "YouTube TV",
-        "Spectrum On Demand",
-        "HBO Max"
-      ]
-    },
-    {
       "id": 215072,
       "title": "A Shop for Killers",
       "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
@@ -42,6 +27,32 @@
       "providers": [
         "Disney Plus",
         "Hulu"
+      ]
+    },
+    {
+      "id": 138502,
+      "title": "X-Men '97",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "rating": 8.7,
+      "first_air_date": "2024-03-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/138502",
+      "providers": [
+        "Disney Plus"
+      ]
+    },
+    {
+      "id": 94997,
+      "title": "House of the Dragon",
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "rating": 8.4,
+      "first_air_date": "2022-08-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/94997",
+      "providers": [
+        "HBO Max Amazon Channel",
+        "Spectrum On Demand",
+        "HBO Max"
       ]
     },
     {
@@ -60,10 +71,24 @@
       ]
     },
     {
+      "id": 65942,
+      "title": "Re:ZERO -Starting Life in Another World-",
+      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+      "rating": 8.0,
+      "first_air_date": "2016-04-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/65942",
+      "providers": [
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
+    {
       "id": 278624,
       "title": "Lucky",
       "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-      "rating": 7.3,
+      "rating": 7.4,
       "first_air_date": "2026-07-14",
       "poster_url": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/278624",
@@ -73,28 +98,17 @@
       ]
     },
     {
-      "id": 138502,
-      "title": "X-Men '97",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "rating": 8.7,
-      "first_air_date": "2024-03-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/138502",
+      "id": 298168,
+      "title": "The Shards",
+      "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
+      "rating": 8.1,
+      "first_air_date": "2026-08-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/298168",
       "providers": [
-        "Disney Plus"
-      ]
-    },
-    {
-      "id": 253983,
-      "title": "Women in Blue",
-      "overview": "In 1971, four women defy ultraconservative norms and join Mexico's first female police force—only to discover that it's a publicity stunt to distract the media from a serial killer. As the body count grows, they make a pact to bring the killer to justice.",
-      "rating": 7.4,
-      "first_air_date": "2024-07-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yyFmTJYoeMfeF16EXBEj5HYn2Xj.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/253983",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Hulu",
+        "fuboTV",
+        "YouTube TV"
       ]
     },
     {
@@ -113,36 +127,16 @@
       ]
     },
     {
-      "id": 113962,
-      "title": "Lioness",
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "rating": 8.0,
-      "first_air_date": "2023-07-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/113962",
+      "id": 253983,
+      "title": "Women in Blue",
+      "overview": "In 1971, four women defy ultraconservative norms and join Mexico's first female police force—only to discover that it's a publicity stunt to distract the media from a serial killer. As the body count grows, they make a pact to bring the killer to justice.",
+      "rating": 7.0,
+      "first_air_date": "2024-07-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5JMYd2jYZGQ0KKcSQ8MH6k49XnF.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/253983",
       "providers": [
-        "Amazon Prime Video",
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV Channel ",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel",
-        "Spectrum On Demand",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 291496,
-      "title": "Our Sticky Love",
-      "overview": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
-      "rating": 7.8,
-      "first_air_date": "2026-08-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/291496",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     }
   ]
