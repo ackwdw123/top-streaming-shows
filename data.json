@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T13:03:35.239685Z",
+  "generated_at": "2026-08-14T12:59:42.513387Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -14,101 +14,6 @@
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 215072,
-      "title": "A Shop for Killers",
-      "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
-      "rating": 8.4,
-      "first_air_date": "2024-01-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/215072",
-      "providers": [
-        "Disney Plus",
-        "Hulu"
-      ]
-    },
-    {
-      "id": 138502,
-      "title": "X-Men '97",
-      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-      "rating": 8.7,
-      "first_air_date": "2024-03-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/138502",
-      "providers": [
-        "Disney Plus"
-      ]
-    },
-    {
-      "id": 94997,
-      "title": "House of the Dragon",
-      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "rating": 8.4,
-      "first_air_date": "2022-08-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/94997",
-      "providers": [
-        "HBO Max Amazon Channel",
-        "Spectrum On Demand",
-        "HBO Max"
-      ]
-    },
-    {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "rating": 8.3,
-      "first_air_date": "2020-08-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/97546",
-      "providers": [
-        "Amazon Prime Video",
-        "Apple TV",
-        "Amazon Prime Video with Ads",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 65942,
-      "title": "Re:ZERO -Starting Life in Another World-",
-      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-      "rating": 8.0,
-      "first_air_date": "2016-04-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/65942",
-      "providers": [
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 278624,
-      "title": "Lucky",
-      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-      "rating": 7.4,
-      "first_air_date": "2026-07-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/278624",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 298168,
-      "title": "The Shards",
-      "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
-      "rating": 8.1,
-      "first_air_date": "2026-08-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/298168",
-      "providers": [
-        "Hulu",
-        "fuboTV",
-        "YouTube TV"
       ]
     },
     {
@@ -127,16 +32,111 @@
       ]
     },
     {
-      "id": 253983,
-      "title": "Women in Blue",
-      "overview": "In 1971, four women defy ultraconservative norms and join Mexico's first female police force—only to discover that it's a publicity stunt to distract the media from a serial killer. As the body count grows, they make a pact to bring the killer to justice.",
-      "rating": 7.0,
-      "first_air_date": "2024-07-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5JMYd2jYZGQ0KKcSQ8MH6k49XnF.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/253983",
+      "id": 94997,
+      "title": "House of the Dragon",
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "rating": 8.4,
+      "first_air_date": "2022-08-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/94997",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "HBO Max Amazon Channel",
+        "Spectrum On Demand",
+        "HBO Max"
+      ]
+    },
+    {
+      "id": 123542,
+      "title": "LINK CLICK",
+      "overview": "Using superpowers to enter their clientele’s photos one by one, Cheng Xiaoshi and Lu Guang take their work seriously at “Time Photo Studio,” a small photography shop set in the backdrop of a modern metropolis. Each job can be full of danger, but nothing is more important than fulfilling every order, no matter the scale…or peril involved!",
+      "rating": 8.2,
+      "first_air_date": "2021-04-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hCt2bLRGTCjHGqtV5FP3Img6w1h.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/123542",
+      "providers": [
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
+    {
+      "id": 215072,
+      "title": "A Shop for Killers",
+      "overview": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+      "rating": 8.4,
+      "first_air_date": "2024-01-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/215072",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
+    {
+      "id": 247522,
+      "title": "Tires",
+      "overview": "At his father's auto shop, a hapless manager strives to improve customer service and drive profits while keeping his troublemaking cousin in line.",
+      "rating": 6.5,
+      "first_air_date": "2024-05-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cNHTFUV39qyEsm7edSaJdSqJYtJ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/247522",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 138502,
+      "title": "X-Men '97",
+      "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "rating": 8.7,
+      "first_air_date": "2024-03-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/138502",
+      "providers": [
+        "Disney Plus"
+      ]
+    },
+    {
+      "id": 298168,
+      "title": "The Shards",
+      "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
+      "rating": 8.0,
+      "first_air_date": "2026-08-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/298168",
+      "providers": [
+        "Hulu",
+        "fuboTV",
+        "YouTube TV"
+      ]
+    },
+    {
+      "id": 103516,
+      "title": "Star Trek: Strange New Worlds",
+      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "rating": 7.9,
+      "first_air_date": "2022-05-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/103516",
+      "providers": [
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount Plus Apple TV Channel ",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel"
+      ]
+    },
+    {
+      "id": 287620,
+      "title": "Stuart Fails to Save the Universe",
+      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "rating": 9.1,
+      "first_air_date": "2026-07-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rZLmNNoQKfmfedsckkTqMy7F2ti.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/287620",
+      "providers": [
+        "HBO Max Amazon Channel",
+        "HBO Max"
       ]
     }
   ]
