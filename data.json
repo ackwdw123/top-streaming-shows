@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T12:59:42.513387Z",
+  "generated_at": "2026-08-15T12:31:38.003035Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -25,9 +25,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/125988",
       "providers": [
-        "Amazon Prime Video",
         "Apple TV",
-        "Amazon Prime Video with Ads",
         "Apple TV Amazon Channel"
       ]
     },
@@ -42,6 +40,19 @@
       "providers": [
         "HBO Max Amazon Channel",
         "Spectrum On Demand",
+        "HBO Max"
+      ]
+    },
+    {
+      "id": 287620,
+      "title": "Stuart Fails to Save the Universe",
+      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "rating": 9.1,
+      "first_air_date": "2026-07-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rZLmNNoQKfmfedsckkTqMy7F2ti.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/287620",
+      "providers": [
+        "HBO Max Amazon Channel",
         "HBO Max"
       ]
     },
@@ -72,16 +83,27 @@
       ]
     },
     {
-      "id": 247522,
-      "title": "Tires",
-      "overview": "At his father's auto shop, a hapless manager strives to improve customer service and drive profits while keeping his troublemaking cousin in line.",
-      "rating": 6.5,
-      "first_air_date": "2024-05-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cNHTFUV39qyEsm7edSaJdSqJYtJ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/247522",
+      "id": 309798,
+      "title": "My Brilliant Career",
+      "overview": "Restless, razor-sharp, and refusing to conform, Sybylla is dead set on writing her own story in an era that expects her to find a man and settle down.",
+      "rating": 3.8,
+      "first_air_date": "2026-08-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fhpa8B6USatHybK04XBbPAB6Mlz.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/309798",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Netflix"
+      ]
+    },
+    {
+      "id": 271016,
+      "title": "Mystic Nine",
+      "overview": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+      "rating": 6.8,
+      "first_air_date": "2026-07-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/Q9u5ZSrthOuwkULV41VUqE8vRV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/271016",
+      "providers": [
+        "Rakuten Viki"
       ]
     },
     {
@@ -97,46 +119,23 @@
       ]
     },
     {
-      "id": 298168,
-      "title": "The Shards",
-      "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
-      "rating": 8.0,
-      "first_air_date": "2026-08-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/298168",
+      "id": 113962,
+      "title": "Lioness",
+      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "rating": 8.1,
+      "first_air_date": "2023-07-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/113962",
       "providers": [
-        "Hulu",
+        "Amazon Prime Video",
         "fuboTV",
-        "YouTube TV"
-      ]
-    },
-    {
-      "id": 103516,
-      "title": "Star Trek: Strange New Worlds",
-      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
-      "rating": 7.9,
-      "first_air_date": "2022-05-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/103516",
-      "providers": [
         "Paramount Plus Premium",
         "Paramount Plus Essential",
         "Paramount Plus Apple TV Channel ",
         "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel"
-      ]
-    },
-    {
-      "id": 287620,
-      "title": "Stuart Fails to Save the Universe",
-      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-      "rating": 9.1,
-      "first_air_date": "2026-07-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rZLmNNoQKfmfedsckkTqMy7F2ti.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/287620",
-      "providers": [
-        "HBO Max Amazon Channel",
-        "HBO Max"
+        "Paramount+ Roku Premium Channel",
+        "Spectrum On Demand",
+        "Amazon Prime Video with Ads"
       ]
     }
   ]
