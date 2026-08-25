@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T12:42:42.149005Z",
+  "generated_at": "2026-08-25T12:41:13.200935Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -14,6 +14,19 @@
       "providers": [
         "HBO Max Amazon Channel",
         "HBO Max"
+      ]
+    },
+    {
+      "id": 125988,
+      "title": "Silo",
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "rating": 8.2,
+      "first_air_date": "2023-05-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/125988",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -58,6 +71,20 @@
       ]
     },
     {
+      "id": 94997,
+      "title": "House of the Dragon",
+      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "rating": 8.4,
+      "first_air_date": "2022-08-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/94997",
+      "providers": [
+        "HBO Max Amazon Channel",
+        "Spectrum On Demand",
+        "HBO Max"
+      ]
+    },
+    {
       "id": 113962,
       "title": "Lioness",
       "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
@@ -78,68 +105,54 @@
       ]
     },
     {
-      "id": 287238,
-      "title": "Furious",
-      "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
-      "rating": 7.1,
-      "first_air_date": "2026-07-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/287238",
-      "providers": [
-        "Hulu"
-      ]
-    },
-    {
-      "id": 125988,
-      "title": "Silo",
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "rating": 8.2,
-      "first_air_date": "2023-05-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/125988",
+      "id": 278624,
+      "title": "Lucky",
+      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+      "rating": 7.3,
+      "first_air_date": "2026-07-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/278624",
       "providers": [
         "Apple TV",
         "Apple TV Amazon Channel"
       ]
     },
     {
-      "id": 94997,
-      "title": "House of the Dragon",
-      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+      "id": 615,
+      "title": "Futurama",
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
       "rating": 8.4,
-      "first_air_date": "2022-08-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/94997",
+      "first_air_date": "1999-03-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/615",
       "providers": [
-        "HBO Max Amazon Channel",
+        "Hulu",
+        "fuboTV",
+        "YouTube TV",
+        "FXNow"
+      ]
+    },
+    {
+      "id": 194583,
+      "title": "The Walking Dead: Dead City",
+      "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
+      "rating": 7.9,
+      "first_air_date": "2023-06-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/194583",
+      "providers": [
+        "Netflix",
+        "Amazon Prime Video",
+        "Philo",
+        "AMC Plus Apple TV channel",
+        "AMC+ Amazon Channel",
+        "AMC+ Roku Premium Channel",
+        "AMC+",
+        "YouTube TV",
+        "AMC",
         "Spectrum On Demand",
-        "HBO Max"
-      ]
-    },
-    {
-      "id": 100757,
-      "title": "Outer Banks",
-      "overview": "On a North Carolina island of haves and have-nots, John B and his tight-knit crew of friends find mystery and adventure while hunting for lost treasure.",
-      "rating": 8.2,
-      "first_air_date": "2020-04-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/100757",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 298610,
-      "title": "Spooky in Love",
-      "overview": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
-      "rating": 8.8,
-      "first_air_date": "2026-07-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/298610",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Netflix Standard with Ads",
+        "Amazon Prime Video with Ads"
       ]
     }
   ]
