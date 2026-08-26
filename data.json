@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-08-25T12:41:13.200935Z",
+  "generated_at": "2026-08-26T12:45:15.462930Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 108978,
+      "title": "Reacher",
+      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "rating": 8.1,
+      "first_air_date": "2022-02-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/108978",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
     {
       "id": 95350,
       "title": "Lanterns",
@@ -17,15 +30,17 @@
       ]
     },
     {
-      "id": 125988,
-      "title": "Silo",
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "rating": 8.2,
-      "first_air_date": "2023-05-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/125988",
+      "id": 97546,
+      "title": "Ted Lasso",
+      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "rating": 8.4,
+      "first_air_date": "2020-08-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/97546",
       "providers": [
+        "Amazon Prime Video",
         "Apple TV",
+        "Amazon Prime Video with Ads",
         "Apple TV Amazon Channel"
       ]
     },
@@ -42,16 +57,16 @@
       ]
     },
     {
-      "id": 108978,
-      "title": "Reacher",
-      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "rating": 8.1,
-      "first_air_date": "2022-02-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/108978",
+      "id": 125988,
+      "title": "Silo",
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "rating": 8.2,
+      "first_air_date": "2023-05-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/125988",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -68,20 +83,6 @@
         "Crunchyroll",
         "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 94997,
-      "title": "House of the Dragon",
-      "overview": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
-      "rating": 8.4,
-      "first_air_date": "2022-08-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/94997",
-      "providers": [
-        "HBO Max Amazon Channel",
-        "Spectrum On Demand",
-        "HBO Max"
       ]
     },
     {
@@ -105,16 +106,15 @@
       ]
     },
     {
-      "id": 278624,
-      "title": "Lucky",
-      "overview": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
-      "rating": 7.3,
-      "first_air_date": "2026-07-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/278624",
+      "id": 287238,
+      "title": "Furious",
+      "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+      "rating": 7.1,
+      "first_air_date": "2026-07-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/287238",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Hulu"
       ]
     },
     {
@@ -133,26 +133,16 @@
       ]
     },
     {
-      "id": 194583,
-      "title": "The Walking Dead: Dead City",
-      "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
-      "rating": 7.9,
-      "first_air_date": "2023-06-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/194583",
+      "id": 207333,
+      "title": "One Hundred Years of Solitude",
+      "overview": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
+      "rating": 8.0,
+      "first_air_date": "2024-12-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9zrvktj9JYQwQxZD4lAySfcYlmI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/207333",
       "providers": [
         "Netflix",
-        "Amazon Prime Video",
-        "Philo",
-        "AMC Plus Apple TV channel",
-        "AMC+ Amazon Channel",
-        "AMC+ Roku Premium Channel",
-        "AMC+",
-        "YouTube TV",
-        "AMC",
-        "Spectrum On Demand",
-        "Netflix Standard with Ads",
-        "Amazon Prime Video with Ads"
+        "Netflix Standard with Ads"
       ]
     }
   ]
