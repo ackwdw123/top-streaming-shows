@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T12:45:15.462930Z",
+  "generated_at": "2026-08-27T21:44:36.731773Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -30,6 +30,19 @@
       ]
     },
     {
+      "id": 246246,
+      "title": "Beauty in Black",
+      "overview": "A stripper's fate takes a turn when she crosses paths with the wealthy, dysfunctional family behind a cosmetics dynasty and a devious trafficking scheme.",
+      "rating": 8.2,
+      "first_air_date": "2024-10-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xKk4bFCCpZ9tvjUykvvMYLSBnjo.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/246246",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 97546,
       "title": "Ted Lasso",
       "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
@@ -45,15 +58,16 @@
       ]
     },
     {
-      "id": 30984,
-      "title": "Bleach",
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "rating": 8.4,
-      "first_air_date": "2004-10-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/30984",
+      "id": 252751,
+      "title": "Leanne",
+      "overview": "When her husband leaves her for another woman, a resilient Southern mom starts over with the support of her loving, but unfiltered family.",
+      "rating": 7.1,
+      "first_air_date": "2025-07-31",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sILKrYhFK6bedXgDggQD3GmGUUV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/252751",
       "providers": [
-        "Hulu"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -70,79 +84,61 @@
       ]
     },
     {
-      "id": 37854,
-      "title": "One Piece",
-      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "rating": 8.8,
-      "first_air_date": "1999-10-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/37854",
+      "id": 103516,
+      "title": "Star Trek: Strange New Worlds",
+      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "rating": 7.9,
+      "first_air_date": "2022-05-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/103516",
       "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 113962,
-      "title": "Lioness",
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "rating": 8.1,
-      "first_air_date": "2023-07-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/113962",
-      "providers": [
-        "Amazon Prime Video",
-        "fuboTV",
         "Paramount Plus Premium",
         "Paramount Plus Essential",
         "Paramount Plus Apple TV channel",
         "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel",
-        "Spectrum On Demand",
-        "Amazon Prime Video with Ads"
+        "Paramount+ Roku Premium Channel"
       ]
     },
     {
-      "id": 287238,
-      "title": "Furious",
-      "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
-      "rating": 7.1,
-      "first_air_date": "2026-07-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/287238",
+      "id": 30984,
+      "title": "Bleach",
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "rating": 8.4,
+      "first_air_date": "2004-10-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/30984",
       "providers": [
         "Hulu"
       ]
     },
     {
-      "id": 615,
-      "title": "Futurama",
-      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
-      "rating": 8.4,
-      "first_air_date": "1999-03-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/615",
-      "providers": [
-        "Hulu",
-        "fuboTV",
-        "YouTube TV",
-        "FXNow"
-      ]
-    },
-    {
-      "id": 207333,
-      "title": "One Hundred Years of Solitude",
-      "overview": "In the mythical town Macondo, seven generations of the Buendía family navigate love, oblivion and the inescapability of their past — and their fate.",
+      "id": 299952,
+      "title": "The Early Spring",
+      "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
       "rating": 8.0,
-      "first_air_date": "2024-12-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9zrvktj9JYQwQxZD4lAySfcYlmI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/207333",
+      "first_air_date": "2026-08-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/299952",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 456,
+      "title": "The Simpsons",
+      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "rating": 8.0,
+      "first_air_date": "1989-12-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/456",
+      "providers": [
+        "Disney Plus",
+        "Hulu",
+        "fuboTV",
+        "YouTube TV",
+        "FXNow",
+        "FOX One Amazon Channel"
       ]
     }
   ]
