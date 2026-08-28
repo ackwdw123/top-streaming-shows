@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-08-27T21:44:36.731773Z",
+  "generated_at": "2026-08-28T21:42:38.517627Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 196322,
+      "title": "Dark Matter",
+      "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+      "rating": 7.8,
+      "first_air_date": "2024-05-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/196322",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 125988,
+      "title": "Silo",
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "rating": 8.2,
+      "first_air_date": "2023-05-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/125988",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 260458,
+      "title": "Adults",
+      "overview": "A group of twenty-somethings in New York trying to be good people, despite being neither \"good\" nor \"people\" yet.",
+      "rating": 5.9,
+      "first_air_date": "2025-05-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oJUoRlVXGl3MJb62Ugi1G08GPbx.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/260458",
+      "providers": [
+        "Hulu",
+        "fuboTV",
+        "YouTube TV"
+      ]
+    },
     {
       "id": 108978,
       "title": "Reacher",
@@ -58,29 +98,28 @@
       ]
     },
     {
-      "id": 252751,
-      "title": "Leanne",
-      "overview": "When her husband leaves her for another woman, a resilient Southern mom starts over with the support of her loving, but unfiltered family.",
-      "rating": 7.1,
-      "first_air_date": "2025-07-31",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sILKrYhFK6bedXgDggQD3GmGUUV.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/252751",
+      "id": 287620,
+      "title": "Stuart Fails to Save the Universe",
+      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "rating": 9.0,
+      "first_air_date": "2026-07-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/287620",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "HBO Max Amazon Channel",
+        "HBO Max"
       ]
     },
     {
-      "id": 125988,
-      "title": "Silo",
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "rating": 8.2,
-      "first_air_date": "2023-05-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/125988",
+      "id": 30984,
+      "title": "Bleach",
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "rating": 8.4,
+      "first_air_date": "2004-10-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/30984",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Hulu"
       ]
     },
     {
@@ -97,48 +136,6 @@
         "Paramount Plus Apple TV channel",
         "Paramount+ Amazon Channel",
         "Paramount+ Roku Premium Channel"
-      ]
-    },
-    {
-      "id": 30984,
-      "title": "Bleach",
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "rating": 8.4,
-      "first_air_date": "2004-10-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/30984",
-      "providers": [
-        "Hulu"
-      ]
-    },
-    {
-      "id": 299952,
-      "title": "The Early Spring",
-      "overview": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
-      "rating": 8.0,
-      "first_air_date": "2026-08-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yiAzR6wGqjyAotZ4DvFvFeo8QS0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/299952",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 456,
-      "title": "The Simpsons",
-      "overview": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
-      "rating": 8.0,
-      "first_air_date": "1989-12-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/456",
-      "providers": [
-        "Disney Plus",
-        "Hulu",
-        "fuboTV",
-        "YouTube TV",
-        "FXNow",
-        "FOX One Amazon Channel"
       ]
     }
   ]
