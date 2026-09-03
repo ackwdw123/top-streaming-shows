@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-09-02T15:56:45.180754Z",
+  "generated_at": "2026-09-03T15:45:55.698123Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 236235,
+      "title": "The Gentlemen",
+      "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
+      "rating": 7.8,
+      "first_air_date": "2024-03-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/236235",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 247168,
+      "title": "Chad Powers",
+      "overview": "Eight years after an unforgivable mistake nukes his promising college football career, hotshot quarterback Russ Holliday tries to resurrect his dreams by disguising himself as Chad Powers - a talented oddball who walks on to the struggling South Georgia Catfish.",
+      "rating": 8.0,
+      "first_air_date": "2025-09-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wgMS8irQKfMrR6mJhKtK6vbxDTC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/247168",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
     {
       "id": 108978,
       "title": "Reacher",
@@ -14,6 +40,19 @@
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 125988,
+      "title": "Silo",
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "rating": 8.2,
+      "first_air_date": "2023-05-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/125988",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -38,47 +77,8 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/97546",
       "providers": [
-        "Amazon Prime Video",
-        "Apple TV",
-        "Amazon Prime Video with Ads",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 125988,
-      "title": "Silo",
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "rating": 8.2,
-      "first_air_date": "2023-05-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/125988",
-      "providers": [
         "Apple TV",
         "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 287238,
-      "title": "Furious",
-      "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
-      "rating": 7.1,
-      "first_air_date": "2026-07-27",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/287238",
-      "providers": [
-        "Hulu"
-      ]
-    },
-    {
-      "id": 30984,
-      "title": "Bleach",
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "rating": 8.4,
-      "first_air_date": "2004-10-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/30984",
-      "providers": [
-        "Hulu"
       ]
     },
     {
@@ -96,6 +96,34 @@
       ]
     },
     {
+      "id": 196322,
+      "title": "Dark Matter",
+      "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+      "rating": 7.8,
+      "first_air_date": "2024-05-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/196322",
+      "providers": [
+        "Amazon Prime Video",
+        "Apple TV",
+        "Amazon Prime Video with Ads",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 287238,
+      "title": "Furious",
+      "overview": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+      "rating": 7.2,
+      "first_air_date": "2026-07-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/287238",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
+    {
       "id": 37854,
       "title": "One Piece",
       "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
@@ -109,39 +137,6 @@
         "Crunchyroll",
         "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 290193,
-      "title": "Mousetrap",
-      "overview": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
-      "rating": 7.5,
-      "first_air_date": "2026-08-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/290193",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 113962,
-      "title": "Lioness",
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "rating": 8.1,
-      "first_air_date": "2023-07-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/113962",
-      "providers": [
-        "Amazon Prime Video",
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel",
-        "Spectrum On Demand",
-        "Amazon Prime Video with Ads"
       ]
     }
   ]
