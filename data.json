@@ -1,21 +1,8 @@
 {
-  "generated_at": "2026-09-04T15:44:31.472738Z",
+  "generated_at": "2026-09-05T14:33:56.592475Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
-    {
-      "id": 236235,
-      "title": "The Gentlemen",
-      "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
-      "rating": 7.8,
-      "first_air_date": "2024-03-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4yPgQ3RXtgUcw2rTUQAmbskjjbT.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/236235",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
     {
       "id": 125988,
       "title": "Silo",
@@ -30,29 +17,16 @@
       ]
     },
     {
-      "id": 247168,
-      "title": "Chad Powers",
-      "overview": "Eight years after an unforgivable mistake nukes his promising college football career, hotshot quarterback Russ Holliday tries to resurrect his dreams by disguising himself as Chad Powers - a talented oddball who walks on to the struggling South Georgia Catfish.",
-      "rating": 8.0,
-      "first_air_date": "2025-09-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/buPiLEtOQ7kJrRh9FsXucjkZeJn.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/247168",
+      "id": 236235,
+      "title": "The Gentlemen",
+      "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
+      "rating": 7.8,
+      "first_air_date": "2024-03-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/236235",
       "providers": [
-        "Disney Plus",
-        "Hulu"
-      ]
-    },
-    {
-      "id": 108978,
-      "title": "Reacher",
-      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "rating": 8.1,
-      "first_air_date": "2022-02-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/108978",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -71,6 +45,19 @@
       ]
     },
     {
+      "id": 108978,
+      "title": "Reacher",
+      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "rating": 8.1,
+      "first_air_date": "2022-02-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/108978",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
       "id": 95350,
       "title": "Lanterns",
       "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
@@ -79,24 +66,45 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/95350",
       "providers": [
-        "HBO Max Amazon Channel",
-        "HBO Max"
+        "HBO Max Amazon Channel"
       ]
     },
     {
-      "id": 103516,
-      "title": "Star Trek: Strange New Worlds",
-      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
-      "rating": 7.9,
-      "first_air_date": "2022-05-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/103516",
+      "id": 30984,
+      "title": "Bleach",
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "rating": 8.4,
+      "first_air_date": "2004-10-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/30984",
       "providers": [
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel"
+        "Hulu"
+      ]
+    },
+    {
+      "id": 247168,
+      "title": "Chad Powers",
+      "overview": "Eight years after an unforgivable mistake nukes his promising college football career, hotshot quarterback Russ Holliday tries to resurrect his dreams by disguising himself as Chad Powers - a talented oddball who walks on to the struggling South Georgia Catfish.",
+      "rating": 8.0,
+      "first_air_date": "2025-09-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/buPiLEtOQ7kJrRh9FsXucjkZeJn.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/247168",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
+    {
+      "id": 220102,
+      "title": "Spider-Noir",
+      "overview": "Ben Reilly, an aging and down on his luck private investigator in 1930s New York, is forced to grapple with his past life as the city's one and only superhero.",
+      "rating": 8.4,
+      "first_air_date": "2026-05-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/220102",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -113,30 +121,16 @@
       ]
     },
     {
-      "id": 65942,
-      "title": "Re:ZERO -Starting Life in Another World-",
-      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
-      "rating": 8.1,
-      "first_air_date": "2016-04-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/65942",
+      "id": 82684,
+      "title": "That Time I Got Reincarnated as a Slime",
+      "overview": "Corporate worker Mikami Satoru is stabbed by a random killer, and is reborn to an alternate world. But he turns out to be reborn a slime! Thrown into this new world with the name Rimuru, he begins his quest to create a world that’s welcoming to all races.",
+      "rating": 8.4,
+      "first_air_date": "2018-10-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/82684",
       "providers": [
-        "Hulu",
         "Crunchyroll",
         "Crunchyroll Amazon Channel"
-      ]
-    },
-    {
-      "id": 290234,
-      "title": "Lovesick",
-      "overview": "Set during the Mexican Revolution, follow Emilia Sauri, a woman torn between two passionate loves while navigating a world dominated by violence and revolution.",
-      "rating": 8.0,
-      "first_air_date": "2026-09-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/91s80WxRqIirFSpGVtiXJoS1GA5.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/290234",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     }
   ]
