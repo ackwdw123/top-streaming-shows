@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T15:54:03.416390Z",
+  "generated_at": "2026-09-10T15:49:04.024280Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -9,7 +9,7 @@
       "overview": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
       "rating": 8.1,
       "first_air_date": "2025-12-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2yEXTvaCPUe9In5MZJBLFwiq0NL.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cyBg9FJ2AmTWEGktA43gMo4t0Vj.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/246473",
       "providers": [
         "Disney Plus",
@@ -43,29 +43,18 @@
       ]
     },
     {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "rating": 8.4,
-      "first_air_date": "2020-08-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/97546",
+      "id": 253941,
+      "title": "The Paper",
+      "overview": "The documentary crew that immortalized Dunder Mifflin's Scranton branch is in search of a new subject when they discover a historic Toledo newspaper, The Truth Teller, and the eager publisher trying to revive it.",
+      "rating": 7.1,
+      "first_air_date": "2025-09-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/253941",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 69557,
-      "title": "Fauda",
-      "overview": "A top Israeli agent comes out of retirement to hunt for a Palestinian militant he thought he'd killed, setting a chaotic chain of events into motion.",
-      "rating": 7.4,
-      "first_air_date": "2015-02-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bc6XIKP1TrnugYMzIIUz9YCL8VM.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/69557",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Amazon Prime Video",
+        "Peacock Premium",
+        "Amazon Prime Video with Ads",
+        "Peacock Premium Plus"
       ]
     },
     {
@@ -76,6 +65,19 @@
       "first_air_date": "2023-05-04",
       "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/125988",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 97546,
+      "title": "Ted Lasso",
+      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "rating": 8.4,
+      "first_air_date": "2020-08-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/97546",
       "providers": [
         "Apple TV",
         "Apple TV Amazon Channel"
@@ -95,43 +97,47 @@
       ]
     },
     {
-      "id": 253941,
-      "title": "The Paper",
-      "overview": "The documentary crew that immortalized Dunder Mifflin's Scranton branch is in search of a new subject when they discover a historic Toledo newspaper, The Truth Teller, and the eager publisher trying to revive it.",
-      "rating": 7.1,
-      "first_air_date": "2025-09-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/253941",
+      "id": 65942,
+      "title": "Re:ZERO -Starting Life in Another World-",
+      "overview": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+      "rating": 8.1,
+      "first_air_date": "2016-04-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/65942",
       "providers": [
-        "Amazon Prime Video",
-        "Peacock Premium",
-        "Amazon Prime Video with Ads",
-        "Peacock Premium Plus"
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
       ]
     },
     {
-      "id": 255358,
-      "title": "THE GHOST IN THE SHELL",
-      "overview": "2029, a near-future Japan. The full cyborg Motoko Kusanagi envisions a task force that preemptively strikes emerging threats. She and her team are scouted by Daisuke Aramaki as Public Security Section 9, AKA the \"Shell Squad.\" An international conspiracy hints at a hacker known as The \"Puppet Master.\" What fate awaits Kusanagi? What is the hacker's endgame?",
-      "rating": 8.3,
-      "first_air_date": "2026-07-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nUXjSyXAQZhOf32e6lkLX6C6Rf3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/255358",
+      "id": 103516,
+      "title": "Star Trek: Strange New Worlds",
+      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "rating": 7.9,
+      "first_air_date": "2022-05-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/103516",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount Plus Apple TV channel",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel"
       ]
     },
     {
-      "id": 30984,
-      "title": "Bleach",
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "rating": 8.4,
-      "first_air_date": "2004-10-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/30984",
+      "id": 298168,
+      "title": "The Shards",
+      "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
+      "rating": 7.3,
+      "first_air_date": "2026-08-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/298168",
       "providers": [
-        "Hulu"
+        "Hulu",
+        "fuboTV",
+        "YouTube TV"
       ]
     }
   ]
