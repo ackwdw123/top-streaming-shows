@@ -1,21 +1,8 @@
 {
-  "generated_at": "2026-09-11T15:51:01.411771Z",
+  "generated_at": "2026-09-12T14:58:00.617888Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
-    {
-      "id": 300507,
-      "title": "Crew Girl",
-      "overview": "After a family scandal, teen rower Teagan Tao moves to a small town and joins an elite prep school's all-boys crew, sparking rivalry and attraction.",
-      "rating": 8.1,
-      "first_air_date": "2026-09-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/300507",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
     {
       "id": 95350,
       "title": "Lanterns",
@@ -30,13 +17,64 @@
       ]
     },
     {
-      "id": 258230,
-      "title": "Last Seen",
-      "overview": "When emergency dispatcher Ian Ridley receives a frantic call from a teenager he believes could be his long-missing daughter, he stops at nothing to find her.",
-      "rating": 8.9,
-      "first_air_date": "2026-09-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vozJZjHv0Yyv4PjoOxF5tVMUGFI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/258230",
+      "id": 300507,
+      "title": "Crew Girl",
+      "overview": "After a family scandal, teen rower Teagan Tao moves to a small town and joins an elite prep school's all-boys crew, sparking rivalry and attraction.",
+      "rating": 7.8,
+      "first_air_date": "2026-09-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/300507",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 108978,
+      "title": "Reacher",
+      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
+      "rating": 8.1,
+      "first_air_date": "2022-02-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/108978",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 325755,
+      "title": "The Perfect Lie",
+      "overview": "When one of their own is killed in a house fire, four picture-perfect couples are forced to question everything they thought they knew about each other.",
+      "rating": 6.2,
+      "first_air_date": "2026-09-10",
+      "poster_url": "https://image.tmdb.org/t/p/w500/a8qjbVX7lo1v7m5Awzhx7Ptk8gO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/325755",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 30984,
+      "title": "Bleach",
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "rating": 8.3,
+      "first_air_date": "2004-10-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/30984",
+      "providers": [
+        "Hulu"
+      ]
+    },
+    {
+      "id": 125988,
+      "title": "Silo",
+      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "rating": 8.2,
+      "first_air_date": "2023-05-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/125988",
       "providers": [
         "Apple TV",
         "Apple TV Amazon Channel"
@@ -58,82 +96,50 @@
       ]
     },
     {
-      "id": 125988,
-      "title": "Silo",
-      "overview": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "rating": 8.2,
-      "first_air_date": "2023-05-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/125988",
+      "id": 37854,
+      "title": "One Piece",
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "rating": 8.7,
+      "first_air_date": "1999-10-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/37854",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 108978,
-      "title": "Reacher",
-      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "rating": 8.1,
-      "first_air_date": "2022-02-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/108978",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 246473,
-      "title": "Made in Korea",
-      "overview": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
-      "rating": 8.1,
-      "first_air_date": "2025-12-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cyBg9FJ2AmTWEGktA43gMo4t0Vj.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/246473",
-      "providers": [
-        "Disney Plus",
-        "Hulu"
-      ]
-    },
-    {
-      "id": 298168,
-      "title": "The Shards",
-      "overview": "17-year-old Bret Easton Ellis is in his final year at the elite Buckley prep school. Upending his world is the arrival of a mysterious new student, Robert Mallory, whose unsettling presence coincides with the activities of a serial killer known as The Trawler.",
-      "rating": 7.2,
-      "first_air_date": "2026-08-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/298168",
-      "providers": [
+        "Netflix",
         "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 113962,
+      "title": "Lioness",
+      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "rating": 8.2,
+      "first_air_date": "2023-07-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/113962",
+      "providers": [
         "fuboTV",
-        "YouTube TV"
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount Plus Apple TV channel",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Spectrum On Demand"
       ]
     },
     {
       "id": 236235,
       "title": "The Gentlemen",
       "overview": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
-      "rating": 7.8,
+      "rating": 7.9,
       "first_air_date": "2024-03-07",
       "poster_url": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/236235",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 66980,
-      "title": "Babylon Berlin",
-      "overview": "Beneath the decadence of 1929 Berlin, lies an underworld city of sin. Police investigator Gereon Rath has been transferred from Cologne to the epicenter of political and social changes in the Golden Twenties.",
-      "rating": 7.7,
-      "first_air_date": "2017-10-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hr18RHPMQSA0zbCzAZN2asIOqy5.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/66980",
-      "providers": [
-        "MZ Choice Amazon Channel",
-        "Mhz Choice"
       ]
     }
   ]
