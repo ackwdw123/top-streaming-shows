@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T15:20:50.219461Z",
+  "generated_at": "2026-09-20T15:25:33.690181Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -14,6 +14,49 @@
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 275102,
+      "title": "The Scandal",
+      "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
+      "rating": 6.5,
+      "first_air_date": "2026-09-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/275102",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 113962,
+      "title": "Lioness",
+      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "rating": 8.2,
+      "first_air_date": "2023-07-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/113962",
+      "providers": [
+        "fuboTV",
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount Plus Apple TV channel",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Spectrum On Demand"
+      ]
+    },
+    {
+      "id": 239618,
+      "title": "American Hostage",
+      "overview": "A psychological thriller anthology series focusing on a different hostage case every season.",
+      "rating": 1.0,
+      "first_air_date": "2026-09-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dzoPQ13XrRUGl8Yoz1P66V8rRUy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/239618",
+      "providers": [
+        "MGM Plus"
       ]
     },
     {
@@ -40,7 +83,7 @@
       "id": 273207,
       "title": "Neagley",
       "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
-      "rating": 7.8,
+      "rating": 7.9,
       "first_air_date": "2026-09-16",
       "poster_url": "https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/273207",
@@ -63,12 +106,25 @@
       ]
     },
     {
+      "id": 95350,
+      "title": "Lanterns",
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "rating": 8.3,
+      "first_air_date": "2026-08-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95350",
+      "providers": [
+        "HBO Max Amazon Channel",
+        "HBO Max"
+      ]
+    },
+    {
       "id": 207484,
       "title": "Outlander: Blood of My Blood",
       "overview": "From the battlefields of World War I to the rugged Highlands of 18th century Scotland, two fated couples must defy the forces that seek to tear them apart, unfolding in surprising and unforeseen ways in this romantic saga that unfolds across time.",
       "rating": 8.6,
       "first_air_date": "2025-08-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2GAAeJfjHH7QBDVC35cu9RpD8nE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1pGBdq4ssO2p5H2WFMlADH6pwZ6.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/207484",
       "providers": [
         "Amazon Prime Video",
@@ -82,79 +138,15 @@
       ]
     },
     {
-      "id": 232018,
-      "title": "Has Fallen",
-      "overview": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
-      "rating": 7.0,
-      "first_air_date": "2024-09-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eyK6fy2NWfjmyBjUvRAR14FynPK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/232018",
+      "id": 30984,
+      "title": "Bleach",
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "rating": 8.3,
+      "first_air_date": "2004-10-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/30984",
       "providers": [
         "Hulu"
-      ]
-    },
-    {
-      "id": 95350,
-      "title": "Lanterns",
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "rating": 8.2,
-      "first_air_date": "2026-08-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95350",
-      "providers": [
-        "HBO Max Amazon Channel",
-        "HBO Max"
-      ]
-    },
-    {
-      "id": 196322,
-      "title": "Dark Matter",
-      "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-      "rating": 7.8,
-      "first_air_date": "2024-05-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/196322",
-      "providers": [
-        "Amazon Prime Video",
-        "Apple TV",
-        "Amazon Prime Video with Ads",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 2190,
-      "title": "South Park",
-      "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-      "rating": 8.3,
-      "first_air_date": "1997-08-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/2190",
-      "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Philo",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel"
-      ]
-    },
-    {
-      "id": 113962,
-      "title": "Lioness",
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "rating": 8.2,
-      "first_air_date": "2023-07-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/113962",
-      "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel",
-        "Spectrum On Demand"
       ]
     }
   ]
