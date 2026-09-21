@@ -1,32 +1,19 @@
 {
-  "generated_at": "2026-09-20T15:25:33.690181Z",
+  "generated_at": "2026-09-21T17:51:29.745958Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
-      "id": 299939,
-      "title": "Monster: The Lizzie Borden Story",
-      "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
-      "rating": 7.0,
-      "first_air_date": "2026-09-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/299939",
+      "id": 95350,
+      "title": "Lanterns",
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "rating": 8.3,
+      "first_air_date": "2026-08-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95350",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 275102,
-      "title": "The Scandal",
-      "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
-      "rating": 6.5,
-      "first_air_date": "2026-09-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/275102",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "HBO Max Amazon Channel",
+        "HBO Max"
       ]
     },
     {
@@ -48,15 +35,16 @@
       ]
     },
     {
-      "id": 239618,
-      "title": "American Hostage",
-      "overview": "A psychological thriller anthology series focusing on a different hostage case every season.",
-      "rating": 1.0,
-      "first_air_date": "2026-09-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dzoPQ13XrRUGl8Yoz1P66V8rRUy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/239618",
+      "id": 299939,
+      "title": "Monster: The Lizzie Borden Story",
+      "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+      "rating": 7.2,
+      "first_air_date": "2026-09-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/299939",
       "providers": [
-        "MGM Plus"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -80,16 +68,16 @@
       ]
     },
     {
-      "id": 273207,
-      "title": "Neagley",
-      "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
-      "rating": 7.9,
-      "first_air_date": "2026-09-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lKOPmO0ah17ogQ9hWg7lSd40kIr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/273207",
+      "id": 239618,
+      "title": "American Hostage",
+      "overview": "A psychological thriller anthology series focusing on a different hostage case every season.",
+      "rating": 7.8,
+      "first_air_date": "2026-09-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kVXkBIJw4eW9KC8VZvYvoS6Qg0j.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/239618",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "MGM Plus Roku Premium Channel",
+        "MGM Plus"
       ]
     },
     {
@@ -106,47 +94,58 @@
       ]
     },
     {
-      "id": 95350,
-      "title": "Lanterns",
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "rating": 8.3,
-      "first_air_date": "2026-08-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95350",
-      "providers": [
-        "HBO Max Amazon Channel",
-        "HBO Max"
-      ]
-    },
-    {
-      "id": 207484,
-      "title": "Outlander: Blood of My Blood",
-      "overview": "From the battlefields of World War I to the rugged Highlands of 18th century Scotland, two fated couples must defy the forces that seek to tear them apart, unfolding in surprising and unforeseen ways in this romantic saga that unfolds across time.",
-      "rating": 8.6,
-      "first_air_date": "2025-08-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1pGBdq4ssO2p5H2WFMlADH6pwZ6.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/207484",
+      "id": 273207,
+      "title": "Neagley",
+      "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
+      "rating": 8.0,
+      "first_air_date": "2026-09-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/273207",
       "providers": [
         "Amazon Prime Video",
-        "Philo",
-        "Starz Amazon Channel",
-        "Spectrum On Demand",
-        "Starz",
-        "Amazon Prime Video with Ads",
-        "Starz Apple TV channel",
-        "Starz Roku Premium Channel"
+        "Amazon Prime Video with Ads"
       ]
     },
     {
-      "id": 30984,
-      "title": "Bleach",
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "rating": 8.3,
-      "first_air_date": "2004-10-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/30984",
+      "id": 275102,
+      "title": "The Scandal",
+      "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
+      "rating": 6.3,
+      "first_air_date": "2026-09-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/275102",
       "providers": [
-        "Hulu"
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 94664,
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "overview": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+      "rating": 8.4,
+      "first_air_date": "2021-01-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/94664",
+      "providers": [
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
+    {
+      "id": 615,
+      "title": "Futurama",
+      "overview": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+      "rating": 8.4,
+      "first_air_date": "1999-03-28",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/615",
+      "providers": [
+        "Hulu",
+        "fuboTV",
+        "YouTube TV",
+        "FXNow"
       ]
     }
   ]
