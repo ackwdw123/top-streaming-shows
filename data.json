@@ -1,13 +1,26 @@
 {
-  "generated_at": "2026-09-23T16:05:06.276993Z",
+  "generated_at": "2026-09-24T16:29:08.983264Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
+      "id": 250203,
+      "title": "Brothers",
+      "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
+      "rating": 10.0,
+      "first_air_date": "2026-09-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/250203",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
       "id": 299939,
       "title": "Monster: The Lizzie Borden Story",
       "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
-      "rating": 7.0,
+      "rating": 6.8,
       "first_air_date": "2026-09-17",
       "poster_url": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/299939",
@@ -20,26 +33,13 @@
       "id": 95350,
       "title": "Lanterns",
       "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "rating": 8.2,
+      "rating": 8.3,
       "first_air_date": "2026-08-16",
       "poster_url": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/95350",
       "providers": [
         "HBO Max Amazon Channel",
         "HBO Max"
-      ]
-    },
-    {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "rating": 8.4,
-      "first_air_date": "2020-08-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/97546",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -58,6 +58,45 @@
         "Paramount+ Amazon Channel",
         "Paramount+ Roku Premium Channel",
         "Spectrum On Demand"
+      ]
+    },
+    {
+      "id": 308963,
+      "title": "Habeas Corpus",
+      "overview": "A renowned law professor and a team of students attempt to prove the innocence of a convicted man, but the brightest student is secretly connected to his past.",
+      "rating": 6.1,
+      "first_air_date": "2026-09-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cojcROwZe8681XzroVIOE9VK4zV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/308963",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 246473,
+      "title": "Made in Korea",
+      "overview": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
+      "rating": 8.1,
+      "first_air_date": "2025-12-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cyBg9FJ2AmTWEGktA43gMo4t0Vj.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/246473",
+      "providers": [
+        "Hulu",
+        "Disney Plus"
+      ]
+    },
+    {
+      "id": 97546,
+      "title": "Ted Lasso",
+      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "rating": 8.4,
+      "first_air_date": "2020-08-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/97546",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -93,32 +132,6 @@
       ]
     },
     {
-      "id": 246473,
-      "title": "Made in Korea",
-      "overview": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
-      "rating": 8.2,
-      "first_air_date": "2025-12-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cyBg9FJ2AmTWEGktA43gMo4t0Vj.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/246473",
-      "providers": [
-        "Hulu",
-        "Disney Plus"
-      ]
-    },
-    {
-      "id": 273207,
-      "title": "Neagley",
-      "overview": "Frances Neagley is a private investigator in Chicago and former military colleague of Jack Reacher in the Army's 110th Special Investigations Unit. When she learns that a beloved friend from her past has been killed in a suspicious accident, she becomes hell-bent on justice.",
-      "rating": 8.1,
-      "first_air_date": "2026-09-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tEPDFIa21VK0Q2YLuzhTt2xrw5W.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/273207",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
       "id": 108978,
       "title": "Reacher",
       "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
@@ -129,19 +142,6 @@
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 275102,
-      "title": "The Scandal",
-      "overview": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
-      "rating": 6.6,
-      "first_air_date": "2026-09-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/275102",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     }
   ]
