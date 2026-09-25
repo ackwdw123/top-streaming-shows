@@ -1,102 +1,52 @@
 {
-  "generated_at": "2026-09-24T16:29:08.983264Z",
+  "generated_at": "2026-09-25T16:30:59.708213Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
-      "id": 250203,
-      "title": "Brothers",
-      "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
-      "rating": 10.0,
-      "first_air_date": "2026-09-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/250203",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 299939,
-      "title": "Monster: The Lizzie Borden Story",
-      "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
-      "rating": 6.8,
-      "first_air_date": "2026-09-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/299939",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 95350,
-      "title": "Lanterns",
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "rating": 8.3,
-      "first_air_date": "2026-08-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95350",
-      "providers": [
-        "HBO Max Amazon Channel",
-        "HBO Max"
-      ]
-    },
-    {
-      "id": 113962,
-      "title": "Lioness",
-      "overview": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
-      "rating": 8.2,
-      "first_air_date": "2023-07-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rzpHPSEgPTpRs8EHbygwsOw7jC0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/113962",
-      "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel",
-        "Spectrum On Demand"
-      ]
-    },
-    {
-      "id": 308963,
-      "title": "Habeas Corpus",
-      "overview": "A renowned law professor and a team of students attempt to prove the innocence of a convicted man, but the brightest student is secretly connected to his past.",
-      "rating": 6.1,
-      "first_air_date": "2026-09-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cojcROwZe8681XzroVIOE9VK4zV.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/308963",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 246473,
-      "title": "Made in Korea",
-      "overview": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
+      "id": 1413,
+      "title": "American Horror Story",
+      "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
       "rating": 8.1,
-      "first_air_date": "2025-12-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cyBg9FJ2AmTWEGktA43gMo4t0Vj.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/246473",
+      "first_air_date": "2011-10-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/1413",
       "providers": [
         "Hulu",
-        "Disney Plus"
+        "Amazon Prime Video",
+        "Disney Plus",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
-      "id": 97546,
-      "title": "Ted Lasso",
-      "overview": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
-      "rating": 8.4,
-      "first_air_date": "2020-08-14",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/97546",
+      "id": 45790,
+      "title": "JoJo's Bizarre Adventure",
+      "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+      "rating": 8.6,
+      "first_air_date": "2012-10-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/45790",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Hulu",
+        "Netflix",
+        "Amazon Prime Video",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 305357,
+      "title": "A Different World",
+      "overview": "Deborah Wayne enters her freshman year at her parents' HBCU alma mater and finds their shadow difficult to escape. She sets out to build her own legacy – while having the time of her life – alongside a whole new generation of Hillman’s best and brightest.",
+      "rating": 5.2,
+      "first_air_date": "2026-09-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/305357",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -119,29 +69,84 @@
       ]
     },
     {
-      "id": 95480,
-      "title": "Slow Horses",
-      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-      "rating": 8.0,
-      "first_air_date": "2022-04-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95480",
+      "id": 287620,
+      "title": "Stuart Fails to Save the Universe",
+      "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "rating": 8.7,
+      "first_air_date": "2026-07-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/287620",
+      "providers": [
+        "HBO Max Amazon Channel",
+        "HBO Max"
+      ]
+    },
+    {
+      "id": 95350,
+      "title": "Lanterns",
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "rating": 8.3,
+      "first_air_date": "2026-08-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95350",
+      "providers": [
+        "HBO Max Amazon Channel",
+        "HBO Max"
+      ]
+    },
+    {
+      "id": 250203,
+      "title": "Brothers",
+      "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
+      "rating": 9.5,
+      "first_air_date": "2026-09-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/250203",
       "providers": [
         "Apple TV",
         "Apple TV Amazon Channel"
       ]
     },
     {
-      "id": 108978,
-      "title": "Reacher",
-      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "rating": 8.1,
-      "first_air_date": "2022-02-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/108978",
+      "id": 331979,
+      "title": "Delusion",
+      "overview": "When her father's worsening dementia makes him a prime suspect in a murder case, a small-town school teacher races to uncover the truth amid dark rumors.",
+      "rating": 10.0,
+      "first_air_date": "2026-09-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/331979",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 103516,
+      "title": "Star Trek: Strange New Worlds",
+      "overview": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "rating": 7.9,
+      "first_air_date": "2022-05-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/97TTJuqiSMfU0DuXx1B4NG5QNP7.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/103516",
+      "providers": [
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount Plus Apple TV channel",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel"
+      ]
+    },
+    {
+      "id": 299939,
+      "title": "Monster: The Lizzie Borden Story",
+      "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+      "rating": 6.9,
+      "first_air_date": "2026-09-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/299939",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
