@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T16:30:59.708213Z",
+  "generated_at": "2026-09-26T15:45:34.279355Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -19,31 +19,13 @@
       ]
     },
     {
-      "id": 45790,
-      "title": "JoJo's Bizarre Adventure",
-      "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
-      "rating": 8.6,
-      "first_air_date": "2012-10-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/45790",
-      "providers": [
-        "Hulu",
-        "Netflix",
-        "Amazon Prime Video",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 305357,
-      "title": "A Different World",
-      "overview": "Deborah Wayne enters her freshman year at her parents' HBCU alma mater and finds their shadow difficult to escape. She sets out to build her own legacy – while having the time of her life – alongside a whole new generation of Hillman’s best and brightest.",
-      "rating": 5.2,
-      "first_air_date": "2026-09-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mmE4RNbsPOwwRo5rnVRd1IXzgcZ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/305357",
+      "id": 290720,
+      "title": "The Final Problem",
+      "overview": "In the spring of 1959, a retired actor, who previously played Sherlock Holmes, must investigate a murder at a small hotel on a tiny island near Mallorca.",
+      "rating": 6.1,
+      "first_air_date": "2026-09-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/290720",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -69,10 +51,28 @@
       ]
     },
     {
+      "id": 45790,
+      "title": "JoJo's Bizarre Adventure",
+      "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+      "rating": 8.6,
+      "first_air_date": "2012-10-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/45790",
+      "providers": [
+        "Hulu",
+        "Netflix",
+        "Amazon Prime Video",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
       "id": 287620,
       "title": "Stuart Fails to Save the Universe",
       "overview": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
-      "rating": 8.7,
+      "rating": 8.6,
       "first_air_date": "2026-07-23",
       "poster_url": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/287620",
@@ -85,7 +85,7 @@
       "id": 95350,
       "title": "Lanterns",
       "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "rating": 8.3,
+      "rating": 8.2,
       "first_air_date": "2026-08-16",
       "poster_url": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/95350",
@@ -95,29 +95,31 @@
       ]
     },
     {
-      "id": 250203,
-      "title": "Brothers",
-      "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
-      "rating": 9.5,
-      "first_air_date": "2026-09-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/250203",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 331979,
-      "title": "Delusion",
-      "overview": "When her father's worsening dementia makes him a prime suspect in a murder case, a small-town school teacher races to uncover the truth amid dark rumors.",
-      "rating": 10.0,
-      "first_air_date": "2026-09-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/331979",
+      "id": 299939,
+      "title": "Monster: The Lizzie Borden Story",
+      "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+      "rating": 7.0,
+      "first_air_date": "2026-09-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/299939",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 196322,
+      "title": "Dark Matter",
+      "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+      "rating": 7.8,
+      "first_air_date": "2024-05-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/196322",
+      "providers": [
+        "Amazon Prime Video",
+        "Apple TV",
+        "Amazon Prime Video with Ads",
+        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -137,13 +139,13 @@
       ]
     },
     {
-      "id": 299939,
-      "title": "Monster: The Lizzie Borden Story",
-      "overview": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
-      "rating": 6.9,
-      "first_air_date": "2026-09-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/299939",
+      "id": 331979,
+      "title": "Delusion",
+      "overview": "When her father's worsening dementia makes him a prime suspect in a murder case, a small-town school teacher races to uncover the truth amid dark rumors.",
+      "rating": 10.0,
+      "first_air_date": "2026-09-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9Z7Jsj6woszXLpXcs9TZtU4Fibr.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/331979",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
