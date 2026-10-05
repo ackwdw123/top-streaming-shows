@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-10-04T16:25:18.592291Z",
+  "generated_at": "2026-10-05T20:11:54.305236Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 95350,
+      "title": "Lanterns",
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "rating": 8.4,
+      "first_air_date": "2026-08-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95350",
+      "providers": [
+        "HBO Max Amazon Channel",
+        "HBO Max"
+      ]
+    },
+    {
+      "id": 283692,
+      "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+      "overview": "When office worker Takahiro Satou awakens inside his favorite sci-fi game, he finds himself commanding a powerful spaceship. He takes to the stars as Hiro the mercenary, battling enemies and gathering allies along the way. But he soon faces a big problem: he has no home and, more importantly, no carbonated drinks! There’s only one thing to do…buy himself a house on a planet!",
+      "rating": null,
+      "first_air_date": "2026-10-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uF5ls69ae5oskSCGcEGtXgwHy6N.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/283692",
+      "providers": [
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
+    {
+      "id": 290856,
+      "title": "Marshals",
+      "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
+      "rating": 7.9,
+      "first_air_date": "2026-03-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/290856",
+      "providers": [
+        "fuboTV",
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount Plus Apple TV channel",
+        "Paramount+ Amazon Channel",
+        "YouTube TV",
+        "Paramount+ Roku Premium Channel"
+      ]
+    },
+    {
+      "id": 126437,
+      "title": "Aoashi",
+      "overview": "Ashito Aoi is a young, aspiring soccer player from a backwater town in Japan. His hopes of getting into a high school with a good soccer club are dashed when he causes an incident during a critical match for his team, which results in their loss and elimination from the tournament. Nevertheless, he catches the eye of someone important who happened to be visiting from Tokyo. How will things turn out for Ashito?",
+      "rating": 7.8,
+      "first_air_date": "2022-04-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/erwRgEPtUtyv3Vkmxt0MhjKi5kA.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/126437",
+      "providers": [
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
+    {
+      "id": 324502,
+      "title": "Overgeared",
+      "overview": "Escape everyday life in SATISFY, a VR game where players earn real-world fame and fortune. One player, Grid, can't seem to catch a break in the game or in real life. That all changes when a challenging quest leads him to becoming the heir to a legendary blacksmith. His stats are reset to zero, but he's leveling up and crafting some seriously god-tier goods.",
+      "rating": 6.2,
+      "first_air_date": "2026-10-02",
+      "poster_url": "https://image.tmdb.org/t/p/w500/94GLmulA9qVGsuo9kLpVKi01E2Z.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/324502",
+      "providers": [
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
+      ]
+    },
     {
       "id": 207347,
       "title": "Blue Box",
@@ -20,7 +90,7 @@
       "id": 258165,
       "title": "East of Eden",
       "overview": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
-      "rating": 7.8,
+      "rating": 7.9,
       "first_air_date": "2026-10-01",
       "poster_url": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/258165",
@@ -30,56 +100,16 @@
       ]
     },
     {
-      "id": 95350,
-      "title": "Lanterns",
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "rating": 8.4,
-      "first_air_date": "2026-08-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95350",
+      "id": 231801,
+      "title": "GET JIRO",
+      "overview": "In a post-apocalyptic, near-future Los Angeles where culinary culture reigns supreme, the world's most powerful figures are chefs, and food is both currency and a demarcation of class, the mysterious sushi chef Jiro sets out on a quest for vengeance.",
+      "rating": 7.7,
+      "first_air_date": "2026-10-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/231801",
       "providers": [
         "HBO Max Amazon Channel",
         "HBO Max"
-      ]
-    },
-    {
-      "id": 298505,
-      "title": "Coven Academy",
-      "overview": "A coven protects their magic school from a dark fate.",
-      "rating": 7.1,
-      "first_air_date": "2026-10-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/298505",
-      "providers": [
-        "fuboTV"
-      ]
-    },
-    {
-      "id": 259140,
-      "title": "Ranma1/2",
-      "overview": "Akane Tendo meets her new fiancé, Ranma Saotome, a martial arts prodigy with a twist: he magically transforms into a girl upon touching cold water.",
-      "rating": 8.1,
-      "first_air_date": "2024-10-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cDThx8yRYbdPOSgHbjihS4q7GYc.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/259140",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 284558,
-      "title": "Kill Jackie",
-      "overview": "Jackie Price has been living a wealthy, luxurious life for the past 20 years after escaping a dangerous past as an international cocaine dealer. But just as life begins to feel a little boring, she discovers that The Seven Demons, a group of the world’s most terrifying hitmen, have been hired to kill her.",
-      "rating": 7.0,
-      "first_air_date": "2026-10-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vvMpr6wO4EMtA7lqftffTel5c1R.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/284558",
-      "providers": [
-        "Philo",
-        "AMC Plus Apple TV channel",
-        "AMC+ Amazon Channel",
-        "AMC+ Roku Premium Channel"
       ]
     },
     {
@@ -91,60 +121,23 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/220542",
       "providers": [
-        "Hulu",
         "Netflix",
+        "Hulu",
         "Crunchyroll",
         "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 247718,
-      "title": "MobLand",
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "rating": 8.5,
-      "first_air_date": "2025-03-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/247718",
+      "id": 298505,
+      "title": "Coven Academy",
+      "overview": "A coven protects their magic school from a dark fate.",
+      "rating": 7.2,
+      "first_air_date": "2026-10-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/298505",
       "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel",
-        "Spectrum On Demand"
-      ]
-    },
-    {
-      "id": 2190,
-      "title": "South Park",
-      "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-      "rating": 8.3,
-      "first_air_date": "1997-08-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/2190",
-      "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Philo",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel"
-      ]
-    },
-    {
-      "id": 108978,
-      "title": "Reacher",
-      "overview": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, carrying no phone and the barest of essentials as he travels the country and explores the nation he once served.",
-      "rating": 8.1,
-      "first_air_date": "2022-02-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/108978",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "fuboTV"
       ]
     }
   ]
