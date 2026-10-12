@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T17:18:33.926356Z",
+  "generated_at": "2026-10-12T20:53:27.586567Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -7,7 +7,7 @@
       "id": 123542,
       "title": "LINK CLICK",
       "overview": "Using superpowers to enter their clientele’s photos one by one, Cheng Xiaoshi and Lu Guang take their work seriously at “Time Photo Studio,” a small photography shop set in the backdrop of a modern metropolis. Each job can be full of danger, but nothing is more important than fulfilling every order, no matter the scale…or peril involved!",
-      "rating": 8.2,
+      "rating": 8.1,
       "first_air_date": "2021-04-30",
       "poster_url": "https://image.tmdb.org/t/p/w500/wo9jwu5qMvXzhW2cyy5E6hOVs92.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/123542",
@@ -17,16 +17,42 @@
       ]
     },
     {
+      "id": 312359,
+      "title": "Dragon Ball Super: Beerus",
+      "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
+      "rating": 9.8,
+      "first_air_date": "2026-10-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/312359",
+      "providers": [
+        "Crunchyroll"
+      ]
+    },
+    {
       "id": 288673,
       "title": "Carrie",
       "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
-      "rating": 8.3,
+      "rating": 8.4,
       "first_air_date": "2026-10-07",
       "poster_url": "https://image.tmdb.org/t/p/w500/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/288673",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 333101,
+      "title": "Treasure Island",
+      "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
+      "rating": 5.9,
+      "first_air_date": "2026-10-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/333101",
+      "providers": [
+        "fuboTV",
+        "MGM+ Amazon Channel",
+        "Philo"
       ]
     },
     {
@@ -56,62 +82,29 @@
       ]
     },
     {
-      "id": 289423,
-      "title": "Take Charge of My Heart",
-      "overview": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
-      "rating": 6.4,
-      "first_air_date": "2026-10-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/289423",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 284833,
-      "title": "Avatar: Seven Havens",
-      "overview": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
-      "rating": 8.8,
-      "first_air_date": "2026-10-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/284833",
-      "providers": [
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel"
-      ]
-    },
-    {
-      "id": 247718,
-      "title": "MobLand",
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "id": 293610,
+      "title": "Doctor X: Mafia in White",
+      "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
       "rating": 8.5,
-      "first_air_date": "2025-03-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/247718",
+      "first_air_date": "2026-10-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/293610",
       "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel",
-        "Spectrum On Demand"
+        "Netflix"
       ]
     },
     {
-      "id": 207347,
-      "title": "Blue Box",
-      "overview": "Taiki Inomata loves badminton, but he has a long way to go before he can reach nationals. When Taiki sees upperclassman Chinatsu Kano practicing her heart out on the girls’ basketball team, he falls for her hard. After an unexpected turn of events brings the two closer together, sports might not be the first thing on their minds anymore!",
-      "rating": 7.9,
-      "first_air_date": "2024-10-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sN3TuYevEPWxZhwcp6I2PJRW1jl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/207347",
+      "id": 126116,
+      "title": "Time",
+      "overview": "Guilt, violence and impossible choices – what does it take to survive? Tense, gritty and heartbreaking – Jimmy McGovern's award-winning prison drama, with an all-star cast.",
+      "rating": 7.6,
+      "first_air_date": "2021-06-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mhi7oohUBIufTjF9u41uMXYHsw2.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/126116",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Britbox Apple TV channel",
+        "BritBox",
+        "BritBox Amazon Channel"
       ]
     },
     {
@@ -131,16 +124,16 @@
       ]
     },
     {
-      "id": 259140,
-      "title": "Ranma1/2",
-      "overview": "Akane Tendo meets her new fiancé, Ranma Saotome, a martial arts prodigy with a twist: he magically transforms into a girl upon touching cold water.",
-      "rating": 8.1,
-      "first_air_date": "2024-10-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cDThx8yRYbdPOSgHbjihS4q7GYc.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/259140",
+      "id": 288588,
+      "title": "Full Clearing Another World Under a Goddess with Zero Believers",
+      "overview": "An isekai fantasy where an ordinary gamer reincarnates without special powers, teams up with a minor goddess, and rises from the weakest to the strongest in a new world.",
+      "rating": null,
+      "first_air_date": "2026-10-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bD0PjbDtwSyt4CpIxvAQLHmNIKu.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/288588",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel"
       ]
     }
   ]
