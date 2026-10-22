@@ -1,34 +1,8 @@
 {
-  "generated_at": "2026-10-21T16:35:39.957989Z",
+  "generated_at": "2026-10-22T16:36:55.944060Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
-    {
-      "id": 105248,
-      "title": "Cyberpunk: Edgerunners",
-      "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
-      "rating": 8.5,
-      "first_air_date": "2022-09-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/105248",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 120911,
-      "title": "The Terminal List",
-      "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
-      "rating": 8.0,
-      "first_air_date": "2022-06-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/120911",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
     {
       "id": 220542,
       "title": "The Apothecary Diaries",
@@ -46,10 +20,36 @@
       ]
     },
     {
+      "id": 120911,
+      "title": "The Terminal List",
+      "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
+      "rating": 8.0,
+      "first_air_date": "2022-06-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/120911",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 105248,
+      "title": "Cyberpunk: Edgerunners",
+      "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+      "rating": 8.5,
+      "first_air_date": "2022-09-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/105248",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 213375,
       "title": "VisionQuest",
       "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "rating": 8.8,
+      "rating": 8.7,
       "first_air_date": "2026-10-13",
       "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/213375",
@@ -58,16 +58,16 @@
       ]
     },
     {
-      "id": 123542,
-      "title": "LINK CLICK",
-      "overview": "Using superpowers to enter their clientele’s photos one by one, Cheng Xiaoshi and Lu Guang take their work seriously at “Time Photo Studio,” a small photography shop set in the backdrop of a modern metropolis. Each job can be full of danger, but nothing is more important than fulfilling every order, no matter the scale…or peril involved!",
-      "rating": 8.0,
-      "first_air_date": "2021-04-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hCt2bLRGTCjHGqtV5FP3Img6w1h.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/123542",
+      "id": 288673,
+      "title": "Carrie",
+      "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+      "rating": 8.3,
+      "first_air_date": "2026-10-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/288673",
       "providers": [
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -84,6 +84,19 @@
       ]
     },
     {
+      "id": 250923,
+      "title": "Nobody Wants This",
+      "overview": "An agnostic sex podcaster and a newly single rabbi fall in love, but can their relationship survive their wildly different lives and meddling families?",
+      "rating": 7.3,
+      "first_air_date": "2024-09-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cUpIceeJJoRqUHSCzh6jRSmlpkA.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/250923",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 213562,
       "title": "Crystal Lake",
       "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
@@ -97,23 +110,10 @@
       ]
     },
     {
-      "id": 234310,
-      "title": "Where's Wanda?",
-      "overview": "After the Klatts' daughter goes missing, they take matters into their own hands and hatch a wild plan: Spy on the neighborhood. As they make their way into small-time espionage, shocking secrets come to light one by one.",
-      "rating": 6.6,
-      "first_air_date": "2024-10-02",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hHePJkom6HuTt3EHEvpXLPh0Jtt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/234310",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
       "id": 300146,
       "title": "Where the Mask Ends",
       "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-      "rating": 9.0,
+      "rating": 7.2,
       "first_air_date": "2026-10-16",
       "poster_url": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/300146",
@@ -123,16 +123,19 @@
       ]
     },
     {
-      "id": 288673,
-      "title": "Carrie",
-      "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+      "id": 153312,
+      "title": "Tulsa King",
+      "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
       "rating": 8.3,
-      "first_air_date": "2026-10-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/288673",
+      "first_air_date": "2022-11-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/153312",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount Plus Apple TV channel",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel"
       ]
     }
   ]
