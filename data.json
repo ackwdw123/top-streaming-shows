@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-22T16:36:55.944060Z",
+  "generated_at": "2026-10-23T16:26:42.537489Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 96677,
+      "title": "Lupin",
+      "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "rating": 7.7,
+      "first_air_date": "2021-01-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/96677",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
     {
       "id": 220542,
       "title": "The Apothecary Diaries",
@@ -46,44 +59,6 @@
       ]
     },
     {
-      "id": 213375,
-      "title": "VisionQuest",
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "rating": 8.7,
-      "first_air_date": "2026-10-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/213375",
-      "providers": [
-        "Disney Plus"
-      ]
-    },
-    {
-      "id": 288673,
-      "title": "Carrie",
-      "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
-      "rating": 8.3,
-      "first_air_date": "2026-10-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/288673",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 95480,
-      "title": "Slow Horses",
-      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-      "rating": 8.1,
-      "first_air_date": "2022-04-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95480",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
       "id": 250923,
       "title": "Nobody Wants This",
       "overview": "An agnostic sex podcaster and a newly single rabbi fall in love, but can their relationship survive their wildly different lives and meddling families?",
@@ -97,29 +72,33 @@
       ]
     },
     {
-      "id": 213562,
-      "title": "Crystal Lake",
-      "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-      "rating": 8.6,
-      "first_air_date": "2026-10-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/213562",
+      "id": 213375,
+      "title": "VisionQuest",
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "rating": 8.8,
+      "first_air_date": "2026-10-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/213375",
       "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
+        "Disney Plus"
       ]
     },
     {
-      "id": 300146,
-      "title": "Where the Mask Ends",
-      "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-      "rating": 7.2,
-      "first_air_date": "2026-10-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/300146",
+      "id": 247718,
+      "title": "MobLand",
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "rating": 8.5,
+      "first_air_date": "2025-03-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/247718",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "fuboTV",
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount Plus Apple TV channel",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Spectrum On Demand"
       ]
     },
     {
@@ -136,6 +115,32 @@
         "Paramount Plus Apple TV channel",
         "Paramount+ Amazon Channel",
         "Paramount+ Roku Premium Channel"
+      ]
+    },
+    {
+      "id": 288673,
+      "title": "Carrie",
+      "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+      "rating": 8.3,
+      "first_air_date": "2026-10-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/288673",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 213562,
+      "title": "Crystal Lake",
+      "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+      "rating": 8.6,
+      "first_air_date": "2026-10-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/213562",
+      "providers": [
+        "Peacock Premium",
+        "Peacock Premium Plus"
       ]
     }
   ]
