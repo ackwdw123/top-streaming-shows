@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:22:36.311385Z",
+  "generated_at": "2026-10-25T15:32:04.816431Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -17,6 +17,32 @@
       ]
     },
     {
+      "id": 316702,
+      "title": "Final Table",
+      "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
+      "rating": 7.0,
+      "first_air_date": "2026-10-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/316702",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 105248,
+      "title": "Cyberpunk: Edgerunners",
+      "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+      "rating": 8.5,
+      "first_air_date": "2022-09-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/105248",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 120911,
       "title": "The Terminal List",
       "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
@@ -27,6 +53,59 @@
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 95480,
+      "title": "Slow Horses",
+      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+      "rating": 8.1,
+      "first_air_date": "2022-04-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95480",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 288673,
+      "title": "Carrie",
+      "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
+      "rating": 8.3,
+      "first_air_date": "2026-10-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/288673",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 314360,
+      "title": "YAGA",
+      "overview": "While a private investigator probes the disappearance of the young heir to a powerful fishery, he finds himself at odds with an apprehensive local detective, a charismatic university professor with a taste for younger men, and a labyrinth of enigmatic suspects, secret lives, and ancient magic.",
+      "rating": 6.6,
+      "first_air_date": "2026-10-23",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/314360",
+      "providers": [
+        "Philo",
+        "AMC Plus Apple TV channel",
+        "AMC+ Amazon Channel",
+        "AMC+"
+      ]
+    },
+    {
+      "id": 30984,
+      "title": "Bleach",
+      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "rating": 8.4,
+      "first_air_date": "2004-10-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/30984",
+      "providers": [
+        "Hulu"
       ]
     },
     {
@@ -48,99 +127,15 @@
       ]
     },
     {
-      "id": 105248,
-      "title": "Cyberpunk: Edgerunners",
-      "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
-      "rating": 8.5,
-      "first_air_date": "2022-09-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/105248",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 196322,
-      "title": "Dark Matter",
-      "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-      "rating": 7.8,
-      "first_air_date": "2024-05-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/196322",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 153312,
-      "title": "Tulsa King",
-      "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-      "rating": 8.3,
-      "first_air_date": "2022-11-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/153312",
-      "providers": [
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel"
-      ]
-    },
-    {
       "id": 213375,
       "title": "VisionQuest",
       "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "rating": 8.7,
+      "rating": 8.8,
       "first_air_date": "2026-10-13",
       "poster_url": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/213375",
       "providers": [
         "Disney Plus"
-      ]
-    },
-    {
-      "id": 220542,
-      "title": "The Apothecary Diaries",
-      "overview": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
-      "rating": 8.7,
-      "first_air_date": "2023-10-22",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/220542",
-      "providers": [
-        "Netflix",
-        "Hulu",
-        "Crunchyroll",
-        "Crunchyroll Amazon Channel",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 213562,
-      "title": "Crystal Lake",
-      "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-      "rating": 8.7,
-      "first_air_date": "2026-10-15",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/213562",
-      "providers": [
-        "Peacock Premium",
-        "Peacock Premium Plus"
-      ]
-    },
-    {
-      "id": 288673,
-      "title": "Carrie",
-      "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
-      "rating": 8.3,
-      "first_air_date": "2026-10-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/288673",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
       ]
     }
   ]
