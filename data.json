@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T15:32:04.816431Z",
+  "generated_at": "2026-10-26T18:12:51.590392Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -11,32 +11,6 @@
       "first_air_date": "2021-01-08",
       "poster_url": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/96677",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 316702,
-      "title": "Final Table",
-      "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
-      "rating": 7.0,
-      "first_air_date": "2026-10-24",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/316702",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 105248,
-      "title": "Cyberpunk: Edgerunners",
-      "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
-      "rating": 8.5,
-      "first_air_date": "2022-09-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/105248",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -56,16 +30,29 @@
       ]
     },
     {
-      "id": 95480,
-      "title": "Slow Horses",
-      "overview": "Follow a dysfunctional team of MI5 agents—and their obnoxious boss, the notorious Jackson Lamb—as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-      "rating": 8.1,
-      "first_air_date": "2022-04-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95480",
+      "id": 105248,
+      "title": "Cyberpunk: Edgerunners",
+      "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
+      "rating": 8.5,
+      "first_air_date": "2022-09-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/105248",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 316702,
+      "title": "Final Table",
+      "overview": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
+      "rating": 8.2,
+      "first_air_date": "2026-10-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/316702",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -82,21 +69,6 @@
       ]
     },
     {
-      "id": 314360,
-      "title": "YAGA",
-      "overview": "While a private investigator probes the disappearance of the young heir to a powerful fishery, he finds himself at odds with an apprehensive local detective, a charismatic university professor with a taste for younger men, and a labyrinth of enigmatic suspects, secret lives, and ancient magic.",
-      "rating": 6.6,
-      "first_air_date": "2026-10-23",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/314360",
-      "providers": [
-        "Philo",
-        "AMC Plus Apple TV channel",
-        "AMC+ Amazon Channel",
-        "AMC+"
-      ]
-    },
-    {
       "id": 30984,
       "title": "Bleach",
       "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
@@ -106,6 +78,18 @@
       "tmdb_url": "https://www.themoviedb.org/tv/30984",
       "providers": [
         "Hulu"
+      ]
+    },
+    {
+      "id": 213375,
+      "title": "VisionQuest",
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "rating": 8.8,
+      "first_air_date": "2026-10-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/213375",
+      "providers": [
+        "Disney Plus"
       ]
     },
     {
@@ -127,15 +111,32 @@
       ]
     },
     {
-      "id": 213375,
-      "title": "VisionQuest",
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "rating": 8.8,
-      "first_air_date": "2026-10-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/213375",
+      "id": 213562,
+      "title": "Crystal Lake",
+      "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+      "rating": 8.6,
+      "first_air_date": "2026-10-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/213562",
       "providers": [
-        "Disney Plus"
+        "Peacock Premium",
+        "Peacock Premium Plus"
+      ]
+    },
+    {
+      "id": 312359,
+      "title": "Dragon Ball Super: Beerus",
+      "overview": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
+      "rating": 9.7,
+      "first_air_date": "2026-10-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/312359",
+      "providers": [
+        "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads"
       ]
     }
   ]
