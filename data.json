@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-10-27T17:27:09.012705Z",
+  "generated_at": "2026-10-28T17:52:47.543017Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 213375,
+      "title": "VisionQuest",
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "rating": 8.6,
+      "first_air_date": "2026-10-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/213375",
+      "providers": [
+        "Disney Plus"
+      ]
+    },
     {
       "id": 96677,
       "title": "Lupin",
@@ -29,6 +41,19 @@
       ]
     },
     {
+      "id": 333533,
+      "title": "The One About Matthew Perry",
+      "overview": "Told through intimate testimonies from close family and friends, this documentary event reveals the real Matthew Perry—generous, funny, vulnerable, larger than life—and the battles he fought to become the man behind the icon. A raw record of a life lived in full, and the honesty that became his greatest legacy.",
+      "rating": 7.3,
+      "first_air_date": "2026-10-27",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/333533",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 105248,
       "title": "Cyberpunk: Edgerunners",
       "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
@@ -39,18 +64,6 @@
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 213375,
-      "title": "VisionQuest",
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "rating": 8.7,
-      "first_air_date": "2026-10-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/213375",
-      "providers": [
-        "Disney Plus"
       ]
     },
     {
@@ -67,21 +80,16 @@
       ]
     },
     {
-      "id": 247718,
-      "title": "MobLand",
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "rating": 8.6,
-      "first_air_date": "2025-03-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/247718",
+      "id": 213562,
+      "title": "Crystal Lake",
+      "overview": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+      "rating": 8.7,
+      "first_air_date": "2026-10-15",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/213562",
       "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel",
-        "Spectrum On Demand"
+        "Peacock Premium",
+        "Peacock Premium Plus"
       ]
     },
     {
@@ -98,44 +106,32 @@
       ]
     },
     {
-      "id": 275139,
-      "title": "Phony",
-      "overview": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
-      "rating": 7.4,
-      "first_air_date": "2026-10-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/275139",
-      "providers": [
-        "Hulu"
-      ]
-    },
-    {
-      "id": 300146,
-      "title": "Where the Mask Ends",
-      "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-      "rating": 8.2,
-      "first_air_date": "2026-10-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/300146",
+      "id": 37854,
+      "title": "One Piece",
+      "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "rating": 8.8,
+      "first_air_date": "1999-10-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/37854",
       "providers": [
         "Netflix",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
         "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 153312,
-      "title": "Tulsa King",
-      "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-      "rating": 8.3,
-      "first_air_date": "2022-11-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/153312",
+      "id": 289892,
+      "title": "Helluva Boss",
+      "overview": "In Hell, imp Blitzø (the 'o' is silent) runs an assassin business targeting the world of the living, using a spell book borrowed from a prince of the underworld. With employees Moxxie, Millie, and Loona, they attempt to survive each other while keeping business afloat.",
+      "rating": 7.6,
+      "first_air_date": "2020-10-31",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/289892",
       "providers": [
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     }
   ]
