@@ -1,8 +1,26 @@
 {
-  "generated_at": "2026-10-29T18:00:20.012846Z",
+  "generated_at": "2026-10-30T17:42:08.971800Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 259909,
+      "title": "Dexter: Resurrection",
+      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "rating": 8.5,
+      "first_air_date": "2025-07-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/259909",
+      "providers": [
+        "Amazon Prime Video",
+        "fuboTV",
+        "Paramount Plus Premium",
+        "Paramount Plus Apple TV channel",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Amazon Prime Video with Ads"
+      ]
+    },
     {
       "id": 96677,
       "title": "Lupin",
@@ -14,82 +32,6 @@
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 213375,
-      "title": "VisionQuest",
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "rating": 8.6,
-      "first_air_date": "2026-10-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/213375",
-      "providers": [
-        "Disney Plus"
-      ]
-    },
-    {
-      "id": 334700,
-      "title": "The Gift of Deceit",
-      "overview": "Desperate to find a cure for the unknown illness affecting her daughter, art collector Lúcia Rossetti turns to a spiritual healer. When Lúcia falls victim to a scam, a series of secrets is revealed, intertwining two families marked by love, control, resentment, and guilt.",
-      "rating": null,
-      "first_air_date": "2026-10-28",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mAfYj5ZtR2V5ad6uham1PwAh0mc.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/334700",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 30984,
-      "title": "Bleach",
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "rating": 8.4,
-      "first_air_date": "2004-10-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/30984",
-      "providers": [
-        "Hulu"
-      ]
-    },
-    {
-      "id": 120911,
-      "title": "The Terminal List",
-      "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
-      "rating": 8.0,
-      "first_air_date": "2022-06-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/120911",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 105248,
-      "title": "Cyberpunk: Edgerunners",
-      "overview": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a mercenary outlaw — an edgerunner.",
-      "rating": 8.5,
-      "first_air_date": "2022-09-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/105248",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 288673,
-      "title": "Carrie",
-      "overview": "After her father's sudden, untimely death thrusts her into the unforgiving ecosystem of public high school, Carrie is forced to navigate a viral bullying scandal that tears through her community, the relentless pressure and casual cruelty of the social‑media age, and the awakening of mysterious telekinetic powers that rise alongside her adolescence.",
-      "rating": 8.3,
-      "first_air_date": "2026-10-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/288673",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -111,21 +53,84 @@
       ]
     },
     {
-      "id": 2190,
-      "title": "South Park",
-      "overview": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-      "rating": 8.3,
-      "first_air_date": "1997-08-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/2190",
+      "id": 196322,
+      "title": "Dark Matter",
+      "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+      "rating": 7.8,
+      "first_air_date": "2024-05-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/196322",
       "providers": [
-        "fuboTV",
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 307478,
+      "title": "The Perfect Lie",
+      "overview": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
+      "rating": 10.0,
+      "first_air_date": "2026-10-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/thXJkiBByDitV7iFSv1hU1sg7ij.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/307478",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 313699,
+      "title": "Balaraw: Blood Island",
+      "overview": "Years after her mother vanished, Sabina follows a mysterious clue to an uncharted island, where she confronts hidden dark secrets within her own family.",
+      "rating": 7.2,
+      "first_air_date": "2026-10-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qgXCl86fh4EgaQlMpGQYSes1n2u.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/313699",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 126027,
+      "title": "Ghosts",
+      "overview": "Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it’s also inhabited by spirits of previous residents -- whom only Samantha can see and hear.",
+      "rating": 8.1,
+      "first_air_date": "2021-10-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/126027",
+      "providers": [
         "Paramount Plus Premium",
         "Paramount Plus Essential",
-        "Philo",
         "Paramount Plus Apple TV channel",
         "Paramount+ Amazon Channel",
+        "YouTube TV",
         "Paramount+ Roku Premium Channel"
+      ]
+    },
+    {
+      "id": 331033,
+      "title": "Collision",
+      "overview": "When business magnate Miguel Ángel dies in a mysterious crash, his daughter Zoé and estranged wife Belén fight for control of his company.",
+      "rating": 8.0,
+      "first_air_date": "2026-09-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ue1kLkkh9AbhnEs1sfY0Jo2f6Fy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/331033",
+      "providers": [
+        "HBO Max Amazon Channel",
+        "HBO Max"
+      ]
+    },
+    {
+      "id": 213375,
+      "title": "VisionQuest",
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "rating": 8.7,
+      "first_air_date": "2026-10-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/213375",
+      "providers": [
+        "Disney Plus"
       ]
     },
     {
