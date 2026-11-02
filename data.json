@@ -1,50 +1,33 @@
 {
-  "generated_at": "2026-11-01T17:37:52.313792Z",
+  "generated_at": "2026-11-02T21:23:14.984025Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
-      "id": 289517,
-      "title": "Dead-End Job",
-      "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
-      "rating": 7.8,
-      "first_air_date": "2026-10-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3fm3WYMftVrcFPdGXds9DCFVCCs.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/289517",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 200875,
-      "title": "IT: Welcome to Derry",
-      "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
-      "rating": 8.2,
-      "first_air_date": "2025-10-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/200875",
+      "id": 81723,
+      "title": "The Gilded Age",
+      "overview": "It's 1882 and the Gilded Age is in full swing when Marian Brook moves in with her rigidly conventional aunts in New York City. With the help of Peggy Scott, an African-American woman masquerading as her maid, Marian gets caught up in the dazzling lives of her rich neighbors as she struggles to decide between adhering to the rules or forging her own path.",
+      "rating": 7.7,
+      "first_air_date": "2022-01-24",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tdsuFe0JVLqjxfptElRA9YFJcUE.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/81723",
       "providers": [
         "HBO Max Amazon Channel",
+        "Spectrum On Demand",
         "HBO Max"
       ]
     },
     {
-      "id": 259909,
-      "title": "Dexter: Resurrection",
-      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-      "rating": 8.5,
-      "first_air_date": "2025-07-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/259909",
+      "id": 289517,
+      "title": "Dead-End Job",
+      "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
+      "rating": 7.4,
+      "first_air_date": "2026-10-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vrDDqk9PAkIs0PQAbW5G0yhPVS3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/289517",
       "providers": [
-        "Amazon Prime Video",
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel",
-        "Amazon Prime Video with Ads"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -61,41 +44,19 @@
       ]
     },
     {
-      "id": 292741,
-      "title": "Nocturne",
-      "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
-      "rating": 7.4,
-      "first_air_date": "2026-10-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/292741",
+      "id": 259909,
+      "title": "Dexter: Resurrection",
+      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "rating": 8.5,
+      "first_air_date": "2025-07-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/259909",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 196322,
-      "title": "Dark Matter",
-      "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-      "rating": 7.8,
-      "first_air_date": "2024-05-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/196322",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 213375,
-      "title": "VisionQuest",
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "rating": 8.7,
-      "first_air_date": "2026-10-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/213375",
-      "providers": [
-        "Disney Plus"
+        "fuboTV",
+        "Paramount Plus Premium",
+        "Paramount Plus Apple TV channel",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel"
       ]
     },
     {
@@ -117,6 +78,31 @@
       ]
     },
     {
+      "id": 213375,
+      "title": "VisionQuest",
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "rating": 8.6,
+      "first_air_date": "2026-10-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/213375",
+      "providers": [
+        "Disney Plus"
+      ]
+    },
+    {
+      "id": 292741,
+      "title": "Nocturne",
+      "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
+      "rating": 7.6,
+      "first_air_date": "2026-10-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/292741",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
       "id": 30984,
       "title": "Bleach",
       "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
@@ -129,17 +115,29 @@
       ]
     },
     {
-      "id": 307478,
-      "title": "The Perfect Lie",
-      "overview": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
-      "rating": 8.5,
-      "first_air_date": "2026-10-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/thXJkiBByDitV7iFSv1hU1sg7ij.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/307478",
+      "id": 200875,
+      "title": "IT: Welcome to Derry",
+      "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
+      "rating": 8.3,
+      "first_air_date": "2025-10-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/200875",
       "providers": [
-        "Netflix",
-        "Disney Plus",
-        "Netflix Standard with Ads"
+        "HBO Max Amazon Channel",
+        "HBO Max"
+      ]
+    },
+    {
+      "id": 196322,
+      "title": "Dark Matter",
+      "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+      "rating": 7.8,
+      "first_air_date": "2024-05-07",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/196322",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     }
   ]
