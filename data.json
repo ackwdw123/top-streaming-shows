@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-02T21:23:14.984025Z",
+  "generated_at": "2026-11-03T19:00:55.832017Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 289517,
+      "title": "Dead-End Job",
+      "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
+      "rating": 7.4,
+      "first_air_date": "2026-10-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/s9b0UgT2360iKTTSM4AEKirgsYC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/289517",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
     {
       "id": 81723,
       "title": "The Gilded Age",
@@ -15,19 +28,6 @@
         "HBO Max Amazon Channel",
         "Spectrum On Demand",
         "HBO Max"
-      ]
-    },
-    {
-      "id": 289517,
-      "title": "Dead-End Job",
-      "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
-      "rating": 7.4,
-      "first_air_date": "2026-10-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vrDDqk9PAkIs0PQAbW5G0yhPVS3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/289517",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     },
     {
@@ -44,37 +44,16 @@
       ]
     },
     {
-      "id": 259909,
-      "title": "Dexter: Resurrection",
-      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-      "rating": 8.5,
-      "first_air_date": "2025-07-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/259909",
+      "id": 300146,
+      "title": "Where the Mask Ends",
+      "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+      "rating": 8.1,
+      "first_air_date": "2026-10-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/300146",
       "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel"
-      ]
-    },
-    {
-      "id": 247718,
-      "title": "MobLand",
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "rating": 8.6,
-      "first_air_date": "2025-03-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/247718",
-      "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel",
-        "Spectrum On Demand"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -103,6 +82,53 @@
       ]
     },
     {
+      "id": 247718,
+      "title": "MobLand",
+      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "rating": 8.6,
+      "first_air_date": "2025-03-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/247718",
+      "providers": [
+        "fuboTV",
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount Plus Apple TV channel",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Spectrum On Demand"
+      ]
+    },
+    {
+      "id": 275139,
+      "title": "Phony",
+      "overview": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
+      "rating": 7.5,
+      "first_air_date": "2026-10-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/275139",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
+    {
+      "id": 259909,
+      "title": "Dexter: Resurrection",
+      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "rating": 8.5,
+      "first_air_date": "2025-07-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/259909",
+      "providers": [
+        "fuboTV",
+        "Paramount Plus Premium",
+        "Paramount Plus Apple TV channel",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel"
+      ]
+    },
+    {
       "id": 30984,
       "title": "Bleach",
       "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
@@ -112,32 +138,6 @@
       "tmdb_url": "https://www.themoviedb.org/tv/30984",
       "providers": [
         "Hulu"
-      ]
-    },
-    {
-      "id": 200875,
-      "title": "IT: Welcome to Derry",
-      "overview": "In 1962, amid a spate of unexplained disappearances of local children, a group of misfit friends begin to suspect a long-buried ancient evil lurking. As the kids set out to determine what's really going on, a rising unease prompts several townspeople to work together to restore peace – all while a U.S. military operation seeks to exploit Derry for its own objectives.",
-      "rating": 8.3,
-      "first_air_date": "2025-10-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/200875",
-      "providers": [
-        "HBO Max Amazon Channel",
-        "HBO Max"
-      ]
-    },
-    {
-      "id": 196322,
-      "title": "Dark Matter",
-      "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his real family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
-      "rating": 7.8,
-      "first_air_date": "2024-05-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/196322",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
       ]
     }
   ]
