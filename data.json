@@ -1,16 +1,118 @@
 {
-  "generated_at": "2026-11-03T19:00:55.832017Z",
+  "generated_at": "2026-11-04T19:20:10.417984Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
+      "id": 213375,
+      "title": "VisionQuest",
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "rating": 8.7,
+      "first_air_date": "2026-10-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/213375",
+      "providers": [
+        "Disney Plus"
+      ]
+    },
+    {
+      "id": 279246,
+      "title": "The Remarried Empress",
+      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "rating": 8.2,
+      "first_air_date": "2026-11-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3x6c9ybt0762idyzIifUZeTD5MZ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/279246",
+      "providers": [
+        "Hulu"
+      ]
+    },
+    {
+      "id": 314271,
+      "title": "Bass X Machina",
+      "overview": "In a steampunk West overrun by outlaws, machines and supernatural forces, a father is forced to become judge, jury and executioner to protect his family.",
+      "rating": 7.0,
+      "first_air_date": "2026-11-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/314271",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 248830,
+      "title": "Stick",
+      "overview": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi—a teenage phenom with immense potential—and maybe save himself.",
+      "rating": 7.3,
+      "first_air_date": "2025-06-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/248830",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
       "id": 289517,
       "title": "Dead-End Job",
       "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
-      "rating": 7.4,
+      "rating": 7.7,
       "first_air_date": "2026-10-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/s9b0UgT2360iKTTSM4AEKirgsYC.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/agNYOaXhshj35EMjzVZLGRZUlx6.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/289517",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 258742,
+      "title": "All's Fair",
+      "overview": "A team of female divorce attorneys leave a male-dominated firm to open their own powerhouse practice. Fierce, brilliant, and emotionally complicated, they navigate high-stakes breakups, scandalous secrets, and shifting allegiances—both in the courtroom and within their own ranks. In a world where money talks and love is a battleground, these women don't just play the game—they change it.",
+      "rating": 4.8,
+      "first_air_date": "2025-11-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/igHpitLtbzBG7EyNZhF9vPYm6PK.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/258742",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
+    {
+      "id": 250203,
+      "title": "Brothers",
+      "overview": "Hollywood actors Matthew McConaughey and Woody Harrelson have been best friends for years, but a shocking family secret suggests their connection might be closer.",
+      "rating": 7.1,
+      "first_air_date": "2026-09-22",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/250203",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 300146,
+      "title": "Where the Mask Ends",
+      "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+      "rating": 7.0,
+      "first_air_date": "2026-10-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/300146",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 96677,
+      "title": "Lupin",
+      "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "rating": 7.7,
+      "first_air_date": "2021-01-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/96677",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -28,116 +130,6 @@
         "HBO Max Amazon Channel",
         "Spectrum On Demand",
         "HBO Max"
-      ]
-    },
-    {
-      "id": 96677,
-      "title": "Lupin",
-      "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
-      "rating": 7.7,
-      "first_air_date": "2021-01-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/96677",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 300146,
-      "title": "Where the Mask Ends",
-      "overview": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-      "rating": 8.1,
-      "first_air_date": "2026-10-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/300146",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 213375,
-      "title": "VisionQuest",
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "rating": 8.6,
-      "first_air_date": "2026-10-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/213375",
-      "providers": [
-        "Disney Plus"
-      ]
-    },
-    {
-      "id": 292741,
-      "title": "Nocturne",
-      "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
-      "rating": 7.6,
-      "first_air_date": "2026-10-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/292741",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 247718,
-      "title": "MobLand",
-      "overview": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "rating": 8.6,
-      "first_air_date": "2025-03-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/247718",
-      "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel",
-        "Spectrum On Demand"
-      ]
-    },
-    {
-      "id": 275139,
-      "title": "Phony",
-      "overview": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
-      "rating": 7.5,
-      "first_air_date": "2026-10-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/275139",
-      "providers": [
-        "Disney Plus",
-        "Hulu"
-      ]
-    },
-    {
-      "id": 259909,
-      "title": "Dexter: Resurrection",
-      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-      "rating": 8.5,
-      "first_air_date": "2025-07-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/259909",
-      "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel"
-      ]
-    },
-    {
-      "id": 30984,
-      "title": "Bleach",
-      "overview": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
-      "rating": 8.4,
-      "first_air_date": "2004-10-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/30984",
-      "providers": [
-        "Hulu"
       ]
     }
   ]
