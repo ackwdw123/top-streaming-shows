@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T19:28:31.457215Z",
+  "generated_at": "2026-11-06T18:52:30.287966Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -17,93 +17,16 @@
       ]
     },
     {
-      "id": 258989,
-      "title": "The Greatest",
-      "overview": "Fresh off gold at the 1960 Olympics, young boxer Muhammad Ali (then known as Cassius Clay) sets his sights on the Heavyweight Championship. Contending with newfound fame, self-doubt, family conflict and a politically charged America, the once-in-a-generation prodigy discovers his greatest opponent won't be in the ring, but in a society that isn't ready for him to become his own man.",
-      "rating": 5.2,
-      "first_air_date": "2026-11-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/258989",
+      "id": 303044,
+      "title": "Campus Drivers",
+      "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
+      "rating": 8.5,
+      "first_air_date": "2026-11-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/303044",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 248830,
-      "title": "Stick",
-      "overview": "Pryce Cahill was headed for golf greatness when an on-course meltdown derailed his career. Now struggling to stay afloat, he goes all in to mentor Santi—a teenage phenom with immense potential—and maybe save himself.",
-      "rating": 7.3,
-      "first_air_date": "2025-06-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/248830",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 279246,
-      "title": "The Remarried Empress",
-      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "rating": 8.3,
-      "first_air_date": "2026-11-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/279246",
-      "providers": [
-        "Disney Plus",
-        "Hulu"
-      ]
-    },
-    {
-      "id": 213375,
-      "title": "VisionQuest",
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "rating": 8.7,
-      "first_air_date": "2026-10-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/213375",
-      "providers": [
-        "Disney Plus"
-      ]
-    },
-    {
-      "id": 289517,
-      "title": "Dead-End Job",
-      "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
-      "rating": 7.7,
-      "first_air_date": "2026-10-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/289517",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 314271,
-      "title": "Bass X Machina",
-      "overview": "In a steampunk West overrun by outlaws, machines and supernatural forces, a father is forced to become judge, jury and executioner to protect his family.",
-      "rating": 7.5,
-      "first_air_date": "2026-11-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/314271",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 312006,
-      "title": "Anaesthesia",
-      "overview": "After a bold but unsuccessful surgery, a talented doctor swaps a prestigious clinic for a local hospital as he tries to get his life back on track.",
-      "rating": 9.0,
-      "first_air_date": "2026-11-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4Pn7Qjfe4Jne7nZzLDe6vfPUM1f.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/312006",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     },
     {
@@ -125,6 +48,65 @@
       ]
     },
     {
+      "id": 262352,
+      "title": "The Assassin",
+      "overview": "Secluded on a remote Greek island, retired assassin Julie has a somewhat thorny reunion with her estranged son, Edward, visiting from England. Armed with questions around new information on his paternity, Edward battles to find the right time to speak to his frustratingly distant mother. But, when the moment finally presents itself, things take a deadly turn as Julie’s dangerous past catches up with her and they are forced to flee the island and go on the run together.",
+      "rating": 6.8,
+      "first_air_date": "2025-07-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3O2UgEszp1CVbL8p9XnKkFDkbk3.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/262352",
+      "providers": [
+        "Philo",
+        "AMC Plus Apple TV channel",
+        "AMC+ Amazon Channel",
+        "AMC+",
+        "AcornTV Amazon Channel",
+        "Spectrum On Demand",
+        "Acorn TV Apple TV channel"
+      ]
+    },
+    {
+      "id": 153312,
+      "title": "Tulsa King",
+      "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+      "rating": 8.3,
+      "first_air_date": "2022-11-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/153312",
+      "providers": [
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount Plus Apple TV channel",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel"
+      ]
+    },
+    {
+      "id": 279246,
+      "title": "The Remarried Empress",
+      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "rating": 8.3,
+      "first_air_date": "2026-11-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/279246",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
+    {
+      "id": 213375,
+      "title": "VisionQuest",
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "rating": 8.6,
+      "first_air_date": "2026-10-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/213375",
+      "providers": [
+        "Disney Plus"
+      ]
+    },
+    {
       "id": 259909,
       "title": "Dexter: Resurrection",
       "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
@@ -138,6 +120,32 @@
         "Paramount Plus Apple TV channel",
         "Paramount+ Amazon Channel",
         "Paramount+ Roku Premium Channel"
+      ]
+    },
+    {
+      "id": 258989,
+      "title": "The Greatest",
+      "overview": "Fresh off gold at the 1960 Olympics, young boxer Muhammad Ali (then known as Cassius Clay) sets his sights on the Heavyweight Championship. Contending with newfound fame, self-doubt, family conflict and a politically charged America, the once-in-a-generation prodigy discovers his greatest opponent won't be in the ring, but in a society that isn't ready for him to become his own man.",
+      "rating": 5.3,
+      "first_air_date": "2026-11-04",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/258989",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 292741,
+      "title": "Nocturne",
+      "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
+      "rating": 7.7,
+      "first_air_date": "2026-10-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/292741",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     }
   ]
