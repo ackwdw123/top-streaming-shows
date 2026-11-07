@@ -1,28 +1,15 @@
 {
-  "generated_at": "2026-11-06T18:52:30.287966Z",
+  "generated_at": "2026-11-07T17:24:47.030467Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
-      "id": 225385,
-      "title": "Black Doves",
-      "overview": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
-      "rating": 7.0,
-      "first_air_date": "2024-12-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/225385",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 303044,
       "title": "Campus Drivers",
       "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
-      "rating": 8.5,
+      "rating": 7.8,
       "first_air_date": "2026-11-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/br6TrAPctmobu6QM730sBEC18eH.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/303044",
       "providers": [
         "Amazon Prime Video",
@@ -48,62 +35,16 @@
       ]
     },
     {
-      "id": 262352,
-      "title": "The Assassin",
-      "overview": "Secluded on a remote Greek island, retired assassin Julie has a somewhat thorny reunion with her estranged son, Edward, visiting from England. Armed with questions around new information on his paternity, Edward battles to find the right time to speak to his frustratingly distant mother. But, when the moment finally presents itself, things take a deadly turn as Julie’s dangerous past catches up with her and they are forced to flee the island and go on the run together.",
-      "rating": 6.8,
-      "first_air_date": "2025-07-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3O2UgEszp1CVbL8p9XnKkFDkbk3.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/262352",
+      "id": 225385,
+      "title": "Black Doves",
+      "overview": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
+      "rating": 7.1,
+      "first_air_date": "2024-12-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/225385",
       "providers": [
-        "Philo",
-        "AMC Plus Apple TV channel",
-        "AMC+ Amazon Channel",
-        "AMC+",
-        "AcornTV Amazon Channel",
-        "Spectrum On Demand",
-        "Acorn TV Apple TV channel"
-      ]
-    },
-    {
-      "id": 153312,
-      "title": "Tulsa King",
-      "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-      "rating": 8.3,
-      "first_air_date": "2022-11-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/153312",
-      "providers": [
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel"
-      ]
-    },
-    {
-      "id": 279246,
-      "title": "The Remarried Empress",
-      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "rating": 8.3,
-      "first_air_date": "2026-11-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/279246",
-      "providers": [
-        "Disney Plus",
-        "Hulu"
-      ]
-    },
-    {
-      "id": 213375,
-      "title": "VisionQuest",
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "rating": 8.6,
-      "first_air_date": "2026-10-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/213375",
-      "providers": [
-        "Disney Plus"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -123,16 +64,54 @@
       ]
     },
     {
-      "id": 258989,
-      "title": "The Greatest",
-      "overview": "Fresh off gold at the 1960 Olympics, young boxer Muhammad Ali (then known as Cassius Clay) sets his sights on the Heavyweight Championship. Contending with newfound fame, self-doubt, family conflict and a politically charged America, the once-in-a-generation prodigy discovers his greatest opponent won't be in the ring, but in a society that isn't ready for him to become his own man.",
-      "rating": 5.3,
-      "first_air_date": "2026-11-04",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/258989",
+      "id": 328010,
+      "title": "Devils' Crest",
+      "overview": "Yuma Ashihara was set to enjoy a test session of Actual Magic (AM)—the world's first fulldive VRMMO-RPG—together with his classmates Sawa Ashihara, Kenji Kondo, and Minagi Sano. The plan was simple: defeat the boss as a party of four, log out, and finish the test play safely — or at least, that's how it was supposed to go.",
+      "rating": null,
+      "first_air_date": "2026-11-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dRflgHEhzpy12nsYR11hvdoHEoK.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/328010",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 279246,
+      "title": "The Remarried Empress",
+      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "rating": 8.2,
+      "first_air_date": "2026-11-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/279246",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
+    {
+      "id": 96677,
+      "title": "Lupin",
+      "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "rating": 7.7,
+      "first_air_date": "2021-01-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/96677",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 213375,
+      "title": "VisionQuest",
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "rating": 8.6,
+      "first_air_date": "2026-10-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/213375",
+      "providers": [
+        "Disney Plus"
       ]
     },
     {
@@ -146,6 +125,19 @@
       "providers": [
         "Apple TV",
         "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 297491,
+      "title": "Under Siege",
+      "overview": "November 1985: The armed group, M-19, storms the Palace of Justice in Bogotá, unleashing a wave of violence that would change Colombia forever. Amid crossfire, desperate hostages, an unrelenting army, and a guerrilla movement ready to risk everything, the nation watches as war tears through the heart of its capital for the first time. The 27 hours of horror would be followed by 40 years of unanswered questions.",
+      "rating": null,
+      "first_air_date": "2026-11-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/297491",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
