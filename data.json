@@ -1,18 +1,23 @@
 {
-  "generated_at": "2026-11-07T17:24:47.030467Z",
+  "generated_at": "2026-11-08T17:35:39.733432Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
     {
-      "id": 303044,
-      "title": "Campus Drivers",
-      "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
-      "rating": 7.8,
-      "first_air_date": "2026-11-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/br6TrAPctmobu6QM730sBEC18eH.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/303044",
+      "id": 253372,
+      "title": "The Institute",
+      "overview": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
+      "rating": 7.5,
+      "first_air_date": "2025-07-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/253372",
       "providers": [
         "Amazon Prime Video",
+        "fuboTV",
+        "MGM+ Amazon Channel",
+        "MGM Plus Roku Premium Channel",
+        "MGM Plus",
+        "Spectrum On Demand",
         "Amazon Prime Video with Ads"
       ]
     },
@@ -35,10 +40,22 @@
       ]
     },
     {
+      "id": 213375,
+      "title": "VisionQuest",
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "rating": 8.6,
+      "first_air_date": "2026-10-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/213375",
+      "providers": [
+        "Disney Plus"
+      ]
+    },
+    {
       "id": 225385,
       "title": "Black Doves",
       "overview": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
-      "rating": 7.1,
+      "rating": 7.0,
       "first_air_date": "2024-12-05",
       "poster_url": "https://image.tmdb.org/t/p/w500/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/225385",
@@ -64,13 +81,13 @@
       ]
     },
     {
-      "id": 328010,
-      "title": "Devils' Crest",
-      "overview": "Yuma Ashihara was set to enjoy a test session of Actual Magic (AM)—the world's first fulldive VRMMO-RPG—together with his classmates Sawa Ashihara, Kenji Kondo, and Minagi Sano. The plan was simple: defeat the boss as a party of four, log out, and finish the test play safely — or at least, that's how it was supposed to go.",
-      "rating": null,
+      "id": 303044,
+      "title": "Campus Drivers",
+      "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
+      "rating": 8.1,
       "first_air_date": "2026-11-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dRflgHEhzpy12nsYR11hvdoHEoK.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/328010",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/303044",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
@@ -80,7 +97,7 @@
       "id": 279246,
       "title": "The Remarried Empress",
       "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "rating": 8.2,
+      "rating": 8.1,
       "first_air_date": "2026-11-03",
       "poster_url": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/279246",
@@ -103,41 +120,28 @@
       ]
     },
     {
-      "id": 213375,
-      "title": "VisionQuest",
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "rating": 8.6,
-      "first_air_date": "2026-10-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/213375",
-      "providers": [
-        "Disney Plus"
-      ]
-    },
-    {
-      "id": 292741,
-      "title": "Nocturne",
-      "overview": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his protégé Saga Bauer goes undercover to get answers from the killer himself.",
+      "id": 223397,
+      "title": "City of God: The Fight Rages On",
+      "overview": "Twenty years after City of God, Buscapé recounts how conflicts between police, traffickers, and militias impacted the community.",
       "rating": 7.7,
-      "first_air_date": "2026-10-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/292741",
+      "first_air_date": "2024-08-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8VU9RTbNojFw3kaAUc2wE16zMxf.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/223397",
       "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "HBO Max Amazon Channel",
+        "HBO Max"
       ]
     },
     {
-      "id": 297491,
-      "title": "Under Siege",
-      "overview": "November 1985: The armed group, M-19, storms the Palace of Justice in Bogotá, unleashing a wave of violence that would change Colombia forever. Amid crossfire, desperate hostages, an unrelenting army, and a guerrilla movement ready to risk everything, the nation watches as war tears through the heart of its capital for the first time. The 27 hours of horror would be followed by 40 years of unanswered questions.",
-      "rating": null,
-      "first_air_date": "2026-11-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/297491",
+      "id": 293610,
+      "title": "Doctor X: Mafia in White",
+      "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+      "rating": 9.1,
+      "first_air_date": "2026-10-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/293610",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Netflix"
       ]
     }
   ]
