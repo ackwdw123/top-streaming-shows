@@ -1,15 +1,28 @@
 {
-  "generated_at": "2026-11-08T17:35:39.733432Z",
+  "generated_at": "2026-11-09T21:55:02.552843Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 1489,
+      "title": "Jimmy Kimmel Live!",
+      "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
+      "rating": 5.3,
+      "first_air_date": "2003-01-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/1489",
+      "providers": [
+        "Hulu",
+        "fuboTV"
+      ]
+    },
     {
       "id": 253372,
       "title": "The Institute",
       "overview": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
       "rating": 7.5,
       "first_air_date": "2025-07-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4MwXkOAMd9ObxdacasPFM32n9dZ.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/253372",
       "providers": [
         "Amazon Prime Video",
@@ -19,6 +32,21 @@
         "MGM Plus",
         "Spectrum On Demand",
         "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 59941,
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
+      "rating": 5.8,
+      "first_air_date": "2014-02-17",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/59941",
+      "providers": [
+        "fuboTV",
+        "Peacock Premium",
+        "NBC",
+        "Peacock Premium Plus"
       ]
     },
     {
@@ -40,15 +68,20 @@
       ]
     },
     {
-      "id": 213375,
-      "title": "VisionQuest",
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "rating": 8.6,
-      "first_air_date": "2026-10-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/213375",
+      "id": 1413,
+      "title": "American Horror Story",
+      "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+      "rating": 8.1,
+      "first_air_date": "2011-10-05",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/1413",
       "providers": [
-        "Disney Plus"
+        "Amazon Prime Video",
+        "Disney Plus",
+        "Hulu",
+        "fuboTV",
+        "FXNow",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -65,19 +98,15 @@
       ]
     },
     {
-      "id": 259909,
-      "title": "Dexter: Resurrection",
-      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "id": 213375,
+      "title": "VisionQuest",
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "rating": 8.6,
-      "first_air_date": "2025-07-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/259909",
+      "first_air_date": "2026-10-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/213375",
       "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel"
+        "Disney Plus"
       ]
     },
     {
@@ -94,16 +123,16 @@
       ]
     },
     {
-      "id": 279246,
-      "title": "The Remarried Empress",
-      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "rating": 8.1,
-      "first_air_date": "2026-11-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/279246",
+      "id": 84773,
+      "title": "The Lord of the Rings: The Rings of Power",
+      "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "rating": 7.2,
+      "first_air_date": "2022-09-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/84773",
       "providers": [
-        "Disney Plus",
-        "Hulu"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -117,31 +146,6 @@
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 223397,
-      "title": "City of God: The Fight Rages On",
-      "overview": "Twenty years after City of God, Buscapé recounts how conflicts between police, traffickers, and militias impacted the community.",
-      "rating": 7.7,
-      "first_air_date": "2024-08-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8VU9RTbNojFw3kaAUc2wE16zMxf.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/223397",
-      "providers": [
-        "HBO Max Amazon Channel",
-        "HBO Max"
-      ]
-    },
-    {
-      "id": 293610,
-      "title": "Doctor X: Mafia in White",
-      "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-      "rating": 9.1,
-      "first_air_date": "2026-10-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/293610",
-      "providers": [
-        "Netflix"
       ]
     }
   ]
