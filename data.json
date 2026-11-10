@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T21:55:02.552843Z",
+  "generated_at": "2026-11-10T19:17:17.375400Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -17,36 +17,15 @@
       ]
     },
     {
-      "id": 253372,
-      "title": "The Institute",
-      "overview": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
-      "rating": 7.5,
-      "first_air_date": "2025-07-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4MwXkOAMd9ObxdacasPFM32n9dZ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/253372",
+      "id": 213375,
+      "title": "VisionQuest",
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "rating": 8.6,
+      "first_air_date": "2026-10-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/213375",
       "providers": [
-        "Amazon Prime Video",
-        "fuboTV",
-        "MGM+ Amazon Channel",
-        "MGM Plus Roku Premium Channel",
-        "MGM Plus",
-        "Spectrum On Demand",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 59941,
-      "title": "The Tonight Show Starring Jimmy Fallon",
-      "overview": "After Jay Leno's second retirement from the program, Jimmy Fallon stepped in as his permanent replacement. After 42 years in Los Angeles the program was brought back to New York.",
-      "rating": 5.8,
-      "first_air_date": "2014-02-17",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/59941",
-      "providers": [
-        "fuboTV",
-        "Peacock Premium",
-        "NBC",
-        "Peacock Premium Plus"
+        "Disney Plus"
       ]
     },
     {
@@ -68,55 +47,29 @@
       ]
     },
     {
-      "id": 1413,
-      "title": "American Horror Story",
-      "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-      "rating": 8.1,
-      "first_air_date": "2011-10-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/1413",
-      "providers": [
-        "Amazon Prime Video",
-        "Disney Plus",
-        "Hulu",
-        "fuboTV",
-        "FXNow",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 225385,
-      "title": "Black Doves",
-      "overview": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
-      "rating": 7.0,
-      "first_air_date": "2024-12-05",
-      "poster_url": "https://image.tmdb.org/t/p/w500/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/225385",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 213375,
-      "title": "VisionQuest",
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "id": 259909,
+      "title": "Dexter: Resurrection",
+      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
       "rating": 8.6,
-      "first_air_date": "2026-10-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/213375",
+      "first_air_date": "2025-07-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/259909",
       "providers": [
-        "Disney Plus"
+        "fuboTV",
+        "Paramount Plus Premium",
+        "Paramount Plus Apple TV channel",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel"
       ]
     },
     {
-      "id": 303044,
-      "title": "Campus Drivers",
-      "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
-      "rating": 8.1,
-      "first_air_date": "2026-11-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/303044",
+      "id": 303745,
+      "title": "Love in Disguise",
+      "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+      "rating": 9.1,
+      "first_air_date": "2026-10-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/303745",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
@@ -136,16 +89,64 @@
       ]
     },
     {
-      "id": 96677,
-      "title": "Lupin",
-      "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
-      "rating": 7.7,
-      "first_air_date": "2021-01-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/96677",
+      "id": 303044,
+      "title": "Campus Drivers",
+      "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
+      "rating": 8.1,
+      "first_air_date": "2026-11-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/303044",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 253372,
+      "title": "The Institute",
+      "overview": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
+      "rating": 7.5,
+      "first_air_date": "2025-07-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4MwXkOAMd9ObxdacasPFM32n9dZ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/253372",
+      "providers": [
+        "Amazon Prime Video",
+        "fuboTV",
+        "MGM+ Amazon Channel",
+        "Philo",
+        "MGM Plus Roku Premium Channel",
+        "MGM Plus",
+        "Spectrum On Demand",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 279246,
+      "title": "The Remarried Empress",
+      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "rating": 8.1,
+      "first_air_date": "2026-11-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/279246",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
+    {
+      "id": 153312,
+      "title": "Tulsa King",
+      "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+      "rating": 8.3,
+      "first_air_date": "2022-11-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/153312",
+      "providers": [
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount Plus Apple TV channel",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel"
       ]
     }
   ]
