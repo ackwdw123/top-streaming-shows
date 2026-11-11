@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T19:17:17.375400Z",
+  "generated_at": "2026-11-11T19:14:07.167630Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -17,15 +17,67 @@
       ]
     },
     {
+      "id": 84773,
+      "title": "The Lord of the Rings: The Rings of Power",
+      "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "rating": 7.2,
+      "first_air_date": "2022-09-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/84773",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
       "id": 213375,
       "title": "VisionQuest",
       "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "rating": 8.6,
+      "rating": 8.5,
       "first_air_date": "2026-10-13",
       "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/213375",
       "providers": [
         "Disney Plus"
+      ]
+    },
+    {
+      "id": 279246,
+      "title": "The Remarried Empress",
+      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "rating": 8.5,
+      "first_air_date": "2026-11-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/279246",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
+    {
+      "id": 95350,
+      "title": "Lanterns",
+      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "rating": 8.2,
+      "first_air_date": "2026-08-16",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/95350",
+      "providers": [
+        "HBO Max Amazon Channel",
+        "HBO Max"
+      ]
+    },
+    {
+      "id": 303044,
+      "title": "Campus Drivers",
+      "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
+      "rating": 8.4,
+      "first_air_date": "2026-11-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aa1mDCaRtGNEIHVpZrh2xil03Tq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/303044",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -47,106 +99,42 @@
       ]
     },
     {
-      "id": 259909,
-      "title": "Dexter: Resurrection",
-      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-      "rating": 8.6,
-      "first_air_date": "2025-07-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/259909",
+      "id": 214582,
+      "title": "The Devil's Plan",
+      "overview": "It's the ultimate showdown of wits, brains, strategy, and alliances for a chance to win 500 million won.",
+      "rating": 7.6,
+      "first_air_date": "2023-09-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jNY6UVgvKz03yrSgCflkF5NF25K.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/214582",
       "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 303745,
-      "title": "Love in Disguise",
-      "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-      "rating": 9.1,
-      "first_air_date": "2026-10-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/303745",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 84773,
-      "title": "The Lord of the Rings: The Rings of Power",
-      "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-      "rating": 7.2,
-      "first_air_date": "2022-09-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/84773",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 303044,
-      "title": "Campus Drivers",
-      "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
-      "rating": 8.1,
-      "first_air_date": "2026-11-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/303044",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 253372,
-      "title": "The Institute",
-      "overview": "When 14 year old genius Luke Ellis is kidnapped, he awakens at The Institute, a facility full of children who all got there the same way he did, and who are all possessed of unusual abilities. In a nearby town, haunted former police officer Tim Jamieson has come looking to start a new life, but the peace and quiet won’t last, as his story and Luke’s are destined to collide.",
-      "rating": 7.5,
-      "first_air_date": "2025-07-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4MwXkOAMd9ObxdacasPFM32n9dZ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/253372",
-      "providers": [
-        "Amazon Prime Video",
-        "fuboTV",
-        "MGM+ Amazon Channel",
-        "Philo",
-        "MGM Plus Roku Premium Channel",
-        "MGM Plus",
-        "Spectrum On Demand",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 279246,
-      "title": "The Remarried Empress",
-      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "rating": 8.1,
-      "first_air_date": "2026-11-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/279246",
+      "id": 208921,
+      "title": "Rivals",
+      "overview": "It is 1986 and Britain is booming. \"Rivals\" dives headfirst into the cutthroat world of TV where hair-dos are big and ambitions are even bigger. Deals are brokered in boardrooms, as well as bedrooms. Nobody can be sure who will come out on top. With every man and woman out only for themselves, can true love really blossom?",
+      "rating": 7.4,
+      "first_air_date": "2024-10-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/208921",
       "providers": [
         "Disney Plus",
         "Hulu"
       ]
     },
     {
-      "id": 153312,
-      "title": "Tulsa King",
-      "overview": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
-      "rating": 8.3,
-      "first_air_date": "2022-11-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/y13WOeZ2rz2Ezpws0RJ0I8sQpG4.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/153312",
+      "id": 289517,
+      "title": "Dead-End Job",
+      "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
+      "rating": 7.5,
+      "first_air_date": "2026-10-30",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/289517",
       "providers": [
-        "Paramount Plus Premium",
-        "Paramount Plus Essential",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
