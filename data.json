@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T19:14:07.167630Z",
+  "generated_at": "2026-11-12T19:31:17.817919Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -33,7 +33,7 @@
       "id": 213375,
       "title": "VisionQuest",
       "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "rating": 8.5,
+      "rating": 8.4,
       "first_air_date": "2026-10-13",
       "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/213375",
@@ -42,10 +42,62 @@
       ]
     },
     {
+      "id": 291507,
+      "title": "The Body",
+      "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
+      "rating": 7.9,
+      "first_air_date": "2026-11-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/291507",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 131488,
+      "title": "The Empress",
+      "overview": "When rebellious Elisabeth falls for Emperor Franz and becomes his unlikely bride, she enters a world of tension and intrigue at the Viennese court.",
+      "rating": 7.6,
+      "first_air_date": "2022-09-29",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9AWkNkZHwNLuM6H5u6dToioHMAI.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/131488",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 336243,
+      "title": "ChiaroScuro",
+      "overview": "After a body is found in a Roman museum, an art expert must apply his instincts and skills to help police solve a mystery connected to his own past.",
+      "rating": 8.0,
+      "first_air_date": "2026-11-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/336243",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 96677,
+      "title": "Lupin",
+      "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "rating": 7.7,
+      "first_air_date": "2021-01-08",
+      "poster_url": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/96677",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 279246,
       "title": "The Remarried Empress",
       "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "rating": 8.5,
+      "rating": 8.3,
       "first_air_date": "2026-11-03",
       "poster_url": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/279246",
@@ -55,23 +107,10 @@
       ]
     },
     {
-      "id": 95350,
-      "title": "Lanterns",
-      "overview": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "rating": 8.2,
-      "first_air_date": "2026-08-16",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/95350",
-      "providers": [
-        "HBO Max Amazon Channel",
-        "HBO Max"
-      ]
-    },
-    {
       "id": 303044,
       "title": "Campus Drivers",
       "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
-      "rating": 8.4,
+      "rating": 8.1,
       "first_air_date": "2026-11-06",
       "poster_url": "https://image.tmdb.org/t/p/w500/aa1mDCaRtGNEIHVpZrh2xil03Tq.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/303044",
@@ -96,45 +135,6 @@
         "Paramount+ Amazon Channel",
         "Paramount+ Roku Premium Channel",
         "Spectrum On Demand"
-      ]
-    },
-    {
-      "id": 214582,
-      "title": "The Devil's Plan",
-      "overview": "It's the ultimate showdown of wits, brains, strategy, and alliances for a chance to win 500 million won.",
-      "rating": 7.6,
-      "first_air_date": "2023-09-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jNY6UVgvKz03yrSgCflkF5NF25K.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/214582",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 208921,
-      "title": "Rivals",
-      "overview": "It is 1986 and Britain is booming. \"Rivals\" dives headfirst into the cutthroat world of TV where hair-dos are big and ambitions are even bigger. Deals are brokered in boardrooms, as well as bedrooms. Nobody can be sure who will come out on top. With every man and woman out only for themselves, can true love really blossom?",
-      "rating": 7.4,
-      "first_air_date": "2024-10-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/208921",
-      "providers": [
-        "Disney Plus",
-        "Hulu"
-      ]
-    },
-    {
-      "id": 289517,
-      "title": "Dead-End Job",
-      "overview": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
-      "rating": 7.5,
-      "first_air_date": "2026-10-30",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/289517",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     }
   ]
