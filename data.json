@@ -1,21 +1,8 @@
 {
-  "generated_at": "2026-11-12T19:31:17.817919Z",
+  "generated_at": "2026-11-13T19:11:25.608359Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
-    {
-      "id": 1489,
-      "title": "Jimmy Kimmel Live!",
-      "overview": "Jimmy Kimmel Live! is an American late-night talk show, created and hosted by Jimmy Kimmel and broadcast on ABC.",
-      "rating": 5.3,
-      "first_air_date": "2003-01-26",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/1489",
-      "providers": [
-        "Hulu",
-        "fuboTV"
-      ]
-    },
     {
       "id": 84773,
       "title": "The Lord of the Rings: The Rings of Power",
@@ -42,23 +29,10 @@
       ]
     },
     {
-      "id": 291507,
-      "title": "The Body",
-      "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
-      "rating": 7.9,
-      "first_air_date": "2026-11-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/291507",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
       "id": 131488,
       "title": "The Empress",
       "overview": "When rebellious Elisabeth falls for Emperor Franz and becomes his unlikely bride, she enters a world of tension and intrigue at the Viennese court.",
-      "rating": 7.6,
+      "rating": 7.7,
       "first_air_date": "2022-09-29",
       "poster_url": "https://image.tmdb.org/t/p/w500/9AWkNkZHwNLuM6H5u6dToioHMAI.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/131488",
@@ -68,55 +42,16 @@
       ]
     },
     {
-      "id": 336243,
-      "title": "ChiaroScuro",
-      "overview": "After a body is found in a Roman museum, an art expert must apply his instincts and skills to help police solve a mystery connected to his own past.",
-      "rating": 8.0,
+      "id": 291507,
+      "title": "The Body",
+      "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
+      "rating": 6.8,
       "first_air_date": "2026-11-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/336243",
+      "poster_url": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/291507",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 96677,
-      "title": "Lupin",
-      "overview": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
-      "rating": 7.7,
-      "first_air_date": "2021-01-08",
-      "poster_url": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/96677",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 279246,
-      "title": "The Remarried Empress",
-      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "rating": 8.3,
-      "first_air_date": "2026-11-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/279246",
-      "providers": [
-        "Disney Plus",
-        "Hulu"
-      ]
-    },
-    {
-      "id": 303044,
-      "title": "Campus Drivers",
-      "overview": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
-      "rating": 8.1,
-      "first_air_date": "2026-11-06",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aa1mDCaRtGNEIHVpZrh2xil03Tq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/303044",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -135,6 +70,94 @@
         "Paramount+ Amazon Channel",
         "Paramount+ Roku Premium Channel",
         "Spectrum On Demand"
+      ]
+    },
+    {
+      "id": 259909,
+      "title": "Dexter: Resurrection",
+      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "rating": 8.6,
+      "first_air_date": "2025-07-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/259909",
+      "providers": [
+        "fuboTV",
+        "Paramount Plus Premium",
+        "Paramount Plus Apple TV channel",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel"
+      ]
+    },
+    {
+      "id": 14929,
+      "title": "Heartland",
+      "overview": "Life is hard on the Flemings' ranch in the Alberta foothills where abused or neglected horses find refuge with a kind, hard-working family. Debts abound and the bank is about to foreclose. Can they keep the ranch running?",
+      "rating": 8.3,
+      "first_air_date": "2007-10-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/osAYIqIGtnVpqz4FDdGjCezE11z.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/14929",
+      "providers": [
+        "Netflix",
+        "Hulu",
+        "fuboTV",
+        "Peacock Premium",
+        "Philo",
+        "YouTube TV",
+        "Pure Flix",
+        "Hallmark+ Amazon Channel",
+        "Netflix Standard with Ads",
+        "UP Faith & Family Apple TV channel",
+        "Hallmark+ Apple TV channel",
+        "Peacock Premium Plus",
+        "Dove Amazon Channel",
+        "Great American Pure Flix Amazon Channel",
+        "UP Faith & Family Amazon Channel ",
+        "Hallmark TV Amazon Channel",
+        "Wonder Project Amazon Channel",
+        "Cineverse Amazon Channel"
+      ]
+    },
+    {
+      "id": 45790,
+      "title": "JoJo's Bizarre Adventure",
+      "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+      "rating": 8.6,
+      "first_air_date": "2012-10-06",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/45790",
+      "providers": [
+        "Netflix",
+        "Amazon Prime Video",
+        "Hulu",
+        "Crunchyroll",
+        "Crunchyroll Amazon Channel",
+        "Netflix Standard with Ads",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 279246,
+      "title": "The Remarried Empress",
+      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "rating": 8.2,
+      "first_air_date": "2026-11-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/279246",
+      "providers": [
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
+    {
+      "id": 293610,
+      "title": "Doctor X: Mafia in White",
+      "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+      "rating": 9.1,
+      "first_air_date": "2026-10-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/293610",
+      "providers": [
+        "Netflix"
       ]
     }
   ]
