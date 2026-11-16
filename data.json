@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-15T18:28:16.073037Z",
+  "generated_at": "2026-11-16T21:38:00.423208Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 291507,
+      "title": "The Body",
+      "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
+      "rating": 7.8,
+      "first_air_date": "2026-11-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/291507",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
     {
       "id": 213375,
       "title": "VisionQuest",
@@ -13,19 +26,6 @@
       "tmdb_url": "https://www.themoviedb.org/tv/213375",
       "providers": [
         "Disney Plus"
-      ]
-    },
-    {
-      "id": 291507,
-      "title": "The Body",
-      "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
-      "rating": 7.3,
-      "first_air_date": "2026-11-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/291507",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     },
     {
@@ -42,35 +42,10 @@
       ]
     },
     {
-      "id": 254630,
-      "title": "12 12 12",
-      "overview": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
-      "rating": 5.3,
-      "first_air_date": "2026-11-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/254630",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
-      ]
-    },
-    {
-      "id": 293610,
-      "title": "Doctor X: Mafia in White",
-      "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-      "rating": 8.9,
-      "first_air_date": "2026-10-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/293610",
-      "providers": [
-        "Netflix"
-      ]
-    },
-    {
       "id": 85077,
       "title": "The Chosen",
       "overview": "The life of Christ through the eyes of those who encountered him.",
-      "rating": 8.8,
+      "rating": 8.9,
       "first_air_date": "2019-04-21",
       "poster_url": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/85077",
@@ -79,6 +54,19 @@
         "fuboTV",
         "Pure Flix",
         "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 335981,
+      "title": "Cunk on Cinema",
+      "overview": "Philomena Cunk asks experts all of the hard-hitting questions about the history of cinema, from the invention of the camera, to the New Wave filmmakers of the 60s, right up to the entrance of CGI and what the future of AI holds. Cunk will attempt to demystify it all while sitting in lumpy seats with stale popcorn, asking herself where did cinema come from? And why? What does it want? And why can't it tell us?",
+      "rating": 7.7,
+      "first_air_date": "2026-11-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/335981",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -100,45 +88,61 @@
       ]
     },
     {
-      "id": 259909,
-      "title": "Dexter: Resurrection",
-      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-      "rating": 8.5,
-      "first_air_date": "2025-07-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/259909",
+      "id": 254630,
+      "title": "12 12 12",
+      "overview": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
+      "rating": 6.2,
+      "first_air_date": "2026-11-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/254630",
+      "providers": [
+        "Apple TV",
+        "Apple TV Amazon Channel"
+      ]
+    },
+    {
+      "id": 293610,
+      "title": "Doctor X: Mafia in White",
+      "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+      "rating": 8.6,
+      "first_air_date": "2026-10-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/293610",
+      "providers": [
+        "Netflix"
+      ]
+    },
+    {
+      "id": 333101,
+      "title": "Treasure Island",
+      "overview": "Young Jim Hawkins and his mother Bess come into possession of a legendary pirate’s treasure map and are drawn into a deadly voyage across the Atlantic, where Jim is forced to navigate mutiny, violence and betrayal, leaving him forever changed.",
+      "rating": 6.6,
+      "first_air_date": "2026-10-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xZQ5ABJF1iLjGq9xR4MthpgQEFF.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/333101",
+      "providers": [
+        "fuboTV",
+        "MGM+ Amazon Channel",
+        "Philo",
+        "MGM Plus"
+      ]
+    },
+    {
+      "id": 290856,
+      "title": "Marshals",
+      "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
+      "rating": 8.0,
+      "first_air_date": "2026-03-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/290856",
       "providers": [
         "fuboTV",
         "Paramount Plus Premium",
+        "Paramount Plus Essential",
         "Paramount Plus Apple TV channel",
         "Paramount+ Amazon Channel",
+        "YouTube TV",
         "Paramount+ Roku Premium Channel"
-      ]
-    },
-    {
-      "id": 303182,
-      "title": "Murder in Galicia",
-      "overview": "In Pazos, Irene is brutally attacked, and Civil Guard sergeant Elías suspects her husband Aniceto, racing against time to uncover the truth before it’s too late.",
-      "rating": 7.2,
-      "first_air_date": "2026-11-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pooxlKqgM7NhBHkgt9RjmrY7n2l.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/303182",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 131488,
-      "title": "The Empress",
-      "overview": "When rebellious Elisabeth falls for Emperor Franz and becomes his unlikely bride, she enters a world of tension and intrigue at the Viennese court.",
-      "rating": 7.7,
-      "first_air_date": "2022-09-29",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9AWkNkZHwNLuM6H5u6dToioHMAI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/131488",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     }
   ]
