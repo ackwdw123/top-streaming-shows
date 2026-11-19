@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T19:57:34.967665Z",
+  "generated_at": "2026-11-19T19:56:02.434364Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -17,53 +17,42 @@
       ]
     },
     {
-      "id": 291507,
-      "title": "The Body",
-      "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
-      "rating": 7.9,
-      "first_air_date": "2026-11-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/291507",
+      "id": 332839,
+      "title": "The Law of Beasts",
+      "overview": "When the case of a child serial killer resurfaces after 25 years as an unresolved legal and social problem, two former friends are forced to confront the choices that broke their friendship and shaped their lives.",
+      "rating": 7.0,
+      "first_air_date": "2026-11-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/KnhUSXgKqiG96mf4GofisAhhS2.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/332839",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 279246,
-      "title": "The Remarried Empress",
-      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "rating": 8.8,
-      "first_air_date": "2026-11-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/279246",
+      "id": 318420,
+      "title": "Valentina and the 12 Signs",
+      "overview": "After a devastating breakup, Valentina decides to date one man from every zodiac sign. But the universe has other plans.",
+      "rating": 5.5,
+      "first_air_date": "2026-11-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/318420",
       "providers": [
-        "Disney Plus",
-        "Hulu"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 213375,
-      "title": "VisionQuest",
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "rating": 8.3,
-      "first_air_date": "2026-10-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/213375",
+      "id": 340280,
+      "title": "Gordon",
+      "overview": "Aníbal Gordon rises from a small-time thief to a convicted murderer in Argentina during the '70s.",
+      "rating": 7.3,
+      "first_air_date": "2026-11-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wzY5EjF8X1plKUWHwIRW6eNCqFU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/340280",
       "providers": [
-        "Disney Plus"
-      ]
-    },
-    {
-      "id": 293610,
-      "title": "Doctor X: Mafia in White",
-      "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-      "rating": 8.6,
-      "first_air_date": "2026-10-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/293610",
-      "providers": [
-        "Netflix"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -85,59 +74,65 @@
       ]
     },
     {
-      "id": 85077,
-      "title": "The Chosen",
-      "overview": "The life of Christ through the eyes of those who encountered him.",
-      "rating": 8.9,
-      "first_air_date": "2019-04-21",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/85077",
+      "id": 291507,
+      "title": "The Body",
+      "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
+      "rating": 7.9,
+      "first_air_date": "2026-11-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/291507",
       "providers": [
-        "Amazon Prime Video",
-        "fuboTV",
-        "Pure Flix",
-        "Amazon Prime Video with Ads"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 303745,
-      "title": "Love in Disguise",
-      "overview": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+      "id": 288120,
+      "title": "Vienna Game",
+      "overview": "While Napoleon Bonaparte is exiled on Elba, kings and crown princes, ministers and spies, noblewomen and mistresses, adventurers, inventors, artists, and concubines gather in Vienna to celebrate and negotiate. Here, the fate of Europe is decided on the dance floor and in the boudoir.",
       "rating": 9.0,
-      "first_air_date": "2026-10-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/303745",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 226102,
-      "title": "Crash",
-      "overview": "A drama about Cha Yeon-ho, a reasonable individualist from KAIST, and Min So-hee, a traffic investigation ace with cool judgment and warm sensitivity at the Traffic Crime Investigation (TCI).",
-      "rating": 8.6,
-      "first_air_date": "2024-05-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7PbecqJmo620ngl4X3hW0Ht6WVI.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/226102",
+      "first_air_date": "2026-11-18",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/288120",
       "providers": [
         "Hulu"
       ]
     },
     {
-      "id": 259909,
-      "title": "Dexter: Resurrection",
-      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-      "rating": 8.5,
-      "first_air_date": "2025-07-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/259909",
+      "id": 279246,
+      "title": "The Remarried Empress",
+      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "rating": 8.8,
+      "first_air_date": "2026-11-03",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/279246",
       "providers": [
-        "fuboTV",
-        "Paramount Plus Premium",
-        "Paramount Plus Apple TV channel",
-        "Paramount+ Amazon Channel",
-        "Paramount+ Roku Premium Channel"
+        "Disney Plus",
+        "Hulu"
+      ]
+    },
+    {
+      "id": 213375,
+      "title": "VisionQuest",
+      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "rating": 8.2,
+      "first_air_date": "2026-10-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/213375",
+      "providers": [
+        "Disney Plus"
+      ]
+    },
+    {
+      "id": 293610,
+      "title": "Doctor X: Mafia in White",
+      "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+      "rating": 8.7,
+      "first_air_date": "2026-10-09",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/293610",
+      "providers": [
+        "Netflix"
       ]
     }
   ]
