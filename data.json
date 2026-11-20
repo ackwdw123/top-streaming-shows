@@ -1,60 +1,8 @@
 {
-  "generated_at": "2026-11-19T19:56:02.434364Z",
+  "generated_at": "2026-11-20T19:36:08.399393Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
-    {
-      "id": 84773,
-      "title": "The Lord of the Rings: The Rings of Power",
-      "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-      "rating": 7.2,
-      "first_air_date": "2022-09-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/84773",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
-      "id": 332839,
-      "title": "The Law of Beasts",
-      "overview": "When the case of a child serial killer resurfaces after 25 years as an unresolved legal and social problem, two former friends are forced to confront the choices that broke their friendship and shaped their lives.",
-      "rating": 7.0,
-      "first_air_date": "2026-11-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/KnhUSXgKqiG96mf4GofisAhhS2.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/332839",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 318420,
-      "title": "Valentina and the 12 Signs",
-      "overview": "After a devastating breakup, Valentina decides to date one man from every zodiac sign. But the universe has other plans.",
-      "rating": 5.5,
-      "first_air_date": "2026-11-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/318420",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 340280,
-      "title": "Gordon",
-      "overview": "Aníbal Gordon rises from a small-time thief to a convicted murderer in Argentina during the '70s.",
-      "rating": 7.3,
-      "first_air_date": "2026-11-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wzY5EjF8X1plKUWHwIRW6eNCqFU.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/340280",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
     {
       "id": 247718,
       "title": "MobLand",
@@ -74,10 +22,85 @@
       ]
     },
     {
+      "id": 308007,
+      "title": "The Altruists",
+      "overview": "The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde.",
+      "rating": 6.4,
+      "first_air_date": "2026-11-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/308007",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 103540,
+      "title": "Percy Jackson and the Olympians",
+      "overview": "Percy Jackson is on a dangerous quest. Outrunning monsters and outwitting gods, he must journey across America to return Zeus's master bolt and stop an all-out war. With the help of his friends Annabeth and Grover, Percy's journey will lead him closer to the answers he seeks: how to fit into a world where he feels out of place, and who he's destined to be.",
+      "rating": 7.3,
+      "first_air_date": "2023-12-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zofPiEpwCRYaezOncTlQwXebHFU.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/103540",
+      "providers": [
+        "Netflix",
+        "Disney Plus",
+        "Hulu",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 117488,
+      "title": "Yellowjackets",
+      "overview": "This equal parts survival epic, psychological horror story and coming-of-age drama tells the saga of a team of wildly talented high school girls soccer players who become the (un)lucky survivors of a plane crash deep in the remote northern wilderness. The series chronicles their descent from a complicated but thriving team to savage clans, while also tracking the lives they’ve attempted to piece back together nearly 25 years later.",
+      "rating": 7.4,
+      "first_air_date": "2021-11-14",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/117488",
+      "providers": [
+        "Netflix",
+        "fuboTV",
+        "Paramount Plus Premium",
+        "Paramount Plus Apple TV channel",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 84773,
+      "title": "The Lord of the Rings: The Rings of Power",
+      "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "rating": 7.2,
+      "first_air_date": "2022-09-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/84773",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 259909,
+      "title": "Dexter: Resurrection",
+      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "rating": 8.5,
+      "first_air_date": "2025-07-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/259909",
+      "providers": [
+        "fuboTV",
+        "Paramount Plus Premium",
+        "Paramount Plus Apple TV channel",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel"
+      ]
+    },
+    {
       "id": 291507,
       "title": "The Body",
       "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
-      "rating": 7.9,
+      "rating": 8.0,
       "first_air_date": "2026-11-11",
       "poster_url": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/291507",
@@ -87,28 +110,29 @@
       ]
     },
     {
-      "id": 288120,
-      "title": "Vienna Game",
-      "overview": "While Napoleon Bonaparte is exiled on Elba, kings and crown princes, ministers and spies, noblewomen and mistresses, adventurers, inventors, artists, and concubines gather in Vienna to celebrate and negotiate. Here, the fate of Europe is decided on the dance floor and in the boudoir.",
-      "rating": 9.0,
+      "id": 332839,
+      "title": "The Law of Beasts",
+      "overview": "When the case of a child serial killer resurfaces after 25 years as an unresolved legal and social problem, two former friends are forced to confront the choices that broke their friendship and shaped their lives.",
+      "rating": 7.1,
       "first_air_date": "2026-11-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/288120",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/332839",
       "providers": [
-        "Hulu"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
-      "id": 279246,
-      "title": "The Remarried Empress",
-      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "rating": 8.8,
-      "first_air_date": "2026-11-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/279246",
+      "id": 254630,
+      "title": "12 12 12",
+      "overview": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
+      "rating": 6.1,
+      "first_air_date": "2026-11-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/254630",
       "providers": [
-        "Disney Plus",
-        "Hulu"
+        "Apple TV",
+        "Apple TV Amazon Channel"
       ]
     },
     {
@@ -121,18 +145,6 @@
       "tmdb_url": "https://www.themoviedb.org/tv/213375",
       "providers": [
         "Disney Plus"
-      ]
-    },
-    {
-      "id": 293610,
-      "title": "Doctor X: Mafia in White",
-      "overview": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-      "rating": 8.7,
-      "first_air_date": "2026-10-09",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/293610",
-      "providers": [
-        "Netflix"
       ]
     }
   ]
