@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-20T19:36:08.399393Z",
+  "generated_at": "2026-11-21T18:40:49.313607Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
+    {
+      "id": 300523,
+      "title": "The Blue Road",
+      "overview": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
+      "rating": 6.7,
+      "first_air_date": "2026-11-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/300523",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
     {
       "id": 247718,
       "title": "MobLand",
@@ -19,19 +32,6 @@
         "Paramount+ Amazon Channel",
         "Paramount+ Roku Premium Channel",
         "Spectrum On Demand"
-      ]
-    },
-    {
-      "id": 308007,
-      "title": "The Altruists",
-      "overview": "The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde.",
-      "rating": 6.4,
-      "first_air_date": "2026-11-19",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/308007",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
       ]
     },
     {
@@ -68,19 +68,6 @@
       ]
     },
     {
-      "id": 84773,
-      "title": "The Lord of the Rings: The Rings of Power",
-      "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-      "rating": 7.2,
-      "first_air_date": "2022-09-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/84773",
-      "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
-      ]
-    },
-    {
       "id": 259909,
       "title": "Dexter: Resurrection",
       "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
@@ -97,10 +84,23 @@
       ]
     },
     {
+      "id": 84773,
+      "title": "The Lord of the Rings: The Rings of Power",
+      "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "rating": 7.2,
+      "first_air_date": "2022-09-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/84773",
+      "providers": [
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
+      ]
+    },
+    {
       "id": 291507,
       "title": "The Body",
       "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
-      "rating": 8.0,
+      "rating": 7.9,
       "first_air_date": "2026-11-11",
       "poster_url": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/291507",
@@ -110,29 +110,15 @@
       ]
     },
     {
-      "id": 332839,
-      "title": "The Law of Beasts",
-      "overview": "When the case of a child serial killer resurfaces after 25 years as an unresolved legal and social problem, two former friends are forced to confront the choices that broke their friendship and shaped their lives.",
-      "rating": 7.1,
-      "first_air_date": "2026-11-18",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jnftYgGREN8IN1SgbYRdvHTUkJC.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/332839",
+      "id": 243761,
+      "title": "Good Partner",
+      "overview": "Cha Eun-kyung, a 17-year veteran divorce lawyer, faces a personal crisis when her own marriage is threatened while working alongside rookie lawyer Han Yu-ri, whose differing values lead to tension as they navigate their complex cases at Law Firm Daejung.",
+      "rating": 7.9,
+      "first_air_date": "2024-07-12",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5I9RHQXYhEF0bLP5Waal6iQfnWq.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/243761",
       "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 254630,
-      "title": "12 12 12",
-      "overview": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
-      "rating": 6.1,
-      "first_air_date": "2026-11-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/254630",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Rakuten Viki"
       ]
     },
     {
@@ -145,6 +131,19 @@
       "tmdb_url": "https://www.themoviedb.org/tv/213375",
       "providers": [
         "Disney Plus"
+      ]
+    },
+    {
+      "id": 308007,
+      "title": "The Altruists",
+      "overview": "The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde.",
+      "rating": 6.6,
+      "first_air_date": "2026-11-19",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/308007",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     }
   ]
