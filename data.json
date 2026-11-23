@@ -1,33 +1,8 @@
 {
-  "generated_at": "2026-11-22T19:00:53.955495Z",
+  "generated_at": "2026-11-23T23:22:39.166233Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
-    {
-      "id": 300523,
-      "title": "The Blue Road",
-      "overview": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
-      "rating": 7.6,
-      "first_air_date": "2026-11-20",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/300523",
-      "providers": [
-        "Netflix",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 79481,
-      "title": "Fights Break Sphere",
-      "overview": "In a land where no magic is present. A land where the strong make the rules and weak have to obey. A land filled with alluring treasures and beauty, yet also filled with unforeseen danger. Three years ago, Xiao Yan, who had shown talents none had seen in decades, suddenly lost everything. His powers, his reputation, and his promise to his mother. What sorcery has caused him to lose all of his powers? And why has his fiancee suddenly shown up?",
-      "rating": 8.1,
-      "first_air_date": "2017-01-07",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oyoahIcdamTXwjIaL3CqZ1v5CLl.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/79481",
-      "providers": [
-        "Amazon Video"
-      ]
-    },
     {
       "id": 247718,
       "title": "MobLand",
@@ -47,6 +22,19 @@
       ]
     },
     {
+      "id": 291507,
+      "title": "The Body",
+      "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
+      "rating": 8.0,
+      "first_air_date": "2026-11-11",
+      "poster_url": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/291507",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
       "id": 84773,
       "title": "The Lord of the Rings: The Rings of Power",
       "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
@@ -57,6 +45,19 @@
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
+      ]
+    },
+    {
+      "id": 300523,
+      "title": "The Blue Road",
+      "overview": "Two detectives join forces when brutal murders and cryptic messages surface across borders — but the deadly truth lurks dangerously close.",
+      "rating": 7.8,
+      "first_air_date": "2026-11-20",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/300523",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -71,19 +72,6 @@
         "Netflix",
         "Disney Plus",
         "Hulu",
-        "Netflix Standard with Ads"
-      ]
-    },
-    {
-      "id": 291507,
-      "title": "The Body",
-      "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
-      "rating": 8.0,
-      "first_air_date": "2026-11-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/291507",
-      "providers": [
-        "Netflix",
         "Netflix Standard with Ads"
       ]
     },
@@ -122,15 +110,18 @@
       ]
     },
     {
-      "id": 243761,
-      "title": "Good Partner",
-      "overview": "Cha Eun-kyung, a 17-year veteran divorce lawyer, faces a personal crisis when her own marriage is threatened while working alongside rookie lawyer Han Yu-ri, whose differing values lead to tension as they navigate their complex cases at Law Firm Daejung.",
-      "rating": 8.0,
-      "first_air_date": "2024-07-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/5I9RHQXYhEF0bLP5Waal6iQfnWq.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/243761",
+      "id": 85077,
+      "title": "The Chosen",
+      "overview": "The life of Christ through the eyes of those who encountered him.",
+      "rating": 8.9,
+      "first_air_date": "2019-04-21",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nr0r7YTn1l84KLG1iCSO5ofHTvO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/85077",
       "providers": [
-        "Rakuten Viki"
+        "Amazon Prime Video",
+        "fuboTV",
+        "Pure Flix",
+        "Amazon Prime Video with Ads"
       ]
     },
     {
@@ -143,6 +134,24 @@
       "tmdb_url": "https://www.themoviedb.org/tv/213375",
       "providers": [
         "Disney Plus"
+      ]
+    },
+    {
+      "id": 290856,
+      "title": "Marshals",
+      "overview": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
+      "rating": 8.0,
+      "first_air_date": "2026-03-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/290856",
+      "providers": [
+        "fuboTV",
+        "Paramount Plus Premium",
+        "Paramount Plus Essential",
+        "Paramount Plus Apple TV channel",
+        "Paramount+ Amazon Channel",
+        "YouTube TV",
+        "Paramount+ Roku Premium Channel"
       ]
     }
   ]
