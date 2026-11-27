@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T20:54:27.680405Z",
+  "generated_at": "2026-11-27T20:40:13.343946Z",
   "source": "TMDB",
   "region": "US",
   "shows": [
@@ -7,7 +7,7 @@
       "id": 171802,
       "title": "Blade Runner 2099",
       "overview": "Fifty years after the events of Blade Runner 2049, Los Angeles has been reborn, just not by humanity. Cora, a fugitive in a final bid to stop running, takes on one last identity: a Blade Runner. Forced to partner with Olwen, a Replicant days from dying, she hunts down a runaway hiding a truth that could collapse their fragile city.",
-      "rating": 5.2,
+      "rating": 5.3,
       "first_air_date": "2026-11-24",
       "poster_url": "https://image.tmdb.org/t/p/w500/d8IKBDXQvj3d6clsjqydT4xcw14.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/171802",
@@ -17,16 +17,16 @@
       ]
     },
     {
-      "id": 84773,
-      "title": "The Lord of the Rings: The Rings of Power",
-      "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-      "rating": 7.2,
-      "first_air_date": "2022-09-01",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/84773",
+      "id": 326247,
+      "title": "Fool Night",
+      "overview": "In a sunless future where humans become plants to make oxygen, a desperate young man begins the transformation — and unearths a deep-rooted conspiracy.",
+      "rating": 8.8,
+      "first_air_date": "2026-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7kHLQwQZKbQOZJGx1mIDYIKeBYv.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/326247",
       "providers": [
-        "Amazon Prime Video",
-        "Amazon Prime Video with Ads"
+        "Netflix",
+        "Netflix Standard with Ads"
       ]
     },
     {
@@ -43,38 +43,41 @@
       ]
     },
     {
-      "id": 310209,
-      "title": "Nine to Six",
-      "overview": "Falsely blamed for a car fire, Chronic Motors Senior Manager Kang Yi-ji faces demotion. Can she find love and happiness amid office politics?",
-      "rating": 5.0,
-      "first_air_date": "2026-11-25",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1iVlL2Prt9Q5BWMfeZQ6d1ZAZBy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/310209",
+      "id": 84773,
+      "title": "The Lord of the Rings: The Rings of Power",
+      "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "rating": 7.2,
+      "first_air_date": "2022-09-01",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/84773",
       "providers": [
         "Amazon Prime Video",
         "Amazon Prime Video with Ads"
       ]
     },
     {
-      "id": 279246,
-      "title": "The Remarried Empress",
-      "overview": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "rating": 8.7,
-      "first_air_date": "2026-11-03",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/279246",
+      "id": 259909,
+      "title": "Dexter: Resurrection",
+      "overview": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "rating": 8.5,
+      "first_air_date": "2025-07-13",
+      "poster_url": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/259909",
       "providers": [
-        "Disney Plus",
-        "Hulu"
+        "fuboTV",
+        "Paramount Plus Premium",
+        "Paramount Plus Apple TV channel",
+        "Paramount+ Amazon Channel",
+        "Paramount+ Roku Premium Channel"
       ]
     },
     {
       "id": 218347,
       "title": "Sweetpea",
       "overview": "Rhiannon Lewis doesn't make much of an impression - people walk past her in the street without a second glance. That is until she is pushed over the edge and loses control. Rhiannon's life transforms, but can she keep her killer secret?",
-      "rating": 7.4,
+      "rating": 7.5,
       "first_air_date": "2024-10-10",
-      "poster_url": "https://image.tmdb.org/t/p/w500/feoDYCy0AUD031gLqBmA9gC4pw1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/A4A0juWk4ofqP6Q0TFY6CRhcCAa.jpg",
       "tmdb_url": "https://www.themoviedb.org/tv/218347",
       "providers": [
         "Philo",
@@ -84,13 +87,26 @@
       ]
     },
     {
-      "id": 291507,
-      "title": "The Body",
-      "overview": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
+      "id": 338930,
+      "title": "Always on Call",
+      "overview": "A devoted team of medical professionals navigate personal struggles, political pressure and a risky new hire at an overwhelmed emergency room in Oslo.",
       "rating": 8.1,
-      "first_air_date": "2026-11-11",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/291507",
+      "first_air_date": "2026-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oQUJId55qF6YZ3bhPZ12WP1c5m4.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/338930",
+      "providers": [
+        "Netflix",
+        "Netflix Standard with Ads"
+      ]
+    },
+    {
+      "id": 302837,
+      "title": "Toos: The Van der Valk Kidnapping",
+      "overview": "1982. When the matriarch of a Dutch hotel empire is kidnapped for ransom, her family launches a desperate effort to free her.",
+      "rating": null,
+      "first_air_date": "2026-11-26",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wVMnb4zWFeLGUJF7y6SqNbXSgV6.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/302837",
       "providers": [
         "Netflix",
         "Netflix Standard with Ads"
@@ -115,28 +131,16 @@
       ]
     },
     {
-      "id": 213375,
-      "title": "VisionQuest",
-      "overview": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "rating": 8.2,
-      "first_air_date": "2026-10-13",
-      "poster_url": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/213375",
+      "id": 310209,
+      "title": "Nine to Six",
+      "overview": "Falsely blamed for a car fire, Chronic Motors Senior Manager Kang Yi-ji faces demotion. Can she find love and happiness amid office politics?",
+      "rating": 6.5,
+      "first_air_date": "2026-11-25",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1iVlL2Prt9Q5BWMfeZQ6d1ZAZBy.jpg",
+      "tmdb_url": "https://www.themoviedb.org/tv/310209",
       "providers": [
-        "Disney Plus"
-      ]
-    },
-    {
-      "id": 254630,
-      "title": "12 12 12",
-      "overview": "A heist takes 12 months to plan, 12 hours to execute—and a thief not caught within 12 days won't be caught at all. Across three pulse-pounding timelines, an FBI agent and a career criminal face off in a deadly game of cat and mouse through Europe.",
-      "rating": 6.3,
-      "first_air_date": "2026-11-12",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8q6BvFQuKM1Rud4E9NQDaMGy9EL.jpg",
-      "tmdb_url": "https://www.themoviedb.org/tv/254630",
-      "providers": [
-        "Apple TV",
-        "Apple TV Amazon Channel"
+        "Amazon Prime Video",
+        "Amazon Prime Video with Ads"
       ]
     }
   ]
